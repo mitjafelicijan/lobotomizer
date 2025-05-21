@@ -7,7 +7,8 @@ from World of Warcraft.
 - It comes with a WoW specific corpus and pre-generated vector database out of
   this corpus.
 - It provides HTTP API and Discord Bot integration.
-- You can use local models via Ollama, OpenAI API, Claude API.
+- You can use local models via Ollama or external ones like OpenAI API, Claude
+  API or DeepSeek API.
 - While this is WoW specific, you can easily replace data in `corpus` directory
   with your own and re-run `gen_storage.py` to generate fresh vector database.
 
