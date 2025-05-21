@@ -12,7 +12,14 @@ from World of Warcraft.
 - While this is WoW specific, you can easily replace data in `corpus` directory
   with your own and re-run `gen_storage.py` to generate fresh vector database.
 
-## Installation
+## Requirements
+
+- Python 3.10+
+- Pip 24.0+
+- Lua 5.4+ (only for development)
+- GNU Make 4.4+ (only for development)
+
+## Setting up the environment
 
 ```sh
 git glone git@github.com:mitjafelicijan/lobotomizer.git
@@ -22,6 +29,25 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Data importing
+
+All the final data that is used in indexing by RAF is located in `corpus`
+directory. However this data needs to be first exported from other sources like
+pfQuest and other sources like Wowhead comments.
+
+All scripts that generate corpus data are located in `importer` directory.
+
+- `warcrafttavern.py` - fetches data from Warcraft Tavern and generates
+  markdown files from list of links defined `warcrafttavern.csv`.
+- `quests.lua` - takes pfQuest data and generates markdown files of quests.
+- `quests-comments.py` - takes `comments.csv` and appends all valid comments to
+  quest data. Comment data is provided by web scraper written by
+  [kakexd](https://github.com/kakexd/webscrape).
+
+> [!NOTE]
+> Do not execute this scripts unnecessarily. These should only be ran after new
+> content is being added. Also do not change corpus data.
 
 ## Generating vector database
 
@@ -34,3 +60,10 @@ pip install -r requirements.txt
 source .venv/bin/activate
 python gen_storage.py
 ```
+
+## Corpus data sources
+
+- pfQuest and pfQuest-turtle addon for quests
+- wowhead.com for quest comments
+- warcrafttavern.com for professions, dungeons, general
+- turtle-wow.fandom.com and forum.turtle-wow.org for custom Turtle data
