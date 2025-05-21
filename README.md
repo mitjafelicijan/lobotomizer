@@ -4,12 +4,12 @@ This is a easy to use RAG chatbot named after [The
 Lobotomizer](https://www.wowhead.com/classic/item=19324/the-lobotomizer) dagger
 from World of Warcraft.
 
-It comes with a WoW specific corpus and pre-generated vector database out of
-this corpus.
-
-It provides HTTP API and Discord Bot integration.
-
-You can use local models via Ollama, OpenAI API, Claude API.
+- It comes with a WoW specific corpus and pre-generated vector database out of
+  this corpus.
+- It provides HTTP API and Discord Bot integration.
+- You can use local models via Ollama, OpenAI API, Claude API.
+- While this is WoW specific, you can easily replace data in `corpus` directory
+  with your own and re-run `gen_storage.py` to generate fresh vector database.
 
 ## Installation
 
