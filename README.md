@@ -1,8 +1,22 @@
-# RAG Chatbot for World of Warcraft with Discord integration
+# RAG Chatbot for World of Warcraft
+
+This is a easy to use RAG chatbot named after [The
+Lobotomizer](https://www.wowhead.com/classic/item=19324/the-lobotomizer) dagger
+from World of Warcraft.
+
+It comes with a WoW specific corpus and pre-generated vector database out of
+this corpus.
+
+It provides HTTP API and Discord Bot integration.
+
+You can use local models via Ollama, OpenAI API, Claude API.
 
 ## Installation
 
 ```sh
+git glone git@github.com:mitjafelicijan/lobotomizer.git
+cd lobotomizer
+
 python3 -m venv .venv
 source .venv/bin/activate
 
