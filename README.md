@@ -36,7 +36,7 @@ All the final data that is used in indexing by RAF is located in `corpus`
 directory. However this data needs to be first exported from other sources like
 pfQuest and other sources like Wowhead comments.
 
-All scripts that generate corpus data are located in `importer` directory.
+All scripts that generate corpus data are located in `scrapers` directory.
 
 - `warcrafttavern.py` - fetches data from Warcraft Tavern and generates
   markdown files from list of links defined `warcrafttavern.csv`.
