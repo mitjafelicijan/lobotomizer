@@ -71,18 +71,27 @@ class MyClient(discord.Client):
             # Remove the mention from the message content
             clean_content = message.content.replace(f"<@{self.user.id}>", "").strip()
 
-            # Ask LLM about the user's question.
-            prompt = PROMPTS[config.FALLBACK_SYSTEM_PROMPT]
-            question = f"System Prompt: <query_instructions>{prompt}</query_instructions>\n\nUser Question: <user_query>{clean_content}</user_query>"
-            answer = QUERY_ENGINE.query(question)
-            logging.info("processing query from %s: %s", message.author, message.content)
+            await message.add_reaction("⏳")
 
-            # General reply to the server.
-            # await message.channel.send(answer.response)
+            try:
+                # Ask LLM about the user's question.
+                prompt = PROMPTS[config.FALLBACK_SYSTEM_PROMPT]
+                question = f"System Prompt: <query_instructions>{prompt}</query_instructions>\n\nUser Question: <user_query>{clean_content}</user_query>"
+                answer = QUERY_ENGINE.query(question)
+                logging.info("processing query from %s: %s", message.author, message.content)
 
-            # Replying to that specific message of the person who asked the
-            # question (tagging them as well).
-            await message.reply(answer.response)
+                # General reply to the server.
+                # await message.channel.send(answer.response)
+
+                # Replying to that specific message of the person who asked the
+                # question (tagging them as well).
+                await message.reply(answer.response)
+            except Exception as e:
+                await message.channel.send("❌ Error generating response")
+                logging.error(f"Error processing query: {str(e)}")
+            finally:
+                await message.remove_reaction("⏳", self.user)
+
 
 intents = discord.Intents.default()
 intents.message_content = True
