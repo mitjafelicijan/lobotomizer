@@ -11,7 +11,7 @@ pip install llama-index llama-index-embeddings-huggingface
 
 ## Generating vector database
 
-> ![NOTE]
+> [!NOTE]
 > This repository comes with already generated vector database containing World
 > of Warcraft data. But if you add content to corpus you can rerun this again
 > and it will create new database.
