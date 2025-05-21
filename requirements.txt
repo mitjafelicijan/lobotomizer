@@ -17,3 +17,6 @@ fastapi[standard]
 uvicorn[standard]
 jinja2
 asyncio
+
+# Discord bot.
+discord.py

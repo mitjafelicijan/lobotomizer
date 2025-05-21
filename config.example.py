@@ -10,9 +10,11 @@ PROMPTS_DIR = "prompts"
 # is used as a value for this variable.
 FALLBACK_SYSTEM_PROMPT = "general"
 
+# Discord stuff.
+DISCORD_TOKEN = ""
+
 # HTTP server stuff.
-# IMPORTANT: Change this API Key!!! This is just for example!
-HTTP_API_KEY = "CY75rERBdRneQUXpJmOYmF6228enSqMqHZRD5kRjhFhhUGnBtwfFL8ELgX1jw1Lv"
+HTTP_API_KEY = ""
 HTTP_PORT = 6969
 HTTP_TITLE = "Lobotomizer"
 HTTP_VERSION = "1.0alpha"

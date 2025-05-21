@@ -28,6 +28,9 @@ cd lobotomizer
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+
+make http-api-dev       # if you want to run HTTP API version of it
+make discord-bot-dev    # if you want to run Discord bot version
 ```
 
 ## Running the bot
@@ -36,7 +39,7 @@ pip install -r requirements.txt
 # Make sure your environment is activated.
 source .venv/bin/activate
 
-make server
+make http-api
 ```
 
 Then you can open a browser and test it on http://localhost:6969. If you
