@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Lobotomizer WebUI</title>
+
+		<style>
+			* { box-sizing: border-box; }
+
+			body, textarea {
+				font-size: 14px;
+				font-family: sans-serif;
+			}
+
+			textarea, details {
+				display: block;
+				width: 100%;
+				margin: 1em 0;
+			}
+
+			summary {
+				user-select: none;
+				cursor: pointer;
+			}
+
+			textarea {
+				padding: 0.5em;
+				resize: vertical;
+			}
+
+			#answers {
+				display: flex;
+				flex-direction: column;
+				gap: 1em;
+			}
+
+			.answerContainer {
+				padding: 0 0.5em;
+				border: 1px solid lightgray;
+			}
+		</style>
+	</head>
+	<body>
+		<h3>Lobotomizer WebUI</h3>
+
+		<textarea id="question" rows="5" placeholder="User prompt here..."></textarea>
+
+		<button id="ask">Ask a question</button>
+
+		<details>
+			<summary>Settings &amp; System prompt</summary>
+			<textarea id="apiKey" rows="1" placeholder="Lobotomizer API key..."></textarea>
+			<textarea id="systemPrompt" rows="10" placeholder="System prompt here..."></textarea>
+			<button id="save">Save settings to local storage</button>
+			<button id="prompts">Print prompts to debug console</button>
+		</details>
+
+		<div id="answers"></div>
+
+		<template id="answerTemplate">
+			<div class="answerContainer">
+				<p><b>Answered:</b> <span class="dt"></span></p>
+				<p><b>Question:</b></p>
+				<dd class="question"></dd>
+				<p><b>Answer:</b></p>
+				<dd class="answer"></dd>
+				<p><b>Sources:</b></p>
+				<ul class="sources"></ul>
+			</div>
+		</template>
+
+		<script>
+			function appendToAnswerList(data) {
+				const item = answerTemplate.content.cloneNode(true);
+
+				item.querySelector(".question").textContent = data.question;
+				item.querySelector(".answer").textContent = data.answer.response;
+				item.querySelector(".dt").textContent = new Date(data.generated).toLocaleString("en-US", {
+					year: "numeric", month: "2-digit", day: "2-digit",
+					hour: "2-digit", minute: "2-digit", second: "2-digit",
+				});
+
+				for (const [uuid, meta] of Object.entries(data.answer.metadata)) {
+					if (uuid === '[[Prototype]]') continue;
+					const li = document.createElement("li");
+					li.innerText = meta.file_path;
+					item.querySelector(".sources").appendChild(li);
+				}
+
+				answers.insertBefore(item, answers.firstChild);
+
+				try {
+					const answerItems = JSON.parse(localStorage.getItem("answerItems")) || [];
+					answerItems.push(data);
+					localStorage.setItem("answerItems", JSON.stringify(answerItems));
+				} catch (error) {
+					console.error(error);
+				}
+			}
+
+			window.addEventListener("load", () => {
+				question.value = localStorage.getItem("question");
+				apiKey.value = localStorage.getItem("apiKey");
+				systemPrompt.value = localStorage.getItem("systemPrompt");
+
+				const answerItems = JSON.parse(localStorage.getItem("answerItems")) || [];
+				for (const answer of answerItems) {
+					appendToAnswerList(answer);
+				}
+
+				ask.onclick = async function(evt) {
+					if (apiKey.value.trim().length == 0) {
+						alert("No Lobotomizer API Key found. Refer to settings section below and set one up.");
+						return;
+					}
+
+					localStorage.setItem("question", question.value.trim());
+
+					try {
+						const response = await fetch("/api/query", {
+							method: "POST",
+							headers: {
+								"x-api-key": apiKey.value.trim(),
+								"Content-Type": "application/json",
+							},
+							body: JSON.stringify({
+								question: question.value.trim(),
+								custom_prompt: systemPrompt.value.trim(),
+							}),
+						});
+
+						if (!response.ok) {
+							const errorData = await response.json();
+							throw new Error(`API Error: ${errorData.detail[0].msg || response.statusText}`);
+						}
+
+						const data = await response.json();
+						appendToAnswerList(data);
+					} catch (error) {
+						console.error("Error querying LLM:", error);
+						alert(error);
+						throw error;
+					}
+				}
+
+				save.onclick = async function(evt) {
+					localStorage.setItem("apiKey", apiKey.value.trim());
+					localStorage.setItem("systemPrompt", systemPrompt.value.trim());
+					console.log("saving settings");
+				}
+
+				prompts.onclick = async function(evt) {
+					if (apiKey.value.trim().length == 0) {
+						alert("No Lobotomizer API Key found. Refer to settings section below and set one up.");
+						return;
+					}
+
+					try {
+						const response = await fetch("/api/system-prompts", {
+							method: "GET",
+							headers: {
+								"x-api-key": apiKey.value.trim(),
+								"Content-Type": "application/json",
+							},
+						});
+
+						if (!response.ok) {
+							throw new Error(`HTTP error! status: ${response.status}`);
+						}
+
+						const data = await response.json();
+						console.log(data);
+					} catch (error) {
+						console.error("Error fetching data:", error);
+						alert(error);
+						throw error;
+					}
+				}
+			});
+		</script>
+	</body>
+</html>

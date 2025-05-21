@@ -25,6 +25,7 @@ HTTP_ENABLE_WEBUI = True
 # Uncomment if you want to use local models with Ollama.
 PROVIDER = "local_ollama"
 EMBEDDINGS = "BAAI/bge-small-en"
+OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL = "llama3"
 
 # Uncomment if you want to use OpenAI API.

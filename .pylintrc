@@ -2,4 +2,4 @@
 max-line-length=240
 
 [MESSAGES CONTROL]
-disable=broad-exception-caught, wrong-import-order
+disable=broad-exception-caught, wrong-import-order, no-self-argument

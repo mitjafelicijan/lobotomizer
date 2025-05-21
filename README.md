@@ -30,6 +30,20 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Running the bot
+
+```sh
+# Make sure your environment is activated.
+source .venv/bin/activate
+
+make server
+```
+
+Then you can open a browser and test it on http://localhost:6969. If you
+enabled `HTTP_ENABLE_WEBUI` you can navigate to
+http://localhost:6969/webui.chat.html to get a simple web interface to test the
+bot.
+
 ## Data importing
 
 All the final data that is used in indexing by RAF is located in `corpus`
