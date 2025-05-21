@@ -1,0 +1,7 @@
+# Development dependencies.
+pylint
+
+# Actual dependencies.
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama

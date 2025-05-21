@@ -19,8 +19,7 @@ cd lobotomizer
 
 python3 -m venv .venv
 source .venv/bin/activate
-
-pip install llama-index llama-index-embeddings-huggingface
+pip install -r requirements.txt
 ```
 
 ## Generating vector database
