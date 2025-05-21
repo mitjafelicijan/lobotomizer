@@ -8,7 +8,10 @@ http-api-dev: # Starts development server with reload
 http-api: # Starts production server with max workers
 	uvicorn http_api:app --port 6969 --workers $(shell nproc)
 
-discord-bot-dev: # Starts a Discord bot
+discord-bot-dev: # Starts development version of Discord bot
+	python discord_bot.py
+
+discord-bot: # Starts production version of Discord bot
 	python discord_bot.py
 
 index: # Creates vertor database storage

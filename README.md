@@ -12,6 +12,12 @@ from World of Warcraft.
 - While this is WoW specific, you can easily replace data in `corpus` directory
   with your own and re-run `gen_storage.py` to generate fresh vector database.
 
+> [!IMPORTANT]
+> You can run either HTTP API and/or Discord bot. You do not need to run both
+> for the Discord bot to work. They are just two ways of using this RAG system.
+> If you just want to use this with Discord you do not need touch HTTP API
+> section of this repo.
+
 ## Requirements
 
 - Python 3.10+
@@ -29,11 +35,14 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-make http-api-dev       # if you want to run HTTP API version of it
-make discord-bot-dev    # if you want to run Discord bot version
+# Very important!
+cp config.example.py config.py
+
+make http-api-dev       # If you want to run HTTP API version of it.
+make discord-bot-dev    # If you want to run Discord bot version.
 ```
 
-## Running the bot
+## Running HTTP API
 
 ```sh
 # Make sure your environment is activated.
@@ -46,6 +55,21 @@ Then you can open a browser and test it on http://localhost:6969. If you
 enabled `HTTP_ENABLE_WEBUI` you can navigate to
 http://localhost:6969/webui.chat.html to get a simple web interface to test the
 bot.
+
+## Running Discord bot
+
+Before you run the bot you will need to create a Discord Bot Account. Follow
+this page (Creating a Bot
+Account)[https://discordpy.readthedocs.io/en/stable/discord.html]. This will
+guide you through the process. And after that is done and you obtain `token
+key` make sure you update variable `DISCORD_TOKEN` in `config.py` file with the
+token you got.
+
+After that you can run the Discord bot with `make discord-bot`.
+
+> [!IMPORTANT]
+> Bot will reply only when tagged in a message. This prevents bot for replying
+> to all the messages in the channels and basically spamming.
 
 ## Data importing
 
@@ -84,3 +108,8 @@ python gen_storage.py
 - wowhead.com for quest comments
 - warcrafttavern.com for professions, dungeons, general
 - turtle-wow.fandom.com and forum.turtle-wow.org for custom Turtle data
+
+## Reading material
+
+- https://discord.com/privacy/
+- https://support-dev.discord.com/hc/en-us/articles/8563934450327-Discord-Developer-Policy
