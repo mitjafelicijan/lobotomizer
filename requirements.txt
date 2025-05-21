@@ -11,3 +11,9 @@ markdownify
 llama-index
 llama-index-embeddings-huggingface
 llama-index-llms-ollama
+
+# HTTP stuff.
+fastapi[standard]
+uvicorn[standard]
+jinja2
+asyncio
