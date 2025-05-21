@@ -61,7 +61,7 @@ if not EMBED_MODEL or not LOCAL_INDEX or not QUERY_ENGINE:
 
 class MyClient(discord.Client):
     async def on_ready(self):
-        logging.info("logged on as %s", self.user)
+        logging.info("logged on as %s (ID: %s)", self.user.name, self.user.id)
 
     async def on_message(self, message):
         if message.author == self.user:
@@ -71,10 +71,11 @@ class MyClient(discord.Client):
             # Remove the mention from the message content
             clean_content = message.content.replace(f"<@{self.user.id}>", "").strip()
 
+            # Ask LLM about the user's question.
             prompt = PROMPTS[config.FALLBACK_SYSTEM_PROMPT]
             question = f"System Prompt: <query_instructions>{prompt}</query_instructions>\n\nUser Question: <user_query>{clean_content}</user_query>"
             answer = QUERY_ENGINE.query(question)
-            logging.log("message from %s: %s", message.author, message.content)
+            logging.info("processing query from %s: %s", message.author, message.content)
             await message.channel.send(answer.response)
 
 intents = discord.Intents.default()
