@@ -75,19 +75,21 @@ After that you can run the Discord bot with `make discord-bot`.
 > Bot will reply only when tagged in a message. This prevents bot for replying
 > to all the messages in the channels and basically spamming.
 
-## Data importing
+## Data tools
 
 All the final data that is used in indexing by RAF is located in `corpus`
 directory. However this data needs to be first exported from other sources like
 pfQuest and other sources like Wowhead comments.
 
-All scripts that generate corpus data are located in `scrapers` directory.
+Type command `make` from the root of the repository to see all the options.
 
-- `warcrafttavern.py` - fetches data from Warcraft Tavern and generates
+All scripts that generate corpus data are located in `tools` directory.
+
+- `wct-pages.py` - fetches data from Warcraft Tavern and generates
   markdown files from list of links defined `warcrafttavern.csv`.
-- `quests.lua` - takes pfQuest data and generates markdown files of quests.
-- `quests-comments.py` - takes `comments.csv` and appends all valid comments to
-  quest data. Comment data is provided by web scraper written by
+- `extract-quests.lua` - takes pfQuest data and generates markdown files of quests.
+- `quests-comments.py` - takes `wowhead-quest-comments` and appends all valid
+  comments to quest data. Comment data is provided by web scraper written by
   [kakexd](https://github.com/kakexd/webscrape).
 
 > [!NOTE]
