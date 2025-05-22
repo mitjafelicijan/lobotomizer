@@ -1,0 +1,15 @@
+[Unit]
+Description=Lobotomizer Discord Bot
+After=network.target
+
+[Service]
+User=lobotomizer
+Group=lobotomizer
+WorkingDirectory=/home/lobotomizer/lobotomizer
+Environment="PATH=/home/lobotomizer/lobotomizer/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+ExecStart=/home/lobotomizer/lobotomizer/.venv/bin/python discord_bot.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

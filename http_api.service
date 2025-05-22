@@ -1,0 +1,15 @@
+[Unit]
+Description=Lobotomizer REST API
+After=network.target
+
+[Service]
+User=lobotomizer
+Group=lobotomizer
+WorkingDirectory=/home/lobotomizer/lobotomizer
+Environment="PATH=/home/lobotomizer/lobotomizer/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+ExecStart=/home/lobotomizer/lobotomizer/.venv/bin/uvicorn http_api:app --port 6969 --workers $(nproc)
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
