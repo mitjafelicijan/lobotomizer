@@ -34,7 +34,7 @@ EMBEDDINGS_MODEL = "text-embedding-3-small"
 
 # Below are available provider. ONLY one can be used at the time!
 # Provider options: ollama, openai, deepseek, anthropic
-PROVIDER = "openai"
+LLM_PROVIDER = "openai"
 
 OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL = "llama3"

@@ -58,10 +58,10 @@ def get_query_engine() -> typing.Optional[BaseQueryEngine]:
     storage_context = StorageContext.from_defaults(persist_dir=config.STORAGE_DIR)
     local_index = load_index_from_storage(storage_context, embed_model=embed_model)
 
-    logging.info("loading index using '%s' provider", config.PROVIDER)
+    logging.info("loading index using '%s' provider", config.LLM_PROVIDER)
 
     # Handle query engine.
-    match config.PROVIDER:
+    match config.LLM_PROVIDER:
         case "ollama":
             query_engine = local_index.as_query_engine(
                 streaming = False,
@@ -91,7 +91,7 @@ def get_query_engine() -> typing.Optional[BaseQueryEngine]:
                         api_key = config.ANTHROIPIC_API_KEY,
                         request_timeout = 60.0))
         case _:
-            logging.error("provide %s doesn't have a handler", config.PROVIDER)
+            logging.error("provide %s doesn't have a handler", config.LLM_PROVIDER)
             sys.exit(1)
 
     if not embed_model or not local_index or not query_engine:
