@@ -120,6 +120,10 @@ python gen_storage.py
 
 This should work on most GNU/Linux distributions. I have tested it on Debian 12.
 
+> [!TIP]
+> Only enable and start the service you want (so either REST API or Discord).
+> Maybe you need both. But both are not required. Depends on your use-case.
+
 1. Setup a virtual machine.
 2. Create a user with username `lobotomize`.
 3. Clone this repository to home directory `/home/lobotomize/` so it ends up
