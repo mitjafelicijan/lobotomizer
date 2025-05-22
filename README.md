@@ -29,7 +29,7 @@ from World of Warcraft.
 - GNU Make 4.4+ (only for development)
 - Git Large File Storage (LFS)
 
-## Setting up the environment
+## Setting up the local environment
 
 ```sh
 # Enable large file support.
@@ -47,6 +47,22 @@ cp config.example.py config.py
 
 make http-api-dev       # If you want to run HTTP API version of it.
 make discord-bot-dev    # If you want to run Discord bot version.
+```
+
+After that is done I suggest checking make targets.
+
+```sh
+$ make
+
+Targets:
+  http-api-dev          Starts development server with reload
+  http-api              Starts production server with max workers
+  discord-bot-dev       Starts development version of Discord bot
+  discord-bot           Starts production version of Discord bot
+  storage               Creates vertor database storage from corpus
+  lights-hope-db        Starts MySQL database and imports Vanilla WoW data into it
+  extract-quests        Extracts quest information from pfQuest and that to corpus
+  fetch-wct-pages       Fetches specific pages from WCT and adds them to corpus
 ```
 
 ## Running HTTP API
