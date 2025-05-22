@@ -66,8 +66,8 @@ bot.
 ## Running Discord bot
 
 Before you run the bot you will need to create a Discord Bot Account. Follow
-this page (Creating a Bot
-Account)[https://discordpy.readthedocs.io/en/stable/discord.html]. This will
+this page [Creating a Bot
+Account](https://discordpy.readthedocs.io/en/stable/discord.html). This will
 guide you through the process. And after that is done and you obtain `token
 key` make sure you update variable `DISCORD_TOKEN` in `config.py` file with the
 token you got.
