@@ -116,6 +116,35 @@ source .venv/bin/activate
 python gen_storage.py
 ```
 
+## Deploying to server
+
+This should work on most GNU/Linux distributions. I have tested it on Debian 12.
+
+1. Setup a virtual machine.
+2. Create a user with username `lobotomize`.
+3. Clone this repository to home directory `/home/lobotomize/` so it ends up
+   being `/home/lobotomize/lobotomize/`.
+   - `git clone https://github.com/mitjafelicijan/lobotomizer /home/lobotomize/lobotomize`
+4. Navigate to repository folder with `cd /home/lobotomize/lobotomize`
+5. Make a copy of sample config file `cp config.example.py config.py`
+6. Copy systemd service files:
+    - `sudo cp *.service /etc/systemd/system/`
+7. Enable services and reload systemd:
+    - `sudo systemctl daemon-reload`
+    - `sudo systemctl enable http_api.service`
+    - `sudo systemctl enable discord_bot.service`
+    - `sudo systemctl start http_api.service`
+    - `sudo systemctl start discord_bot.service`
+    - `sudo systemctl status http_api.service`
+    - `sudo systemctl status discord_bot.service`
+8. Check logs with:
+    - `journalctl -u http_api -f`
+    - `journalctl -u discord_bot -f`
+
+> [!NOTE]
+> Additionally to that you can use Nginx to setup a reverse proxy and add TLS
+> with Letsencrypt.
+
 ## Corpus data sources
 
 - pfQuest and pfQuest-turtle addon for quests
