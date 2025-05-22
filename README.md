@@ -24,10 +24,14 @@ from World of Warcraft.
 - Pip 24.0+
 - Lua 5.4+ (only for development)
 - GNU Make 4.4+ (only for development)
+- Git Large File Storage (LFS)
 
 ## Setting up the environment
 
 ```sh
+# Enable large file support.
+git lfs install
+
 git glone git@github.com:mitjafelicijan/lobotomizer.git
 cd lobotomizer
 
@@ -93,6 +97,7 @@ All scripts that generate corpus data are located in `scrapers` directory.
 Information about embeddings:
 
 - https://platform.openai.com/docs/guides/embeddings
+- https://www.analyticsvidhya.com/blog/2025/03/embedding-for-rag-models/
 
 ## Generating vector database
 
