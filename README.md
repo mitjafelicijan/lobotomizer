@@ -90,6 +90,10 @@ All scripts that generate corpus data are located in `scrapers` directory.
 > Do not execute this scripts unnecessarily. These should only be ran after new
 > content is being added. Also do not change corpus data.
 
+Information about embeddings:
+
+- https://platform.openai.com/docs/guides/embeddings
+
 ## Generating vector database
 
 > [!NOTE]

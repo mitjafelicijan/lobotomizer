@@ -21,23 +21,29 @@ HTTP_VERSION = "1.0alpha"
 HTTP_DESCRIPTION = "WoW Chatbot"
 HTTP_ENABLE_WEBUI = True
 
-# Below are available provider. ONLY one can be used at the time!
-# Uncomment which one you need and comment out the rest of them.
+# Which model should be used for creating embeddings.
+# Note: Use remote ones if you don't have a good GPU on your machine.
+#  PROVIDER   MODEL                             COMMENT
+#  local      BAAI/bge-small-en                 small and relatively ok
+#  local      intfloat/e5-mistral-7b-instruct   excellent but GPU intensive
+#  local      NovaSearch/stella_en_1.5B_v5      excellent but GPU intensive
+#  openai     text-embedding-3-small
+#  openai     text-embedding-3-large
+EMBEDDINGS_PROVIDER = "openai"
+EMBEDDINGS_MODEL = "text-embedding-3-small"
 
-# Uncomment if you want to use local models with Ollama.
-PROVIDER = "local_ollama"
-EMBEDDINGS = "BAAI/bge-small-en"
+# Below are available provider. ONLY one can be used at the time!
+# Provider options: ollama, openai, deepseek, anthropic
+PROVIDER = "openai"
+
 OLLAMA_BASE_URL = "http://localhost:11434"
 OLLAMA_MODEL = "llama3"
 
-# Uncomment if you want to use OpenAI API.
-# PROVIDER = "openai"
-# API_KEY = ""
+OPENAI_API_KEY = ""
+OPENAI_MODEL = "gpt-4o-mini"
 
-# Uncomment if you want to use DeepSeek API.
-# PROVIDER = "deepseek"
-# API_KEY = ""
+DEEPSEEK_API_KEY = ""
+DEEPSEEK_MODEL = "deepseek-chat"
 
-# Uncomment if you want to use Claude API.
-# PROVIDER = "claude"
-# API_KEY = ""
+ANTHROIPIC_API_KEY = ""
+ANTHROIPIC_MODEL = "claude-3-7-sonnet-latest"

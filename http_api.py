@@ -1,9 +1,9 @@
 """ Testing area. """
 
-import os
 import sys
 import logging
 import config
+import llm_provider
 
 from fastapi import FastAPI, Depends, HTTPException
 from fastapi.security import APIKeyHeader
@@ -14,48 +14,10 @@ from datetime import datetime
 
 logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
 
-from llama_index.llms.ollama import Ollama
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+QUERY_ENGINE = llm_provider.get_query_engine()
+PROMPTS = llm_provider.get_prompts()
 
-from llama_index.core import(
-    StorageContext,
-    load_index_from_storage,
-)
-
-EMBED_MODEL = None
-LOCAL_INDEX = None
-QUERY_ENGINE = None
-PROMPTS = {}
-
-# Loading all the prompts.
-
-for filename in os.listdir(config.PROMPTS_DIR):
-    if filename.endswith(".txt"):
-        file_path = os.path.join(config.PROMPTS_DIR, filename)
-        with open(file_path, "r", encoding="utf-8") as file:
-            logging.info("loading system prompt from %s", filename)
-            name, _ = os.path.splitext(filename)
-            PROMPTS[name] = file.read()
-
-# Load vector database from storage.
-storage_context = StorageContext.from_defaults(persist_dir=config.STORAGE_DIR)
-
-# Handle query engine.
-match config.PROVIDER:
-    case "local_ollama":
-        logging.info("loading index using '%s' provider", config.PROVIDER)
-        EMBED_MODEL = HuggingFaceEmbedding(model_name=config.EMBEDDINGS)
-        LOCAL_INDEX = load_index_from_storage(storage_context, embed_model=EMBED_MODEL)
-        QUERY_ENGINE = LOCAL_INDEX.as_query_engine(llm=Ollama(
-            model = config.OLLAMA_MODEL,
-            base_url = config.OLLAMA_BASE_URL,
-            request_timeout = 60.0
-        ))
-    case _:
-        logging.error("provide %s doesn't have a handler", config.PROVIDER)
-        sys.exit(1)
-
-if not EMBED_MODEL or not LOCAL_INDEX or not QUERY_ENGINE:
+if not QUERY_ENGINE:
     logging.error("starting query engine failed")
     sys.exit(1)
 

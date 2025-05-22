@@ -11,6 +11,9 @@ markdownify
 llama-index
 llama-index-embeddings-huggingface
 llama-index-llms-ollama
+llama-index-llms-openai
+llama-index-llms-deepseek
+llama-index-llms-anthropic
 
 # HTTP stuff.
 fastapi[standard]

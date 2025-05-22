@@ -7,6 +7,7 @@ local function exportToFiles(list, data)
 			local file = io.open("../corpus/quests/" .. tostring(questID) .. ".md", "w")
 			if file then
 				file:write("Quest ID: " .. tostring(questID) .. "\n")
+				file:write("Web page URL: https://database.turtle-wow.org/?quest=" .. tostring(questID) .. "\n")
 				file:write("Level: " .. tostring(questInfo["lvl"]) .. "\n")
 				file:write("Min Level: " .. tostring(questInfo["min"]) .. "\n")
 				file:write("Race: " .. tostring(questInfo["race"]) .. "\n")
