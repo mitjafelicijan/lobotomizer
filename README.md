@@ -10,7 +10,7 @@ from World of Warcraft.
 - You can use local models via Ollama or external ones like OpenAI, Claude or
   DeepSeek.
 - While this is WoW specific, you can easily replace data in `corpus` directory
-  with your own and re-run `gen_storage.py` to generate fresh vector database.
+  with your own and re-run `make storage` to generate fresh vector database.
 
 > [!IMPORTANT]
 > You can run either HTTP API and/or Discord bot. You do not need to run both
