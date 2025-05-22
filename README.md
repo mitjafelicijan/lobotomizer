@@ -1,5 +1,8 @@
 # RAG Chatbot for World of Warcraft
 
+> [!IMPORTANT]
+> This readme still needs work and incomplete.
+
 This is a easy to use RAG chatbot named after [The
 Lobotomizer](https://www.wowhead.com/classic/item=19324/the-lobotomizer) dagger
 from World of Warcraft.
