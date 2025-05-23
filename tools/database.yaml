@@ -6,7 +6,7 @@ services:
       MYSQL_ALLOW_EMPTY_PASSWORD: yes
       MYSQL_DATABASE: vanilla
     volumes:
-      - ./lights-hope/world_full_12_november_2020.sql:/docker-entrypoint-initdb.d/world_full_12_november_2020.sql
+      - ./lights_hope/world_full_12_november_2020.sql:/docker-entrypoint-initdb.d/world_full_12_november_2020.sql
     ports:
       - 3306:3306
 

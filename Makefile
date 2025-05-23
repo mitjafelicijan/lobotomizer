@@ -23,13 +23,16 @@ storage: # Creates vertor database storage from corpus
 # Data importers
 
 lights-hope-extract:
-	cd tools/lights-hope && gunzip -k -f world_full_12_november_2020.sql.gz
+	cd tools/lights_hope && gunzip -k -f world_full_12_november_2020.sql.gz
 
 lights-hope-db: lights-hope-extract # Starts MySQL database and imports Vanilla WoW data into it
 	cd tools/ && docker compose -f database.yaml up
 
-extract-quests: # Extracts quest information from pfQuest and that to corpus
-	cd tools/ && lua extract-quests.lua
+extract-quests: # Extracts quest information from pfQuest and add that to corpus
+	cd tools/ && lua extract_quests.lua
+
+extract-comments: # Extracts comments from wowhead scrapes and add that to corpus
+	cd tools/ && python wowhead_quest_comments.py
 
 fetch-wct-pages: # Fetches specific pages from WCT and adds them to corpus
-	cd tools/ && python wct-pages.py
+	cd tools/ && python wct_pages.py
