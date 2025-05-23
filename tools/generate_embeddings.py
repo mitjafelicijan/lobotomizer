@@ -1,4 +1,4 @@
-""" Creates embeddings database for double-tapping. """
+""" Creates embeddings database for double-tapping by using knowledge distillation model. """
 
 import os
 import sys
@@ -107,7 +107,7 @@ def index_corpus():
             logging.error(f"Error processing {file_path}: {str(e)}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser("Tool for creating and querying embeddings database.")
+    parser = argparse.ArgumentParser("Tool for creating and querying embeddings database by using knowledge distillation.")
     parser.add_argument("-i", "--index", help="created index database with embeddings", action="store_true")
     parser.add_argument("-s", "--search", help="performs search over the database", type=str, metavar="QUERY")
     parser.add_argument("-n", "--num-results", help="number of results to return (default: 1)", type=int, default=1)
