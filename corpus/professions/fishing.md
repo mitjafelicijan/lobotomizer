@@ -1,12 +1,9 @@
 # WoW Classic Fishing Guide 1-300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: December 1, 2018
 * Updated: January 12, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -46,39 +43,29 @@ Note that it’s advisable to level your Cooking alongside your Fishing skill. W
 
 [Fishing Overview](https://www.warcrafttavern.com/wow-classic/guides/fishing/)
 
-
-
 [![profession book icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Profession-Book-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-1-300/)
 
 [Fishing Leveling](https://www.warcrafttavern.com/wow-classic/guides/fishing-1-300/)
-
 
 [![fishing pole icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Fishing-Pole-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-equipment/)
 
 [Fishing Equipment](https://www.warcrafttavern.com/wow-classic/guides/fishing-equipment/)
 
-
 [![speckled tastyfish icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Speckled-Tastyfish-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/stranglethorn-vale-fishing-extravaganza/)
 
 [Fishing Tournament](https://www.warcrafttavern.com/wow-classic/guides/stranglethorn-vale-fishing-extravaganza/)
-
-
 
 [![winter squid icon](https://www.warcrafttavern.com/wp-content/uploads/2022/10/Winter-Squid-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-loot-list/)
 
 [Fish & Loot](https://www.warcrafttavern.com/wow-classic/guides/fishing-loot-list/)
 
-
 [![essence of water icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Essence-of-Water-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-pools/)
 
 [Fishing Pools](https://www.warcrafttavern.com/wow-classic/guides/fishing-pools/)
 
-
 [![deviate fish icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Deviate-Fish-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/deviate-fish/)
 
 [Deviate Fish](https://www.warcrafttavern.com/wow-classic/guides/deviate-fish/)
-
-
 
 Starting Your Fishing Journey
 -----------------------------
@@ -281,6 +268,7 @@ Next, you’ll need to reach **Booty Bay** at the southern end of **Stranglethor
 Now take the boat from Booty Bay to **Ratchet** in **The Barrens** to make your way to Kalimdor. There you should find the fishing vendor, [Zizzek](https://wowclassicdb.com/npc/3572). Purchase [Aquadynamic Fish Attractors](https://wowclassicdb.com/npc/2626) if available, and a stack of [Bright Baubles](https://warcraftdb.com/classic/item/6532).
 
 [![Wow Classic Fishing Alliance Westfall](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Alliance-Westfall.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Alliance-Westfall.jpg)
+
 #### Expert Fishing (125-225)
 
 Unfortunately for the Alliance, you **cannot** acquire [Nat Pagle’s Extreme Angler FC-5000](https://warcraftdb.com/classic/item/19022) because it is a reward from a Horde-only quest. You’ll need to go to **Desolace** instead. This will require a long run taking you north to **Ashenvale**, then east to **Stonetalon Mountains**, and finally south to **Desolace**.
@@ -290,6 +278,7 @@ Go near **Shadowprey Village** in the southwest of the zone and swim into the wa
 With your shiny new fishing pole in hand, head back north to **Ashenvale** and fish here until you reach 205 skill in Fishing. Now return to **The Barrens** and take the road leading out southeast of the zone to access **Dustwallow Marsh**. Fish in the inland waters (not the ocean) here until you reach 225 skill in Fishing. Remember to use your Bright Baubles.
 
 [![Wow Classic Fishing Alliance Ashenvale](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Alliance-Ashenvale.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Alliance-Ashenvale.jpg)
+
 #### Artisan Fishing (225-300)
 
 With 225 Fishing skill, locate [Nat Pagle](https://wowclassicdb.com/npc/12919), who can be found on a small island southwest of **Theramore Isle**. Accept his quest: [Nat Pagle, Angler Extreme](https://wowclassicdb.com/quest/6607). Head to all 4 of the required zones and collect the special fish you need there. You will only be able to catch these special fish if you are standing in the correct location while fishing – your minimap should say the name that is shown in bold below. It shouldn’t take too many casts to catch each fish, so if you find you haven’t succeeded after several casts, check your location.
@@ -304,6 +293,7 @@ Once finished, head back to Nat with all 4 fish and learn Artisan Fishing as a r
 Before leaving, continue fishing next to Nat until you reach 226 in fishing. Now you have the option of either staying here for quicker leveling (because no fish will get away) or you can head to **Feralas**/**Tanaris** for better fish (but slower leveling) and fish all the way to 300! You can also fish in any of the other zones listed in the 205-300 range earlier in this guide, but you will have more casts wasted by fish escaping. Don’t forget to use any lures you have!
 
 [![Wow Classic Fishing Alliance Nat Pagle](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Alliance-Nat-Pagle.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Alliance-Nat-Pagle.jpg)
+
 ### Horde Guide 1-300
 
 Assuming you have the right Fishing level, you can fish in just about every zone in the game. There are multiple good areas to raise your fishing skill up to 300, but we’ll include some recommended zones to make life easier. Alternatively, there is a list of all zones and their Fishing requirement mentioned earlier in the guide if you want some variety.
@@ -323,6 +313,7 @@ Save any [Deviate Fish](https://warcraftdb.com/classic/item/6522) you catch to s
 Purchase [Expert Fishing – The Bass and You](https://warcraftdb.com/classic/item/16083) from Old Man Heming for a gold. Use this book to learn the Expert Fishing skill. Head back to **Booty Bay** and find the fishing vendor, [Zizzek](https://wowclassicdb.com/npc/3572). Purchase [Aquadynamic Fish Attractors](https://wowclassicdb.com/npc/2626) if available, and a stack of [Bright Baubles](https://warcraftdb.com/classic/item/6532).
 
 [![Wow Classic Fishing Horde Wailing Caverns](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Horde-Wailing-Caverns.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Horde-Wailing-Caverns.jpg)
+
 #### Expert Fishing (125-225)
 
 Before you even start fishing, you should focus on getting a better pole. If you’re level 44 or higher, you should head to **Revantusk Village** in **The Hinterlands** to complete the quest [Snapjaws, Mon!](https://wowclassicdb.com/quest/7815) This will reward you with [Nat Pagle’s Extreme Angler FC-5000](https://warcraftdb.com/classic/item/19022), one of the best fishing poles in the game.
@@ -336,6 +327,7 @@ Regardless of where you went first, your best option now is to go to **Ashenvale
 With at least 205 Fishing, you should head to **Dustwallow Marsh**, found southeast of **The Barrens**. You’ll need to talk to an NPC in the zone later, so this will save you some time if you fish here now. Starting fishing in the inland waters (not the ocean) with your new pole and Bright Baubles until you cap out at 225 fishing.
 
 [![Wow Classic Fishing Horde Ashenvale](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Horde-Ashenvale.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Fishing-Horde-Ashenvale.jpg)
+
 #### Artisan Fishing (225-300)
 
 Once you have 225 Fishing skill, you’ll need to talk to [Nat Pagle](https://wowclassicdb.com/npc/12919) found southwest of **Theramore Isle**. Pick up the quest: [Nat Pagle, Angler Extreme](https://wowclassicdb.com/quest/6607). Head to all 4 of the required zones and collect the special fish you need there. You will only be able to catch these special fish if you are standing in the correct location while fishing – your minimap should say the name that is shown in bold below. It shouldn’t take too many casts to catch each fish, so if you find you haven’t succeeded after several casts, check your location.
@@ -358,6 +350,3 @@ Before you leave, fish next to Nat until you skill up to 226. Now you should kee
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

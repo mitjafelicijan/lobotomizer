@@ -1,12 +1,9 @@
 # Nightfall’s WoW Classic Horde Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: August 22, 2019
 * Updated: September 15, 2022
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -80,7 +77,7 @@
     4. [Level 59](#ftoc-level-59)
     5. [Level 60](#ftoc-level-60)
 
-Hello and welcome to our 1-60 horde leveling guide for WoW Classic! There are multiple ways to level up in Azeroth, but this guide will make things simple for you. The quests and grinding sessions included are sequenced to get you to level 60 as fast as possible! 
+Hello and welcome to our 1-60 horde leveling guide for WoW Classic! There are multiple ways to level up in Azeroth, but this guide will make things simple for you. The quests and grinding sessions included are sequenced to get you to level 60 as fast as possible!
 
 This guide does use a combination of questing, grinding, and a few dungeons (skippable). It will still take you multiple days of in-game played time to finish, but you’ll get there in due time if you carefully follow each step below. Without further ado, let’s get to leveling!
 
@@ -203,7 +200,6 @@ Our guide begins in The Valley of Trials, Durotar. Both orc and troll characters
 #### Level 10
 
 1. Do your class quest now! Go to the west gate of Razor Hill when you are done and accept the quest: [Conscript of the Horde](https://wowclassicdb.com/quest/840).  
-   
    If you are playing a Tauren or Undead character, these class quests will not be available to you.  It is advised that you complete your class quests in your own starting zone before getting to the Valley of Trials, or simply skip the level 1-12 section of this guide.
 2. Run out of Razor Hill’s North gate toward Orgrimmar. Once there, go to the Valley of Wisdom and pick up the quest [Hidden Enemies](https://wowclassicdb.com/quest/5726). Turn in The Admiral’s Orders as well.
 3. Leave Orgrimmar to return to Durotar. Run southeast to the harpies and sacks from earlier. Run south this time until you find a cave.
@@ -313,14 +309,12 @@ Level 13-24
 6. If you’re an orc, troll, or undead character then skip this step. Tauren characters will need to pick up the flight path for Orgrimmar. To do this, run east until you hit a river and then run north until you find a bridge. Cross the bridge and enter the gate to enter Orgrimmar. Ask a guard for help locating the flight master. Pick up the flight path, then return to Sludge Fen by exiting Orgrimmar the way you came, running south for a few minutes, then running directly west to reach Sludge Fen.
 7. Now go west to return to Mor’shan Rampart. Turn in Nugget Slugs. Accept the next quest: [Rilli Greasygob](https://wowclassicdb.com/quest/3923). Run a little further north into the ramparts and turn in Report to Kadrak. Accept the follow up quest: [T](https://wowclassicdb.com/quest/6543)[he Warsong Reports](https://wowclassicdb.com/quest/6543).
 8. Next you’ll take a lengthy detour into Ashenvale to complete the quest you just picked up, primarily for the flightpaths you’ll pick up along the way. Follow the road north until it splits into two. Head along the Eastern route until you reach Splintertree Post.  
-   
    [![Wow Classic Horde Leveling Guide 17 Ashenvale](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-17-Ashenvale.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-17-Ashenvale.jpg)
 9. You can find a guard to give your first warsong report to in the middle of a tower just outside the gates. Head into the outpost and learn the flightpath. Once you finish up, follow the road leading north until you reach Satyrnaar. There is another guard to give a warsong report to here, patrolling the road outside.
 10. Follow the road leading back to Splintertree Post. After you get there, take the road that leads back to a two-way split and this time head west across Ashenvale. Zoram’gar Outpost is on the opposite side of the zone and can basically be reached by following the road. However, an alliance city, Astranaar, is in the middle of the road so make sure to stay clear of it.
 11. Keep following the road west through Astranaar until it begins to curve north. Start running along the road north until you get to Maestra’s Post. From here run just a bit further north until you find a path leading to the west. At this point you can run straight west, avoiding the mountain, leading you straight to Zoram’gar Outpost.
 12. Give your last warsong report to the guard in the outpost. Pick up the flightpath for the area and take a flight back to The Crossroads. Now is an excellent time to sell, repair, and restock.
 13. Head out the west gate of The Crossroads and keep running until you get close to Stonetalon Mountains. Right before crossing zones, you’ll notice a quest giver on the side of the road. Accept the quest: [Avenge My Village](https://wowclassicdb.com/quest/6548).  
-    
     [![Wow Classic Horde Leveling Guide 17 Stonetalon Mountains](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-17-Stonetalon-Mountains.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-17-Stonetalon-Mountains.jpg)
 14. Go northwest from here until you find Camp Aparaje. Kill tauren around the village until your quest is complete. Return to the southeast to turn in Avenge My Village. Accept the follow up quest: [Kill Grundig Darkcloud](https://wowclassicdb.com/quest/6629).
 15. From here, take the road leading west into Stonetalon Mountains until you come across a road to your right. Follow the road there and enter the tauren encampment. Within the settlement is a tent with [Grundig Darkcloud](https://wowclassicdb.com/npc/11858) standing outside.
@@ -713,14 +707,11 @@ Level 36-43
 9. Head east back to Faldir’s Cove. Turn in Drowned Sorrows, Sunken Treasure, and Deep Sea Salvage. Accept the follow up quest: another [Sunken Treasure](https://wowclassicdb.com/quest/668).
 10. Immediately turn in Sunken Treasure. Accept the next quest: the next step in [Sunken Treasure.](https://wowclassicdb.com/quest/669)
 11. Swim south out of the cove until you reach Wetlands. Now run southeast until you hit the road. Follow the road all the way south to Dun Algaz.  
-    
     [![Wow Classic Horde Leveling Guide 39 Wetlands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-39-Wetlands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-39-Wetlands.jpg)
 12. Through Dun Algaz, enter Loch Modan. Once in Loch Modan, run southwest until you find The Loch. Run south of The Loch to find the path to Badlands.  
-    
     [![Wow Classic How To Get To Badlands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-How-to-Get-to-Badlands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-How-to-Get-to-Badlands.jpg)
 13. Once in Badlands, go south and hug the mountain to your right. Continue following it as it curves to the west.
 14. Stop off when you see a camp of gnomes. Pick up the quest: [Study of the Elements: Rock](https://wowclassicdb.com/quest/710). Keep heading west afterwards.  
-    
     [![Wow Classic Horde Leveling Guide 39 Badlands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-39-Badlands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-39-Badlands.jpg)
 15. On the way west, kill all the elementals you see. Eventually you’ll arrive at Kargath. Pick up the flightpath here.
 16. Return east to the [Lesser Rock Elementals](https://wowclassicdb.com/npc/2735) and kill them until you reach level 40.
@@ -730,26 +721,21 @@ Level 36-43
 1. Run northeast to the gnome camp and turn in Study of the Elements: Rock. Use your hearthstone to return to Orgrimmar.
 2. If you have enough gold, learn riding training and buy a mount! This will make leveling much smoother. Anytime you need to travel, ride your mount!
 3. Repair, buy consumables, and sell your junk. Once finished, go outside and take the zeppelin to Grom’gol Base Camp.  
-   
    [![Wow Classic Horde Leveling Guide 40 Stranglethorn Vale](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-40-Stranglethorn-Vale.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-40-Stranglethorn-Vale.jpg)
 4. Head north from Grom’gol until you find a hill in between two ruins. Atop it is [Sin’dall](https://wowclassicdb.com/npc/729). Kill and loot Sin’dall.
 5. Head northeast from here to reach Nesingwary’s Expedition Camp. Turn in Tiger Mastery. Run east across the river to reach the road.
 6. Ride along the road all the way north to Duskwood. Follow the road as it goes north, then turn east and continue following it. Avoid Darkshire.  
-   
+
    [![Wow Classic Horde Leveling Guide Stanglethorn Vale To Deadwind Pass](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-Stanglethorn-Vale-to-Deadwind-Pass-300x255.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-Stanglethorn-Vale-to-Deadwind-Pass.jpg)
-   
-   
+
    Stanglethorn Vale To Deadwind Pass
-   
-   
+
    [![Wow Classic Horde Leveling Guide Deadwind Pass To Swamp Of Sorrows](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-Deadwind-Pass-to-Swamp-of-Sorrows-300x197.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-Deadwind-Pass-to-Swamp-of-Sorrows.jpg)
-   
-   
+
    Deadwind Pass To Swamp Of Sorrows
 7. Run out of the east side of Duskwood along the road to reach Deadwind Pass. [BE CAREFUL IN THE PASS The mobs here are higher level, but can be avoided if one is careful.] Continue on the road, through the pass, until you reach the Swamp of Sorrows where the road will split in two.
 8. Take the right path (southern) and follow it into the city of Stonard. Take the flightpath here. Only take the following quests: [Lack of Surplus](https://wowclassicdb.com/quest/698), [Neeka Bloodscar](https://wowclassicdb.com/quest/1418), and [Pool of Tears](https://wowclassicdb.com/quest/1424).
 9. Head north from Stonard to find a smaller island. Kill things in the area until you find [Noboru the Cudgel](https://wowclassicdb.com/npc/5477).  
-   
    [![Wow Classic Horde Leveling Guide 40 Swamp Of Sorrows](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-40-Swamp-of-Sorrows.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-40-Swamp-of-Sorrows.jpg)
 10. Kill Noboru and loot him for his cudgel. Use it to start the quest: [Noboru the Cudgel](https://wowclassicdb.com/quest/1392). Keep killing in the area until Lack of Surplus is done.
 11. Go west now to reach the Harborage. Turn in Noboru the Cudgel. Pick up the quest: [Draenethyst Crystals](https://wowclassicdb.com/quest/1389).
@@ -1065,7 +1051,6 @@ Level 44-50
 11. When ready to go, take a flight to Ratchet. Board the boat for Booty Bay.
 12. Once you arrive, run towards the inn and turn in Deliver to MacKinley. Then take a flight to Stonard.
 13. Run south out of Stonard and follow the road to Blasted Lands. Keep going until you see a few elves with quests for you.  
-    
     [![Wow Classic Horde Leveling Guide 50 Blasted Lands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-50-Blasted-Lands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-50-Blasted-Lands.jpg)
 14. Pick up five quests: [The Basilisk’s Bite](https://wowclassicdb.com/quest/2601), [The Decisive Striker](https://wowclassicdb.com/quest/2585), [A Boar’s Vitality](https://wowclassicdb.com/quest/2583), [Snickerfang Jowls](https://wowclassicdb.com/quest/2581), and [Vulture’s Vigor](https://wowclassicdb.com/quest/2603).
 15. From this point on, kill and loot *any* beast that you see. If you pick up any [Imperfect Draenethyst Fragments](https://wowclassicdb.com/item/10593), head to [Kum’Isha the Collector](https://wowclassicdb.com/npc/7363) to hand them in.
@@ -1241,7 +1226,6 @@ Level 51-55
 27. Now head west down the cliff to reach Felpaw Village. Kill the furbolg you find here until you need just 150 reputation to reach unfriendly with Timbermaw Hold.
 28. Run east back up the cliff and hand in Deadwood of the North. Accept the next quest: [Speak to Salfa](https://wowclassicdb.com/quest/8465). Turn in [Deadwood Headdress Feathers](https://wowclassicdb.com/item/21377) if you have at least five.
 29. Enter Timbermaw Hold and go east once you cross the first bridge to reach Winterspring. Right after exiting, turn in Speak to Salfa.  
-    
     [![Wow Classic Horde Leveling Guide 54 Winterspring](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-54-Winterspring.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-54-Winterspring.jpg)
 30. Accept the quest: [Winterfall Activity](https://wowclassicdb.com/quest/8464). Run south along the road until it begins to curve east. Run off the path south here to hand in It’s A Secret to Everybody.
 31. Wait a minute, then accept the two quests: [Threat of the Winterfall](https://wowclassicdb.com/quest/5082) and [The Videre Elixir](https://wowclassicdb.com/quest/4041).
@@ -1370,7 +1354,6 @@ Level 56-60
 25. Run west all the way back to Flame Crest. Hand in Broodling Essence and Tablet of the Seven. Accept the quest: [Felnok Steelspring](https://wowclassicdb.com/quest/4808).
 26. Get on a flight to Kargath. Turn in Krom’Grul and The Rise of the Machines. Pick up the next quest: the next part of [The Rise of the Machines](https://wowclassicdb.com/quest/4062). Head east and find Lotwil’s Camp almost directly east of Kargath along the northern road that runs east to west. Turn in the second part of The Rise of the Machines. Pick up the final part of [The Rise of the Machines](https://wowclassicdb.com/quest/4063).
 27. Use your hearthstone to return to Undercity. Use the auction house, repair, and sell junk now. Go out of Undercity and follow the road heading east.  
-    
     [![Wow Classic Horde Leveling Guide 57 58 Western Plaguelands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-57-58-Western-Plaguelands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Horde-Leveling-Guide-57-58-Western-Plaguelands.jpg)
 28. Stop when you reach The Bulwark. Hand in The Everlook Report. Accept his quest: [Argent Dawn Commission](https://wowclassicdb.com/quest/5401). Immediately turn in Argent Dawn Commission.
 29. Whenever questing in Western or Eastern Plaguelands, equip the [Argent Dawn Commission](https://wowclassicdb.com/item/12846) to get a variety of scourgestones. These will increase your reputation with the Argent Dawn.
@@ -1505,7 +1488,6 @@ Level 56-60
 
 **Congratulations on reaching level 60! We hope this guide made things easier for you and that you had a blast along the way. Thanks for taking this journey with us and happy hunting on your fresh level 60 character!**
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -1513,6 +1495,3 @@ Level 56-60
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

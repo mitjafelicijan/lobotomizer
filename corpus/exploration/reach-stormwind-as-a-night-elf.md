@@ -1,12 +1,9 @@
 # How to Get to Stormwind as a Night Elf in WoW Classic
 
-
-
 * Author: [Nevermore](https://www.warcrafttavern.com/author/nevermore/)
 * Date: December 24, 2023
 * Updated: July 6, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -25,11 +22,9 @@ Leaving Teldrassil
 
 Shadowglen Starting Zone
 
-
 [![shadowglens exit](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Shadowglens-Exit-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Shadowglens-Exit.jpg)
 
 Shadowglen’s Exit Point
-
 
 Your journey begins in Shadowglen, the starting zone of Night Elves. You will want to follow the road to the Moongate where Night Elves sentries are posted on guard duty and continue down the path until you reach Dolanaar. This part of the journey is completely safe, especially if you stick to the road.
 
@@ -39,11 +34,9 @@ Once you move past Dolanaar, keep following the road, and you will eventually fi
 
 Dolanaar Map Location
 
-
 [![dolanaar village](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Dolanaar-Village-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Dolanaar-Village-1024x542.jpg)
 
 Dolanaar Village
-
 
 Upon entering Darnassus you will simply want to move forward on the main road until you find a pink tree that serves as a gateway. You can easily spot it once you move past the bank that is located in the center of the town in the Temple Gardens.
 
@@ -51,11 +44,9 @@ Upon entering Darnassus you will simply want to move forward on the main road un
 
 Darnassus Map Location
 
-
 [![darnassus portal location](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Darnassus-Portal-Location-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Darnassus-Portal-Location.jpg)
 
 Darnassus Portal Location
-
 
 Reaching Darkshore
 ------------------
@@ -70,11 +61,9 @@ Once you enter the portal in Darnassus, you will be teleported to a small patch 
 
 Hippogryph Master Location
 
-
 [![ruttheran village boat](https://www.warcrafttavern.com/wp-content/uploads/2023/12/RutTheran-Village-Boat-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/RutTheran-Village-Boat.jpg)
 
 Boat from Rut’Theran Village to Darkshore
-
 
 After you decide on your preferred means of travel and use it, you will reach Auberdine on the coast of Darkshore. This small village acts as a port that connects you to the Eastern Kingdom. You can take a boat from Auberdine that leads to Menethil Harbor, allowing you to begin your long and perilous journey through the Wetlands.
 
@@ -82,11 +71,9 @@ After you decide on your preferred means of travel and use it, you will reach Au
 
 Auberdine Map Location
 
-
 [![boat to menethil harbor](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Boat-to-Menethil-Harbor-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Boat-to-Menethil-Harbor.jpg)
 
 Boat to Menethil Harbor
-
 
 The boat to Menethil Harbor can be embarked from the opposite side of the pier as opposed to the side that leads to the Rut’Theran Village boat. In case you choose to fly over to Auberdine instead of using the boat, all you have to do is choose the boat on the left side of the pier.
 
@@ -97,11 +84,9 @@ The Wetlands Run
 
 Menethil Harbor Map Location
 
-
 [![menethil harbor exit point](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Menethil-Harbor-Exit-Point-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Menethil-Harbor-Exit-Point.jpg)
 
 Menethil Harbor Safe Exit Point
-
 
 This part of the journey is infamously known as the “Wetlands Run”. It caused many deaths among the Night Elf population, with many of them often meeting violent ends due to the Savage Orcs, Crocolisks, Fen Dwellers, and even terrible Spiders that inhabit the area. While it might be tempting to simply jump off the ship and make your way across the marshes of Wetlands, the zone is completely infested with dangerous creatures that can potentially kill you in one or two hits. This means that you will always want to stick to the road! However, there are some scenarios where even the road is not safe.
 
@@ -113,11 +98,9 @@ Below you can find an example of the best location that should guarantee a respa
 
 An Example of a Death Location that leads to the Graveyard
 
-
 [![graveyard road wetlands](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Graveyard-Road-Wetlands-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Graveyard-Road-Wetlands.jpg)
 
 Graveyard Ressurection near the Road
-
 
 From this point onward, you will move past an Orc encampment and a marsh filled with Crocolisks. The issue is that you will possibly be able to avoid the Orcs, however, you will most certainly not manage to avoid the Crocolisks. This means that you will have to respawn a couple more times by doing a “Corpse Walk”.
 
@@ -127,11 +110,9 @@ After you manage to pass the Orc encampment, the road should be entirely safe fo
 
 Dun Algaz ~ Wetlands’ Exit Point
 
-
 [![road to wetlands exit point](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Road-to-Wetlands-Exit-Point-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Road-to-Wetlands-Exit-Point.jpg)
 
 The Road to Wetland’s Exit ~ Dun Algaz’s Gate Point
-
 
 Arriving in Dun Morogh
 ----------------------
@@ -142,11 +123,9 @@ While you might be happy to escape Wetlands, the danger has not entirely passed.
 
 Dun Algaz Passage Location on Player Cursor
 
-
 [![dun algazs threats](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Dun-Algazs-Threats-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Dun-Algazs-Threats.jpg)
 
 Dun Argaz’s Orc Threat
-
 
 The main issue with the Dun Algaz Passage is that its respawn point is tied to the graveyard that can be found in the middle of the Wetlands. Luckily for us, our [Wisp Spirit](https://wowclassicdb.com/spell/20585) racial effect allows us to respawn quicker, even if the distance is quite long. Once you reach your corpse location, you should attempt respawning at max range, as you will greatly reduce the chance of grabbing aggro again.
 
@@ -158,11 +137,9 @@ If you carefully plan your death location, you will only have to go through this
 
 Loch Modan’s Exit Point Leading to Dun Morogh Map Location (Player Cursor)
 
-
 [![loch modan gateway to dun morogh](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Loch-Modan-Gateway-to-Dun-Morogh-1024x566.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Loch-Modan-Gateway-to-Dun-Morogh.jpg)
 
 Gateway to Dun Morogh in Loch Modan
-
 
 Once you reach Loch Modan, you can quickly access a nearby passage to Dun Morogh. Simply walk to the west side of the map and seek the gate shown above. There is also another entry point that leads to Dun Morogh on the southwest side of the map, however, accessing that path would result in a massive detour. After crossing this small tunnel, you will finally reach Dun Morogh!
 
@@ -175,11 +152,9 @@ Now that you’ve made your way to Dun Morogh, your journey is almost completed.
 
 Dun Morogh North Entry Point (Player Cursor)
 
-
 [![ironforge map location](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Ironforge-Map-Location-1024x566.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Ironforge-Map-Location.jpg)
 
 Ironforge Map Location
-
 
 Luckily for us, the journey through the dwarven lands poses no threat, meaning that you safely follow the road without a care in the world.
 
@@ -189,11 +164,9 @@ Once you reach inside Ironforge, all you have to do is go to Tinker Town and ent
 
 Ironforge Tinker Town ~ Deeprun Tram
 
-
 [![ironforge deeprun tram](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Ironforge-Deeprun-Tram-1024x566.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Ironforge-Deeprun-Tram.jpg)
 
 The Ironforge Deeprun Tram
-
 
 After a rather swift ride on the Deeprun Tram, you will reach the Deeprun Stormwind Station. All you have to do now is exit it to finish your long journey. You will find yourself in the Dwarven District of Stormwind, from which point, you are free to explore Elwynn Forest with all of your friends!
 
@@ -201,13 +174,9 @@ After a rather swift ride on the Deeprun Tram, you will reach the Deeprun Stormw
 
 The Stormwind Deeprun Tram Station Exit Point
 
-
 [![stormwind dwarven district map ](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Stormwind-Dwarven-District-Map--1024x566.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Stormwind-Dwarven-District-Map-.jpg)
 
 The Stormwind Dwarven District ~ Final Destination
-
-
-
 
 #### About the Author
 
@@ -216,6 +185,3 @@ The Stormwind Dwarven District ~ Final Destination
 #### Nevermore
 
 Hey there folks, I am Nevermore and have been deeply passionate about WoW for more than a decade. Whether we talk about the hidden mysteries of Azeroth or the otherworldly Outland, my journey brought me here to share the things that I have experienced with you all.
-
-
-

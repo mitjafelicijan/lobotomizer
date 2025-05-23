@@ -1,12 +1,9 @@
 # WoW Classic Noblegarden Guide
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: February 26, 2020
 * Updated: October 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -50,55 +47,55 @@ There are no less than five different types of eggs and each type drops in a giv
 
 **Elwynn Forest**
 
-
 [![Classic Wow Noblegarden Guide Map Images Elwynn Forest 1](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-1-300x189.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-1.png)
+
 [![Classic Wow Noblegarden Guide Map Images Elwynn Forest 2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-2-300x189.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-2.png)
+
 [![Classic Wow Noblegarden Guide Map Images Elwynn Forest 3](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-3-300x188.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-3.png)
+
 [![Classic Wow Noblegarden Guide Map Images Elwynn Forest 4](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-4-300x187.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Map-Images-Elwynn-Forest-4.png)
-
-
 
 **Dun Morogh**
 
-
 [![Classic Wow Noblegarden Guide Images Dun Morogh Map 1](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-1-300x168.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-1.png)
+
 [![Classic Wow Noblegarden Guide Images Dun Morogh Map 2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-2-300x169.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-2.png)
+
 [![Classic Wow Noblegarden Guide Images Dun Morogh Map 3](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-3-300x177.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-3.png)
+
 [![Classic Wow Noblegarden Guide Images Dun Morogh Map 4](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-4-300x171.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Dun-Morogh-Map-4.png)
-
-
 
 **Teldrassil**
 
-
 [![Classic Wow Noblegarden Guide Images Teldrassil Map1](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map1-300x224.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map1.jpg)
+
 [![Classic Wow Noblegarden Guide Images Teldrassil Map2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map2-300x226.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map2.jpg)
+
 [![Classic Wow Noblegarden Guide Images Teldrassil Map3](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map3-300x226.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map3.jpg)
+
 [![Classic Wow Noblegarden Guide Images Teldrassil Map4](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map4-300x227.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Teldrassil-Map4.jpg)
-
-
 
 ### Horde
 
 **Durotar**
 
-
 [![Classic Wow Noblegarden Guide Images Durotar Map1](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map1-174x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map1.jpg)
+
 [![Classic Wow Noblegarden Guide Images Durotar Map2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map2-176x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map2.jpg)
+
 [![Classic Wow Noblegarden Guide Images Durotar Map3](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map3-173x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map3.jpg)
+
 [![Classic Wow Noblegarden Guide Images Durotar Map4](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map4-177x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Guide-Images-Durotar-Map4.jpg)
-
-
 
 **Mulgore**
 
-
 [![Classic Wow Noblegarden Images Mulgore Map1](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map1-216x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map1.jpg)
+
 [![Classic Wow Noblegarden Images Mulgore Map2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map2-218x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map2.jpg)
+
 [![Classic Wow Noblegarden Images Mulgore Map3](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map3-220x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map3.jpg)
+
 [![Classic Wow Noblegarden Images Mulgore Map4](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map4-210x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Noblegarden-Images-Mulgore-Map4.jpg)
-
-
 
 **Tirisfal Glades**
 
@@ -110,14 +107,8 @@ That’s all of the locations of eggs in the various starting zones.  Happy Hun
 
 [![Wow Classic Noblegarden Gnome](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Noblegarden-Gnome.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Noblegarden-Gnome.jpg)
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Blacksmithing Guide 1 – 300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: December 1, 2018
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -252,7 +249,7 @@ Mats Required: *These assume you follow the standard path that doesn’t require
 * [Star Ruby](https://wowclassicdb.com/item/7910) – x25
 * [Yellow Power Crystal](https://wowclassicdb.com/item/11188) – x20
 
-*– Armorsmiths and weaponsmiths require 120x less Thorium Bars and 40x less Blue Power Crystals.* 
+*– Armorsmiths and weaponsmiths require 120x less Thorium Bars and 40x less Blue Power Crystals.*
 
 *– Armorsmiths additionally require 160x more Mithril Bars and 20x Core of Earth.*
 
@@ -350,6 +347,3 @@ Here’s the actual requirements for the weaponsmithing quest:
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

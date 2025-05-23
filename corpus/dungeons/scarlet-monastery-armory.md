@@ -1,12 +1,9 @@
 # WoW Classic Scarlet Monastery Armory Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 26, 2024
 * Updated: November 26, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -55,8 +52,8 @@ There is one quest for each faction that requires defeating a boss in the Armory
 | [Into The Scarlet Monastery](https://warcraftdb.com/classic/quest/1048) | [Varimathras](https://wowclassicdb.com/npc/2425) (Undercity) | Yes |
 | [Hearts of Zeal](https://warcraftdb.com/classic/quest/1113) | [Master Apothecary Faranell](https://wowclassicdb.com/npc/2055) (Undercity) | No |
 
-
 [![scarlet monastery armory quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Scarlet-Monastery-Armory-Quests-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Scarlet-Monastery-Armory-Quests.jpg)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [In the Name of the Light](https://warcraftdb.com/classic/quest/1053)
@@ -135,6 +132,7 @@ There is only one boss in the Armory wing of Scarlet Monastery.
 Herod is the only boss encounter of Scarlet Monastery Armory. He is a level 40 elite Scarlet Crusade human. He is not accompanied by any adds but in order to reach him you need to clear the entire instance. Upon his death, a large group of Scarlet Monastery Acolytes will rush to his chambers so be prepared to continue combat after defeating him.
 
 [![herod](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Herod.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Herod.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. You should move a few yards from him when he is casting Whirlwind to avoid taking unnecessary damage. After the boss dies, dozens of Scarlet Crusaders will storm the room. Quickly walk up to the entrance of Herod’s room and be ready to use AoE abilities to pick them up.
@@ -178,6 +176,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

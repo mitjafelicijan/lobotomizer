@@ -1,12 +1,9 @@
 # How to Get to Searing Gorge in WoW Classic
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: May 29, 2020
 * Updated: January 9, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -60,14 +57,8 @@ This method is largely unnecessary, as getting to Searing Gorge is required to c
 
 That’s it! You now know all of the ways to gain access to Searing Gorge. I hope that I’ve helped some folks out there find their way. Thanks for reading and have a wonderful day!
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

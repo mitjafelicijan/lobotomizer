@@ -1,12 +1,9 @@
 # WoW Classic Blacksmith Specialization Guide
 
-
-
 * Author: [fendor](https://www.warcrafttavern.com/author/fendor/)
 * Date: February 1, 2019
 * Updated: January 9, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -25,8 +22,6 @@
 
 ![WoW Classic Blacksmithing Icon](/images/guides/bs_chest.png)
 
- 
-
 In this guide, fendor shares his knowledge on the elaborate and far-ranging nature of becoming a master blacksmith in Classic WoW. This guide assumes you already have the knowledge to reach a high skill level in Blacksmithing and are now interested in different specializations such as weapon or armorsmithing, where to find special trainers, and how to hunt down unique and hard-to-find Plans to bolster your range of craftable goods.
 
 Introduction
@@ -44,8 +39,6 @@ Trainers
 --------
 
 ![Image](https://www.warcrafttavern.com/wp-content/uploads/2020/11/image.png)
-
- 
 
 Trainers in Classic are scattered all over Azeroth, and not all of them have the same level of expertise – like a real RPG should be! Some cities are missing trainers, and some trainers can only be found out in the wilds. Some offer you standard Plans whilst others only offer particular ones you may be interested in.
 
@@ -114,8 +107,6 @@ NB: As of 1.9 they did introduce a way of switching your smithing spec by spendi
 
 ![WoW Classic Weaponsmithing Icon](/images/guides/bs_mweapon.png)
 
- 
-
 The quest that starts it all is [The Way of the Weaponsmith](https://wowclassicdb.com/quest/5284) for Alliance and [The Way of the Weaponsmith](https://wowclassicdb.com/quest/5302) for the horde. Completing this will grant you the weaponsmithing specialization (which is waaaaay easier than becoming an armorsmith by the way).  
 The quest requires level 40 and at least 200 blacksmithing skill and the following items to be turned in – you could simply buy them from AH, as per all the item in the following quests, but a real blacksmith would never do that 😉
 
@@ -150,15 +141,11 @@ The quest to become Axesmith is acceptable only AFTER becoming a weaponsmith sin
 
 ![WoW Classic Hammersmith Icon](/images/guides/bs_mhammer.png)
 
- 
-
 The quest to become Hammersmith is acceptable only AFTER becoming a weaponsmith since this is a further specialization. Head to [Lilith the Lithe](https://wowclassicdb.com/npc/11191) and accept [Sweet Serenity](https://wowclassicdb.com/quest/5305). Head to Stratholme living side, and before arriving to [Cannon Master Willey](https://wowclassicdb.com/npc/10997) you will find [Blacksmithing Plans](https://wowclassicdb.com/object/176325) on the ground: looting them will spawn [Crimson Hammersmith](https://wowclassicdb.com/npc/11120) that will drop the required [Crimson Hammersmith’s Apron](https://wowclassicdb.com/item/13351). Once completed you will receive your first hammersmith recipe, [Plans: Enchanted Battlehammer](https://wowclassicdb.com/item/12824).
 
 #### **Master Swordsmithing**
 
 ![WoW Classic Swordsmith Icon](/images/guides/bs_msword.png)
-
- 
 
 The quest to become Swordsmith is acceptable only AFTER becoming a weaponsmith since this is a further specialization. Head to [Seril Scourgebane](https://wowclassicdb.com/npc/11193) and accept [Corruption](https://wowclassicdb.com/quest/5307). Head to Stratholme undead side, and near the first ziggurat in the gauntlet, you will find [Blacksmithing Plans](https://wowclassicdb.com/object/176327) on the ground: looting them will spawn [Black Guard Swordsmith](https://wowclassicdb.com/npc/11121) that will drop the required [Insignia of the Black Guard](https://wowclassicdb.com/item/13350). Once completed you will receive your first swordsmith recipe, [Plans: Blazing Rapier](https://wowclassicdb.com/item/12825).
 
@@ -224,7 +211,6 @@ Finding plans from world drops feels great but it’s tough. The drop rates for 
 
 [Plans: Lionheart Helm](https://wowclassicdb.com/item/12717) is a world drop (world bosses, raid trash) that requires Armorsmithing to be learned, it’s really rare and a huge money-maker, since it’s one of the best DPS plate helms in game.
 
-  
 I put this group at the end, since it has not really use (the stats of the items are not really anything) but being able to craft it was a sort of status quo because the recipes were damn rare! I’m talking about the Runic Plate “set” that is composed of:
 
 * [Plans: Runic Plate Leggings](https://wowclassicdb.com/item/12719) This is the only guaranteed drop, from the [Scarlet Smith](https://wowclassicdb.com/npc/1885)
@@ -360,14 +346,8 @@ This vendor is actually a ghost, so you will need a special trinket to see him (
 
 And that’s it! I hope this guide was informative for you and that you choose blacksmithing as one your professions in Classic. I’m convinced it will be your favourite. Any comments, ideas, feedback etc. just reply to this thread!
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/6a0be446f9816c8c51b7e9e5756d7527.jpg?ver=1738210117)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/6a0be446f9816c8c51b7e9e5756d7527.jpg?ver=1747556243)
 
 #### fendor
-
-
-
-
-

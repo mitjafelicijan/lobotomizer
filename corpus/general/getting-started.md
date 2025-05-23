@@ -1,12 +1,9 @@
 # Getting Started with WoW Classic
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 17, 2019
 * Updated: September 19, 2022
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -44,13 +41,13 @@ You can choose from eight different unique races to play from. Both the Horde an
 
 The Alliance have a golden reputation as being the true heroes of Warcraft. This point is debatable, but they certainly look more friendly than the Horde. These are the races you can choose if you decide to join the Alliance.
 
-
 ![wow classic dwarves](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-dwarves.png)
+
 ![wow classic gnomes](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-gnomes.png)
+
 ![wow classic humans](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-humans.png)
+
 ![wow classic nightelves](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-nightelves.png)
-
-
 
 * **Dwarves** – A short, stocky race with long beards.
 * **Gnomes** – Even shorter than a dwarf, but very slim to boot.
@@ -61,13 +58,13 @@ The Alliance have a golden reputation as being the true heroes of Warcraft. This
 
 The Horde have a sinister reputation for being the evil villains of Warcraft. This isn’t helped by their beastly appearance. If you want to join the Horde, you can choose from the following races.
 
-
 ![wow classic orcs](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-orcs.png)
+
 ![wow classic tauren](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-tauren.png)
+
 ![wow classic trolls](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-trolls.png)
+
 ![wow classic undead](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-undead.png)
-
-
 
 * **Orcs** – A fierce, green-skinned creature originating from an alien world of Draenor.
 * **Tauren** – A noble, beefy beast that closely resembles a bovine.
@@ -96,15 +93,17 @@ Capitol Cities in WoW Classic
 
 Both the Alliance and Horde have major cities that represent the classes within their faction.
 
-
 ![wow classic darnassus](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-darnassus.jpg)
+
 ![wow classic ironforge](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-ironforge.jpg)
+
 ![wow classic stormwind](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-stormwind.jpg)
+
 ![wow classic orgrimmar](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-orgrimmar.jpg)
+
 ![wow classic thunder bluff](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-thunder-bluff.jpg)
+
 ![wow classic undercity](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-undercity.jpg)
-
-
 
 #### Horde Cities
 
@@ -127,15 +126,17 @@ During your travels, you’re sure to run into several items that are used as cr
 
 #### Crafting Professions
 
-
 ![wow classic alchemy](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-alchemy.png)
+
 ![wow classic blacksmithing](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-blacksmithing.png)
+
 ![wow classic enchanting](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-enchanting.png)
+
 ![wow classic engineering](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-engineering.png)
+
 ![wow classic leatherworking](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-leatherworking.png)
+
 ![wow classic tailoring](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-tailoring.png)
-
-
 
 * [**Alchemy**](https://www.warcrafttavern.com/wow-classic/guides/alchemy-1-to-300/) – Craft potions and flasks from herbs.
 * [**Blacksmithing**](https://www.warcrafttavern.com/guides/wow-classic-blacksmithing-guide-1-300) – Craft armor and weapons with metal ores.
@@ -148,12 +149,11 @@ You can find detailed [WoW Classic Profession Guides](https://www.warcrafttavern
 
 #### Gathering Professions
 
-
 ![wow classic herbalism](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-herbalism.png)
+
 ![wow classic mining](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-mining.png)
+
 ![wow classic skinning](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-skinning.png)
-
-
 
 * [**Herbalism**](https://www.warcrafttavern.com/wow-classic/guides/herbalism-1-300/) – Collect herbs to be used in Alchemy recipes.
 * [**Mining**](https://www.warcrafttavern.com/wow-classic/guides/mining-1-300/) – Collect metal ores found in mineral veins.
@@ -161,12 +161,11 @@ You can find detailed [WoW Classic Profession Guides](https://www.warcrafttavern
 
 #### Secondary Professions
 
-
 ![wow classic cooking](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-cooking.png)
+
 ![wow classic first aid](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-first-aid.png)
+
 ![wow classic fishing](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-fishing.png)
-
-
 
 * [**Cooking**](https://www.warcrafttavern.com/guides/vanilla-wow-cooking-guide-1-300) – Create food that grants benefits.
 * [**First Aid**](https://www.warcrafttavern.com/wow-classic/guides/first-aid-1-300/) – Craft bandages from cloth to heal yourself.
@@ -181,13 +180,13 @@ Azeroth is a huge world, and it would be crazy to expect you to walk everywhere 
 
 Both the Alliance and Horde have flight masters that will allow you to ride one of their beasts to predetermined locations you’ve already been to. The key difference between the factions is what the flying creatures look like! Alliance players have friendly Gryphons and Hippogryphs, while the Horde have fierce Bats and Wyverns.
 
-
 ![wow classic bats](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-bats.jpg)
+
 ![wow classic gryphons](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-gryphons.jpg)
+
 ![wow classic hippogryphs](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-hippogryphs.jpg)
+
 ![wow classic wyverns](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-wyverns.jpg)
-
-
 
 ### Massive Transport
 
@@ -195,11 +194,9 @@ Both the Alliance and Horde have flight masters that will allow you to ride one 
 
 Both factions can make use of boats to travel between destinations. Boats can have an unlimited number of players on them at once, allowing you to travel with your friends at the same time. The Horde also make use of a flying Goblin Zeppelin between Orgrimmar and Undercity. The Alliance use the Deeprun Tram to traverse between Stormwind and Ironforge.
 
-
 ![wow classic goblin zeppelin](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-goblin-zeppelin.jpg)
+
 ![wow classic deeprun tram](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-deeprun-tram.jpg)
-
-
 
 ### Mounts!
 
@@ -214,27 +211,28 @@ Each playable race has their own unique steed that they can ride once you reach 
 * **Troll** – Raptors, bouncy dinosaur-like creatures that run on hind legs.
 * **Undead** – Skeletal Horses, very similar to Human horses, but they have no flesh.
 
-
 ![wow classic horses](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-horses.jpg)
+
 ![wow classic kodos](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-kodos.jpg)
+
 ![wow classic mechano-striders](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-mechano-striders.jpg)
+
 ![wow classic nightsabers](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-nightsabers.jpg)
+
 ![wow classic rams](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-rams.jpg)
+
 ![wow classic raptors](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-raptors.jpg)
+
 ![wow classic undead steeds](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-undead-steeds.jpg)
+
 ![wow classic wolves](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-wolves.jpg)
-
-
 
 * **Felsteed** – Warlock mount.
 * **Warhorse** – Paladin mount.
 
-
 ![wow classic felsteeds](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-felsteeds.jpg)
+
 ![wow classic warhorses](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-warhorses.jpg)
-
-
-
 
 #### About the Author
 
@@ -243,6 +241,3 @@ Each playable race has their own unique steed that they can ride once you reach 
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

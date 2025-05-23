@@ -1,12 +1,9 @@
 # WoW Classic Cooking Guide 1 – 300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 28, 2019
 * Updated: December 7, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -65,11 +62,9 @@ Training plays a huge role in leveling your cooking, as you’ll need new recipe
 
 Shandrina Location
 
-
 [![WoW Classic Cooking Guide - Wulan Location](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Cooking-Guide-Wulan-Location-1024x686.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Cooking-Guide-Wulan-Location.jpg)
 
 Wulan Location
-
 
 Important Notes
 ---------------
@@ -93,6 +88,7 @@ If you already plan on leveling your Fishing skill, this is a perfect opportunit
 Because fishing drastically changes the recipes you’ll use, there is an entirely separate section in this guide for if you want to fish rather than kill beasts.
 
 [![WoW Classic Cooking - Fishing Guide](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Cooking-Fishing-Guide-1024x485.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Cooking-Fishing-Guide.jpg)
+
 ### Quests
 
 ![WoW Classic Quest Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/10/quest-x150.png)
@@ -331,6 +327,7 @@ Leveling Cooking **With** Fishing
 ---------------------------------
 
 ![WoW Classic Cooking with Fishing Guide](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Cooking-with-Fishing-Guide-1024x409.jpg)
+
 ### 1-75: Apprentice Cooking
 
 To get started, learn the Cooking and Fishing skills from any Cooking Trainer and Fishing Trainer.
@@ -453,7 +450,6 @@ This last one is a bit of a doozy, but it is absolutely worth it. ![Wow Alliance
 
 Once you’ve got the recipe, you can catch Mightfish in Scalebeard’s Cave, Azshara. Because Azshara requires a minimum of 250 fishing, lures might be a good idea for faster farming. Either way, after about 30 Mightfish, you should reach max Cooking. Congratulations!
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -461,6 +457,3 @@ Once you’ve got the recipe, you can catch Mightfish in Scalebeard’s Cave, Az
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

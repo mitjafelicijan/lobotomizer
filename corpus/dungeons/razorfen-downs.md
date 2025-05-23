@@ -1,12 +1,9 @@
 # WoW Classic Razorfen Downs Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: December 2, 2024
 * Updated: January 23, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -78,6 +75,7 @@ There are a handful of quests inside Razorfen Downs for both factions.
 | [Extinguishing the Idol](https://warcraftdb.com/classic/quest/3525) | [Belnistrasz](https://wowclassicdb.com/npc/8516) (Razorfen Downs) | No |
 
 [![classic razorfen downs quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Razorfen-Downs-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Razorfen-Downs-Quests.png)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [Bring the Light](https://warcraftdb.com/classic/quest/3636)
@@ -184,6 +182,7 @@ There are 7 bosses in Razorfel Downs, including one Rare boss that is not always
 Summon the first boss in Razorfen Downs by ringing the gong in the boss’ chamber. The first two times the gong is rang, waves of spider adds will come into the room from either side. The third time you ring the gong, the boss is summoned. Killing Tuten’Kash is straightforward, and many groups may not need to worry about dispelling the Virulent Poison or decursing Curse of Tuten’kash.
 
 [![tuten'kash](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tutenkash.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tutenkash.png)
+
 #### Strategy
 
 * **Tank:** The tank simply needs to pick up Tuten’kash and face him away from the group to avoid [Web Spray](https://warcraftdb.com/classic/spell/12252).
@@ -201,6 +200,7 @@ Summon the first boss in Razorfen Downs by ringing the gong in the boss’ chamb
 If you choose to escort Belnistrasz while in Razorfen Downs, then Plaguemaw will be presented as the final boss of the event. The boss is simple and is the easiest part of the escort itself. Managing the multiple adds before him is the challenging part, as you need to keep Belnistrasz protected from mobs which spawn quickly. You cannot heal the NPC, be very careful holding threat off him.
 
 [![plaguemaw the rotting](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Plaguemaw-the-Rotting.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Plaguemaw-the-Rotting.png)
+
 #### Strategy
 
 * **Tank:** The tank should be picking up and marking adds as they spawn, focusing on keeping any off of Belnistrasz and the healer. Plaguemaw himself is a simple tank and spank.
@@ -217,6 +217,7 @@ If you choose to escort Belnistrasz while in Razorfen Downs, then Plaguemaw will
 Mordresh is a caster skeleton boss which you encounter on top of a pile of bones, surrounded by non-elite skeletons. Groups should AoE down the non elite and then focus DPS on Mordresh. He does not have very high armor, so this fight is easy for a balanced group composition.
 
 [![mordesh fire eye](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mordesh-Fire-Eye.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mordesh-Fire-Eye.png)
+
 #### Strategy
 
 * **Tank:** The Tank should use an AoE ability to generate some initial threat on the non elite adds, but focus on establishing threat on Mordresh. Interrupt [Fireball](https://warcraftdb.com/classic/spell/12466) when possible.
@@ -234,6 +235,7 @@ Mordresh is a caster skeleton boss which you encounter on top of a pile of bones
 Ragglesnout is a rare Quillboar mob who casts shadow spells, heal, and mind controls. This fight requires other members to fill in healing or picking up the boss if your Tank or Healer become affected by Dominate Mind.
 
 [![ragglesnout](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ragglesnout.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ragglesnout.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing away from the group, and rotate interrupts with your group on [Heal](https://warcraftdb.com/classic/spell/12039) and [Shadow Bolt](https://warcraftdb.com/classic/spell/11659).
@@ -251,6 +253,7 @@ Ragglesnout is a rare Quillboar mob who casts shadow spells, heal, and mind cont
 This abomination patrols below The Spiral of Thorns. The fight is a tank and spank.
 
 [![glutton](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Glutton.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Glutton.png)
+
 #### Strategy
 
 * **Tank:** Pick up the boss, and face him away from the group.
@@ -267,6 +270,7 @@ This abomination patrols below The Spiral of Thorns. The fight is a tank and spa
 Amennar is a servant to the Lich King, and the final boss of RFD. The boss casts frost spells and a knock back. The group should stack up behind the boss while the tank faces him towards the tent where he spawns. Interrupting Recipe: Ghost Dye and avoiding summoned Frost Spectres while maximizing DPS will bring this fight to a close with no issues.
 
 [![amnennar the coldbringer](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Amnennar-the-Coldbringer.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Amnennar-the-Coldbringer.png)
+
 #### Strategy
 
 * **Tank:** The Tank simply needs to face the boss away from the group to avoid [Amnennar’s Wrath](https://warcraftdb.com/classic/spell/13009).
@@ -286,6 +290,7 @@ Amennar is a servant to the Lich King, and the final boss of RFD. The boss casts
 Lady Falther’ess is a boss that only shows up during the Scourge Invasion. She may silence people so watch your health throughout the fight. Apart from that it’s a very straightforward fight.
 
 [![lady falther'ess](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Faltheress.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Faltheress.png)
+
 #### Strategy
 
 * **Tank:** This is a simple fight. Maximize threat so the DPS can do maximum damage.
@@ -349,6 +354,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Zul’Farrak Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: December 4, 2024
 * Updated: December 4, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -271,6 +268,7 @@ There are 14 bosses in Zul’Farrak, including 2 bosses that are Rare and will n
 Zerillis is a rare level 46 elite mob who patrols around the altar surrounded by Shadowpriests before you take the first left turn towards Theka’s area. The boss is accompanied by some familiar adds which can be CC’d or dealt with immediately.
 
 [![zerillis](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Zerillis.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Zerillis.png)
+
 #### Strategy
 
 * **Tank:** Pull the boss using LoS to a safe location away from others (the top of the hill near the door is a favorite). This fight is a simple tank and spank, but he will try to use only ranged attacks if you do not successfully LoS him.
@@ -286,6 +284,7 @@ Zerillis is a rare level 46 elite mob who patrols around the altar surrounded by
 Antu’sul is the Basilisk boss in Zul’furrak, and is found by passing through the cracked area in the wall to the right upon entering Theka the Martyr’s room. The boss himself is in a cave surrounded by patrolling elite mobs. Clear all of them before engaging the boss, because you will want to fight him outside the cave. The boss already summons Sul’lithuz Broodling and Servant of Antu’sul, so dealing with additional adds is a real headache. The boss will pull when a player gets too close to the cave. Allow the tank to be that player in order to avoid pulling on accident and losing group members early in the encounter.
 
 [![antu'sul](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Antusul.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Antusul.png)
+
 #### Strategy
 
 * **Tank:** To tank this boss successfully, pull Antu’sul out of his cave using a ranged ability and bring him back to the group outside the cave, being careful to avoid any adds that you did not kill before engaging the boss. Basilisk adds will quickly spawn, and you should try to focus on keeping them from killing your healer (or the DPS who should be damaging the adds). The boss uses two healing spells, both of which can and should be interrupted.
@@ -304,6 +303,7 @@ Antu’sul is the Basilisk boss in Zul’furrak, and is found by passing through
 Theka the Martyr patrols the area around the shallow graves. He is a quick fight but will cast Theka Transform and become immune to physical and shadow damage at 25% health for 30 seconds.
 
 [![theka the martyr](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Theka-the-Martyr.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Theka-the-Martyr.png)
+
 #### Strategy
 
 * **Tank:** Maximize threat so DPS can go all out on Theka. If you are able to stun him at 30% then he won’t cast [Theka Transform](https://warcraftdb.com/classic/spell/11089) otherwise physical damage won’t do anything to him and you might lose threat.
@@ -319,6 +319,7 @@ Theka the Martyr patrols the area around the shallow graves. He is a quick fight
 Witch Doctor Zum’rah is the zombie raising boss in Zul’furrak, found in the next room past Theka. The boss appears as Neutral to all players until you cross into the room the Witch Doctor resides in with his cauldron and treasure chest. The fight is healing intensive and involves numerous Zombie adds and totems. So long as totems and adds are managed without running out of healer mana, this fight should not stop your group’s momentum.
 
 [![witch doctor zum'rah](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Witch-Doctor-Zumrah.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Witch-Doctor-Zumrah.png)
+
 #### Strategy
 
 * **Tank:** Run up into Witch Doctor’s room to engage the boss. Use your interrupts to make sure that the boss does not manage to use too many of their abilities. As adds spawn, try to generate some threat to keep them from damaging the other party members too much. Ideally your DPS is good enough the adds will not last long anyways.
@@ -335,6 +336,7 @@ Witch Doctor Zum’rah is the zombie raising boss in Zul’furrak, found in the 
 Dustwraith is rare elite mob in Zul’Furrak, who is located near the pool that Gahz’rilla is summoned from. The rare mob is accompanied by a few adds, which can be CC’d.
 
 [![dustwraith](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Dustwraith.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Dustwraith.png)
+
 #### Strategy
 
 * **Tank:** Dustwraith is accompanied by adds who need to be either Tanked or CC’d. Hold threat while your DPS classes damage the boss and adds.
@@ -350,6 +352,7 @@ Dustwraith is rare elite mob in Zul’Furrak, who is located near the pool that 
 Shadowpriest Sezz’ziz and Nekrum Gutchewer together are the final wave of the classic zerg, or stair event, started by releasing Seargent Bly and his companions from their execution cages.
 
 [![shadowpriest sezz'ziz](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Shadowpriest-Sezzziz.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Shadowpriest-Sezzziz.png)
+
 #### Strategy
 
 * **Tank:** Engage the bosses by simply walking straight up to them at the bottom of the stairs at end of the event. Establish threat on Nekrum first so that your DPS can open up on the boss. Before Nekrum dies, be sure that you have switched over to Sezz’ziz at least to keep the boss from making another party member their primary target. Use stuns and interrupts to keep Sezz’ziz from healing himself or Nekrum.
@@ -368,6 +371,7 @@ Shadowpriest Sezz’ziz and Nekrum Gutchewer together are the final wave of the 
 After defeating Shadowpriest Sezz’ziz, Sergeant Bly’s party remains. Before talking to Bly to start the fight, make sure to talk to Weegli Blastfuse to have him set the charges for the door. If you don’t do that before engaging, you will have to fight him with the rest of the party and also lose out on being able to fight Chief Ukorz Sandscalp. Bly’s group has a standard comp with Bly being the tank. Focus on Murta Grimgut first, as she’s the healer. After her focus on Oro Eyegouge the caster, then Raven the melee and finally Bly.
 
 [![sergeant bly](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sergeant-Bly.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sergeant-Bly.png)
+
 #### Strategy
 
 * **Tank:** Focus threat on all of the adds as much as possible to get them to attack you. Let the DPS take care of the healer so you can get a lead on the other party members. Save Bly for last.
@@ -383,6 +387,7 @@ After defeating Shadowpriest Sezz’ziz, Sergeant Bly’s party remains. Before 
 Chief Ukorz Sandscalp is a 48 elite Sandfury troll located behind the door that Weegil Blastfuse (the Goblin from Searget Bly’s party) blasts open. Ukorz Sandscalp is accompanied by another Sandfury Troll, Ruuzlu (level 46 elite).
 
 [![chief ukorz sandscalp](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Chief-Ukorz-Sandscalp.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Chief-Ukorz-Sandscalp.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing the wall to try and keep your other party members form being hit by [Cleave](https://warcraftdb.com/classic/spell/15496). Establish threat on Ruuzlu first so that your DPS do not take over the primary threat position during combat, and be sure that you maintain Ukorz’s attention throughout the encounter as well.
@@ -402,6 +407,7 @@ Chief Ukorz Sandscalp is a 48 elite Sandfury troll located behind the door that 
 Hydromancer Velratha is in the courtyard where you summon Gahz’rilla. She has multiple abilities and with being tucked around the corner from the entrance it is easy to engage her earlier than expected and deal with her and adds. Be careful with engaging her and this will be a simple fight.
 
 [![hydromancer velratha](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hydromancer-Velratha.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hydromancer-Velratha.png)
+
 #### Strategy
 
 * **Tank:** Make sure to clear the area around Velratha before pulling her to make the fight easier. Interrupt where possible as she casts multiple spells.
@@ -417,6 +423,7 @@ Hydromancer Velratha is in the courtyard where you summon Gahz’rilla. She has 
 This level 46 elite hydra is a summoned boss in Zul’furrak. The [Mallet of Zul’furrak](https://warcraftdb.com/classic/item/9240) must be used on the gong to ring it and call forth Gahz’rilla. Be careful to clear adds on the side of the pool closest to the entrance to prevent stray mobs from entering the boss fight.
 
 [![gahz'rilla](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gahzrilla.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gahzrilla.png)
+
 #### How to Summon Gahz’rilla
 
 To create the mallet that is needed to summon the boss, you’ll first need to loot the [Sacred Mallet](https://warcraftdb.com/classic/item/9241) from [Qiaga the Keeper](https://wowclassicdb.com/npc/7996), a level 50 elite found at the Altar of Zul in The Hinterlands. Take this item to the altar at the very top of Jintha’Alor in the east (also in The Hinterlands). Use it there to get the [Mallet of Zul’Farrak](https://warcraftdb.com/classic/item/9240). Be sure to bring this item into the dungeon so you can use it at the gong to summon the boss.
@@ -437,6 +444,7 @@ To create the mallet that is needed to summon the boss, you’ll first need to l
 This rare is on the way out of the instance after Gahz’rilla. Make sure to take a quick look before zoning out. He is a simple boss as long as you pull him without adds.
 
 [![sandarr dunereaver](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sandarr-Dunereaver.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sandarr-Dunereaver.png)
+
 #### Strategy
 
 * **Tank:** Maximize threat so the DPS can down the boss. Make sure adds aren’t pulled.
@@ -497,6 +505,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

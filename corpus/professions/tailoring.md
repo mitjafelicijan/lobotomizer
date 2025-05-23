@@ -1,12 +1,9 @@
 # WoW Classic Tailoring Guide 1-300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: May 2, 2019
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -351,6 +348,3 @@ Here are all of the vendors offering endgame tailoring patterns. Most of them do
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

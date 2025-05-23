@@ -1,12 +1,9 @@
 # WoW Classic Winter Veil Guide
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: December 22, 2019
 * Updated: December 17, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -180,11 +177,6 @@ Well, that’s it, folks! Hope you found this guide helpful and hope you have a 
 
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Shadowfang Keep Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 23, 2024
 * Updated: January 23, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -81,6 +78,7 @@ There are only 3 quests in Shadowfang Keep:
 Shadowfang Keep only has a handful of quests, and all of them are exclusive to Horde players. It is also one of the few early dungeons with no quest chains, meaning you can grab all available quests right off the bat and they can all be shared with other players.
 
 [![shadowfang keep quests](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Shadowfang-Keep-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Shadowfang-Keep-Quests.png)
+
 ### Horde Quests
 
 #### [Deathstalkers in Shadowfang](https://warcraftdb.com/classic/quest/1098)
@@ -99,6 +97,7 @@ Shadowfang Keep only has a handful of quests, and all of them are exclusive to H
 To complete this you will need to interact with Deathstalker Vincent’s corpse. You can find this just after [Rethilgore](https://warcraftdb.com/classic/shadowfang-keep/rethilgore), to the right of the stairs leading into the courtyard. This quest is finished and turned in within [Shadowfang Keep](https://warcraftdb.com/classic/shadowfang-keep).
 
 [![classic shadowfang keep deathstalkers in shadowfang](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Shadowfang-Keep-Deathstalkers-in-Shadowfang-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Shadowfang-Keep-Deathstalkers-in-Shadowfang.jpg)
+
 #### [The Book of Ur](https://warcraftdb.com/classic/quest/1013)
 
 * **Shareable:** Yes
@@ -116,6 +115,7 @@ To complete this you will need to interact with Deathstalker Vincent’s corpse.
 To finish this, grab the Book of Ur from inside [Shadowfang Keep](https://warcraftdb.com/classic/shadowfang-keep). You can find this standing inconspicuously on a shelf inside the room with [Fenrus the Devourer](https://warcraftdb.com/classic/shadowfang-keep/fenrus-the-devourer), towards the end of the dungeon. This is notoriously easy to forget about in the heat of the moment, so keep it in mind!
 
 [![classic shadowfang keep the book of ur](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Shadowfang-Keep-The-Book-of-Ur-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Shadowfang-Keep-The-Book-of-Ur.jpg)
+
 #### [Arugal Must Die](https://warcraftdb.com/classic/quest/1014)
 
 * **Shareable:** Yes
@@ -153,6 +153,7 @@ There are 9 bosses inside Shadowfang Keep, including one rare boss who does not 
 Rethilgore is the first boss encounter of Shadowfang Keep. He is a level 20 elite humanoid worgen, accompanied by two elite Bleak Worgs and one Shadowfang Whitescalp.
 
 [![rethilgore](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rethilgore.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rethilgore.png)
+
 #### Strategy
 
 * **Tank:** Rethilgore is a boss encounter that requires proper use of defensive mechanics and tactical maneuvering. Tanks should focus on maintaining threat as much as possible in order for the Damage Dealers to go all-out. Bleak Words can severely dampen the casting and attack speed of players with Wavering Will. Tanks should especially beware of Soul Drain as it can cause heavy injuries. Rethilgore is accompanied by adds, you should focus on maintaining aggro on them while your damage dealers kill the adds.
@@ -168,6 +169,7 @@ Rethilgore is the first boss encounter of Shadowfang Keep. He is a level 20 elit
 Razorclaw the Butcher is the second boss encouter of Shadowfang Keep.
 
 [![razorclaw](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Razorclaw.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Razorclaw.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Razorclaw the Butcher is accompanied by adds that should be kept in check first. Mark the adds Skull and X so you don’t have to threat everything at once. Butcher Drain is spammed on the tank.
@@ -185,6 +187,7 @@ Razorclaw the Butcher is the second boss encouter of Shadowfang Keep.
 Baron Silverlaine is the third boss encounter of Shadowfang Keep. He is a level 24 elite Undead. He is accompanied by a full room of adds which need to be cleared before engaging the boss.
 
 [![baron silverlaine](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Silverlaine.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Silverlaine.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Beware of Veil of Shadow as it can reduce healing received by 75%. Veil of Shadow can be interrupted.
@@ -201,6 +204,7 @@ Baron Silverlaine is the third boss encounter of Shadowfang Keep. He is a level 
 Commander Springvale is the fourth boss of Shadowfang Keep. He is a level 24 Undead, which is accompanied by a room full of adds. The encounter can be quite difficult if not approached with patience.
 
 [![commander springvale](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Commander-Springvale.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Commander-Springvale.png)
+
 #### Strategy
 
 * **Tank:** Commander Springvale can be a difficult fight, the boss encounter takes place in a room filled with mobs that need to be dealt with first. Tanks should attempt to pull small groups of enemies before engaging Commander Springvale, as engaging the whole room can be fatal. Wailing Guardsman casts Screams of the Past ability that tanks should be careful of and when the boss reaches 30% health points, he will cast Divine Shield on himself and immediately after Holy Light. Holy Light can be interrupted, as Commander Springvale is casting the ability while under the influence of Divine Shield.
@@ -218,6 +222,7 @@ Commander Springvale is the fourth boss of Shadowfang Keep. He is a level 24 Und
 Odo the Blindwatcher is the fifth boss of Shadowfang Keep. He is a level 24 humanoid Worgen, accompanied by a pack of Vile Bats.
 
 [![odo the blindwatcher](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Odo-the-Blindwatcher.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Odo-the-Blindwatcher.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Tanks should focus on keeping the threat of the Vile Bats while Damage Dealers cleave them. Odo the Blindwatcher casts Howling Rage throughout the fight, progressively gaining more attack power the lesser his health is.
@@ -234,6 +239,7 @@ Odo the Blindwatcher is the fifth boss of Shadowfang Keep. He is a level 24 huma
 Deathsworn Captain is a rare mob who spawns in Shadowfang Keep. The boss has a few Warrior type abilities, and is essentially a tank and spank.
 
 [![deathsworn captain](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Deathsworn-Captain.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Deathsworn-Captain.png)
+
 #### Strategy
 
 * **Tank:** Face the rare mob away from the group to avoid hitting your group with Cleave.
@@ -250,6 +256,7 @@ Deathsworn Captain is a rare mob who spawns in Shadowfang Keep. The boss has a f
 Fenrus the Devourer is the fifth boss encounter of Shadowfang Keep. He is a level 25 elite Dire Wolf that guards the entrance to Arugal’s chambers.
 
 [![fenrus the devourer](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Fenrus-the-Devourer.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Fenrus-the-Devourer.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible to the boss, so the DPS can go all-out. Fenrus the Devourer can deal high amounts of damage so use your defensive cooldowns properly.
@@ -266,6 +273,7 @@ Fenrus the Devourer is the fifth boss encounter of Shadowfang Keep. He is a leve
 Wolf Master Nandos is the sixth boss encounter in Shadowfang Keep. He is a level 25 elite humanoid Worgen that is accompanied by 4 different adds. He guards the door to Arugal’s room.
 
 [![wolf master nandos](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Wolf-Master-Nandos.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Wolf-Master-Nandos.png)
+
 #### Strategy
 
 * **Tank:** Wolf Master Nandos is a Tank and Spank boss encounter that can prove to be difficult for a tank, you should always maintain aggro on the adds that accompany him. Wolf Master Nandos summons his pack of wolves once he reaches 80% health, so be ready to quickly get threat on them before they slay your DPS or healer.
@@ -282,6 +290,7 @@ Wolf Master Nandos is the sixth boss encounter in Shadowfang Keep. He is a level
 The last boss encounter of Shadowfang Keep, Archmage Arugal is a level 26 elite humanoid. He can be found at the end of Shadowfang Keep in a room with 3 other Worgen that need to be killed first.
 
 [![archmage arugal](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Archmage-Arugal.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Archmage-Arugal.png)
+
 #### Strategy
 
 * **Tank:** Archmage Arugal can prove to be a difficult fight, the boss employs different spells, teleporting throughout his chamber and mind-controlling his enemies. Tanks should focus on maintaining aggro on Archmage Arugal at all times since his Void Bolt can be really dangerous for the other players. Shadow damage resistance can greatly aid you in this encounter, and will also reduce the strain on the healer. Arugal’s Curse cannot be dispelled. When your allies get mind-controlled, make sure to not attack them and instead only attempt to crowd control them.
@@ -299,6 +308,7 @@ The last boss encounter of Shadowfang Keep, Archmage Arugal is a level 26 elite 
 Sever **only appears during the Scourge Invasion event** precluding the opening of [Naxxramas](https://www.warcrafttavern.com/wow-classic/guides/naxxramas/). Make sure to get the loot off of this boss while he is available as it is a one-time event.
 
 [![sever](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sever.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sever.png)
+
 #### Strategy
 
 * **Tank:** Tanks need to make sure to take the hits from Sever as he is harder than most bosses in Shadowfang Keep. During the fight, he casts Intimidating Roar so leave room to maneuver him. When he is low on health he will enrage so make sure to save any defensive cooldowns until then.
@@ -324,6 +334,7 @@ Quest Rewards & Loot
   + [Seal of Sylvanas](https://warcraftdb.com/classic/item/6414)
 
 [![classic shadowfang keep quest rewards](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Shadowfang-Keep-Quest-Rewards-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Shadowfang-Keep-Quest-Rewards.png)
+
 ### Boss Drops
 
 * [Rethilgore](https://warcraftdb.com/classic/shadowfang-keep/rethilgore)
@@ -368,6 +379,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

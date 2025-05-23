@@ -1,12 +1,9 @@
 # WoW Classic Skinning Guide 1-300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: May 11, 2019
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -254,7 +251,6 @@ Here are the monsters and corresponding leather material that require skinning a
 
 **Onyxia, Onyxia’s Lair** – Scale of Onyxia: 315 Skinning – Used to craft the Onyxia Scale Cloak, which protects you from Shadow Flame.
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -262,6 +258,3 @@ Here are the monsters and corresponding leather material that require skinning a
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

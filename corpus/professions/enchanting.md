@@ -1,12 +1,9 @@
 # WoW Classic Enchanting Guide 1 – 300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 10, 2019
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -68,21 +65,13 @@ As with most other professions, early skill levels of enchanting can be learned 
 * **Journeyman (75-150) –** You can learn journeyman enchanting from the same trainer that taught you apprentice enchanting. This will the the last time you can raise your skill level cap with them.
 * **Expert (150-225) –** Now, you’ll have to leave the comfort of the city. Alliance players must visit [Kitta Firewind](https://wowclassicdb.com/npc/11072), located at the top of the Tower of Azora in eastern Elwynn Forest. Horde players must seek out [Hgarth](https://wowclassicdb.com/npc/11074) in the Stonetalon Mountains.
 
-
 [![WoW Classic Kitta Firewind Location](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Kitta-Firewind-Location-150x150.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Kitta-Firewind-Location.jpg)
-
 
 Kitta Firewind Location
 
-
 [![WoW Classic Hgarth Location](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Hgarth-Location-150x150.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Hgarth-Location.jpg)
 
-
 Hgarth Location
-
-
-
-
 
 * **Artisan (225-300)** – Once you’re at least 200 skill level in enchanting, you can train to become an artisan. All players must head to the dungeon of Uldaman in the Badlands to speak with master enchanter, [Annora](https://wowclassicdb.com/npc/11073).
 
@@ -101,7 +90,6 @@ Once you’ve made your way inside Uldaman, you’ll want to locate a cavern fou
 [![WoW Classic Uldaman Backdoor](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Uldaman-Backdoor.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Uldaman-Backdoor.jpg)
 
 Uldaman Backdoor Entrance
-
 
 [![WoW Classic Uldaman Enchanting Trainer](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Uldaman-Enchanting-Trainer.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Uldaman-Enchanting-Trainer.jpg)
 
@@ -475,6 +463,3 @@ Enchanting Visual Effects
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

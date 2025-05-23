@@ -1,12 +1,9 @@
 # WoW Classic First Aid Guide – 1 to 300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: December 3, 2018
 * Updated: January 9, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -178,6 +175,3 @@ You can now work on getting honored with Argent Dawn and then buy [Powerful Anti
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

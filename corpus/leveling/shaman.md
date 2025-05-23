@@ -1,12 +1,9 @@
 # WoW Classic Shaman Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: July 31, 2024
 * Updated: July 31, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -137,20 +134,17 @@ As you level, try to feel out your power level vs your enemy’s power and try t
 
 Resist re-applying [Lightning Shield](https://warcraftdb.com/classic/spell/324) everytime it falls off as doing so will stop Spirit based mana regeneration per the 5 second rule. The general rule of thumb is to line up its re-application with other spells to spend resources in bursts.
 
-
 Levels 10-29
 
 Integrate [Searing Totem](https://warcraftdb.com/classic/spell/3599) into your setup with [Earthbind](https://warcraftdb.com/classic/spell/2484). Consider foregoing [Lightning Bolt](https://warcraftdb.com/classic/spell/403) as the mana intensity of your rotation will begin to ramp up. If [Flame Shock](https://warcraftdb.com/classic/spell/8050) is running out, time its re-application with other spells like [Lightning Shield](https://warcraftdb.com/classic/spell/324) to spend mana in bursts. Escape using [Earthbind](https://warcraftdb.com/classic/spell/2484) or [Frost Shock](https://warcraftdb.com/classic/spell/8056) then going into [Ghost Wolf](https://warcraftdb.com/classic/spell/2645) form and running away.
 
 Remember to purchase ankhs for your [Reincarnation](https://warcraftdb.com/classic/spell/20608) spell.
 
-
 Levels 30-40
 
 If you are using a 1H weapon, buff [Windfury Weapon](https://warcraftdb.com/classic/spell/8232).
 
 If you have a slow 2H weapon, use [Rockbiter Weapon](https://warcraftdb.com/classic/spell/8017), as it scales better.
-
 
 ### Swing Timer
 
@@ -186,6 +180,7 @@ Example start attack macro:
 /startattack
 /cast Stormstrike
 ```
+
 ### Combat Efficiency
 
 Slow 2H Weapon + [Rockbiter Weapon](https://warcraftdb.com/classic/spell/8017) = Most Efficient
@@ -512,6 +507,3 @@ You’ll be just frost-shocked at how useful these professions are for a shaman:
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

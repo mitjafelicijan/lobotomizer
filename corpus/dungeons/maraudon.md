@@ -1,12 +1,9 @@
 # WoW Classic Maraudon Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: December 4, 2024
 * Updated: December 4, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -78,6 +75,7 @@ The Maraudon dungeon entrance is located in the Valley of Spears in Desolace. Yo
 
 [![maraudon dungeon entrance location map](https://www.warcrafttavern.com/wp-content/uploads/2024/12/Maraudon-Dungeon-Entrance-Location-Map.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/12/Maraudon-Dungeon-Entrance-Location-Map.jpg)
 [![maraudon wow classic map](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Maraudon-WoW-Classic-Map.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Maraudon-WoW-Classic-Map.png)
+
 ### Maraudon Dungeon Portals
 
 There are three ways to enter the instance. Following the path down from where you enter the caves, you’ll come upon a fork in the road.
@@ -88,6 +86,7 @@ There are three ways to enter the instance. Following the path down from where y
 
 [![maraudon exterior map location](https://www.warcrafttavern.com/wp-content/uploads/2024/12/Maraudon-Exterior-Map-Location.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/12/Maraudon-Exterior-Map-Location.jpg)
 [![maraudon entrances](https://www.warcrafttavern.com/wp-content/uploads/2024/12/Maraudon-Entrances.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/12/Maraudon-Entrances.jpg)
+
 ### The Scepter of Celebras
 
 The [Scepter of Celebras](https://warcraftdb.com/classic/item/17191) is a very useful item to have if you’re going to be farming Maraudon, as it allows you to teleport directly to the Earth Song Falls part of the instance and skip the earlier bosses. To get it, you must complete the quest [The Scepter of Celebras](https://warcraftdb.com/classic/quest/7046).
@@ -298,6 +297,7 @@ There are 9 bosses in Maraudon, split across 4 zones within the dungeon. One of 
 Gizlock is a level 50 elite, who takes after an Engineering Physical DPS class. The boss is found at the bottom of the ramp and following chamber before Princess Theradras, the same area where Landslide can be found at the top of the ramp. Tinkerer Gizlock can also be approached after Rotgrip by swimming to the area of the pool opposite from the Princess, and following the ramp onto the ledge and into Gizlock’s chamber. The boss’ loot table isn’t too large, but two of the three blue drops are Pre-Raid BiS. Gizlock’s Hypertech Buckler is pre-raid BiS for Restoration Shamans. Inventor’s Focal Sword is pre-raid BiS for Warlocks.
 
 [![tinkerer gizlock](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tinkerer-Gizlock.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tinkerer-Gizlock.png)
+
 #### Strategy
 
 * **Tank:** Tanking this fight is not incredibly complicated. Face the boss away from the group, and maintain a steady lead on the threat table.
@@ -315,6 +315,7 @@ Gizlock is a level 50 elite, who takes after an Engineering Physical DPS class. 
 Lord Vyletongue is the First boss on the Shadowshard (Purple) side of Maraudon. The boss is a demon level 47 elite, who has two elite adds with him as well. The boss uses ranged attacks where possible. He will use Smoke Bomb to stun the group for a few seconds, and Blink away from the group to use his ranged abilities.
 
 [![lord vyletongue](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Vyletongue.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Vyletongue.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss and adds with the rest of the group stacked on top of you. If Vyletongue [Blink](https://warcraftdb.com/classic/spell/21655) away, stack right back up on him. Maintain threat on the adds while the group focuses down the boss, then switch to the adds.
@@ -332,6 +333,7 @@ Lord Vyletongue is the First boss on the Shadowshard (Purple) side of Maraudon. 
 The first boss in the Ambershard (Orange) side of Maraudon, Noxxion is a level 48 elite elemental. The boss is a popular kill for acquiring nature resistance gear, especially the trinket Heart of Noxxion. The boss will split into multiple versions of itself during the encounter that need to be defeated.
 
 [![noxxion](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Noxxion.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Noxxion.png)
+
 #### Strategy
 
 * **Tank:** Tanking this boss, it is recommended to pull Noxxion out of the water and onto the land so that AoE attacks (particularly from casters) can land easily. When Noxxion splits into multiple versions, try to keep them from attacking your healer primarily, as well as other party members.
@@ -349,6 +351,7 @@ The first boss in the Ambershard (Orange) side of Maraudon, Noxxion is a level 4
 Razorlash is the second boss on the Orange side of Maraudon and is a straight forward fight.
 
 [![razorlash](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Razorlash.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Razorlash.png)
+
 #### Strategy
 
 * **Tank:** While tanking the boss, face it away from the other players. This is a simple tank and spank encounter.
@@ -367,6 +370,7 @@ Razorlash is the second boss on the Orange side of Maraudon and is a straight fo
 This level 49 elite is the last boss in the front section of Maraudon. Celebras will summon adds during the fight. After defeating Celebras the Cursed, you can complete your quest for the Sceptar of Celebras. This item is invaluable by allowing you to teleport to this location, bypassing the Orange, Purple, and Poison Falls parts of the instance without having to clear them.
 
 [![celebras the cursed](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Celebras-the-Cursed.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Celebras-the-Cursed.png)
+
 #### Strategy
 
 * **Tank:** Celebras and his adds should be tanked where they stand. Use your interrupts in coordination with DPS. Try to keep threat on the boss as well as all of the adds.
@@ -384,6 +388,7 @@ This level 49 elite is the last boss in the front section of Maraudon. Celebras 
 Meshlok is a rare level 48 elite mob at the top of Poison Falls in Maraudon, accessible directly from either the Ambershard or Shadowshard (Orange or Purple) sides of the instance. The boss looks similar to other mobs in the area, so be careful not to bypass it on the way by! Meshlok patrols a small area at the top of the falls.
 
 [![meshlok the harvester](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Meshlok-the-Harvester.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Meshlok-the-Harvester.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing away from the group. You do not need to reposition for any mechanics.
@@ -401,6 +406,7 @@ Meshlok is a rare level 48 elite mob at the top of Poison Falls in Maraudon, acc
 Landslide is a level 50 elite behemoth in the Earth Song Falls region of Maraudon, resembling the Primordial Behemoth Trash in the area. The boss is at the top of a spiral ramp which is a right turn where you would turn left to go to Princess Theradras. The boss hits hard and has high armor, but is nonetheless manageable. Landslide will additionally summon some Theradrim Shardling throughout the encounter.
 
 [![landslide](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Landslide.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Landslide.png)
+
 #### Strategy
 
 * **Tank:** The tank in this fight should engage Landslide where he stands, with their back to a wall. Try to establish threat on the adds when they spawn to keep them off your healer.
@@ -419,6 +425,7 @@ Landslide is a level 50 elite behemoth in the Earth Song Falls region of Maraudo
 Dwelling in the waters beneath Princess Theradras’ platform, the albino crocolisk Rotgrip awaits the group. Sharing these waters are a number of hydra which your group will need to clear to provide space for you to engage Rotgrip. Rotgrip does hit pretty hard compared to other bosses and mobs at this level, so be sure that DPS do not rip threat off of the tank or they will be met with a swift demise.
 
 [![rotgrip](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rotgrip.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rotgrip.png)
+
 #### Strategy
 
 * **Tank:** Use a ranged pull to engage the boss and bring him up to the surface of the water if possible. Face the boss away from the group. Use defensive cooldowns when you receive [Fatal Bite](https://warcraftdb.com/classic/spell/16495), or are coming close to the end of the encounter to secure Rotgrip’s defeat.
@@ -436,6 +443,7 @@ Dwelling in the waters beneath Princess Theradras’ platform, the albino crocol
 Princess Theradras is the last boss of Maraudon, and is highly sought after for her [Blackstone Ring](https://warcraftdb.com/classic/item/17713) drop which serves as pre-raid BiS for nearly all physical classes.
 
 [![princess theradras](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Princess-Theradras.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Princess-Theradras.png)
+
 #### Strategy
 
 * **Tank:** Tank the Princess at the back of her platform to provide the rest of the group with plenty of room to spread out. [Berserker Rage](https://warcraftdb.com/classic/spell/18499) can be used to break the fear effect from [Repulsive Gaze](https://warcraftdb.com/classic/spell/21869).
@@ -533,6 +541,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

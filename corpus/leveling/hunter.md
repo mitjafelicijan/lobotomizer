@@ -1,12 +1,9 @@
 # WoW Classic Hunter Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: July 20, 2024
 * Updated: July 20, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -309,6 +306,3 @@ These professions are excellent for leveling up on a hunter:
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

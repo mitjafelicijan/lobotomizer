@@ -1,12 +1,9 @@
 # WoW Classic Razorfen Kraul Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 24, 2024
 * Updated: November 24, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -78,17 +75,18 @@ There are several quests available for Razorfen Downs.
 | --- | --- | --- |
 | Wow Alliance Crest [Mortality Wanes](https://warcraftdb.com/classic/quest/1142) | [Heralath Fallowbrook](https://wowclassicdb.com/npc/4510) (Razorfen Kraul) | Yes |
 | Wow Alliance Crest [The Crone of the Kraul](https://warcraftdb.com/classic/quest/1101) | [Falfindel Waywarder](https://wowclassicdb.com/npc/4048) (Feralas) | No |
-| Wow Alliance Crest [Fire Hardened Mail](https://warcraftdb.com/classic/quest/1701)([Warrior](https://www.warcrafttavern.com/wow-classic/guides/warrior/) only) | [Furen Longbeard](https://wowclassicdb.com/npc/5413) (Stormwind) | No |
+| Wow Alliance Crest [Fire Hardened Mail](https://warcraftdb.com/classic/quest/1701) ([Warrior](https://www.warcrafttavern.com/wow-classic/guides/warrior/) only) | [Furen Longbeard](https://wowclassicdb.com/npc/5413) (Stormwind) | No |
 | [Going, Going, Guano!](https://warcraftdb.com/classic/quest/1109) | [Master Apothecary Faranell](https://wowclassicdb.com/npc/2055) (Undercity) | Yes |
 | [A Vengeful Fate](https://warcraftdb.com/classic/quest/1102) | [Auld Stonespire](https://wowclassicdb.com/npc/4451) (Thunder Bluff) | Yes |
 | [An Unholy Alliance](https://warcraftdb.com/classic/quest/6522) | [Small Scroll](https://wowclassicdb.com/item/17008) (Razorfen Kraull) | No |
-| [Brutal Armor](https://warcraftdb.com/classic/quest/1838)([Warrior](https://www.warcrafttavern.com/wow-classic/guides/warrior/) only) | [Thun’grim Firegaze](https://wowclassicdb.com/npc/5878) (The Barrens) | No |
+| [Brutal Armor](https://warcraftdb.com/classic/quest/1838) ([Warrior](https://www.warcrafttavern.com/wow-classic/guides/warrior/) only) | [Thun’grim Firegaze](https://wowclassicdb.com/npc/5878) (The Barrens) | No |
 | [Blueleaf Tubers](https://warcraftdb.com/classic/quest/1221) | [Mebok Mizzyrix](https://wowclassicdb.com/npc/3446) (The Barrens) | No |
 | [Willix the Importer](https://warcraftdb.com/classic/quest/1144) | [Willix the Importer](https://wowclassicdb.com/npc/4508) (Razorfen Kraul) | No |
 
 There are 2 quests for Alliance players, 3 for Horde players, and 2 neutral quests that both factions can complete. There is also a quest for each faction that is specific to the Warrior class. Only a few of these quests can be shared, so some running around will be necessary if you want to pick up as many as possible.
 
 [![classic razorfen kraul quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Razorfen-Kraul-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Razorfen-Kraul-Quests.png)[![classic razorfen kraul quests 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Razorfen-Kraul-Quests-2-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Razorfen-Kraul-Quests-2.png)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [Mortality Wanes](https://warcraftdb.com/classic/quest/1142)
@@ -262,6 +260,7 @@ There are eight bosses inside Razorfen Kraul, including two rare bosses who do n
 Roogug is the first boss you will encounter in Razorfen Kraul. He is a level 28 elite Quillboar shaman. He is accompanied by a Death’s Head Seer and a Stone Rumbler elemental that he summons.
 
 [![roogug](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Roogug.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Roogug.png)
+
 #### Strategy
 
 * **Tank:** Make sure you have marked the mobs so everyone in your group knows which one to attack, which one to crowd control, etc. Use your AoE abilities to hold threat on secondary targets while your group kills the primary target. The Death’s Head Seer is the most dangerous, so mark him with a skull.
@@ -277,6 +276,7 @@ Roogug is the first boss you will encounter in Razorfen Kraul. He is a level 28 
 Aggem Thorncurse is the second boss you will encounter in Razorfen Kraul. He is a level 30 elite Quillboar beast master. He will repeatedly summon boar spirits to aid him in combat throughout the encounter.
 
 [![aggem thorncurse](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Aggem-Thorncurse.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Aggem-Thorncurse.png)
+
 #### Strategy
 
 * **Tank:** The spirit boars that Aggem summons have very low HP, so there is no point trying to build threat on them. If they run towards a healer, consider taunting it off of them, but other than that build as much threat as you can on the boss.
@@ -292,6 +292,7 @@ Aggem Thorncurse is the second boss you will encounter in Razorfen Kraul. He is 
 Death Speaker Jargba is the third boss you will encounter in Razorfen Kraul. He is a level 30 elite Quillboar shadow caster. He is accompanied by a Death’s Head Acolyte and a Razorfen Groundshaker.
 
 ![death speaker jargba](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Death-Speaker-Jargba.png)
+
 #### Strategy
 
 * **Tank:** Let your DPS players deal with the Death’s Head Acolyte while you build threat on the Razorfen Groundshaker and Jargba himself. Keep the Razorgen Groundshaker and Jargba himself away from your healer, so they cannot be affected by their stun and mind control abilities. Jargba will spam his Shadow Bolt ability if nobody is within his melee range, causing him to deal a lot more damage. So make sure you’re always close to him.
@@ -309,6 +310,7 @@ Death Speaker Jargba is the third boss you will encounter in Razorfen Kraul. He 
 Overlord Ramtusk is the fourth boss you will encounter in Razorfen Kraul. He is a level 32 elite Quillboar warrior. He is accompanied by two Razorfen Spearhides.
 
 [![overlord ramtusk](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Overlord-Ramtusk.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Overlord-Ramtusk.png)
+
 #### Strategy
 
 * **Tank:** Make sure you have marked the mobs so everyone in your group knows which one to attack, which one to crowd control, etc. Use your AoE abilities to hold threat on secondary targets while your group kills the primary target, which should be marked skull. Pull the Razorfen Spearhides away from your healer and casters, as their Whirling Barrage AoE ability deals a lot of damage.
@@ -325,6 +327,7 @@ Overlord Ramtusk is the fourth boss you will encounter in Razorfen Kraul. He is 
 Earthcaller Halmgar is a rare spawn boss you can encounter in Razorfen Kraul. You can find him in one of the plateaus after the Overlord Ramtusk encounter. He is a level 32 elite Quillboar shaman. He is accompanied by his Stone Rumbler summon.
 
 [![earthcaller halmgar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Earthcaller-Halmgar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Earthcaller-Halmgar.png)
+
 #### Strategy
 
 * **Tank:** Focus your threat on Earthcaller Halmgar. His Stone Rumbler add doesn’t deal a lot of damage and dies quickly, so your DPS players can deal with it. Interrupt Lightning Bolt as much as you can.
@@ -341,6 +344,7 @@ Earthcaller Halmgar is a rare spawn boss you can encounter in Razorfen Kraul. Yo
 Agathelos the Raging is the fifth boss you will encounter in Razorfen Kraul. He is a level 33 elite Boar. Before you can fight him, you must first defeat the mobs that are keeping him sealed: a Death’s Head Seer and 2 Ward Guardians.
 
 [![agathelos the raging](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Agathelos-the-Raging.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Agathelos-the-Raging.png)
+
 #### Strategy
 
 * **Tank:** Be prepared to use a potion or healthstone if you ever find yourself dropping low on health. Agathelos does a very high amount of damage, and an unlucky crit can kill you even at relatively high health. Be sure to stay in melee range of Agathelos to avoid his Rushing Charge ability. If he seems to randomly die before his HP reaches 0, he is feigning death. You need to keep dealing damage to him, or else he will come back stronger.
@@ -357,6 +361,7 @@ Agathelos the Raging is the fifth boss you will encounter in Razorfen Kraul. He 
 Blind Hunter is a rare spawn boss you can encounter in Razorfen Kraul. You can find him at the end of the cave complex, after the Agathelos the Raging encounter. It is a level 32 elite Bat.
 
 [![blind hunter](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Blind-Hunter.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Blind-Hunter.png)
+
 #### Strategy
 
 * **Tank:** Before you engage Blind Hunter, make sure you have killed any nearby bats, to avoid pulling them by accident during the encounter. You are going to get stunned occasionally, possibly losing threat while stunned. Quickly Taunt Blind Hunter and move it away from your casters and healer, so they don’t get silenced.
@@ -374,6 +379,7 @@ Blind Hunter is a rare spawn boss you can encounter in Razorfen Kraul. You can f
 Charlga Razorflank is the sixth and final boss you will encounter in Razorfen Kraul. She is a level 33 elite Quillboar priestess.
 
 [![charlga razorflank](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Charlga-Razorflank.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Charlga-Razorflank.png)
+
 #### Strategy
 
 * **Tank:** Tank Charlga in the middle of the ramp outside her hut. She teleports back to her hut occasionally, so you will have to be quick with grabbing her again.
@@ -445,6 +451,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

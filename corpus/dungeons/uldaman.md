@@ -1,12 +1,9 @@
 # WoW Classic Uldaman Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: December 2, 2024
 * Updated: December 2, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -317,6 +314,7 @@ There are 8 bosses in Uldaman, including one that is only available for Horde pl
 This first encounter in Uldaman is only available to Horde, as the three dwarves, Baelog (41+), Eric “The Swift” (40+), and Olaf (40+), are friendly to Alliance players. Each of the Lost Dwarves has a special ability: Baelog’s ranged attack, Eric’s Rushing Charge, and Olaf’s Shield Slam. Behind the three Lost Dwarves, loot the chest to receive the Gni’kiv Medallion which you will need to summon Ironaya.
 
 [![the lost dwarves](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Lost-Dwarves.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Lost-Dwarves.png)
+
 #### Strategy
 
 * **Tank:** The tank should focus on picking up Olaf, so that he is only casting [Rushing Charge](https://warcraftdb.com/classic/spell/6268) on the tank. Initially the tank should also try to get threat on Eric to avoid the Healer and DPS taking unnecessary damage or being the target of [Rushing Charge](https://warcraftdb.com/classic/spell/6268).
@@ -337,6 +335,7 @@ This first encounter in Uldaman is only available to Horde, as the three dwarves
 Revelosh is a Trogg who’s accompanied by two non-elite trogg adds. The boss drops The Shaft of Tsol, which you will need to summon Ironaya.
 
 [![revelosh](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Revelosh.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Revelosh.png)
+
 #### Strategy
 
 * **Tank:** Generate initial threat on Revelosh and the adds. If possible, interrupt the [Chain Lightning](https://warcraftdb.com/classic/spell/16006) spell while it is being cast.
@@ -355,6 +354,7 @@ Revelosh is a Trogg who’s accompanied by two non-elite trogg adds. The boss dr
 Before the encounter, one player will need to combine The Shaft of Tsol with the Gni’kiv Medallion, both looted from the previous bosses. Ironaya is hard to kill – with high armor, a lot of hit points, immunity to damage over time effects (DoTs) and a knock back ability. Beyond these factors, the fight is a straightforward tank and spank.
 
 [![ironaya](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ironaya.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ironaya.png)
+
 #### Strategy
 
 * **Tank:** The Tank simply needs to pick up Ironaya and face her away from DPS and the Healer to avoid [Arcing Smash](https://warcraftdb.com/classic/spell/8374).
@@ -372,6 +372,7 @@ Before the encounter, one player will need to combine The Shaft of Tsol with the
 Obsidian Sentinel is essentially the boss version of the Stone Steward mobs with higher armor, hit points, and damage over time (DoT) effect immunity. At 66% and 33%, Obsidian Sentinel will spawn two smaller, non elite Obsidian Shard.
 
 [![obsidian sentinel](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Obsidian-Sentinel.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Obsidian-Sentinel.png)
+
 #### Strategy
 
 * **Tank:** In this fight, the tank only needs to take the boss and face him away from the group to allow melee to attack from behind. Pick up adds as they spawn. Do your best to maintain threat on the adds when they spawn as well.
@@ -387,6 +388,7 @@ Obsidian Sentinel is essentially the boss version of the Stone Steward mobs with
 Ancient Sone Keeper is similar to the other stone mobs in the instance, with high health, armor, and immunity to DoT effects. This boss also has a notable Sand Storms ability, which is an AoE slow and silence.
 
 [![ancient stone keeper](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ancient-Stone-Keeper.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ancient-Stone-Keeper.png)
+
 #### Strategy
 
 * **Tank:** Tanking this fight is straightforward: simply maintain threat.
@@ -403,6 +405,7 @@ Ancient Sone Keeper is similar to the other stone mobs in the instance, with hig
 This boss is a Fire casting Dark Iron Dwarf accompanied by two Shadowforge Geologist as adds. This boss is the first in the instance to indicate any potential association of the Dark Iron Dwarves with Ragnaros.
 
 [![galgann firehammer](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Galgann-Firehammer.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Galgann-Firehammer.png)
+
 #### Strategy
 
 * **Tank:** Tanking this fight will be significantly easier if another group member besides the primary tank can pick up one of the Shadowforge Geologists. The Main Tank should separate Galgann from the rest of the group and tank him facing away from the group. Pop any defensive cooldowns early if the healer is having a hard time keeping both tanking players alive.
@@ -421,6 +424,7 @@ This boss is a Fire casting Dark Iron Dwarf accompanied by two Shadowforge Geolo
 Grimlok is another trogg boss in Uldaman, and he is accompanied by a Stonevault Geomancer, Stonevault Brawler, and Jadespine Basilisk. The basic strategy is to focus down Grimlok while the other adds are CC’d. If your group does not have three CC’s available, focus down the Basilisk first.
 
 [![grimlok](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Grimlok.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Grimlok.png)
+
 #### Strategy
 
 * **Tank:** The tank should pick up Grimlok and any other loose mobs, and tank them against a nearby wall.
@@ -438,6 +442,7 @@ Grimlok is another trogg boss in Uldaman, and he is accompanied by a Stonevault 
 The final boss of Uldaman is Archaedas, a level 47+ giant. The boss has Ground Tremor ability, which stuns nearby enemies. Archaedas also summons a lot of non-elite adds. Because of the adds which are summoned from the room the boss is found in, many groups will choose to kite the boss on pull all the way up the ramps to the previous large, circular room with columns to down Archaedas. The boss will continue to summon non-elite Earthern Guardians and Vault Warder adds during the fight. At 20% health, Archaedas will spawn 4 elite adds who also die when the boss does. Groups who have the DPS and can handle the adds well enough should focus on downing the boss while other groups may opt to kill one or two adds before focusing down the boss.
 
 [![archaedas](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Archaedas.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Archaedas.png)
+
 #### Strategy
 
 * **Tank:** Tanking this fight begins with a ranged pull and generating initial threat on the boss, then kiting him up to the previous chamber for the fight. Keep the boss away form the group to help mitigating the effects of [Ground Tremor](https://warcraftdb.com/classic/spell/6524). You will also need to focus on picking up adds as they spawn. Focus on protecting your healer, as DPS can kite and burn down adds that are causing them issues.
@@ -512,7 +517,6 @@ Quest Rewards & Loot
   + [Stoneslayer](https://warcraftdb.com/classic/item/9418)
   + [The Rockpounder](https://warcraftdb.com/classic/item/9413)
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/Lucy-1.jpg)
@@ -520,6 +524,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

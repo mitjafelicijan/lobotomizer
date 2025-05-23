@@ -1,12 +1,9 @@
 # Judgement’s WoW Classic Alliance Leveling Guide 1-60
 
-
-
 * Author: [Judgement](https://www.warcrafttavern.com/author/judgement/)
 * Date: August 17, 2019
 * Updated: October 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -92,8 +89,9 @@
 
 My name is Judgement and I am a Classic WoW enthusiast. I have been playing WoW since Vanilla and in the most recent years I have been spending a lot of time playing Vanilla WoW private servers. After Classic was announced I started to work on leveling routes and doing speedruns which ultimately became the foundation of this guide.
 
-| [**Judgement**](https://www.youtube.com/channel/UCjk6L4aU7V3ikLIc0Yp4BAA) | [**Judgement\_classicwow**](https://twitter.com/Judgement_WoW) | **Judgement#2170** | [**Judgement\_Classicwow**](https://www.twitch.tv/judgement_classicwow) |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| [**Judgement**](https://www.youtube.com/channel/UCjk6L4aU7V3ikLIc0Yp4BAA) | [**Judgement\_classicwow**](https://twitter.com/Judgement_WoW) | **Judgement#2170** | [**Judgement\_Classicwow**](https://www.twitch.tv/judgement_classicwow) |
 | [Youtube Icon](https://www.youtube.com/channel/UCjk6L4aU7V3ikLIc0Yp4BAA) | [Twitter Icon](https://twitter.com/Judgement_WoW) | Discord Icon | [Twitch Icon](https://www.twitch.tv/judgement_classicwow) |
 
 **If you would like to support me and my work, I have set up a patreon here:**
@@ -128,25 +126,18 @@ Having a good weapon is crucial for leveling fast. Some of the weapon upgrades I
 ----------------------
 
 * [**Questie**](https://www.warcrafttavern.com/addons/questie/)  
-  
   Shows all available quests on the map for both accept and turn-ins. I will not be super detailed about where to pick up quests so if you aren’t familiar with them this is helpful. Also shows quest information on enemy mouseover for quest item drops.
 * [QuestLogEx](https://www.warcrafttavern.com/addons/questlogex/)  
-  
   Gives you a bigger quest log so you can see your current quests in a much better view.
 * [**Classic Castbars**](https://github.com/wardz/ClassicCastbars)  
-  
   Enables enemy cast bars, very valuable for knowing when and what to interrupt.
 * [**Onebag3**](https://www.warcrafttavern.com/addons/onebag3-classic/)  
-  
   I would strongly recommend having a bag addon to be able to sort your bags and bank easier and saving time when selling stuff to vendors etc.
 * [**OmniCC**](https://www.warcrafttavern.com/addons/omnicc/)  
-  
   Add timers on your debuffs on targets. This feature doesn’t exist in standard Classic UI and is very good to know for judgements, repentance, hoj etc.
 * [**Auto Attack Bar**](https://github.com/boxto/AbarClassic)  
-  
   Will give you a “cast bar” for your auto attacks, useful in order to be able to time your seals and judgements in order not to lose out on any damage.
 * [**Leatrix Plus**](https://www.warcrafttavern.com/addons/leatrix-plus-classic/)  
-  
   Addon that can simplify and automate many functions like quest accepts and turn ins. Will save you a lot of clicks and time if you are trying to level fast. Also has many other functions like automatic ress accept, summon accept, automatic vendor sell/repair etc.
 
 **Bank Alt**
@@ -292,7 +283,6 @@ As I said earlier, dungeons are great for catching up on missing XP or a great a
 22. HS to Ironforge.
 23. Train spells, get new skinning / First aid if you need it.
 24. Leave Ironforge and head west in Dun Morogh. Head to this place marked with an X, run up the mountain to the top and then jump down and die on the other side. You will ress at the graveyard in Wetlands just outside Menethil Harbor. Take ress sickness and run into town. If you are unsure about the jump look for a video on youtube how to do it.  
-    
     ![Wow Classic Alliance Leveling Guide Dun Morogh 2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-Dun-Morogh-2.jpg)
 25. In Menethil Harbor, take FP and then take the boat to Darkshore. You can train your first aid, fix your UI, Addons etc while waiting on the boat.
 
@@ -560,7 +550,6 @@ Chapter 2
 10. Continue up the slope to the gnoll camps and go into the cave and kill Drudgers for Rethban Ore.
 11. Leave the cave and continue through the gnoll camps to Yowler. If you are alone you can kite him away from the camp and kill him solo.
 12. Continue east, kill Blackrock Orcs, Shadowhide Gnolls and Lieutenant Fangore.  
-    
     [![Wow Classic Alliance Leveling Guide 22 23 Redridge Mountains](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-22-23-Redridge-Mountains.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-22-23-Redridge-Mountains.jpg)
 13. Turn in [A Watchful Eye](https://wowclassicdb.com/quest/94) at the Lion statue, accept [Looking Further](https://wowclassicdb.com/quest/248).
 14. (Optional) Run up the tower and find An Empty Jar to turn in [Looking Further](https://wowclassicdb.com/quest/248) at the top. It’s guarded by elites so there’s two ways to do this. 1, run up and die, then LoS mobs in the tower by standing on the edge of the wall and click the jar before they see you. Or 2, have a friend aggro all the orcs while you run up and click the jar.
@@ -641,7 +630,6 @@ Chapter 2
    15. Kill the Fen Creepers in the swamp while grinding for Sida’s bag at Ironbeard’s Tomb.
    16. When you got Sida’s bag, turn in [Blisters on the Land](https://wowclassicdb.com/quest/275), then go north to Dun Modr and turn in [Fall of Dun Modr](https://wowclassicdb.com/quest/472).
    17. Go to the Thandol Span Bridge and jump down into the water on the left side, get the waterlogged letter from under the dead dwarf, then HS to Menethil.  
-       
        [![Thandol Span Waterlogged Letter](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Thandol-Span-Waterlogged-Letter.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Thandol-Span-Waterlogged-Letter.png)
    18. Turn in [The Absent Minded Prospector](https://wowclassicdb.com/quest/943), [Digging through the Ooze](https://wowclassicdb.com/quest/470), [War Banners](https://wowclassicdb.com/quest/464) and [In Search of the Excavation Team](https://wowclassicdb.com/quest/306).
    19. Fly to Ironforge, click on the Waterlogged letter and accept [Sully Balloo’s Letter](https://wowclassicdb.com/quest/637). Turn in at the Military Ward and accept next.
@@ -760,14 +748,12 @@ Chapter 3
 5. Attack Slim before he runs away and defeat him, turn in, accept next, turn in, accept next.
 6. Accept [Lifting the Curse](https://wowclassicdb.com/quest/290) and [Nek’rosh’s Gambit](https://wowclassicdb.com/quest/465).
 7. Go north along the coast to the boat wreckages and do [Lifting the Curse](https://wowclassicdb.com/quest/290). Loot the key from Captain Halyndor on the ship and then turn in Lifting the Curse at a box in the ship’s bottom floor. Accept [The Eye of Paleth](https://wowclassicdb.com/quest/292).  
-   
    [![Wow Classic Alliance Leveing Guide 30 31 Wetlands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveing-Guide-30-31-Wetlands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveing-Guide-30-31-Wetlands.jpg)
 8. Go east and turn in [Nek’rosh’s Gambit](https://wowclassicdb.com/quest/465) in the Dragonmaw Orc camp. If there are people around who can help you, do the follow up elite Quest Defeat Nek’Rosh, otherwise skip.
 9. Go north to Dun Modr and accept [The Thandol Span](https://wowclassicdb.com/quest/631).
 10. You have two elite quests here A Grim Task and The Dark Iron War, if you have a group of 3+ ppl you can do them, otherwise skip.
 11. Go north to the middle of the bridge and go down the tunnel on the right side, ignore the mobs and click on dead dwarf to turn in [The Thandol Span](https://wowclassicdb.com/quest/631), accept follow up and run out fast to avoid dying.
 12. Turn in [The Thandol Span](https://wowclassicdb.com/quest/632) back at Dun Modr, accept next.  
-    
     [![Wow Classic Alliance Leveling Guide 30 31 Arathi](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-30-31-Arathi.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-30-31-Arathi.jpg)
 13. Pass the bridge into Arathi and take the other small hang-bridge to your right, click the cart of explosives and then go back and turn in [The Thandol Span](https://wowclassicdb.com/quest/633).
 14. Accept [Plea to the Alliance](https://wowclassicdb.com/quest/634).
@@ -776,7 +762,6 @@ Chapter 3
 17. Take Flightpath.
 18. Do Northfold Manor northwest of Refugee Pointe.
 19. When done, continue west to Hillsbrad, run to Southshore.  
-    
     [![Wow Classic Alliance Leveling Guide 30 31 Hillsbrad](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-30-31-Hillsbrad.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-30-31-Hillsbrad.jpg)
 20. Turn in [Southshore](https://wowclassicdb.com/quest/538). Accept [Down the Coast](https://wowclassicdb.com/quest/536) and [Soothing Turtle Bisque](https://wowclassicdb.com/quest/7321) in the Inn.
 21. Kill murlocs southwest, go back and turn in [Down the Coast](https://wowclassicdb.com/quest/536), accept [Farren’s Proof](https://wowclassicdb.com/quest/559).
@@ -799,7 +784,6 @@ Chapter 3
 5. Accept [Highperch Venom](https://wowclassicdb.com/quest/1135) in the inn.
 6. Turn in [They call him Smiling Jim](https://wowclassicdb.com/quest/128) and [The Missing Diplomat](https://wowclassicdb.com/quest/1264), accept follow up.
 7. Buy 3 soothing spices from vendor in house if you don’t have any.  
-   
    [![Wow Classic Alliance Leveling Guide 31 32 Dustwallow Marsh](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-31-32-Dustwallow-Marsh.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-31-32-Dustwallow-Marsh.jpg)
 8. Run to Sentry Point and turn in [The Missing Diplomat](https://wowclassicdb.com/quest/1265), accept next
 9. Run to Swamplight Manor and accept/turn in [Soothing Spices](https://wowclassicdb.com/quest/1218).
@@ -808,7 +792,6 @@ Chapter 3
 12. Run towards The Barrens.
 13. Get the quests at the Shady Rest Inn at the Barrens border, [The Black Shield](https://wowclassicdb.com/quest/1276), [Suspicious Hoofprints](https://wowclassicdb.com/quest/1284) and [Lieutenant Paval Reethe](https://wowclassicdb.com/quest/1269).
 14. Continue south in the Barrens to the Great Lift at Thousand Needles border.  
-    
     [![Wow Classic Alliance Leveling Guide 31 32 Thousand Needles](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-31-32-Thousand-Needles.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-31-32-Thousand-Needles.jpg)
 15. Take quest [Lonebrow’s Journal](https://wowclassicdb.com/quest/1100) from a book on the ground next to a dead dwarf after you come down the lift.
 16. Run west to Thalanaar at the Feralas border and turn in Lonebrow’s Journal, get FP!
@@ -816,7 +799,6 @@ Chapter 3
 18. Continue east, grind along the way to Shimmering Flats.
 19. Turn in [The Brassbolts Brothers](https://wowclassicdb.com/quest/2769).
 20. Accept [Rocket Car Parts](https://wowclassicdb.com/quest/1110), [Salt Flat Venom](https://wowclassicdb.com/quest/1104), [Hardened Shells](https://wowclassicdb.com/quest/1105), [Load Lightening](https://wowclassicdb.com/quest/1176), [A Bump in the Road](https://wowclassicdb.com/quest/1175).  
-    
     [![Wow Classic Alliance Leveling Guide 31 32 Shimmering Flats](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-31-32-Shimmering-Flats.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-31-32-Shimmering-Flats.jpg)
 21. Do all Shimmering Flats quest you just accepted, prioritize the birds for Load Lightening since there are not many spawns and it’s important for a long follow up quest chain.
 22. You should also get Crystalized Scales for Retrieval for Mauren while killing basilisks in the flats.
@@ -882,7 +864,6 @@ Chapter 3
 7. Set your HS in Ironforge!
 8. Fly to Southshore.
 9. Accept [Hint’s of a New Plague](https://wowclassicdb.com/quest/658), [Costly Menace](https://wowclassicdb.com/quest/564), [Crushridge Bounty](https://wowclassicdb.com/quest/500), [Bartolo’s Yeti fur Cloak](https://wowclassicdb.com/quest/565) and [Syndicate Assassins](https://wowclassicdb.com/quest/505).  
-   
    [![Wow Classic Alliance Leveling Guide 33 34 Alterac Mountains](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-33-34-Alterac-Mountains.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-33-34-Alterac-Mountains.jpg)
 10. Go to the Yeti cave and kill yetis and collect Alterac Granite, skip if too much horde around being aggressive towards you.
 11. Go north into alterac and kill cougars and syndicates.
@@ -903,7 +884,6 @@ Chapter 3
 4. When you arrive in Desolace run to Nijel’s point.
 5. Turn in [Reclaimers’ Business in Desolace](https://wowclassicdb.com/quest/1453).
 6. Accept [The Karnitol Shipwreck](https://wowclassicdb.com/quest/1454), [Reagents for Reclaimers’ inc](https://wowclassicdb.com/quest/1458), [Centaur Bounty](https://wowclassicdb.com/quest/1387), [Vahlarriel’s Search](https://wowclassicdb.com/quest/1437) and [Down the Scarlet Path](https://wowclassicdb.com/quest/261).  
-   
    [![Wow Classic Alliance Leveling Guide 34 35 Desolace](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-34-35-Desolace.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-34-35-Desolace.jpg)
 7. Set HS and take FP!
 8. Kill Satyrs southeast of Nijel’s Point, then go back to Nijel’s and turn in [Reagents for Reclaimers’ inc](https://wowclassicdb.com/quest/1458). Accept next.
@@ -1031,7 +1011,6 @@ This part can be counted as a Class Quest for Paladins and should not be done if
 5. Accept [Keeping Pace](https://wowclassicdb.com/quest/1190), create the diversion by talking to another goblin nearby and turn in [Keeping Pace](https://wowclassicdb.com/quest/1190) in the hut with Rizzle, accept [Rizzle’s Schematics](https://wowclassicdb.com/quest/1194), turn it in.
 6. Accept [Delivery to the Gnomes](https://wowclassicdb.com/quest/1114) and turn in. Accept The [Rumormonger](https://wowclassicdb.com/quest/1115).
 7. HS to Theramore.  
-   
    [![Wow Classic Alliance Leveling Guide 38 38 Dustwallow Marsh](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-38-38-Dustwallow-Marsh.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-38-38-Dustwallow-Marsh.jpg)
 8. Accept [The Deserters](https://wowclassicdb.com/quest/1286) in the keep and [Mudrock Soup and Bugs](https://wowclassicdb.com/quest/1204) in the Inn.
 9. Go to Swamplight Manor, accept [Jarl Needs Eyes](https://wowclassicdb.com/quest/1206).
@@ -1119,7 +1098,6 @@ Chapter 4
 4. Take boat to Ratchet.
 5. If you did Down the Scarlet Path last time you were in Desolace, DON’T go there and skip to point 17.
 6. Fly to Nijel’s Point in Desolace.  
-   
    [![Wow Classic Alliance Leveling Guide 40 40 Desolace](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-40-40-Desolace.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-40-40-Desolace.jpg)
 7. Accept [Reagents for Reclaimers’ inc](https://wowclassicdb.com/quest/1466) and [Down the Scarlet Path](https://wowclassicdb.com/quest/261).
 8. Go pick up [Ghost-o-Plasm Round Up](https://wowclassicdb.com/quest/6134) at the Kodo Graveyard
@@ -1172,7 +1150,6 @@ Chapter 4
 
 1. This part can be skipped by doing SM or Stromgarde Elite quests. Because it’s underwater it can be quite annoying and time consuming if you don’t have underwater breathing.
 2. Fly to Arathi, accept [Wand over Fist](https://wowclassicdb.com/quest/693).  
-   
    [![Wow Classic Alliance Leveling Guide 41 41 Arathi Highlands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-41-41-Arathi-Highlands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-41-41-Arathi-Highlands.jpg)
 3. Run southeast to the Ogre caves and kill Kor’Gresh for Wand over Fist.
 4. Run back to Refuge and turn in [Wand over Fist](https://wowclassicdb.com/quest/693), then run south to Faldir’s Cove.
@@ -1181,10 +1158,13 @@ Chapter 4
 7. Escort the gnome to the cave, there will spawn a few water elementals, shouldn’t be a problem.
 8. Turn in [Sunken Treasure](https://wowclassicdb.com/quest/665), accept follow up.
 9. Go underwater and kill nagas, get boat charts and Elven gems. Be careful not to drown, hence the underwater breathing potion I mentioned earlier.  
-   
+
    [![Sunken Treasure 1](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-1-300x176.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-1.png)
+
    [![Sunken Treasure 2](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-2-300x154.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-2.png)
+
    [![Sunken Treasure 3](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-3-300x153.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-3.png)
+
    [![Sunken Treasure 4](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-4-300x192.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Sunken-Treasure-4.png)
 10. Look for rare naga Prince Nazjak that drops Tidal Charm trinket., this is a very strong pvp trinket for all classes. He can be in one of the boats or in the ruins. Use a “/target Prince” macro and use it when you quest here to find him easier.
 11. Turn in [Deep Sea Salvage](https://wowclassicdb.com/quest/662), [Drowned Sorrows](https://wowclassicdb.com/quest/664) and [Sunken Treasure](https://wowclassicdb.com/quest/666). Accept next, then turn in [Sunken Treasure](https://wowclassicdb.com/quest/668) again and accept next.
@@ -1260,11 +1240,9 @@ Chapter 4
 27. HS back to Booty Bay or if HS is on cooldown run to Nethergarde Keep and fly.
 28. <WEAPON UPGRADE> You should start looking to buy a new BOE weapon now if you didn’t get one from Uldaman. There isn’t really any more weapons you can get until you either do Maraudon Princess runs at around lvl 50, and if you are leveling fast people will probably not have the scepter ready by then. The weapons I recommend looking out for are [**Blade of the Titans**](https://wowclassicdb.com/item/13043) and [**Executioner’s Cleaver**](https://wowclassicdb.com/item/13018). Expect to pay up to 50g+ for one of them. It may seem much but this weapon will last until 60 if needed so it’s definitely worth.
 
-
 [![Blade Of The Titans](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Blade-of-the-Titans.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Blade-of-the-Titans.png)
+
 [![Executioner’s Cleaver](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Executioners-Cleaver.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Executioners-Cleaver.png)
-
-
 
 #### 43-44 Tanaris
 
@@ -1277,7 +1255,6 @@ Chapter 4
 7. Fly to Gadgetzan, Run to Shimmering flats and turn in [Zanzil’s Mixture and a Fool’s Stout](https://wowclassicdb.com/quest/1119), accept [Get the Gnomes Drunk](https://wowclassicdb.com/quest/1120), turn in at the gnome standing nearby.
 8. Accept [Report back to Fizzlebub](https://wowclassicdb.com/quest/1122) and [Gahz’rilla](https://wowclassicdb.com/quest/2770) if you plan to do ZF.
 9. Run back to Gadgetzan.  
-   
    [![Wow Classic Alliance Leveling Guide 43 44 Tanaris](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-43-44-Tanaris.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-43-44-Tanaris.jpg)
 10. Turn in [Tran’rek](https://wowclassicdb.com/quest/2864), accept [Gadgetzan Water Survey](https://wowclassicdb.com/quest/992).
 11. Go west, do water survey in the small water pond next to the elite trolls, run away when the beetles spawn.
@@ -1300,7 +1277,6 @@ Chapter 4
 4. On your way to Feathermoon you can kill Ironfur Bears and Screechers.
 5. When you get to the beach swim to Feathermoon, it’s faster than taking the boat.
 6. Set HS, take FP.  
-   
    [![Wow Classic Alliance Leveling Guide 44 45 Feralas](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-44-45-Feralas.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-44-45-Feralas.jpg)
 7. Accept [The Mark of Quality](https://wowclassicdb.com/quest/2822), [The Ruins of Solarsal](https://wowclassicdb.com/quest/2866), [The Missing Courier](https://wowclassicdb.com/quest/4124), [The High Wilderness](https://wowclassicdb.com/quest/2982) and [In Search of Knowledge](https://wowclassicdb.com/quest/2939).
 8. Turn in [The Missing Courier](https://wowclassicdb.com/quest/4124), accept next.
@@ -1349,7 +1325,6 @@ Chapter 4
 5. HS back to Gadgetzan, turn in [The Borrower](https://wowclassicdb.com/quest/2941) and accept [The Super Snapper FX](https://wowclassicdb.com/quest/2944).
 6. Fly to Theramore, take the boat to Wetlands then fly to IF and get new spells.
 7. Fly to Aerie Peak, Hinterlands.  
-   
    [![Wow Classic Alliance Leveling Guide 45 46 Hinterlands](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-45-46-Hinterlands.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-45-46-Hinterlands.jpg)
 8. Accept [Witherbark Cages](https://wowclassicdb.com/quest/2988), [Troll Necklace Bounty](https://wowclassicdb.com/quest/2881) and [Skulk Rock Cleanup](https://wowclassicdb.com/quest/2877).
 9. Set HS!
@@ -1378,7 +1353,6 @@ Chapter 4
 6. For solo players, accept [The Dunemaul Compound](https://wowclassicdb.com/quest/5863). Run south into the desert and accept [Gahz’Ridian](https://wowclassicdb.com/quest/3161).
 7. Because of lack of quests for now we are going to grind to 47 on the Ogres in the Dunemaul Compound or Pirates in Lost Rigger Cove.
 8. If you have trouble finding Gahz’Ridian Ornaments look at Southmoon Ruins.  
-   
    [![Wow Classic Alliance Leveling Guide 46 47 Tanaris](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-46-47-Tanaris.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-46-47-Tanaris.jpg)
 9. You can stop grinding when you are around 9k xp from 47 and turn in [Gahz’Ridian](https://wowclassicdb.com/quest/3161) and [The Dunemaul Compound](https://wowclassicdb.com/quest/5863).
 10. Save 15 silk cloth for next questing area.
@@ -1396,7 +1370,6 @@ Chapter 4
 8. Accept [Divine Retribution](https://wowclassicdb.com/quest/3441) before going up to Thorium Point, listen to Kalaran’s story and then turn it in. Accept [The Flawless Flame](https://wowclassicdb.com/quest/3442).
 9. Run up to Thorium Point, accept: [WANTED: Overseer Maltorius](https://wowclassicdb.com/quest/7701), [STOLEN: Smithing Tuyere and Lookout’s Spyglass](https://wowclassicdb.com/quest/7728), [JOB OPPORTUNITY: Culling the Competition](https://wowclassicdb.com/quest/7729), [Curse these fat Fingers](https://wowclassicdb.com/quest/7723), [Fiery Menace!](https://wowclassicdb.com/quest/7724), [Incendosaurs? Whateverosaur is more like it](https://wowclassicdb.com/quest/7727) and [What the Flux?](https://wowclassicdb.com/quest/7722)
 10. Take FP and stock up on food/water and repair.  
-    
     [![Wow Classic Alliance Leveling Guide 47 48 Searing Gorge](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-47-48-Searing-Gorge.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-47-48-Searing-Gorge.jpg)
 11. Our first objective is to complete The Flawless Flame. Kill Heavy War Golems, Magma Elementals and Fire Elementals to get the stuff you need. Of course you can also kill the other stuff you have quests for while searching for these like Dark Iron dwarves or spiders, but focus on getting The Flawless Flame completed first.
 12. When you got Golem oil and Hearts of Flame return to Kalaran and turn in [The Flawless Flame](https://wowclassicdb.com/quest/3442), accept [Forging the Shaft](https://wowclassicdb.com/quest/3443).
@@ -1468,7 +1441,6 @@ Chapter 4
 10. Turn in [In Good Taste](https://wowclassicdb.com/quest/2606), accept [Sprinkle’s Secret Ingredient](https://wowclassicdb.com/quest/2641) and [The Scrimshank Redemption](https://wowclassicdb.com/quest/10).
 11. Go do The Scrimshank Redemption in the southern bug hive, If you looted a OOX-17/TN Distress Beacon you can turn it in before going down into the hive. Skip follow up.
 12. After you got the gear HS to Gadgetzan or die and take spirit ress.  
-    
     [![Wow Classic Alliance Leveling Guide 48 49 Tanaris](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-48-49-Tanaris.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-48-49-Tanaris.jpg)
 13. Turn in [The Scrimshank Redemption](https://wowclassicdb.com/quest/10). Accept [Insect Part Analysis](https://wowclassicdb.com/quest/110), turn in, accept next, turn in again and accept [Rise of the Silithid](https://wowclassicdb.com/quest/4267).
 14. Fly to Ratchet and pick up the Stone Circle from Marvon’s Chest. Accept [Volcanic Activity](https://wowclassicdb.com/quest/4502) inside the hut.
@@ -1482,17 +1454,11 @@ Chapter 4
 1. Accept all the quests from the Bloodmages to the west to kill and collect stuff in Blasted Lands.
 2. Kill beasts in Blasted lands for the quests, focus on birds, basilisks and boars since there are fewer of them. Keep doing laps around the northern and center part of the zone and kill everything.
 3. When you complete a quest you can turn it in to make it easier to see how much you have left since they all require the same items. In total to complete all the quests you need the following:  
-   
    6x [Blasted Boar Lung](https://wowclassicdb.com/item/8392)  
-   
    6x [Scorpok Pincer](https://wowclassicdb.com/item/8393)  
-   
    11x [Basilisk Brain](https://wowclassicdb.com/item/8394)  
-   
    5x [Snickerfang Howl](https://wowclassicdb.com/item/8391)  
-   
    14x [Vulture Gizzard](https://wowclassicdb.com/item/8396)  
-   
    Since you need the most of Brains and Gizzard and they are the hardest to get you may not be able to complete all of the quests, if it takes too long to get a certain item, skip the quest that requires many of that item.
 4. When done with the quests, keep the consumables you get for progression raids.
 5. Fly to Booty Bay.
@@ -1540,7 +1506,6 @@ Chapter 5
 7. Continue southwest to the ramp down to Un’Goro Crater.
 8. When you arrive in Un’Goro, keep an eye out for Power Crystals and Un’Goro Soil. We will be picking these up the whole time we are down here.
 9. When you come down the ramp into Un’Goro accept [The Apes of Un’Goro](https://wowclassicdb.com/quest/4289) and [The Fare of Lar’Korwi](https://wowclassicdb.com/quest/4290).  
-   
    [![Wow Classic Alliance Leveling Guide 50 51 Un'goro Crater](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-50-51-UnGoro-Crater.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-50-51-UnGoro-Crater.jpg)
 10. Go northwest until you come to the second pool of water, click on the Wrecked Raft and accept [It’s a Secret to Everybody](https://wowclassicdb.com/quest/3844). Swim down in the pool and click on the bag to turn in, accept next.
 11. Grind your way northeast until you find the Fresh Threshadon Carcass. Loot it and return to Torwa to turn in [The Fare of Lar’Korwi](https://wowclassicdb.com/quest/4290). Accept [The Scent of Lar’Korwi](https://wowclassicdb.com/quest/4291).
@@ -1574,14 +1539,12 @@ Chapter 5
 3. Turn in [A little Slime goes a Long Way](https://wowclassicdb.com/quest/4513) in the Hall of Explorers, accept next.
 4. Accept [Call to Arms: The Plaguelands](https://wowclassicdb.com/quest/5091) from Courier Hammerfall whos walking around Ironforge.
 5. Fly to Chillwind Camp in Western Plaguelands.  
-   
    [![Wow Classic Alliance Leveling Guide Chillwind Camp](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-Chillwind-Camp.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-Chillwind-Camp.jpg)
 6. Turn in [Call to Arms: The Plaguelands](https://wowclassicdb.com/quest/5091), accept [Clear the Way](https://wowclassicdb.com/quest/5092). Also accept and turn in [Argent Dawn Commission](https://wowclassicdb.com/quest/5503) to get your trinket to be able to loot scourgestones.
 7. Go to Sorrow Hill and kill undead for Clear the Way.
 8. Go back to Chillwind Camp and turn in [Clear the Way](https://wowclassicdb.com/quest/5092).
 9. Accept [The Scourge Cauldrons](https://wowclassicdb.com/quest/5228) and turn it in at the High Priestess nearby.
 10. Fly to Aerie Peak, run to the small pond west of Altar of Zul and pick up a Violet Tragan Mushroom.  
-    
     [![Wow Classic Alliance Leveling Guide 51 Altar Of Zul](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-51-Altar-of-Zul.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-51-Altar-of-Zul.jpg)
 11. HS to Ironforge.
 
@@ -1590,7 +1553,6 @@ Chapter 5
 1. If you didn’t do the elite quests in Searing Gorge you can go there now and try to do them. You should be able to solo the elites and complete the Torch of Retribution questline, the other quests are a bonus.
 2. Otherwise, fly to Lakeshire and then run north to Burning Steppes.
 3. Go to Morgan’s Vigil and accept [Extinguish the Firegu](https://wowclassicdb.com/quest/3823)t, [FIFTY! YEP](https://wowclassicdb.com/quest/4283)!, and [Dragonkin Menace](https://wowclassicdb.com/quest/4182). Also take FP.  
-   
    [![Wow Classic Alliance Leveling Guide 51 52 Burning Steppes](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-51-52-Burning-Steppes.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-51-52-Burning-Steppes.jpg)
 4. Run northwest to the horde/neutral outpost Flame Crest and turn in [Yuka Screwspigot](https://wowclassicdb.com/quest/4324).
 5. Accept [Tablet of the Seven](https://wowclassicdb.com/quest/4296) and [Broodling Essence](https://wowclassicdb.com/quest/4726).
@@ -1616,7 +1578,6 @@ Chapter 5
 7. Accept [Chasing A-Me 01](https://wowclassicdb.com/quest/4245) at the entrance ramp to Marshal’s Refuge.
 8. Finish up Super Sticky if you didn’t complete it last time you were here.
 9. Start killing Oozes you see and use the Pure sample Jars on them.  
-   
    [![Wow Classic Alliance Leveling Guide 52 53 Un'goro Crater](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-52-53-UnGoro-Crater.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-52-53-UnGoro-Crater.jpg)
 10. Go east and finish up The Apes of Un’Goro. Go inside the cave and take the first fork right, turn in [Chasing A-Me 01](https://wowclassicdb.com/quest/4245). Accept the follow up and turn in the Mithril Casing.
 11. Accept the follow up which is a semi-long escort all the way back to Marshal’s.
@@ -1694,7 +1655,6 @@ Chapter 5
 13. Go north to Felstone Field. Kill undead around the Cauldron and kill Cauldron Lord Bilemaw for the key to the Cauldron.
 14. Click on the Cauldron to turn in [Target: Felstone Field](https://wowclassicdb.com/quest/5229), accept [Return to Chillwind Camp](https://wowclassicdb.com/quest/5223).
 15. Go into the house, on the second floor there is a ghostly woman offering you a quest, accept [Better Late Than Never](https://wowclassicdb.com/quest/5023).  
-    
     [![Wow Classic Alliance Leveling Guide 54 55 Wpl](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-54-55-WPL.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-54-55-WPL.jpg)
 16. Go into the Barn next door and click on the package on the floor and turn in [Better late than Never](https://wowclassicdb.com/quest/5023), then click on the package again and accept the next part.
 17. Return to Chillwind Camp and turn in [Return to Chillwind Camp](https://wowclassicdb.com/quest/5223), accept [Target: Dalson’s Tears](https://wowclassicdb.com/quest/5231).
@@ -1723,7 +1683,6 @@ Chapter 5
 40. Go to Sorrow Hill and turn in [Auntie Marlene](https://wowclassicdb.com/quest/5152), accept [A Strange Historian](https://wowclassicdb.com/quest/5153).
 41. Click on the gravestone outside and loot the wedding ring.
 42. Run back around and enter Andorhal from the west side.  
-    
     [![Wow Classic Alliance Leveling Guide 54 55 Wpl Andorhal](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-54-55-WPL-Andorhal.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-54-55-WPL-Andorhal.jpg)
 43. Use the torch to mark the first tower, then go to the Inn building and make your way to the second floor where Chromie is. Turn in [A Strange Historian](https://wowclassicdb.com/quest/5153).
 44. Accept [The Annals of Darrowshire](https://wowclassicdb.com/quest/5154) and [A Matter of Time](https://wowclassicdb.com/quest/4971).
@@ -1740,21 +1699,17 @@ Chapter 5
 55. Go collect watches from small boxes in Andorhal, also kill skeletons for fragments.
 56. Make your way to the center and run into the big central building, there will be tons of mobs outside so you will probably aggro them and die, but it’s fine as long as you die inside the house.
 57. Now we need to find the Annals book, as you can see there are tons of books on the floor, and if you click the wrong book dangerous monsters will spawn. There is a way to know which book is the correct one though, since it looks a little bit different, look at these two pictures and you can see the left one has much better graphics and clearer pages, that’s the correct book, should only be one good book and many bad.  
-    
+
     [![Counting Out Time Correct Book](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Counting-out-Time-Correct-Book.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Counting-out-Time-Correct-Book.png)
-    
-    
+
     Correct Book
-    
-    
+
     [![Counting Out Time Wrong Book](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Counting-out-Time-Wrong-Book.png)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Counting-out-Time-Wrong-Book.png)
-    
-    
+
     Incorrect Book
 58. After you got the annals run back to Chromie and turn in [Counting out Time](https://wowclassicdb.com/quest/4973) and [The Annals of Darrowshire](https://wowclassicdb.com/quest/5154).
 59. Accept [Brother Carlin](https://wowclassicdb.com/quest/5210).
 60. Finish up Skeletal Fragments in Andorhal or Sorrow Hill.  
-    
     [![Wow Classic Alliance Leveling Guide 54 55 Wpl Chillwind](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-54-55-WPL-Chillwind.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-54-55-WPL-Chillwind.jpg)
 61. Go to The Writhing Haunt and turn in [The Wildlife Suffers Too](https://wowclassicdb.com/quest/4985). Accept [Glyphed Oaken Branch](https://wowclassicdb.com/quest/4987).
 62. Go east to Gahrron’s Withering and do the cauldon there, then accept [Return to Chillwind Point](https://wowclassicdb.com/quest/5226).
@@ -1772,7 +1727,6 @@ Chapter 5
 5. Fly to Lakeshire.
 6. Turn in [The True Masters](https://wowclassicdb.com/quest/4186), accept follow up.
 7. Fly to Morgan’s Vigil in Burning Steppes.  
-   
    [![Wow Classic Alliance Leveling Guide 55 55 Burning Steppes](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-55-Burning-Steppes.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-55-Burning-Steppes.jpg)
 8. Turn in [The True Masters](https://wowclassicdb.com/quest/4223), accept next.
 9. Accept [Gor’tesh the Brute Lord](https://wowclassicdb.com/quest/3824).
@@ -1806,12 +1760,10 @@ Chapter 5
 19. You should loot an Empty Firewater Flask while killing the Furbolgs, click on it and accept [Winterfall Firewater](https://wowclassicdb.com/quest/5083).
 20. Turn in [Winterfall Activity](https://wowclassicdb.com/quest/8464) at the Timbermaw Tunnel.
 21. Turn in [Threat of the Winterfall](https://wowclassicdb.com/quest/5082) and [Winterfall Firewater](https://wowclassicdb.com/quest/5083) at Donova, accept [Falling to Corruption](https://wowclassicdb.com/quest/5084).  
-    
     [![Wow Classic Alliance Leveling Guide 55 56 Winterspring](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Winterspring.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Winterspring.jpg)
 22. Run back to Everlook.
 23. Fly to Azshara.
 24. Run all the way east to The Ravencrest Monument and jump off the cliffs, then swim to the small island where Duke Hydraxis is.  
-    
     [![Wow Classic Alliance Leveling Guide 55 56 Azshara](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Azshara.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Azshara.jpg)
 25. Accept [Stormers and Rumblers](https://wowclassicdb.com/quest/6805) and [Poisoned Water](https://wowclassicdb.com/quest/6804).
 26. HS to Astranaar.
@@ -1835,7 +1787,6 @@ Chapter 5
 44. Run to Cenarion Hold and take the FP.
 45. HS to Astranaar, if HS is on cooldown, go northwest and kill Desert Rumblers and Dust Stormers until it comes back off.
 46. Run to Emerald Sanctuary in Felwood.  
-    
     [![Wow Classic Alliance Leveling Guide 55 56 Felwood](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Felwood.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Felwood.jpg)
 47. Turn in [Dousing the Flames of Protection](https://wowclassicdb.com/quest/5165), [Linken’s Memory](https://wowclassicdb.com/quest/3942), [Rescue from Jaedenar](https://wowclassicdb.com/quest/5203) and [Felbound Ancients](https://wowclassicdb.com/quest/4441).
 48. Accept [Silver Heart](https://wowclassicdb.com/quest/4084) and [Purified](https://wowclassicdb.com/quest/4442), turn in [Purified](https://wowclassicdb.com/quest/4442).
@@ -1846,7 +1797,6 @@ Chapter 5
 53. Take the Timbermaw tunnel to Winterspring and go to Donova Snowden.
 54. Turn in [Mystery Goo](https://wowclassicdb.com/quest/5085), accept [Toxic Horrors](https://wowclassicdb.com/quest/5086).
 55. Go to Lake Kel’theril and use the pick to gather the four Relic Fragments.  
-    
     [![Wow Classic Alliance Leveling Guide 55 56 Relic Fragments](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Relic-Fragments.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-55-56-Relic-Fragments.jpg)
 56. Continue to Everlook and fly to Ratchet.
 57. Take the boat to Booty Bay, then fly to Stormwind.
@@ -1866,7 +1816,6 @@ Chapter 5
 8. Combine the charms and return to the ghost in the house and turn in [Two Halves Become One](https://wowclassicdb.com/quest/5051).
 9. Run east to EPL border, follow the river north to Tirion Fordring.
 10. Accept [Demon Dogs](https://wowclassicdb.com/quest/5542), [Blood Tinged Skies](https://wowclassicdb.com/quest/5543) and [Carrion Grubbage](https://wowclassicdb.com/quest/5544).  
-    
     [![Wow Classic Alliance Leveling Guide 56 57 Epl](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-56-57-EPL.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-56-57-EPL.jpg)
 11. Grind you way east, kill all Plaguehounds, Plaguebats and Carrion Grubs.
 12. Stop by at the Marris Stead and pick up the Insignia’s from the skeletons around the area for The Eastern Plagues.
@@ -1898,7 +1847,6 @@ Chapter 5
 38. Look for a group to kill Araj The Summoner again in Andorhal.
 39. Continue north to Northridge Lumber camp, click the box inside the mill and place the termites, then click the barrel that appears and turn in [A Plague upon Thee](https://wowclassicdb.com/quest/5904). Accept follow up.
 40. Grind on scarlets around the lumber mill to 57 if you aren’t already.  
-    
     [![Wow Classic Alliance Leveling Guide 56 57 Hearthglen](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-56-57-Hearthglen.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-56-57-Hearthglen.jpg)
 41. Continue northeast down a slope and accept [Unfinished Business](https://wowclassicdb.com/quest/6004).
 42. Go east and kill Scarlet members for Unfinished Business, you will find the medics and hunters further southeast in a small camp and Knights/mages along the road.
@@ -1965,7 +1913,6 @@ Chapter 5
 7. Also complete any other quests in Un’Goro you might not have completed earlier.
 8. Return to Marshal’s Refuge and turn in [It’s Dangerous to go Alone](https://wowclassicdb.com/quest/3962).
 9. Fly to Cenarion Hold, Silithus.  
-   
    [![Wow Classic Alliance Leveling Guide 58 58 Silithus](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-58-58-Silithus.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alliance-Leveling-Guide-58-58-Silithus.jpg)
 10. Go northwest and kill Desert Rumblers and Dust Stormers.
 11. Go south and kill Tortured Druids and Sentinels in Southwind Village.
@@ -2005,9 +1952,10 @@ We have now reached the end of the guide. I hope you found it helpful and you re
 You still have a few elite quests scattered around Azeroth to do, and of course lots of dungeon quests. If you are not yet 60 I recommend any of the following:
 
 1. Grind! Probably the fastest way to 60, some spots I recommend are:  
-   
-   | -Furbolgs in Winterspring | Timbermaw rep, Firewater,Winterfall E’ko |
+
+   |  |  |
    | --- | --- |
+   | -Furbolgs in Winterspring | Timbermaw rep, Firewater,Winterfall E’ko |
    | -Owlbeasts in Winterspring | Lots of vendor greys |
    | -Elementals in Silithus | Hydraxian rep, Elemental earth, Essence of Earth |
    | -Satyrs in Felwood | Runecloth, Felcloth, Demonic runes |
@@ -2017,11 +1965,6 @@ You still have a few elite quests scattered around Azeroth to do, and of course 
 
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/51645c1c5ade716bf3c80fede65de2c1.jpg?ver=1738159085)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/51645c1c5ade716bf3c80fede65de2c1.jpg?ver=1747896925)
 
 #### Judgement
-
-
-
-
-

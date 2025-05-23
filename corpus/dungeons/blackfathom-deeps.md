@@ -1,12 +1,9 @@
 # WoW Classic Blackfathom Deeps Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 23, 2024
 * Updated: November 23, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -84,11 +81,12 @@ Blackfathom Deeps has 9 total quests:
 | [The Essence of Aku’mai](https://warcraftdb.com/classic/quest/6563) | [Je’neu Sancrea](https://wowclassicdb.com/npc/12736) (Ashenvale) | Yes |
 | [Amongst the Ruins](https://warcraftdb.com/classic/quest/908) | [Je’neu Sancrea](https://wowclassicdb.com/npc/12736) (Ashenvale) | Yes |
 | [Baron Aquanis](https://warcraftdb.com/classic/quest/78920) | [Strange Water Globe](https://warcraftdb.com/classic/item/16782) (Blackfathom Deeps) | No |
-| Wow Alliance Crest [Blackfathom Villainy](https://warcraftdb.com/classic/quest/78921) [Blackfathom Villainy](https://warcraftdb.com/classic/quest/78922) | [Argent Guard Thaelrid](https://wowclassicdb.com/npc/4787) (Blackfathom Deeps) | Yes |
+| Wow Alliance Crest [Blackfathom Villainy](https://warcraftdb.com/classic/quest/78921)  [Blackfathom Villainy](https://warcraftdb.com/classic/quest/78922) | [Argent Guard Thaelrid](https://wowclassicdb.com/npc/4787) (Blackfathom Deeps) | Yes |
 
 4 of these quests are exclusive to Horde and 3 are exclusive to Alliance, plus 1 quest that is technically Neutral but which must be picked up in Darnassus. Both factions are able to complete Blackfathom Villainy, which is obtained inside the dungeon. So each faction can complete a total of 5 quests in Blackfathom Deeps. (Horde *could* complete 6 if you are crazy enough to pick up In Search of Thaelrid in Darnassus.)
 
 [![classic blackfathom deeps quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Blackfathom-Deeps-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Blackfathom-Deeps-Quests.png)[![classic blackfathom deeps quests 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Blackfathom-Deeps-Quests-2-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Blackfathom-Deeps-Quests-2.png)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [In Search of Thaelrid](https://warcraftdb.com/classic/quest/78924)
@@ -108,6 +106,7 @@ Blackfathom Deeps has 9 total quests:
 [Argent Guard Thaelrid](https://wowclassicdb.com/npc/4787) can be found in an alcove of the room where you face [Ghamoo-ra](https://warcraftdb.com/classic/blackfathom-deeps/ghamoora/map#default)
 
 [![classic in search of thaelrid](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-In-Search-of-Thaelrid-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-In-Search-of-Thaelrid.png)
+
 #### [Twilight Falls](https://warcraftdb.com/classic/quest/78925)
 
 * **Shareable:** Yes
@@ -133,6 +132,7 @@ Blackfathom Deeps has 9 total quests:
 * [Twilight Shadowmage](https://wowclassicdb.com/npc/4813)
 
 [![classic twilight falls](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Twilight-Falls-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Twilight-Falls.png)
+
 #### [Knowledge in the Deeps](https://warcraftdb.com/classic/quest/78923)
 
 * **Shareable:** Yes
@@ -148,6 +148,7 @@ Blackfathom Deeps has 9 total quests:
 The [Lorgalis Manuscript](https://warcraftdb.com/classic/item/5359) can be found inside an alcove of the room where you face [Ghamoo-ra](https://warcraftdb.com/classic/blackfathom-deeps/ghamoora/map#default).
 
 [![classic knowledge in the deeps](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Knowledge-in-the-Deeps-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Knowledge-in-the-Deeps.png)
+
 #### [Researching the Corruption](https://warcraftdb.com/classic/quest/78926)
 
 * **Shareable:** Yes
@@ -179,6 +180,7 @@ The breadcrumb quest that leads to this one, [The Corruption Abroad](https://war
 * [Lady Sarevess](https://warcraftdb.com/classic/blackfathom-deeps/lady-sarevess)
 
 [![classic researching the corruption](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Researching-the-Corruption-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Researching-the-Corruption.jpg)
+
 ### Horde Quests
 
 #### [Allegiance to the Old Gods](https://warcraftdb.com/classic/quest/6564)
@@ -217,6 +219,7 @@ Before you can pick up this quest, you must complete [Trouble in the Deeps](http
 This quest is completed right *outside* of the dungeon. Look for the [Sapphire of Aku’Mai](https://warcraftdb.com/classic/item/16784) rystals crowing on the cavern walls that lead up to the dungeon entrance.
 
 [![classic the essence of akumai 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Essence-of-Akumai-2-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Essence-of-Akumai-2.jpg)
+
 #### [Amongst the Ruins](https://warcraftdb.com/classic/quest/908)
 
 * **Shareable:** Yes
@@ -232,6 +235,7 @@ This quest is completed right *outside* of the dungeon. Look for the [Sapphire o
 To get the [Fathom Core](https://warcraftdb.com/classic/item/16762), click on a standing stone underwater in the instance, which spawns [Baron Aquanis](https://warcraftdb.com/classic/blackfathom-deeps/baron-aquanis). After you kill him, each party member must then click the stone to grab it.
 
 [![amongst the ruins quest](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Amongst-the-Ruins-Quest-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Amongst-the-Ruins-Quest.png)
+
 #### [Baron Aquanis](https://warcraftdb.com/classic/quest/78920)
 
 * **Shareable:** No
@@ -249,6 +253,7 @@ To get the [Fathom Core](https://warcraftdb.com/classic/item/16762), click on a 
 To pick up this quest, you’ll first have to summon [Baron Aquanis](https://warcraftdb.com/classic/blackfathom-deeps/baron-aquanis). See the quest above this one for how to do that. He drops a [Strange Water Globe](https://warcraftdb.com/classic/item/16782), which starts this quest. You simply need to hand it in to [Je’neu Sancrea](https://wowclassicdb.com/npc/12736).
 
 [![baron aquanis quest](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Aquanis-Quest-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Aquanis-Quest.png)
+
 ### Neutral Quests
 
 #### Wow Alliance Crest [Blackfathom Villainy](https://warcraftdb.com/classic/quest/78921)/ [Blackfathom Villainy](https://warcraftdb.com/classic/quest/78922)
@@ -290,6 +295,7 @@ There are eight bosses inside Blackfathom Deeps. Two of them, [Lorgus Jett](http
 Ghamoo-ra is the first boss in Blackfathom Deeps. The boss has high armor, and will Trample a random party member.
 
 [![ghamoo ra](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ghamoo-ra.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ghamoo-ra.png)
+
 #### Strategy
 
 * **Tank:** Face the boss away from the group and maintain threat. Reposition after Trample.
@@ -306,6 +312,7 @@ Ghamoo-ra is the first boss in Blackfathom Deeps. The boss has high armor, and w
 Lady Sarevess is the second boss encountered in Blackfathom Deeps, and is accompanied by two adds.
 
 [![lady sarevess](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Sarevess.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Sarevess.png)
+
 #### Strategy
 
 * **Tank:** Tank all three of the mobs as the encounter starts. To make the fight easiest, have one of the adds CC’d while tanking and burning down the other one.
@@ -323,6 +330,7 @@ Lady Sarevess is the second boss encountered in Blackfathom Deeps, and is accomp
 Gelihast is an optional Murloc boss located in Blackfathom Deeps who casts immobilizing Net against his enemies. Pull the adds in his room one at a time to clear it out, then try to pull the boss alone. Remember to click the stone behind him once you’ve defeated him for Blessing of Blackfathom.
 
 [![gelihast](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gelihast.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gelihast.png)
+
 #### Strategy
 
 * **Tank:** Pull the adds one at a time before pulling Gelihast. There is no good place to LOS pull the casters, so try to pulling them far back to get them a safe distance from the rest of the murlocs.
@@ -340,6 +348,7 @@ Gelihast is an optional Murloc boss located in Blackfathom Deeps who casts immob
 Lorgus Jett is a miniboss that is needed for a Horde quest. He drops no special loot but is a named mob.
 
 [![lorgus jett](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lorgus-Jett.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lorgus-Jett.png)
+
 #### Strategy
 
 * **Tank:** This is an easy tank and spank fight. Make sure to hold aggro.
@@ -355,6 +364,7 @@ Lorgus Jett is a miniboss that is needed for a Horde quest. He drops no special 
 Baron Aquanis is another miniboss that is summoned when Horde party members loot the Fathom Stone for a dungeon quest.
 
 [![baron aquanis](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Aquanis.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Aquanis.png)
+
 #### Strategy
 
 * **Tank:** This is an easy tank and spank fight. Make sure to hold aggro.
@@ -370,6 +380,7 @@ Baron Aquanis is another miniboss that is summoned when Horde party members loot
 Twilight Lord Kelris is an Orc Warlock located in the ceremonial chamber before the final room of the instance.
 
 [![twilight lord kelris](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Twilight-Lord-Kelris.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Twilight-Lord-Kelris.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from the group, maintaining threat throughout the fight. If put to Sleep, be ready to use high threat abilities or taunt to regain aggro on the boss.
@@ -386,6 +397,7 @@ Twilight Lord Kelris is an Orc Warlock located in the ceremonial chamber before 
 Old Serra’kis is an optional boss in Blackfathom Deeps who will periodically heal himself when attacking. The notable aspect of this boss is that you fight him underwater.
 
 [![old serrakis](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Old-Serrakis.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Old-Serrakis.png)
+
 #### Strategy
 
 * **Tank:** Maintain threat on the boss without running out of breath.
@@ -403,6 +415,7 @@ Old Serra’kis is an optional boss in Blackfathom Deeps who will periodically h
 Aku’mai is the final Hydra boss of Blackfathom Deeps who uses Poison Cloud to damage the group.
 
 [![akumai](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Akumai.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Akumai.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from the healer and ranged DPS. Move out of Poison Cloud. Use defensive CDs when he casts Frenzied Rage.
@@ -439,6 +452,7 @@ Quest Rewards & Loot
   + [Gravestone Scepter](https://warcraftdb.com/classic/item/7001)
 
 [![classic blackfathom deeps quest rewards](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Blackfathom-Deeps-Quest-Rewards-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Blackfathom-Deeps-Quest-Rewards.png)
+
 ### Boss Drops
 
 * [Ghamoo-ra](https://warcraftdb.com/classic/blackfathom-deeps/ghamoora)
@@ -473,6 +487,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

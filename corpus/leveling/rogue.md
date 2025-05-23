@@ -1,12 +1,9 @@
 # WoW Classic Rogue Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: July 28, 2024
 * Updated: November 14, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -383,6 +380,3 @@ Rogues will find the greatest use from these professions:
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

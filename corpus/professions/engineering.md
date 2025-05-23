@@ -1,12 +1,9 @@
 # WoW Classic Engineering Guide 1 – 300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 7, 2019
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -358,7 +355,6 @@ In total, these will require:
 
 Upon handing them in, players will receive their [Goblin Engineer Membership Card](https://wowclassicdb.com/item/10791) and officially become a Goblin Engineer. Now, you can craft lethal bombs like [The Big One](https://wowclassicdb.com/item/10586) and the [Goblin Sapper Charge](https://wowclassicdb.com/item/10646) or gear with useful effects like the [Goblin Rocket Boots](https://wowclassicdb.com/item/7189) and the [Goblin Rocket Helmet](https://wowclassicdb.com/item/10588).
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -366,6 +362,3 @@ Upon handing them in, players will receive their [Goblin Engineer Membership Car
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

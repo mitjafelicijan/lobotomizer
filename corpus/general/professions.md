@@ -1,12 +1,9 @@
 # WoW Classic Professions Overview
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 17, 2019
 * Updated: September 19, 2022
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -38,12 +35,11 @@ A primary profession is a gathering or crafting profession. A single character c
 
 Gathering professions allow a character to collect materials that are found throughout the world. Players can use the materials collected from a gathering profession to level a crafting profession, or they can sell the materials on the auction house for gold.
 
-
 ![wow classic herbalism](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-herbalism.png)
+
 ![wow classic mining](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-mining.png)
+
 ![wow classic skinning](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-skinning.png)
-
-
 
 * **[Herbalism](https://www.warcrafttavern.com/wow-classic/guides/herbalism-1-300/):** Acquiring the herbalism skill allows the player to harvest herbs, flowers, and plants found throughout Azeroth. Herbs are frequently used in Alchemy.
 * **[Mining](https://www.warcrafttavern.com/wow-classic/guides/mining-1-300/):** Learning the mining profession allows a character to use a mining pick to mine mineral deposits or veins found in the world for ore, gems or stones. Miners can also use forges to smelt collected ore into bars of metal. Materials collected from mining are primarily used in recipes for Blacksmithing and Engineering.
@@ -53,15 +49,17 @@ Gathering professions allow a character to collect materials that are found thro
 
 Crafting professions create unique items and gear that provide benefit to players. When playing end-game content, many of the items and gear created by the crafting professions provide substantial benefits, and can be sold on the auction house as a strategy for making gold.
 
-
 ![wow classic alchemy](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-alchemy.png)
+
 ![wow classic blacksmithing](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-blacksmithing.png)
+
 ![wow classic enchanting](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-enchanting.png)
+
 ![wow classic engineering](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-engineering.png)
+
 ![wow classic leatherworking](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-leatherworking.png)
+
 ![wow classic tailoring](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-tailoring.png)
-
-
 
 * **[Alchemy](https://www.warcrafttavern.com/wow-classic/guides/alchemy-1-to-300/):** Alchemists use herbs and reagents to craft powerful potions, elixirs, flasks oils, and other liquid alchemical substances. Craftables are stored in vials or flasks. Higher-level alchemists can learn transmutation, which allows the alchemist to convert metals and essences into other substances. Alchemists can specialize as a Master of Potions, Master of Elixirs or a Master of Transmutation, which provides additional bonuses to those crafting skills. They can also create Arcanite Bars, exclusively created by the Alchemist, making it a lucrative choice.
 * **[Blacksmithing](https://www.warcrafttavern.com/guides/blacksmithing-1-300/):** Blacksmiths can craft metal weapons, mail, and plate armor as well as various trade goods such as keys, shield-spikes and weapon chains. In addition, blacksmiths can make items from stone to provide temporary weapon buffs. A unique benefit of becoming a blacksmith is that they can add a socketed gem to one-handed weapons, bracers, and gloves, which provides useful stat bonuses. Blacksmiths can choose to specialize as an Armorsmith or a Weaponsmith.
@@ -75,12 +73,11 @@ Secondary Professions
 
 Secondary professions are professions that can be leveled by any character, regardless of whether or not they have already acquired two primary professions. A single character can level all of the secondary professions in addition to their primary professions.
 
-
 ![wow classic cooking](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-cooking.png)
+
 ![wow classic first aid](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-first-aid.png)
+
 ![wow classic fishing](https://www.warcrafttavern.com/wp-content/uploads/2020/10/wow-classic-fishing.png)
-
-
 
 * **[Cooking](https://www.warcrafttavern.com/guides/vanilla-wow-cooking-guide-1-300):** Learning the cooking profession allows players to create food items that can be consumed to provide temporary buffs that increase stats and give passive abilities. Cooking requires a campfire.
 * **[First Aid](https://www.warcrafttavern.com/wow-classic/guides/first-aid-1-300/):** Learning the first aid profession allows the player to create bandages and poison-cleansing anti-venoms. This profession is especially useful for classes that are not able to heal themselves. Bandages can be used to restore health either on the player or on a target player within the same faction.
@@ -126,6 +123,3 @@ A character must continue to train in proficiencies to continue gaining skill le
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

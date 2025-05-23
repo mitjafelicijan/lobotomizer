@@ -1,12 +1,9 @@
 # WoW Classic Herbalism Guide 1 to 300
 
-
-
 * Author: [Nevermore](https://www.warcrafttavern.com/author/nevermore/)
 * Date: March 22, 2022
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -194,7 +191,6 @@ Continue gathering Firebloom in the same locations.
 
 And you’ve finished! Congratulations! Now, you can gather and sell some of the most essential reagents in WoW Classic.
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/sylvanas.jpg)
@@ -202,6 +198,3 @@ And you’ve finished! Congratulations! Now, you can gather and sell some of the
 #### Nevermore
 
 Hey there folks, I am Nevermore and have been deeply passionate about WoW for more than a decade. Whether we talk about the hidden mysteries of Azeroth or the otherworldly Outland, my journey brought me here to share the things that I have experienced with you all.
-
-
-

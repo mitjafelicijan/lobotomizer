@@ -1,12 +1,9 @@
 # WoW Classic Stratholme Undead Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 21, 2025
 * Updated: January 23, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -102,8 +99,8 @@ There are six faction-neutral quests that can be completed inside the Undead win
 | [Above and Beyond](https://wowclassicdb.com/quest/5263) | [Duke Nicholas Zverenhoff](https://wowclassicdb.com/npc/11039) (Eastern Plaguelands) | Yes |
 | [Houses of the Holy](https://wowclassicdb.com/quest/5243) | [Leonid Barthalomew the Revered](https://wowclassicdb.com/npc/11036) (Eastern Plaguelands) | Yes |
 
-
 [![stratholme quests map](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Map-1-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Map-1.jpg)
+
 ### Horde Quests
 
 #### [Ramstein](https://wowclassicdb.com/quest/6163)
@@ -138,11 +135,9 @@ Head back to Nathanos Blightcaller to turn these in and he’ll now offer you [R
 
 Nathanos Blightcaller at The Marris Stead
 
-
 [![stratholme quests ramstein the gorger](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Ramstein-the-Gorger-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Ramstein-the-Gorger.jpg)
 
 Ramstein the Gorger in Stratholme
-
 
 ### Neutral Quests
 
@@ -165,7 +160,6 @@ To get this quest, you must first complete [The Medallion of Faith](https://wowc
 
 Aurius in Stratholme
 
-
 #### [Menethil’s Gift](https://wowclassicdb.com/quest/5463)
 
 * **Shareable:** No
@@ -185,11 +179,9 @@ When you reach this quest, you’ll need to enter the Undead wing of the Stratho
 
 Leonid Barthalomew at Light’s Hope Chapel
 
-
 [![stratholme quests menethils gift](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Menethils-Gift-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Menethils-Gift.jpg)
 
 Menethil’s Gift in Stratholme
-
 
 #### [The Flesh Does Not Lie](https://wowclassicdb.com/quest/5212)
 
@@ -208,7 +200,6 @@ This quest tasks you with entering the Stratholme dungeon and looting 10 [Plague
 [![scholomance quests betina bigglezink](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Betina-Bigglezink-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Betina-Bigglezink.jpg)
 
 Betina Bigglezink at Light’s Hope Chapel
-
 
 #### [The Active Agent](https://wowclassicdb.com/quest/5213)
 
@@ -231,7 +222,6 @@ This quest follows the one above, and requires you to loot [Scourge Data](https:
 
 Scourge Data in Stratholme
 
-
 #### [Above and Beyond](https://wowclassicdb.com/quest/5263)
 
 * **Shareable:** Yes
@@ -251,7 +241,6 @@ Once you’ve picked up this quest, make your way through the Undead wing of Str
 [![duke nicholas zverenhoff argent dawn](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Duke-Nicholas-Zverenhoff-Argent-Dawn-1024x540.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Duke-Nicholas-Zverenhoff-Argent-Dawn.jpg)
 
 Duke Nicholas Zverenhoff at Light’s Hope Chapel
-
 
 #### [Houses of the Holy](https://wowclassicdb.com/quest/5243)
 
@@ -276,7 +265,6 @@ For this quest, you’ll need to enter Stratholme and loot the Supply Crates and
 
 A Stratholme Supply Crate in Stratholme
 
-
 Bosses
 ------
 
@@ -297,6 +285,7 @@ There are 9 bosses in the Undead version of Stratholme, including one Rare boss 
 Nerub’enkan stands at the top of the first small ziggurat you encounter off to the left. Be sure to clear any groups of hostile mobs in the area before engaging Nerb’enkan, as it will complicate the encounter to include them at the same time. After defeating the boss, be sure to clear the Thuzadin Acolytes within the ziggurat.
 
 [![nerub'enkan](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Nerubenkan.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Nerubenkan.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss at the top of the ramp of the ziggurat where it already stands. Try to be sure you are always in line of sight of your healer. When adds spawn, utilize AoE effects to establish some threat on them. Escape [Encasing Webs](https://warcraftdb.com/classic/spell/4962) if possible, but you should be able to maintain threat while snared.
@@ -321,6 +310,7 @@ Nerub’enkan stands at the top of the first small ziggurat you encounter off to
 Stonespine is a rare spawn that patrols around the area between Nerub’enkan and Baroness Anastari’s ziggurats.
 
 [![stonespire](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Stonespire.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Stonespire.png)
+
 #### Strategy
 
 * **Tank:** Tanking this rare mob is nothing out of the ordinary. Pull it away from areas where other mobs are patrolling and use defensive cooldowns to handle the [Vicious Rend](https://warcraftdb.com/classic/spell/14331) bleed effect.
@@ -338,6 +328,7 @@ Stonespine is a rare spawn that patrols around the area between Nerub’enkan an
 The Black Guard Swordsmith will spawn if someone clicks on the pattern on the ground. This will easily happen if a party member doesn’t realize what will happen so this boss usually comes as an unexpected add while the party is pulling regular mob packs.
 
 [![black guard swordsmith](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Black-Guard-Swordsmith.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Black-Guard-Swordsmith.png)
+
 #### Strategy
 
 * **Tank:** The Black Guard Swordsmith will spawn if someone clicks on the pattern on the ground. This will easily happen if a party member doesn’t realize what will happen so this boss usually comes as an unexpected add while the party is pulling regular mob packs.
@@ -353,6 +344,7 @@ The Black Guard Swordsmith will spawn if someone clicks on the pattern on the gr
 Baroness Anastari is a banshee type who stands atop the second ziggurat you encounter in the instance. Anastari will Possess group members during the encounter who will need to be brought to 50% health before the mind control is broken. Possess, alongside her Silence and Banshee Curse can make this fight a challenge. Once defeated, do not forget to clear the inside of the ziggurat of Thuzadin Acolytes.
 
 [![baroness anastari](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baroness-Anastari.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baroness-Anastari.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss atop the ziggurat. Switch to the [Possess](https://warcraftdb.com/classic/spell/17244) party member when necessary, then reestablish yourself atop the threat meter for Baroness.
@@ -377,6 +369,7 @@ Baroness Anastari is a banshee type who stands atop the second ziggurat you enco
 Maleki the Pallid stands atop the third and final ziggurat. He hits hard, but he is easier than the other two bosses. Just make sure to not get adds during the fight.
 
 [![maleki the pallid](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Maleki-the-Pallid.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Maleki-the-Pallid.png)
+
 #### Strategy
 
 * **Tank:** Maleki actually hits pretty hard, so utilize your defensive cooldowns as necessary. Interrupt [Drain Life](https://warcraftdb.com/classic/spell/17238) and [Frostbolt](https://warcraftdb.com/classic/spell/17503) if possible. He will use [Ice Tomb](https://warcraftdb.com/classic/spell/16869) against the primary threat target, which should be the tank. As soon as you are free, taunt the boss back and reestablish threat.
@@ -402,6 +395,7 @@ Maleki the Pallid stands atop the third and final ziggurat. He hits hard, but he
 Magistrate Barthilas is either located near the church at the beginning of the instance, or just before the courtyard where you fight Ramstein. The boss drops the Key to the City which gets you in the back gate.
 
 [![magistrate barthilas](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Magistrate-Barthilas.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Magistrate-Barthilas.png)
+
 #### Strategy
 
 * **Tank:** Position Barthilas facing away from the group and towards a wall so that his [Mighty Blow](https://warcraftdb.com/classic/spell/14099) does not knock you into other mobs.
@@ -423,6 +417,7 @@ Magistrate Barthilas is either located near the church at the beginning of the i
 Ramstein the Gorger will spawn in the courtyard before Baron Rivendare’s room once you have defeated all of the abominations that patrol the courtyard. The fight is straightforward, but Ramstein hits hard and has a threat drop mechanic.
 
 [![ramstein the gorger](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ramstein-the-Gorger.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ramstein-the-Gorger.png)
+
 #### Strategy
 
 * **Tank:**The boss will enter the room once the last abomination has been cleared. Pull him away from the group and establish threat. Be sure you have a taunt ability prepared to get aggro back on the boss when he uses [Knockout](https://warcraftdb.com/classic/spell/17307).
@@ -445,6 +440,7 @@ Ramstein the Gorger will spawn in the courtyard before Baron Rivendare’s room 
 Baron Rivendare is the final boss encounter for Strat Undead, and drops the infamous Deathcharger’s Reins. The Baron also drops the T0 Leg pieces for all class sets and multiple Pre-raid BiS items. The boss is challenging as he reduces healing capabilities on the tank via Mortal Strike, and deals considerable damage to all party members in close proximity via Unholy Aura.
 
 [![baron rivendare](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Rivendare.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Baron-Rivendare.png)
+
 #### Strategy
 
 * **Tank:** Make sure everyone is ready to run in with you, as the door will close when you engage Baron Rivendare. Run in, and take the Baron to the back right side of the room upon entry, opposite where ranged DPS and your healer should be. Put your back to a wall so that melee can position themselves well and avoid being hit by [Cleave](https://warcraftdb.com/classic/spell/). Prepare your defensive cooldowns for whenever you are affected by [Mortal Strike](https://warcraftdb.com/classic/spell/19643). When skeletons spawn, trust that your DPS will make quick work of them and do not try to pick them up because you don’t want to turn Baron Rivendare around or put your ranged/healer in his [Unholy Aura](https://warcraftdb.com/classic/spell/28340).
@@ -482,6 +478,7 @@ Baron Rivendare is the final boss encounter for Strat Undead, and drops the infa
 Balzaphon appears near the entrance of Strat Undead during the Scourge Invasion event. He is a straight forward fight so make sure to get the loot from him before he disappears.
 
 [![balzaphon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Balzaphon.png)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Balzaphon.png)
+
 #### Strategy
 
 * **Tank:** Balzaphon appears near the entrance of Strat Undead during the Scourge Invasion event. He is a straight forward fight so make sure to get the loot from him before he disappears.
@@ -607,6 +604,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

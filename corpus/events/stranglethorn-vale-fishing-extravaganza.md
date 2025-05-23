@@ -1,12 +1,9 @@
 # Stranglethorn Vale Fishing Extravaganza Guide
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 12, 2025
 * Updated: January 12, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -24,39 +21,29 @@ The Stranglethorn Vale Fishing Extravaganza is part of [Phase 4](https://www.war
 
 [Fishing Overview](https://www.warcrafttavern.com/wow-classic/guides/fishing/)
 
-
-
 [![profession book icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Profession-Book-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-1-300/)
 
 [Fishing Leveling](https://www.warcrafttavern.com/wow-classic/guides/fishing-1-300/)
-
 
 [![fishing pole icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Fishing-Pole-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-equipment/)
 
 [Fishing Equipment](https://www.warcrafttavern.com/wow-classic/guides/fishing-equipment/)
 
-
 [![speckled tastyfish icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Speckled-Tastyfish-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/stranglethorn-vale-fishing-extravaganza/)
 
 [Fishing Tournament](https://www.warcrafttavern.com/wow-classic/guides/stranglethorn-vale-fishing-extravaganza/)
-
-
 
 [![winter squid icon](https://www.warcrafttavern.com/wp-content/uploads/2022/10/Winter-Squid-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-loot-list/)
 
 [Fish & Loot](https://www.warcrafttavern.com/wow-classic/guides/fishing-loot-list/)
 
-
 [![essence of water icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Essence-of-Water-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/fishing-pools/)
 
 [Fishing Pools](https://www.warcrafttavern.com/wow-classic/guides/fishing-pools/)
 
-
 [![deviate fish icon](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Deviate-Fish-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/deviate-fish/)
 
 [Deviate Fish](https://www.warcrafttavern.com/wow-classic/guides/deviate-fish/)
-
-
 
 Tournament Overview
 -------------------
@@ -146,7 +133,6 @@ These rewards require catching other, rare fish from Tastyfish pools. In theory 
 
 At this point in Classic WoW, the [Speckled Tastyfish](https://warcraftdb.com/classic/item/19807) are not time sensitive (in later versions of the game, they disappear after about 4 hours), so you can hold onto them, along with your rare fish, to turn in the following Sunday if you don’t make it back to Booty Bay before the quest NPCs disappear.
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/Lucy-1.jpg)
@@ -154,6 +140,3 @@ At this point in Classic WoW, the [Speckled Tastyfish](https://warcraftdb.com/cl
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

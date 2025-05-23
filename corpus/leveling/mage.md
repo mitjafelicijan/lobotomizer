@@ -1,12 +1,9 @@
 # WoW Classic Mage Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: July 28, 2024
 * Updated: July 28, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -128,7 +125,6 @@ Skip Training [Arcane Missiles](https://warcraftdb.com/classic/spell/5143)s unle
 
 Rotation is: 3x [Frostbolt](https://warcraftdb.com/classic/spell/116) / [Fireball](https://warcraftdb.com/classic/spell/133) then squeeze in a wand [Shoot](https://warcraftdb.com/classic/spell/5019) if you have time. If mob is close to dead then continue wanding till death. If it still has substantial HP, proceed to run and use [Frost Nova](https://warcraftdb.com/classic/spell/122). Continue to run during [Frost Nova](https://warcraftdb.com/classic/spell/122) global cooldown then cast 1-2x [Frostbolts](https://warcraftdb.com/classic/spell/116)/ [Fireballs](https://warcraftdb.com/classic/spell/133) and wand to death.
 
-
 AoE Clearcast Fishing
 
 1-19 – Invest Into Arcane Tree:
@@ -183,7 +179,6 @@ Use Rank 1 [Cone of Cold](https://warcraftdb.com/classic/spell/120) AoE grinding
 
 Then use high rank [Blizzard](https://warcraftdb.com/classic/spell/10) if the pull calls for it or higher rank [Arcane Explosion](https://warcraftdb.com/classic/spell/1449).
 
-
 Mid-Range Arcane AoE
 
 1-19 – Invest into the Arcane tree:
@@ -236,7 +231,6 @@ When AoE grinding difficult mobs, downrank your AoE spells to get Clearcasting p
 
 Potentially skipping [Ice Barrier](https://warcraftdb.com/classic/spell/11426), [Ice Block](https://warcraftdb.com/classic/spell/11958) till [Clearcasting](https://warcraftdb.com/classic/spell/12536) is online.
 
-
 Infra Single Target Frostbite
 
 Start in Frost:
@@ -275,7 +269,6 @@ Skip training [Dampen Magic](https://warcraftdb.com/classic/spell/604), [Slow fa
 Use [Frost Ward](https://warcraftdb.com/classic/spell/6143) / [Fire Ward](https://warcraftdb.com/classic/spell/543) when facing Frost or Fire damage. They’re cheap and provide a shield. They share a cooldown.
 
 Rotation is: 3x [Frostbolt](https://warcraftdb.com/classic/spell/116) (4x when you have 2/2 [Arctic Reach](https://warcraftdb.com/classic/spell/16758) and 3/3 [Permafrost](https://warcraftdb.com/classic/spell/12571)) then squeeze in a Wand shot if you have time. Proceed to run and then [Frost Nova](https://warcraftdb.com/classic/spell/122). Continue to run during [Frost Nova](https://warcraftdb.com/classic/spell/122) global cooldown then at that point make use of the Shatter effect. Cast 2x [Frostbolts](https://warcraftdb.com/classic/spell/116) and Wand to death.
-
 
 ### AoE Grinding
 
@@ -458,6 +451,3 @@ Here are some great professions to train while leveling a mage:
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

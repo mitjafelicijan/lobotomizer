@@ -1,12 +1,9 @@
 # How to Get to Moonglade in WoW Classic
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: November 20, 2019
 * Updated: December 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -46,14 +43,8 @@ You could simply wait. Once a year, during the Lunar Festival, Nighthaven is als
 
 So that’s how you get to Moonglade if you’re not a Druid. Hope this has been helpful, or at least entertaining. Have fun drowning, grinding for rep, or waiting and have a wonderful day.
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

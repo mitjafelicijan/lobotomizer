@@ -1,12 +1,9 @@
 # WoW Classic Glossary: Abbreviations & Acronyms
 
-
-
 * Author: [teebling](https://www.warcrafttavern.com/author/teebling/)
 * Date: March 27, 2019
 * Updated: December 9, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -91,8 +88,7 @@ MD (improper DM)/Ruin – A spec used for tanking Twin Emperors in AQ40 because 
   
 NF/SL – A Warlock PvP spec which plays with [Nightfall](https://wowclassicdb.com/spell/18095) and [Soul Link](https://wowclassicdb.com/spell/19028).  
 NF/Conflag – A Warlock PvP spec which plays with [Nightfall](https://wowclassicdb.com/spell/18095) and [Conflagrate](https://wowclassicdb.com/spell/17962).  
-SL/SB – A Warlock PvP spec which plays with [Soul Link](https://wowclassicdb.com/spell/19028) and [Shadowburn](https://wowclassicdb.com/spell/17877).  
-
+SL/SB – A Warlock PvP spec which plays with [Soul Link](https://wowclassicdb.com/spell/19028) and [Shadowburn](https://wowclassicdb.com/spell/17877).
 
 #### **Raiding terminology**
 
@@ -115,14 +111,8 @@ loot trading (v) – The ability to trade soulbound items with another player fr
 sharding (n) – System by which players are ‘instanced’ into smaller, separate virtual worlds to split large populations of similar level and thus reduce competition for resources. Regarded as a controversial change to the original game.  
 If you want to contribute to the glossary please leave a reply below. We have omitted obvious ones like ‘LFG’ etc. and want submissions that are specifically Classic or Vanilla related.
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/fafb15427f59680f4d8d0fb042a8b3db.jpg?ver=1738210736)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/fafb15427f59680f4d8d0fb042a8b3db.jpg?ver=1747968868)
 
 #### teebling
-
-
-
-
-

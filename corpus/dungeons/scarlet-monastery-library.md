@@ -1,12 +1,9 @@
 # WoW Classic Scarlet Monastery Library Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 26, 2024
 * Updated: November 26, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -63,11 +60,12 @@ There are a few quests inside the Library wing of Scarlet Monastery for either f
 | Wow Alliance Crest [Mythology of the Titans](https://warcraftdb.com/classic/quest/1050) | [Librarian Mae Paledust](https://wowclassicdb.com/npc/3979) (Ironforge) | Yes |
 | [Into The Scarlet Monastery](https://warcraftdb.com/classic/quest/1048) | [Varimathras](https://wowclassicdb.com/npc/2425) (Undercity) | Yes |
 | [Hearts of Zeal](https://warcraftdb.com/classic/quest/1113) | [Master Apothecary Faranell](https://wowclassicdb.com/npc/2055) (Undercity) | No |
-| [Compendium of the Fallen](https://warcraftdb.com/classic/quest/1049)(Taurens, Trolls, & Orcs Only) | [Sage Truthseeker](https://wowclassicdb.com/npc/3978) (Thunder Bluff) | Yes |
+| [Compendium of the Fallen](https://warcraftdb.com/classic/quest/1049) (Taurens, Trolls, & Orcs Only) | [Sage Truthseeker](https://wowclassicdb.com/npc/3978) (Thunder Bluff) | Yes |
 | [Test of Lore](https://warcraftdb.com/classic/quest/1160) | [Parqual Fintallas](https://wowclassicdb.com/npc/4488) (Undercity) | No |
-| [Rituals of Power](https://warcraftdb.com/classic/quest/1951)([Mage](https://www.warcrafttavern.com/wow-classic/guides/mage/) only) | [Magus Tirth](https://wowclassicdb.com/npc/6548) (Thousand Needles) | No |
+| [Rituals of Power](https://warcraftdb.com/classic/quest/1951) ([Mage](https://www.warcrafttavern.com/wow-classic/guides/mage/) only) | [Magus Tirth](https://wowclassicdb.com/npc/6548) (Thousand Needles) | No |
 
 [![classic scarlet monastery library quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Library-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Library-Quests.png)[![classic scarlet monastery library quests 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Library-Quests-2-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Library-Quests-2.png)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [In the Name of the Light](https://warcraftdb.com/classic/quest/1053)
@@ -110,6 +108,7 @@ To complete the quest, you’ll need to kill bosses in three of the four wings o
 The book you’re asked to retrieve is on the floor in one of the hallways, beneath a window (see map below). It will disappear when someone loots it, but it should respawn again after a short time.
 
 [![mythology of the titans map location](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mythology-of-the-Titans-Map-Location.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mythology-of-the-Titans-Map-Location.jpg)
+
 ### Horde Quests
 
 #### [Into The Scarlet Monastery](https://warcraftdb.com/classic/quest/1048)
@@ -169,6 +168,7 @@ To pick up this quest, you must first complete the quest [Going, Going, Guano!](
 The book you’re asked to retrieve can be found on a bookshelf in the corner room between the last two hallways (see map below). It will disappear when someone loots it, but it should respawn again after a short time.
 
 [![compendium of the fallen map location](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Compendium-of-the-Fallen-Map-Location.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Compendium-of-the-Fallen-Map-Location.jpg)
+
 #### [Test of Lore](https://warcraftdb.com/classic/quest/1160)
 
 * **Shareable:** No
@@ -186,6 +186,7 @@ This is a very long chain of quests starting with [Test of Faith](https://warcr
 The book you need is on top of a table in a small room along one of the red-carpeted hallways after you pass through the courtyard (see map below).
 
 [![beginnings of the undead threat map location](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Beginnings-of-the-Undead-Threat-Map-Location.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Beginnings-of-the-Undead-Threat-Map-Location.jpg)
+
 ### Neutral
 
 #### [Rituals of Power](https://warcraftdb.com/classic/quest/1951) (Mage only)
@@ -218,6 +219,7 @@ There are only two bosses inside the Library wing of Scarlet Monastery.
 Houndmaster Loksey is the first boss of Scarlet Monastery Library. He is a level 34 elite Scarlet Crusade human, accompanied by three Scarlet Tracking Hounds.
 
 [![houndmaster loksey](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Houndmaster-Loksey.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Houndmaster-Loksey.png)
+
 #### Strategy
 
 * **Tank:** Mark the hounds with a Skull and X and prioritize threat on those targets. Use any AoE abilities you have to maintain threat on all of the hounds, and the boss. Beware that when the boss and his hounds are under the effect of Bloodlust, they will do a lot of damage. Use defensive cooldowns, health potions and healthstones if you get low.
@@ -235,6 +237,7 @@ Houndmaster Loksey is the first boss of Scarlet Monastery Library. He is a level
 Arcanist Doan is the last boss of Scarlet Monastery Library. Arcanist Doan is a level 37 Scarlet Crusade human. He is not accompanied by any adds but in order to reach him you must clear the instance to get to his chamber.
 
 [![arcanist doan](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Arcanist-Doan.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Arcanist-Doan.png)
+
 #### Strategy
 
 * **Tank:** This fight requires tactical maneuvering, cooldowns management, and a great deal of caution. Arcanist Doan is not accompanied by any adds but poses great danger alone, use your defensive cooldowns cautiously. Beware of losing threat, as Arcanist Doan can easily kill your damage dealers. When Arcanist Doan casts Detonation, move outside his room and hide next to the walls of his chamber.
@@ -288,6 +291,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

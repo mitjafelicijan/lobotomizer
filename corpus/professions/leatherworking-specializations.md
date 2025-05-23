@@ -1,12 +1,9 @@
 # Leatherworking Specializations Guide for WoW Classic & Season of Discovery (SoD)
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: April 18, 2024
 * Updated: December 8, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -53,14 +50,14 @@ Here are all of the exclusive patterns for each specialization:
 
 | Slot | Dragonscale Exclusives | Elemental Exclusives | Tribal Exclusives |
 | --- | --- | --- | --- |
-| Head | – | [Molten Helm](https://warcraftdb.com/classic/item/16983)[Helm of Fire](https://warcraftdb.com/classic/item/8348) | [Wolfshead Helm](https://warcraftdb.com/classic/item/8345) |
-| Shoulders | [Black Dragonscale Shoulders](https://warcraftdb.com/classic/item/15051)[Blue Dragonscale Shoulders](https://warcraftdb.com/classic/item/15049) | [Stormshroud Shoulders](https://warcraftdb.com/classic/item/15058)[Living Shoulders](https://warcraftdb.com/classic/item/15061)[Volcanic Shoulders](https://warcraftdb.com/classic/item/15055) | [Ironfeather Shoulders](https://warcraftdb.com/classic/item/15067) |
+| Head | – | [Molten Helm](https://warcraftdb.com/classic/item/16983) [Helm of Fire](https://warcraftdb.com/classic/item/8348) | [Wolfshead Helm](https://warcraftdb.com/classic/item/8345) |
+| Shoulders | [Black Dragonscale Shoulders](https://warcraftdb.com/classic/item/15051) [Blue Dragonscale Shoulders](https://warcraftdb.com/classic/item/15049) | [Stormshroud Shoulders](https://warcraftdb.com/classic/item/15058) [Living Shoulders](https://warcraftdb.com/classic/item/15061) [Volcanic Shoulders](https://warcraftdb.com/classic/item/15055) | [Ironfeather Shoulders](https://warcraftdb.com/classic/item/15067) |
 | Back | – | [Shifting Cloak](https://warcraftdb.com/classic/item/18511) | [Hide of the Wild](https://warcraftdb.com/classic/item/18510) |
-| Chest | [Dreamscale Breastplate](https://warcraftdb.com/classic/item/20380)[Red Dragonscale Breastplate](https://warcraftdb.com/classic/item/15047)[Black Dragonscale Breastplate](https://warcraftdb.com/classic/item/15050)[Blue Dragonscale Breastplate](https://warcraftdb.com/classic/item/15048)[Green Dragonscale Breastplate](https://warcraftdb.com/classic/item/15045)[Dragonscale Breastplate](https://warcraftdb.com/classic/item/8367) | [Living Breastplate](https://warcraftdb.com/classic/item/15059)[Stormshroud Armor](https://warcraftdb.com/classic/item/15056)[Volcanic Breastplate](https://warcraftdb.com/classic/item/15053) | [Ironfeather Breastplate](https://warcraftdb.com/classic/item/15066)[Warbear Harness](https://warcraftdb.com/classic/item/15064)[Feathered Breastplate](https://warcraftdb.com/classic/item/8349)[Chimeric Vest](https://warcraftdb.com/classic/item/15075)[Frostsaber Tunic](https://warcraftdb.com/classic/item/15068) |
-| Hands | [Chromatic Gauntlets](https://warcraftdb.com/classic/item/19157)[Green Dragonscale Gauntlets](https://warcraftdb.com/classic/item/20296)[Dragonscale Gauntlets](https://warcraftdb.com/classic/item/8347) | [Stormshroud Gloves](https://warcraftdb.com/classic/item/21278)[Gauntlets of the Sea](https://warcraftdb.com/classic/item/8346) | [Devilsaur Gauntlets](https://warcraftdb.com/classic/item/15063)[Chimeric Gloves](https://warcraftdb.com/classic/item/15074)[Frostsaber Gloves](https://warcraftdb.com/classic/item/15070) |
+| Chest | [Dreamscale Breastplate](https://warcraftdb.com/classic/item/20380) [Red Dragonscale Breastplate](https://warcraftdb.com/classic/item/15047) [Black Dragonscale Breastplate](https://warcraftdb.com/classic/item/15050) [Blue Dragonscale Breastplate](https://warcraftdb.com/classic/item/15048) [Green Dragonscale Breastplate](https://warcraftdb.com/classic/item/15045) [Dragonscale Breastplate](https://warcraftdb.com/classic/item/8367) | [Living Breastplate](https://warcraftdb.com/classic/item/15059) [Stormshroud Armor](https://warcraftdb.com/classic/item/15056) [Volcanic Breastplate](https://warcraftdb.com/classic/item/15053) | [Ironfeather Breastplate](https://warcraftdb.com/classic/item/15066) [Warbear Harness](https://warcraftdb.com/classic/item/15064) [Feathered Breastplate](https://warcraftdb.com/classic/item/8349) [Chimeric Vest](https://warcraftdb.com/classic/item/15075) [Frostsaber Tunic](https://warcraftdb.com/classic/item/15068) |
+| Hands | [Chromatic Gauntlets](https://warcraftdb.com/classic/item/19157) [Green Dragonscale Gauntlets](https://warcraftdb.com/classic/item/20296) [Dragonscale Gauntlets](https://warcraftdb.com/classic/item/8347) | [Stormshroud Gloves](https://warcraftdb.com/classic/item/21278) [Gauntlets of the Sea](https://warcraftdb.com/classic/item/8346) | [Devilsaur Gauntlets](https://warcraftdb.com/classic/item/15063) [Chimeric Gloves](https://warcraftdb.com/classic/item/15074) [Frostsaber Gloves](https://warcraftdb.com/classic/item/15070) |
 | Waist | – | [Molten Belt](https://warcraftdb.com/classic/item/19163) | [Corehound Belt](https://warcraftdb.com/classic/item/19162) |
-| Legs | [Black Dragonscale Leggings](https://warcraftdb.com/classic/item/15052)[Blue Dragonscale Leggings](https://warcraftdb.com/classic/item/20295)[Green Dragonscale Leggings](https://warcraftdb.com/classic/item/15046) | [Living Leggings](https://warcraftdb.com/classic/item/15060)[Stormshroud Pants](https://warcraftdb.com/classic/item/15057)[Volcanic Leggings](https://warcraftdb.com/classic/item/15054) | [Devilsaur Leggings](https://warcraftdb.com/classic/item/15062)[Warbear Woolies](https://warcraftdb.com/classic/item/15065)[Chimeric Leggings](https://warcraftdb.com/classic/item/15072)[Frostsaber Leggings](https://warcraftdb.com/classic/item/15069) |
-| Feet | [Black Dragonscale Boots](https://warcraftdb.com/classic/item/16984) | – | [Corehound Boots](https://warcraftdb.com/classic/item/16982)[Chimeric Boots](https://warcraftdb.com/classic/item/15073)[Frostsaber Boots](https://warcraftdb.com/classic/item/15071) |
+| Legs | [Black Dragonscale Leggings](https://warcraftdb.com/classic/item/15052) [Blue Dragonscale Leggings](https://warcraftdb.com/classic/item/20295) [Green Dragonscale Leggings](https://warcraftdb.com/classic/item/15046) | [Living Leggings](https://warcraftdb.com/classic/item/15060) [Stormshroud Pants](https://warcraftdb.com/classic/item/15057) [Volcanic Leggings](https://warcraftdb.com/classic/item/15054) | [Devilsaur Leggings](https://warcraftdb.com/classic/item/15062) [Warbear Woolies](https://warcraftdb.com/classic/item/15065) [Chimeric Leggings](https://warcraftdb.com/classic/item/15072) [Frostsaber Leggings](https://warcraftdb.com/classic/item/15069) |
+| Feet | [Black Dragonscale Boots](https://warcraftdb.com/classic/item/16984) | – | [Corehound Boots](https://warcraftdb.com/classic/item/16982) [Chimeric Boots](https://warcraftdb.com/classic/item/15073) [Frostsaber Boots](https://warcraftdb.com/classic/item/15071) |
 
 Learning Dragonscale Leatherworking
 -----------------------------------
@@ -282,8 +279,6 @@ Now you’ll have to level [Leatherworking](https://www.warcrafttavern.com/wow-c
 
 The Soothsaying for Dummies book is on the table
 
-
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/Lucy-1.jpg)
@@ -291,6 +286,3 @@ The Soothsaying for Dummies book is on the table
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

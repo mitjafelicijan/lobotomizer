@@ -1,12 +1,9 @@
 # WoW Classic Dire Maul East Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 6, 2025
 * Updated: January 6, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -120,11 +117,9 @@ There’s a breadcrumb quest that leads you here, [Feathermoon Stronghold](https
 
 Latronicus Moonspear in Feralas
 
-
 [![dire maul east quests lethtenris](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Lethtenris-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Lethtenris.jpg)
 
 Lethtendris in Dire Maul East
-
 
 ### Horde Quests
 
@@ -150,11 +145,9 @@ There’s a breadcrumb quest that leads you here, [Camp Mojache](https://wowcla
 
 Talo Thornhoof in Feralas
 
-
 [![dire maul east quests lethtenris](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Lethtenris-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Lethtenris.jpg)
 
 Lethtendris in Dire Maul East
-
 
 ### Neutral Quests
 
@@ -179,11 +172,9 @@ If you have the [Crescent Key](https://warcraftdb.com/classic/item/18249), you c
 
 Azj’Tordin in Feralas
 
-
 [![dire maul east quests pusillin](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Pusillin-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Pusillin.jpg)
 
 Pusillin in Dire Maul East
-
 
 #### [Shards of the Felvine](https://wowclassicdb.com/quest/5526)
 
@@ -205,11 +196,9 @@ You must complete [A Reliquary of Purity](https://wowclassicdb.com/quest/5527) 
 
 Rabine Saturna in Moonglade
 
-
 [![dire maul east quests alzzin the wildshaper](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Alzzin-the-Wildshaper-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Alzzin-the-Wildshaper.jpg)
 
 Alzzin the Wildshaper in Dire Maul East
-
 
 ### Class Quests
 
@@ -231,11 +220,9 @@ To pick up this quest, you must have access to The Athenaeum inside Dire Maul. T
 
 Lorekeeper Lydros in Dire Maul
 
-
 [![dire maul east quests hydrospawn](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Hydrospawn-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-East-Quests-Hydrospawn.jpg)
 
 Hydrospawn in Dire Maul East
-
 
 Bosses
 ------
@@ -254,6 +241,7 @@ There are six bosses in Dire Maul East, one of which can be summoned as part of 
 Pusillin is a small imp boss who you will chase around the first section of Dire Maul East while talking to him. The level 56-57 elite imp drops the Crescent Key, which should be attained at some point by all players in order to access the rest of Dire Maul. Make it easy for your group to see the small NPC and mark him.
 
 [![pusilin](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Pusilin.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Pusilin.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss and generate aggro on Pusillin and his Wildspawn Imps as best you can at the very beginning of the fight. Your DPS may pull one or more of the smaller imps off of you, but in general focus on managing Pusillin.
@@ -270,6 +258,7 @@ Pusillin is a small imp boss who you will chase around the first section of Dire
 Lethendris is a Blood Elf Warlock who is joined by her demon imp minion, Plimgib. The boss’s spells can be interrupted so pay close attention to your party members and she will not be much of an issue.
 
 [![lethtendris](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lethtendris.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lethtendris.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss and focus on establishing threat on Lethendris. Use a [Taunt](https://warcraftdb.com/classic/spell/355) ability to keep Plimgib off of your Healer or DPS, but the imp will not live for very long.
@@ -291,6 +280,7 @@ Hydrospawn is a water elemental who is found in the next lowest level of Dire Ma
 Mages seek to defeat Hydrospawn to obtain the elemental’s essence for their level 55 water quest, Arcane Refreshment. It is not unheard of for experienced level 60 players (especially Warlocks and Hunters) to solo this boss as a service for their Mage friends.
 
 [![hydrospawn](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hydrospawn.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hydrospawn.png)
+
 #### Strategy
 
 * **Tank:** Agree on a strategy with your DPS for handling the Hydroling adds as they are summoned; either focus them down as they spawn or focus on Hydrospawn and handle the adds after. It is generally recommended to focus the adds if your group has a strong AoE abilities, and to focus down Hydrospawn if you have strong single target burst damage in your DPS group.
@@ -311,6 +301,7 @@ Mages seek to defeat Hydrospawn to obtain the elemental’s essence for their le
 Zevrim Thornhoof is a sadistic satyr boss who will attempt to Sacrifice your party members on his alter.
 
 [![zevrin thornhoof](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Zevrin-Thornhoof.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Zevrin-Thornhoof.png)
+
 #### Strategy
 
 * **Tank:** Maintain the primary threat position during the fight.
@@ -330,6 +321,7 @@ Zevrim Thornhoof is a sadistic satyr boss who will attempt to Sacrifice your par
 Alzzin the Wildshaper is the shapeshifting final boss of Dire Maul East, taking on the forms of a Satyr, a Dire Wolf, and a Treant throughout the fight. If you do not clear all of the Warpwood Crushers from the ramp on the way down to fight Alzzin, they will engage along with the boss and come make your encounter a lot more difficult. Do not exit the instance without entering the tunnel behind Alzzin and mining the Rich Thorium Veins, which are consistently located here.
 
 [![alzzin the wildshaper](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Alzzin-the-Wildshaper.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Alzzin-the-Wildshaper.png)
+
 #### Strategy
 
 * **Tank:** Alzzin drops threat every time he changes form, so use threat generating abilities to reestablish yourself at the top of the threat meter.
@@ -354,6 +346,7 @@ Alzzin the Wildshaper is the shapeshifting final boss of Dire Maul East, taking 
 Isalien can be summoned using the Brazier of Beckoning for the [Tier 0.5](https://www.warcrafttavern.com/wow-classic/guides/tier-0-5/) questline in the space where Alzzin lies defeated. The boss is essentially a tank and spank, among the easiest of the questline.
 
 [![isalien](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Isalien.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Isalien.png)
+
 #### Strategy
 
 * **Tank:** Maintain threat on the boss, and pick up her Hippogryph pet when it spawns.
@@ -433,6 +426,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

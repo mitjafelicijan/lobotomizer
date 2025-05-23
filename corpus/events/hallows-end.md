@@ -1,12 +1,9 @@
 # WoW Classic Hallow’s End Guide
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: May 5, 2020
 * Updated: October 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -66,21 +63,13 @@ Probably the most useful physical reward to higher level characters, the [Pumpki
 
 Hey!  You’re an adult.  You don’t have to trick or treat to get candy.  You can just buy it.  If they have the money, Alliance players should look for [Katrina Shimmerstar](https://wowclassicdb.com/npc/15353), in Ironforge, and Horde players should seek out [Rachelle Gothena](https://wowclassicdb.com/npc/15354) in Orgrimmar to get their hands on some unique, limited time treats.
 
-
 [![Classic Wow Hallow's End Guide Images Katrina Shimmerstar](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Katrina-Shimmerstar-221x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Katrina-Shimmerstar.jpg)
-
 
 Katrina
 
-
 [![Classic Wow Hallow's End Guide Images Rachelle Gothena](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Rachelle-Gothena-203x300.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Rachelle-Gothena.jpg)
 
-
 Rachelle
-
-
-
-
 
 Both vendor’s sell:
 
@@ -108,8 +97,6 @@ Important!  Before leaving either of these cities, make sure you get the Flight
 
 Jesper
 
-
-
 * [Flexing for Nougat](https://wowclassicdb.com/quest/8356): Go to [Innkeeper Alison](https://wowclassicdb.com/npc/6740) in Stormwind and flex your mighty biceps for her to get some [Stormwind Nougat](https://wowclassicdb.com/item/20492).
 * [Incoming Gumdrop](https://wowclassicdb.com/quest/8355): Hop on the Deeprun tram and head to Ironforge to meet up with [Talvash del Kissel](https://wowclassicdb.com/npc/6826).  He wants you to do a train emote for him and if you do, he’ll give you a [Gnomeregan Gumdrop](https://wowclassicdb.com/item/20494).
 * [Chicken Clucking for a Mint](https://wowclassicdb.com/quest/8353): Leave Tinker town now, and circle around to The Commons to see [Innkeeper Firebrew](https://wowclassicdb.com/npc/5111). He’d like to see a Chicken Dance.  So do one for him and he’ll treat you to an [Ironforge Mint](https://wowclassicdb.com/item/20490).
@@ -122,8 +109,6 @@ From here, head back to Jesper in Stormwind and give him all of your well earned
 [![Classic Wow Hallow's End Guide Images Spoops](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Spoops.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Spoops.jpg)
 
 Spoops
-
-
 
 * [Flexing for Nougat](https://wowclassicdb.com/quest/8359): First, head over to the Valley of Strength and visit with [Innkeeper Gryshka](https://wowclassicdb.com/npc/6929).  If you show off your muscley arms and flex for her, she’ll give you an [Orgrimmar Nougat](https://wowclassicdb.com/item/20493).
 * [Incoming Gumdrop](https://wowclassicdb.com/quest/8358): Next, you’ll be heading to Sen’Jin Village at the far south end of Durotar to find [Kali Remik](https://wowclassicdb.com/npc/11814).  He wants to see you do a train emote, so Chugga, Chugga and get you some o’ dem delicious [Darkspear Gumdrop](https://wowclassicdb.com/item/20495).
@@ -173,14 +158,8 @@ That’s all the fun there is for this year, kiddies!  Have a wonderful and spo
 
 [![Classic Wow Hallow's End Guide Images Closer](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Closer.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/Classic-WoW-Hallows-End-Guide-Images-Closer.jpg)
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Harvest Festival Guide
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: April 16, 2020
 * Updated: October 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -49,21 +46,13 @@ Getting to the canyon isn’t difficult, but the demons in your way can slow you
 
 Fun fact, if you head up the first ramp on your left when you arrive in the canyon, you will find a ledge filled with succubi and other demons.  If you head north, you’ll find Manneroth’s severed blade floating above a cauldron.  Neat, right?  Once you have completed the quest, you will receive [The Horde’s Hellscream](https://wowclassicdb.com/item/20010), which contains a story honoring Grommash’s sacrifice.
 
-
 [![Wow Classic Harvest Festivl Guide Images Grom's Monument](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Groms-Monument-300x212.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Groms-Monument.jpg)
-
 
 Grom’s Monument
 
-
 [![Wow Classic Harvest Festivl Guide Images Manneroth's Blade](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Manneroths-Blade-300x175.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Manneroths-Blade.jpg)
 
-
 Manneroth’s Blade
-
-
-
-
 
 Harvest Festival Feast!
 -----------------------
@@ -76,21 +65,13 @@ Outside the gates of both Ironforge and Orgrimmar, players will find a delectabl
 * [Harvest Fruit](https://wowclassicdb.com/item/19994)
 * [Harvest Nectar](https://wowclassicdb.com/item/19997)
 
-
 [![Wow Classic Harvest Festivl Guide Images Alliance Harvest Table](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Alliance-Harvest-Table-300x149.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Alliance-Harvest-Table.jpg)
-
 
 Alliance Feast
 
-
 [![Wow Classic Harvest Festivl Guide Images Horde Harvest Table](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Horde-Harvest-Table-300x169.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Harvest-Festivl-Guide-Images-Horde-Harvest-Table.jpg)
 
-
 Horde Feast
-
-
-
-
 
 ### Festive Fireworks
 
@@ -106,14 +87,8 @@ Not only do [Wagner Hammerstrike](https://wowclassicdb.com/npc/15011) and [Javni
 
 So that’s the Harvest Festival.  Honor your heroes and eat your fill.  Have fun!
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

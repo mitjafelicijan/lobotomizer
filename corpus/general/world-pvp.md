@@ -1,12 +1,9 @@
 # WoW Classic World PvP Guide
 
-
-
 * Author: [Nymis](https://www.warcrafttavern.com/author/nymis/)
 * Date: December 30, 2018
 * Updated: December 9, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -497,7 +494,6 @@ If you are into attrition, **always create a buffer zone** for your healers to
 
 *Hands up in the air like you just don’t care*
 
-
 [![WoW Classic Rain of Fire Icon](https://www.barrens.chat/images/avatars/gallery/WoW%20Classic/Spells/Spell_Shadow_RainOfFire.png)](/images/avatars/gallery/WoW%20Classic/Spells/Spell_Shadow_RainOfFire.png)
 
 In order to maintain pressure on a choke point, instruct your casters to use Rank 1 [Blizzard](https://wowclassicdb.com/spell/10) and [Rain of Fire](https://wowclassicdb.com/spell/5740) and to swap them for max rank if the enemy starts pushing. You can save a lot of mana that way and the enemy won’t know the difference!
@@ -574,7 +570,9 @@ What this does is it effectively shuts down an entire area of questing. Taking o
 What’s even more brilliant is that this tactic aims to utilize something which is usually a downside to your advantage. If players actually went down the exact routes I’ve drawn, with the same speed and everything then a smart enemy player could take note of this and just avoid the path they take to continue questing. Instead, the bound randomness of their movement, different speeds, different paths they will take – works to your advantage in order to remain unpredictable. An enemy observer would have no idea when or where a group might be coming at any point.
 
 ![WoW Classic Redridge Map](/images/guides/korkrongifs/red1.jpg)
+
 ![WoW Classic Redridge Map](/images/guides/korkrongifs/red2.jpg)
+
 ![WoW Classic Stranglethorn Map](https://i.imgur.com/5sXCqlW.jpg)
 
 F.A.Q.
@@ -627,14 +625,8 @@ I hope you’ve enjoyed my thorough introductory guide to structured WPvP. If th
 
 There is no gear involved, no rankings, no clear goals or anything that you might traditionally expect from doing any activity in WoW – and with that in mind, the world is yours to take.
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/86128acb00d52a4420efd83df4853371.jpg?ver=1737688501)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/86128acb00d52a4420efd83df4853371.jpg?ver=1747810346)
 
 #### Nymis
-
-
-
-
-

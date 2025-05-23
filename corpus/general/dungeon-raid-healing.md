@@ -1,12 +1,9 @@
 # WoW Classic Dungeon & Raid Healing Guide
 
-
-
 * Author: [Taladril](https://www.warcrafttavern.com/author/taladril/)
 * Date: November 14, 2024
 * Updated: November 14, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -253,14 +250,10 @@ Generally, you will find that HoTs are not very useful for raid healing. They ar
 
 The healer is a dynamic role that can be very fun and interesting to play. You can learn the basics quickly, but there is a high ceiling of skill cap. In general, the name of the game of being a high quality healer is efficiency – whether it be for mana in dungeons or raw healing capability in raids. Strive to push yourself every time and you will be a very effective member of your dungeon or raid team.
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/9add950ac55fc4ec1a6060b35d35de21.jpg?ver=1738089656)
+![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/TaladrilProfilePictureWCT.jpg)
 
 #### Taladril
 
 Long time Classic WoW fan, I've had more fun building tools for the game than actually playing it.
-
-
-

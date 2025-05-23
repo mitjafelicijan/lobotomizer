@@ -1,12 +1,9 @@
 # WoW Classic Lunar Festival Guide
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: January 1, 2020
-* Updated: February 5, 2021
+* Updated: February 26, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -57,6 +54,7 @@ In addition to the [Coin of Ancestry](https://wowclassicdb.com/item/21100), you
 These quests are those that have you turn in Coins of Ancestry in exchange for various rewards and goods. They’re all pretty simple turn-in quests and require no additional actions from the player beyond having Coins of Ancestry.
 
 ![Lunar Festival Pics Fariel](https://www.warcrafttavern.com/wp-content/uploads/2020/12/Lunar-Festival-pics-Fariel.png)
+
 ### Quests without level requirements
 
 These are the easiest quests and offer mostly cosmetic rewards. They are offered to players by Valadar Starsong.
@@ -82,14 +80,8 @@ These are pretty basic too, in that there are simple turn-ins for a specific rew
 
 Well, that’s pretty much everything you can do at the Lunar Festival! Hopefully this guide has been fun and informative. Make sure to shoot of as many fireworks as you can to…you know, honor your elders or whatever. Happy Moon!
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Scholomance Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 20, 2025
 * Updated: January 23, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -120,8 +117,8 @@ There are several quests in the Scholomance dungeon, some of which require compl
 | [Kirtonos the Herald](https://wowclassicdb.com/quest/5384) | [Eva Sarkhoff](https://wowclassicdb.com/npc/11216) (Western Plaguelands) | No |
 | [The Lich, Ras Frostwhisper](https://wowclassicdb.com/quest/5466) | [Magistrate Marduke](https://wowclassicdb.com/npc/11286) (Western Plaguelands) | No |
 
-
 [![scholomance quest map](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quest-Map.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quest-Map.jpg)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [The Key to Scholomance](https://wowclassicdb.com/quest/5505)
@@ -154,11 +151,9 @@ Head back to [Alchemist Arbington](https://wowclassicdb.com/npc/11056) at Chillw
 
 Commander Ashlam Valorfist at Chillwind Camp
 
-
 [![scholomance quests alchemist arbington](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Alchemist-Arbington-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Alchemist-Arbington.jpg)
 
 Alchemist Arbington at Chillwind Camp
-
 
 #### [Barov Family Fortune](https://wowclassicdb.com/quest/5343)
 
@@ -184,21 +179,17 @@ After you hand in the deeds, you’ll have the opportunity to complete another q
 
 The Deed to Southshore
 
-
 [![scholomance quests deed to tarren mill](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Tarren-Mill-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Tarren-Mill.jpg)
 
 The Deed to Tarren Mill
-
 
 [![scholomance quests deed to brill](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Brill-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Brill.jpg)
 
 The Deed to Brill
 
-
 [![scholomance quests deed to caer darrow](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Caer-Darrow-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Caer-Darrow.jpg)
 
 The Deed to Caer Darrow
-
 
 ### Horde Quests
 
@@ -234,11 +225,9 @@ Head back to [Apothecary Dithers](https://wowclassicdb.com/npc/11057) at The Bul
 
 High Executor Derrington at The Bulwark
 
-
 [![scholomance quests apothecary dithers](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Apothecary-Dithers-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Apothecary-Dithers.jpg)
 
 Apothecary Dithers at The Bulwark
-
 
 #### [Barov Family Fortune](https://wowclassicdb.com/quest/5341)
 
@@ -264,21 +253,17 @@ After you hand in the deeds, you’ll have the opportunity to complete another q
 
 The Deed to Southshore
 
-
 [![scholomance quests deed to tarren mill](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Tarren-Mill-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Tarren-Mill.jpg)
 
 The Deed to Tarren Mill
-
 
 [![scholomance quests deed to brill](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Brill-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Brill.jpg)
 
 The Deed to Brill
 
-
 [![scholomance quests deed to caer darrow](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Caer-Darrow-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Deed-to-Caer-Darrow.jpg)
 
 The Deed to Caer Darrow
-
 
 ### Neutral Quests
 
@@ -300,11 +285,9 @@ This quest requires you to kill 20 [Plagued Hatchling](https://wowclassicdb.com/
 
 Betina Bigglezink at Light’s Hope Chapel
 
-
 [![scholomance quests plagued hatchlings](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Plagued-Hatchlings-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Plagued-Hatchlings.jpg)
 
 Plagued Hatchlings in Scholomance
-
 
 #### [Dawn’s Gambit](https://wowclassicdb.com/quest/4771)
 
@@ -330,11 +313,9 @@ She’ll give you the quest [Leonid Barthalomew](https://wowclassicdb.com/quest/
 
 Tinkee Steamboil at Flame Crest
 
-
 [![scholomance quests betina bigglezink](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Betina-Bigglezink-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Betina-Bigglezink.jpg)
 
 Betina Bigglezink at Light’s Hope Chapel
-
 
 #### [Doctor Theolen Krastinov, the Butcher](https://wowclassicdb.com/quest/5382)
 
@@ -354,7 +335,6 @@ Start by heading to Caer Darrow, the island in the middle of the lake in Western
 
 Eva Sarkhoff at Caer Darrow
 
-
 #### [Krastinov’s Bag of Horrors](https://wowclassicdb.com/quest/5515)
 
 * **Shareable:** No
@@ -371,7 +351,6 @@ Continuing the chain from the quest above, head back into Scholomance and defeat
 [![scholomance quests jandice barov](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Jandice-Barov-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Jandice-Barov.jpg)
 
 Jandice Barov in Scholomance
-
 
 #### [Kirtonos the Herald](https://wowclassicdb.com/quest/5384)
 
@@ -393,7 +372,6 @@ Following the quest above, head back inside Scholomance and look for the balcony
 [![scholomance quests kirtonos the herald](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Kirtonos-the-Herald-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Kirtonos-the-Herald.jpg)
 
 Brazier of the Herald in Scholomace
-
 
 ### [The Lich, Ras Frostwhisper](https://wowclassicdb.com/quest/5466)
 
@@ -423,11 +401,9 @@ Enter Scholomance again and make your way to The Laboratory, where you’ll find
 
 Magistrate Marduke at Caer Darrow
 
-
 [![scholomance quests keepsake of remembrance](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Keepsake-of-Remembrance-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scholomance-Quests-Keepsake-of-Remembrance.jpg)
 
 Keepsake of Remembrance at Stromgarde
-
 
 Bosses
 ------
@@ -456,6 +432,7 @@ There are 16 bosses in Scholomance, including one that is summoned from another 
 Kirtonos the Herald is a level 60 elite boss who can be summoned on the patio using the Blood of Innocents, looted from the Blood Steward of Kirtonos. The boss transforms between Gargoyle and Human forms during the fight. While in human form he will cast curses on the group, while in gargoyle form the fight is a tank and spank.
 
 [![kirtonos the herald](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kirtonos-the-Herald.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kirtonos-the-Herald.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss with your back to a wall to avoid being thrown around by his knockback abilities, and to keep your other party members out of [Swoop](https://warcraftdb.com/classic/spell/18144) range. Whenever the boss changes form, makes sure to initiate and establish threat to keep the boss focused on you.
@@ -479,6 +456,7 @@ Kirtonos the Herald is a level 60 elite boss who can be summoned on the patio us
 Jandice is an optional, level 61 elite, boss located below the Plagued Whelpling room in Scholomance. Use the torch on the south wall to open up access to her chamber. The encounter with Jandice can be tricky, so make sure to clear the area around her of all adds to keep your focus on the boss. Jandice summons illusions of herself during the fight, so mark the boss to keep a sense of which copy is actually her. Make sure to click on the torch on the side wall to access extra secret loot later in the dungeon.
 
 [![jandice barov](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jandice-Barov.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jandice-Barov.png)
+
 #### Strategy
 
 * **Tank:** Mark the boss with an icon so that you can easily pick up the real version of her when she summons her illusions. Maintain threat especially when the illusions are summoned.
@@ -501,6 +479,7 @@ Jandice is an optional, level 61 elite, boss located below the Plagued Whelpling
 Rattlegore is a mandatory, level 61 elite boss located in the basement of the Great Ossuary. The boss hits hard compared to others in Scholomance, and comes with one add. Be sure to clear aroung the boss before pulling Rattlegore in order to avoid getting more than the one add. Rattlegore drops the Viewing Room Key, which is needed to progress deeper into Scholomance.
 
 [![rattlegore](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rattlegore.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rattlegore.png)
+
 #### Strategy
 
 * **Tank:** Mark the add as the primary target, and focus on Rattlegore second. Pull both of them out of their room and to the bottom of the stairs. Keep your back to a wall to avoid being thrown around by [Knock Away](https://warcraftdb.com/classic/spell/18945).
@@ -524,6 +503,7 @@ Rattlegore is a mandatory, level 61 elite boss located in the basement of the Gr
 Death Knight Darkreaver is a summoned boss in Rattlegore’s room, the Great Ossuary, of Scholomance. He is summoned by Paladins who are working on the quest for their epic mount. The encounter entails waves of different spirits who must be defeated. Using different Judgements on the spirits will result in an AoE stun and reduced damage. For Banal Spirits, judge Seal of Wisdom. For Malicious Spirits, judge Seal of Justice. For Corrupted Spirits, Judge Seal of Righteousness. For Shadowed Spirits, Judge Seal of Light. After these waves of spirits, Death Knight Darkreaver will spawn. This encounter is part of the questline for the Alliance Paladin Epic Mount and for the Horde Shaman Epic Helm.
 
 [![death knight darkreaver](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Death-Knight-Darkreaver.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Death-Knight-Darkreaver.png)
+
 #### Strategy
 
 * **Tank:** Pick up the adds in each wave as best you can and allow DPS to burn them down. Darkreaver himself is a Tank and Spank. Just hold threat on the boss.
@@ -542,6 +522,7 @@ Death Knight Darkreaver is a summoned boss in Rattlegore’s room, the Great Oss
 Marduk is a level 58 undead elite found in the NE corner of the Viewing Room. He is unable to be engaged unless someone in the party has worked on a long questline which involves killing this boss.
 
 [![marduk blackpool](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Marduk-Blackpool.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Marduk-Blackpool.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing away from the group, keeping distance between Marduk and your Ranged DPS and Healer.
@@ -558,6 +539,7 @@ Marduk is a level 58 undead elite found in the NE corner of the Viewing Room. He
 Vectus is a Neutral, level 60 undead elite who is to be found in the Viewing Room. He is one of the necromancy instructors for the school. He is unable to be engaged unless someone in the party has worked on a long questline which involves killing this boss.
 
 [![vectus](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Vectus.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Vectus.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from your Ranged DPS and Healer while avoiding standing in fire or being hit by [Flamestrike](https://warcraftdb.com/classic/spell/18399).
@@ -574,6 +556,7 @@ Vectus is a Neutral, level 60 undead elite who is to be found in the Viewing Roo
 Ras Frostwhisper is a level 60 elite Lich, located in the Alchemy Lab room in Scholomance. Other than Blackwing Lair, this is the only other Alchemy Lab in Classic where you are able to craft flasks.
 
 [![ras frostwhisper](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ras-Frostwhisper.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ras-Frostwhisper.png)
+
 #### Strategy
 
 * **Tank:** After clearing all the adds in the room, tank the boss near the back but not behind any obstacles which will put you out of line of sight from the healer, especially when affected by [Fear](https://warcraftdb.com/classic/spell/12096). Coordinate with melee DPS on an interrupt rotation to keep Ras from using his abilities too often.
@@ -602,6 +585,7 @@ Ras Frostwhisper is a level 60 elite Lich, located in the Alchemy Lab room in Sc
 Kormok is a level 60 elite boss can be summoned in Ras Frostwhisper’s room using the Brazier of Beckoning for the Tier 0.5 questline. The fight is a tank and spank that requires you to manage the adds that he summons.
 
 [![kormok](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kormok.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kormok.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss in the middle of the room, and be prepared to pick up the skeleton adds as they are summoned.
@@ -621,6 +605,7 @@ Kormok is a level 60 elite boss can be summoned in Ras Frostwhisper’s room usi
 Lady Illucia Barov is located on the lower left wing of the last room. She is a simple straightforward fight who’s only complication is she will cast Dominate Mind on players.
 
 [![lady illucia barov](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Illucia-Barov.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Illucia-Barov.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss and maximize threat so the damage dealers can output maximum DPS.
@@ -664,6 +649,7 @@ Lady Illucia Barov is located on the lower left wing of the last room. She is a 
 Lord Alexei Barov is located on the lower center wing of the last room. He is arguably the hardest, if not the second hardest fight in Scholomance. The combination of his Unholy Aura and Veil of Shadow in addition to two linked adds can quickly overwhelm a healer, leading to deaths. If at all possible, adds should be CC’d and decursing of Veil of Shadow should be a priority. Burn Barov and then finish up the adds.
 
 [![lord alexei barov](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Alexei-Barov.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Alexei-Barov.png)
+
 #### Strategy
 
 * **Tank:** Make sure that crowd controls plans are finalized before the pull. Controlling the adds makes the fight much easier. Keep aggro on all mobs but focus on Barov first to stem the party wide damage from [Unholy Aura](https://warcraftdb.com/classic/spell/17467).
@@ -706,6 +692,7 @@ Lord Alexei Barov is located on the lower center wing of the last room. He is ar
 The Ravenian is located on the lower right wing of the last room. This is a very simple tank and spank fight with the only complication is if you don’t fully clear the room, you may get adds due to his Knock Away.
 
 [![the ravenian](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Ravenian.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Ravenian.png)
+
 #### Strategy
 
 * **Tank:** Be aware of positioning because you will be flung around by [Knock Away](https://warcraftdb.com/classic/spell/11130). If you don’t clear the room it’s easy to accidentally get adds.
@@ -749,6 +736,7 @@ The Ravenian is located on the lower right wing of the last room. This is a very
 Lorekeeper Polkelt is located on the upper left wing of the last room. He is a very squishy boss but the complication is that he almost certainly won’t be able to be pulled alone. There are many zombie mobs in this room and you usually get a few when pulling Polkelt. As long as you treat them the same way as other pulls it is easy to down him.
 
 [![lorekeeper polkelt](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lorekeeper-Polkelt.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lorekeeper-Polkelt.png)
+
 #### Strategy
 
 * **Tank:** Polkelt will almost certainly come with multiple adds. Keep threat on all mobs and be prepared to absorb or avoid the exploding corpses.
@@ -793,6 +781,7 @@ Lorekeeper Polkelt is located on the upper left wing of the last room. He is a v
 Doctor Theolen Krastinov is located on the upper center wing of the last room. This boss can be especially lethal to lesser armored party members. At 50% health he will Enrage and will easily start one or two shotting those near him. Try to burn him down fast before too many party members die.
 
 [![doctor theolen krastinov](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Doctor-Theolen-Krastinov.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Doctor-Theolen-Krastinov.png)
+
 #### Strategy
 
 * **Tank:** Be prepared to take extra damage in this fight. Krastinov hits very hard. At 50% he hits even harder so to help out plan on using some defensive cooldowns later into the fight.
@@ -835,6 +824,7 @@ Doctor Theolen Krastinov is located on the upper center wing of the last room. T
 Instructor Malicia is located on the upper right wing of the last room. She is an easy fight after dealing with the annoying adds before her. She is a heavy magic user and interrupts make the fight extremely simple.
 
 [![instructor malicia](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Instructor-Malicia.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Instructor-Malicia.png)
+
 #### Strategy
 
 * **Tank:** This is a tank and spank fight. Interrupt spells if possible.
@@ -879,6 +869,7 @@ Instructor Malicia is located on the upper right wing of the last room. She is a
 Darkmaster Gandling is the final boss of Scholomance, who spawns in the center of the Barov Family Vault upon the defeat of the 6 chamber bosses. He is the headmaster of Necromancy at Scholomance. Be aware that he enters the room soon after the final of the 6 bosses is defeated and will be engaged immediately upon exiting the wing. Gandling will periodically teleport a player into one of the surrounding chambers where they will need to fight a few non-elite mobs to make their way back to the group. Plan for the event that your Tank or Healer may be the one teleported.
 
 [![darkmaster gangling](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Darkmaster-Gangling.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Darkmaster-Gangling.png)
+
 #### Strategy
 
 * **Tank:** Hold the boss in the middle of the room where he spawns. If you are teleported into one of the previous rooms, kill the adds present and rejoin the encounter.
@@ -913,6 +904,7 @@ Darkmaster Gandling is the final boss of Scholomance, who spawns in the center o
 Lord Blackwood is a boss that appears during the Scourge Invasion. He is a simple tank and spank boss but make sure to get any loot off of him before he becomes unavailable.
 
 [![lord blackwood](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Blackwood.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Blackwood.png)
+
 #### Strategy
 
 * **Tank:** Maximize threat so that the damage dealers can DPS. This is straight forward for strategy.
@@ -1221,6 +1213,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

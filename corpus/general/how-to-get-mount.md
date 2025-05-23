@@ -1,12 +1,9 @@
 # Mount Guide for WoW Classic & Season of Discovery
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: December 8, 2024
 * Updated: December 8, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -73,7 +70,7 @@ These effects **do stack**. Not only that, but they are multiplicative, so combi
 
 | Item/Enchant | Increase | Slot | Source |
 | --- | --- | --- | --- |
-| [Carrot on a Stick](https://warcraftdb.com/classic/item/11122) | 3% | Trinket | [Gahz’rilla](https://warcraftdb.com/classic/quest/2770) quest from [Wizzle Brassbolts](https://wowclassicdb.com/npc/4453) in Thousand Needles(requires clearing the [Zul’Farrak](https://www.warcrafttavern.com/wow-classic/guides/zulfarrak/) dungeon) |
+| [Carrot on a Stick](https://warcraftdb.com/classic/item/11122) | 3% | Trinket | [Gahz’rilla](https://warcraftdb.com/classic/quest/2770) quest from [Wizzle Brassbolts](https://wowclassicdb.com/npc/4453) in Thousand Needles (requires clearing the [Zul’Farrak](https://www.warcrafttavern.com/wow-classic/guides/zulfarrak/) dungeon) |
 | [Enchant Gloves – Riding Skill](https://warcraftdb.com/classic/spell/13947) | 2% | Gloves | [Enchanting](https://www.warcrafttavern.com/wow-classic/guides/season-of-discovery-sod-enchanting-guide/) (250 skill) |
 | [Mithril Spurs](https://warcraftdb.com/classic/item/7969) | 4% | Boots | [Blacksmithing](https://www.warcrafttavern.com/wow-classic/guides/season-of-discovery-sod-blacksmithing-guide/) (235 skill) |
 
@@ -300,6 +297,3 @@ In addition to the old mounts that dropped inside [Temple of Ahn’Qiraj](https:
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Dire Maul North Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 6, 2025
 * Updated: January 6, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -138,11 +135,9 @@ The [Frost Oil](https://warcraftdb.com/classic/item/3829) can be crafted with [A
 
 Broken Trap in Dire Maul North
 
-
 [![dire maul north quests frost trap](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-North-Quests-Frost-Trap-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-North-Quests-Frost-Trap-1024x576.jpg)
 
 Guard Slip’kik trapped
-
 
 #### [Free Knot!](https://wowclassicdb.com/quest/5525)
 
@@ -176,7 +171,6 @@ When Knot is on his way, he leaves behind [Knot Thimblejack’s Cache](https://w
 
 Knot Thimblejack in Dire Maul North
 
-
 #### [The Gordok Ogre Suit](https://wowclassicdb.com/quest/5518)
 
 * **Shareable:** Yes
@@ -200,11 +194,9 @@ This quest is required to complete a Tribute Run. You’ll need to loot an [Ogre
 
 Ogre Tannin Basket in Dire Maul North
 
-
 [![dire maul north quests gordok ogre suit](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-North-Quests-Gordok-Ogre-Suit-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-North-Quests-Gordok-Ogre-Suit.jpg)
 
 The Gordok Ogre Suit in action
-
 
 #### [Unfinished Gordok Business](https://wowclassicdb.com/quest/7703)
 
@@ -227,11 +219,9 @@ This quest can only be picked up while wearing the [Gordok Ogre Suit](https://wa
 
 Captain Kromcrush in Dire Maul North
 
-
 ![dire maul north quests prince's chest](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-North-Quests-Princes-Chest-1024x576.jpg)
 
 The Prince’s Chest in Dire Maul West
-
 
 Bosses
 ------
@@ -250,6 +240,7 @@ There are six bosses in the North wing of Dire Maul, including 5 that should not
 Guard Mol’dar is one of the guards in Dire Maul North, and should not be engaged if you are attempting the Dire Maul Tribute Run. Note that he drops the Gordok Inner Door Key. If you are doing a Tribute Run, to get past the Inner Door, you will need to use a Seaforium Charge, Truesilver Skeleton Key, or pickpocket (Rogues only) Mol’dar for the key. If you are running Dire Maul North with the intention of killing all the bosses, engage Mol’dar and enjoy a simple fight. Once Friendly, Mol’dar will grant you the two hour Mol’dar’s Moxie stamina buff.
 
 [![guard mol'dar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Guard-Moldar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Guard-Moldar.png)
+
 #### Strategy
 
 * **Tank:** Tank Guard Mol’dar up against a wall to avoid being tossed around by [Knock Away](https://warcraftdb.com/classic/spell/10101). Save any defensive cooldowns for when the boss [Enrage](https://warcraftdb.com/classic/spell/8269).
@@ -278,6 +269,7 @@ Guard Mol’dar is one of the guards in Dire Maul North, and should not be engag
 Stomper Kreeg is a drunken ogre who can be bypassed simply by waiting for him to fall asleep. If you intend to kill the ogre, engage him after defeating the surrounding adds. If you are attempting the Dire Maul Tribute Run, do not engage with Stomper Kreeg, and simply move along.
 
 [![stomper kreeg](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Stomper-Kreeg.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Stomper-Kreeg.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss and maintain the primary threat position. Save any defensive cooldowns for when Kreeg [Enrage](https://warcraftdb.com/classic/spell/8269).
@@ -293,6 +285,7 @@ Stomper Kreeg is a drunken ogre who can be bypassed simply by waiting for him to
 Guard Fengus is another of the Guards in Dire Maul North who needs to be skipped for the Tribute run, or defeated for his loot. To get past him, make sure he walks away from his chest and steal the key to open the door and move on. Once Friendly, Fengus will grant you the two hour Fengus’ Ferocity attack power buff.
 
 [![guard fengus](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Guard-Fengus.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Guard-Fengus.png)
+
 #### Strategy
 
 * **Tank:** Tank Guard Fengus up against a wall to avoid being tossed around by 10101. Save any defensive cooldowns for when the boss [Enrage](https://warcraftdb.com/classic/spell/8269).
@@ -315,6 +308,7 @@ Guard Fengus is another of the Guards in Dire Maul North who needs to be skipped
 Guard Slip’kik patrols the walkway below the ramps which take you upward in Dire Maul North. Slip’kik can be killed for some rare loot. If attempting the Dire Maul North Tribute run, you will require a Thorium Widget and a vial of Frost Oil in order to fix the broken trap on the ground in Slip’kik’s path. Upon success, the Guard will be trapped in ice and your group may move along. Once Friendly, Guard Slip’kik grants you the two hour Slip’kik’s Savvy spell critical chance buff.
 
 [![guard slip'kik](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Guard-Slipkik.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Guard-Slipkik.png)
+
 #### Strategy
 
 * **Tank:** Tank Guard Slip’kik up against a wall to avoid being tossed around by [Knock Away](https://warcraftdb.com/classic/spell/10101). Save any defensive cooldowns for when the boss [Enrage](https://warcraftdb.com/classic/spell/8269).
@@ -342,6 +336,7 @@ Guard Slip’kik patrols the walkway below the ramps which take you upward in Di
 Captain Kromcrush is the final of the named ogres that stand between you and King Gordok at the end of Dire Maul North. The boss can be defeated for loot, or bypassed in the Tribute run. If you are attempting the Dire Maul North Tribute run, you will need to loot an Ogre Tannin from one of the Ogre Tannin Baskets in the room before where Captain Kromcrush Stands. Once you have the tannin, speak with Knot Thimblejack downstairs near Slip’kik and receive your Gordok Ogre Suit. Take the suit back up to Kromcrush, equip it, and speak with the Captain. At the end of your dialogue he will storm off in a fit.
 
 [![captain kromcrush](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Captain-Kromcrush.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Captain-Kromcrush.png)
+
 #### Strategy
 
 * **Tank:** When the boss spawns his Gordok Reaver adds, get threat on them before your DPS or Healer take significant damage from them.
@@ -360,6 +355,7 @@ Captain Kromcrush is the final of the named ogres that stand between you and Kin
 King Gordok and Cho’Rush the Observer are together in the last encounter of the instance. The final challenge in the Tribute run is to not kill Cho’Rush the Observer. He must live through the encounter in order to “observe” your worthiness. This is the final requirement of the tribute, and upon success grants you access to the Gordok Tribute chest and the buffs from the now friendly Ogre guards. For a Tribute run where Cho’Rush must live, the fight is a bit of a DPS race. Cho’Rush must be managed but the faster that King Gordok dies, the better. He does a decent amount of damage to the tank so healer mana can disappear rapidly. In a normal run of Dire Maul North, it is much easier to focus down Cho’Rush the Observer first, then move on to King Gordok.
 
 [![king gordok](https://www.warcrafttavern.com/wp-content/uploads/2024/11/King-Gordok.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/King-Gordok.png)
+
 #### Strategy
 
 * **Tank:** Establish and maintain threat on King Gordok. If your group is killing Cho’Rush, focus the ogre down with your DPS, making sure to interrupt [Healing Wave](https://warcraftdb.com/classic/spell/15982) and secondly [Mind Blast](https://warcraftdb.com/classic/spell/17194).
@@ -388,6 +384,7 @@ King Gordok and Cho’Rush the Observer are together in the last encounter of th
 After King Gordok is defeated, a tribute chest will appear. What loot is inside is determined by how many of the guards are kept alive. If all of them remain standing, then the largest number of rare items will be inside. If guards were killed, then only uncommon items will be inside.
 
 [![gordok tribute](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gordok-Tribute.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gordok-Tribute.png)
+
 #### Loot
 
 * [Barrier Shield](https://warcraftdb.com/classic/item/18499)
@@ -517,6 +514,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

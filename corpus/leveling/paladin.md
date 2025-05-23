@@ -1,12 +1,9 @@
 # WoW Classic Paladin Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: July 28, 2024
 * Updated: January 2, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -260,7 +257,6 @@ You get [Seal of Light](https://warcraftdb.com/classic/spell/20165) ranks every 
 
 If you plan on tanking dungeons you can shave off 3 points in [Toughness](https://warcraftdb.com/classic/spell/1166) for [Improved Righteous Fury](https://warcraftdb.com/classic/spell/20470) to drastically help you with threat.
 
-
 Full Retribution Build
 
 Start in Retribution tree:
@@ -456,6 +452,3 @@ Paladins benefit most from these professions while leveling:
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

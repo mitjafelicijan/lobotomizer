@@ -1,12 +1,9 @@
 # Avoiding and Escaping Ganking while Leveling
 
-
-
 * Author: [teebling](https://www.warcrafttavern.com/author/teebling/)
 * Date: February 9, 2019
 * Updated: December 9, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -110,9 +107,9 @@ Don’t leave a trail that points to you like an arrow. Many quests begin with m
 ### Body language
 
 > [Stfuppercut](https://barrens.chat/memberlist.php?mode=viewprofile&u=1165) wrote: [↑](https://barrens.chat/viewtopic.php?p=12511#p12511)
-> 
+>
 > As someone who ganks players constantly, one of the key things you need to consider is your body language. What is your body language telling the other player? Are you targeting me? When I target you are you moving and aware… Are you killing mobs towards me, away from me… Are you a nuisance? If I am a high level player do you run and hide from me? If you do I want you more… You belong to me now. If I do gank you, how do you respond? Do you fight back or continue to attack your mobs? A great strategy for dealing with a continuous ganker that you cant beat, is to act methodically and play like you are a bot. If the player things youre a bot and is getting no reaction, they could potentially leave you alone. Logging out and taking a break off your main can also act as a great deterrent. Consider your body language. Consider if you are sending a message that you are aware and capable or weak and clueless. If you are dealing with a high level player consider if you are fun to gank. Are you a runner? Are you a slippery lil fella that he gets to chase around? You’re going to get it worse than if you just stood still. Just my 2 cents.
-> 
+>
 > Body language is usually the key determinant in my choices to gank. If you seem competent, are moving lots and thrashing NPC’s, with little to no downtime, I likely wont take the chance that I can lose. If you’re a tasty lil treat, im gonna have a snack.
 
 ### For players at launch
@@ -299,14 +296,8 @@ Lastly just remember that the world is big – if you can’t do whatever it is 
 
 Do you have any favorite tactics, items, spells or combinations of all three that you have used in the past for avoiding ganks? Leave your ideas below!
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/fafb15427f59680f4d8d0fb042a8b3db.jpg?ver=1738210736)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/fafb15427f59680f4d8d0fb042a8b3db.jpg?ver=1747968868)
 
 #### teebling
-
-
-
-
-

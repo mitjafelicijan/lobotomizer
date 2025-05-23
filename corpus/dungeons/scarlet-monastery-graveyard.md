@@ -1,12 +1,9 @@
 # WoW Classic Scarlet Monastery Graveyard Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 26, 2024
 * Updated: January 23, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -67,8 +64,8 @@ There are only 2 quests for Scarlet Monastery’s Graveyard wing, both exclusive
 | [Vorrel’s Revenge](https://warcraftdb.com/classic/quest/1051) | [Vorrel Sengutz](https://wowclassicdb.com/npc/3981) (Scarlet Monastery Graveyard) | Yes |
 | [Hearts of Zeal](https://warcraftdb.com/classic/quest/1113) | [Master Apothecary Faranell](https://wowclassicdb.com/npc/2055) (Undercity) | No |
 
-
 [![classic scarlet monastery graveyard quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Graveyard-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Graveyard-Quests.png)
+
 ### Horde Quests
 
 #### [Vorrel’s Revenge](https://warcraftdb.com/classic/quest/1051)
@@ -123,6 +120,7 @@ There are six potential bosses inside Scarlet Monastery’s Graveyard wing, but 
 Interrogator Vishas is the first boss your will encounter in Scarlet Monastery Graveyard. He is a level 32 elite Scarlet Crusade human. He is accompanied by several other members of the Scarlet Crusade that need to be killed first before engaging him. This twisted villain threatens to “rip the secrets from your flesh.”
 
 [![interrogator vishas](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Interrogator-Vishas.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Interrogator-Vishas.png)
+
 #### Strategy
 
 * **Tank:** Use AoE abilities to generate threat on all the adds that accompany Interrogator Vishas. Mark adds with Skull and X and prioritize threat on those targets.
@@ -139,6 +137,7 @@ Interrogator Vishas is the first boss your will encounter in Scarlet Monastery G
 Ironspine is one of the three possible rare mobs who spawn in Scarlet Monastery Graveyard.
 
 [![ironspine](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ironspine.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ironspine.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from the group, and move him far from any poison clouds so your melee DPS are safe to attack.
@@ -156,6 +155,7 @@ Ironspine is one of the three possible rare mobs who spawn in Scarlet Monastery 
 Fallen Champion is one of the three possible rare mobs who spawn in Scarlet Monastery Graveyard.
 
 [![fallen champion](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Fallen-Champion.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Fallen-Champion.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing away from other party members so that they are not Cleaved.
@@ -173,6 +173,7 @@ Fallen Champion is one of the three possible rare mobs who spawn in Scarlet Mona
 Azshir is one of the three possible rare mobs who spawn in the Scarlet Monastery Graveyard. Be careful of his fear ability.
 
 [![azshir the sleepless](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Azshir-the-Sleepless.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Azshir-the-Sleepless.png)
+
 #### Strategy
 
 * **Tank:** Clear any adds from the area before engaging the Azshir. Tank the boss away from healers and ranged DPS.
@@ -190,6 +191,7 @@ Azshir is one of the three possible rare mobs who spawn in the Scarlet Monastery
 Bloodmage Thalnos is the last boss of Scarlet Monastery Graveyard. He is a level 34 elite Undead which can be found at the very bottom of the crypt. He is not accompanied by any other adds, but in order to reach him you will have to clear the entire crypt.
 
 [![bloodmage thalnos](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bloodmage-Thalnos.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bloodmage-Thalnos.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Bloodmage Thalnos casts Shadow Bolt and can not be interrupted. If you are already at low HP, consider running away when he begins casting Flame Spike to avoid taking damage.
@@ -206,6 +208,7 @@ Bloodmage Thalnos is the last boss of Scarlet Monastery Graveyard. He is a level
 Scorn is **only available during the Scourge Invasion event**. Make sure to get any of the items off of him before he disappears. He hits harder than your average mob in this dungeon so approach him warily. He only spawns after Bloodmage Thalnos has been defeated.
 
 [![scorn](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Scorn.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Scorn.png)
+
 #### Strategy
 
 * **Tank:** Scorn hits hard and with his magic abilities can cut through your armor more than usual. You will be knocked back by Lich Slap so stand with your back to the wall when tanking him.
@@ -260,6 +263,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

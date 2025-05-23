@@ -1,12 +1,9 @@
 # WoW Classic Mining Guide 1 – 300
 
-
-
 * Author: [Nevermore](https://www.warcrafttavern.com/author/nevermore/)
 * Date: March 23, 2022
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -26,7 +23,6 @@ Welcome to Warcraft Tavern’s 1-300 Mining Guide! In this guide, we’ll cover 
 If your primary profession is either [Blacksmithing](https://www.warcrafttavern.com/wow-classic/guides/blacksmithing-1-300/) or [Engineering](https://www.warcrafttavern.com/wow-classic/guides/engineering-1-300/), Mining is practically a prerequisite. Both professions require materials that can only be acquired through Mining. You could choose to not take up Mining as your second profession, but consequently, you’ll have to spend an impractical amount of money on the materials you need to raise your Blacksmithing and Engineering.
 
 Apart from being the natural prerequisite for Engineering and Blacksmithing, Mining will generate a huge amount of revenue due to the various bars required by the other professions for crafting recipes. You will generate gold early through selling materials such as [Copper Ore](https://wowclassicdb.com/item/2770)/[Copper Bars](https://wowclassicdb.com/item/2840), as they are materials required in bulk for blacksmithing and engineering early. Copper Ore will also offer a large amount of revenue due to other miners choosing to buy it off the auction house early rather than mine it themselves. [Steel Bars](https://wowclassicdb.com/item/3859) will overtake copper when you reach the middle of your miner journey. When you reach the end of your journey, [Mithril Ore](https://wowclassicdb.com/item/3858)/[Mithril Bars](https://wowclassicdb.com/item/3860)/[Thorium Ore](https://wowclassicdb.com/item/10620)/[Thorium Bars](https://wowclassicdb.com/item/12359) will be your main gold source apart from [Arcane Crystals](https://wowclassicdb.com/item/12363) and [Blood of the Mountain](https://wowclassicdb.com/item/11382). Of course, we can’t forget the incredibly valuable [Azerothian Diamonds](https://wowclassicdb.com/item/12800)!
-
 
 Mining Trainer Locations
 ------------------------
@@ -119,13 +115,11 @@ Gems Found in Each Type of Vein
 **Small Thorium –** [Large Opal](https://wowclassicdb.com/item/12799), [Blue Sapphire](https://wowclassicdb.com/item/12361), [Star Ruby](https://wowclassicdb.com/item/7910), [Black Vitriol](https://wowclassicdb.com/item/9262)  
 **Rich Thorium –** [Arcane Crystal](https://wowclassicdb.com/item/12363), [Azerothian Diamond](https://wowclassicdb.com/item/12800), [Blue Sapphire](https://wowclassicdb.com/item/12361), [Huge Emerald](https://wowclassicdb.com/item/12364), [Large Opal](https://wowclassicdb.com/item/12799), [Star Ruby](https://wowclassicdb.com/item/7910)
 
-  
 Most gems you find are only used in crafting and can be bought or sold in the AH cheap. However, a few gems are extremely rare and therefore valuable:
 
 **[Arcane Crystal](https://wowclassicdb.com/item/12363) –** Anywhere from 20-40g depending on your server. The drop rate is approximately 3%  
 **[Azerothian Diamond](https://wowclassicdb.com/item/12800) –** Anywhere from 40-100g depending on your server. The drop rate is approximately 1%.  
 **[Blood of the Mountain](https://wowclassicdb.com/item/11382) –** Anywhere from 50-150g depending on your server. The drop rate is approximately 1%.
-
 
 In the following lists, you can find the location(s) of uncommon and special veins, and learn the purpose of each special vein.
 
@@ -219,7 +213,6 @@ Lesser Bloodstone Ore is the objective of the alliance quest Favor for Krazek, g
 **Dark Iron Ore –** *Found in Blackrock Depths and Molten Core, deposits can be found in any of the numerous caverns.*Dark Iron serves two purposes. You can either smelt it to create bars for any of the Blackrock Depths exclusive recipes, or you can turn it into Lokhtos Darkbargainer in the bar in Blackrock Depths to increase your Thorium Brotherhood faction. When you get your Thorium Brotherhood faction to Honored and above, Lokhtos will sell you some really nice crafting recipes. Before you get too excited about that prospect, read the paragraph below about smelting Dark Iron Ore.
 
 To create one Dark Iron Bar, you need 8 Dark Iron Ore, and you can only smelt Dark Iron at the Dark Forge, which is located near the portal to Molten Core. Before you can smelt it, you need to learn how to smelt Dark Iron Ore from Gloom’rel deep in Blackrock Depths in the 7 Ghosts room. He’ll teach you how to smelt it if you give him 20 Gold Bars, 10 Truesilver Bars, and 2 Star Rubies. You can only make items that require Dark Iron Bars at the Black Anvil, which is on the other side of the instance where Lord Incendius is located.
-
 
 Mining Routes
 -------------
@@ -344,7 +337,7 @@ Silver Ore spawn locations: Alterac Mountains, Arathi Highlands, Ashenvale, Badl
 8. Tin Ore (1-2 nodes)
 9. Tin Ore (1-2 nodes)
 
-**[Redridge Mountains](https://wowclassicdb.com/zone/44)** 
+**[Redridge Mountains](https://wowclassicdb.com/zone/44)**
 
 ![redridge mountains](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Redridge-Mountains.jpg)
 
@@ -429,7 +422,7 @@ Once you reach 100 Smelting Silver Bars will turn to yellow, at 115 Bronze Bars 
 7. Iron Ore (3 nodes)
 8. Iron Ore (5 possible nodes in the area)
 
-**[Hillsbrad Foothills](https://wowclassicdb.com/zone/267)** 
+**[Hillsbrad Foothills](https://wowclassicdb.com/zone/267)**
 
 ![hillsbrad foothills wow classic](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Hillsbrad-Foothills-Wow-Classic.jpg)
 
@@ -505,7 +498,6 @@ Wetlands has four main spots for Iron Ore:
 
 We have now shown you some of the optimal routes for Iron Ore. You can also find Iron ore in Desolace, Thousand Needles, Alterac Mountains, Badlands, Swamp of Sorrows, Dustwallow Marsh, Tanaris, Feralas, Uldaman, Razorfen Kraul, the Hinterlands, Searing Gorge.
 
-
 **Expert (150-225)**
 
 **150-225**  
@@ -536,7 +528,7 @@ In Tanaris, Mithril Ore has multiple possible spawn nodes, we will mention them 
 11. High cluster next to the entrance of Un’Goro Crater
 12. High cluster next to the entrance of Un’Goro Crater
 
-**[The Hinterlands](https://wowclassicdb.com/zone/47)** 
+**[The Hinterlands](https://wowclassicdb.com/zone/47)**
 
 ![the hinterlands wow classic](https://www.warcrafttavern.com/wp-content/uploads/2022/03/The-hinterlands-wow-classic.jpg)
 
@@ -578,7 +570,7 @@ Large amount of nodes all around Dreadmaul Rock and inside its caves
 6. Mithril Ore
 7. Mithril Ore
 
-**[Swamp of Sorrows](https://wowclassicdb.com/zone/8)** 
+**[Swamp of Sorrows](https://wowclassicdb.com/zone/8)**
 
 ![swamp of sorrows wow classic](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Swamp-of-sorrows-Wow-classic.jpg)
 
@@ -637,7 +629,7 @@ You will find several spawn nodes to the east side of Winterspring, however, som
 3. Mithril Ore /Thorium Ore
 4. Mithril Ore
 
-**[Feralas](https://wowclassicdb.com/zone/357)** 
+**[Feralas](https://wowclassicdb.com/zone/357)**
 
 ![feralas wow classic](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Feralas-wow-classic.jpg)
 
@@ -650,7 +642,6 @@ You can find several isolated spawn nodes throughout Feralas. But you will have 
 Besides those main spots, you can also find Mithril in Desolace, Azshara, Badlands, Searing Gorge, Alterac Mountains, Silithus, Dustwallow marsh, Blasted Lands, Un’Goro Crater, Stonetalon Mountains, Thousand Needles, Hillsbrad Foothills, Maraudon, Uldaman.
 
 Sadly, you can not gain skill points by Smelting Mithril, you will have to level up Mining from 175 up until 230. Once you reach 225 you will have to train Artisan Mining at the nearest Mining Trainer.
-
 
 **Artisan (225-300)**
 
@@ -771,7 +762,6 @@ Unlike Rich Thorium Veins, Small Thorium Veins in Eastern Plaguelands have a ver
 
 Blasted Lands has two main zones with concentrated spawn locations of Small Thorium Ore Veins, both of those zones are caves. You can also find three nodes that spawn in the vicinity of The Dark Portal and some possible spawn locations near Dreadmaul Hold.
 
-
 ### **Horde Gathering Routes**
 
 **Apprentice (1-75)**
@@ -858,7 +848,6 @@ Copper Ore can be found throughout all the starting areas, making it the most wi
 You will also be able to find plenty of Copper Ore in the following regions:  
 The Barrens, Loch Modan, Westfall, Redridge Mountains, Silverpine Forest, Stonetalon Mountains, Duskwood, Thousand Needles, Ashenvale, Hillsbrad Foothills, Wetlands, Desolace, Alterac Mountains, The Deadmines, and Wailing Caverns
 
-
 **Journeyman (75-150)**
 
 **75-150**
@@ -867,12 +856,11 @@ The Barrens, Loch Modan, Westfall, Redridge Mountains, Silverpine Forest, Stonet
 Tin ore can be mined efficiently up until you reach 125 skill points! You can abuse this in order to level up your skill points fast. Remember all those Copper Bars we created? We will use them to create Bronze Bars once we acquire a stack or two of Tin Ore.  
 Keep in mind that Silver Ore Veins just like Gold Ore Veins have a random spawn location and you will often stumble across them randomly. They usually occupy a node that is generally used by a different type of ore such as Copper Ore in Darkshore or Iron Ore in Arathi Highlands and Hillsbrad Foothills.
 
-  
 Silver Ore spawn locations: Alterac Mountains, Arathi Highlands, Ashenvale, Badlands, Darkshore, Desolace, Duskwood, Dustwallow Marsh, Feralas, Hillsbrad Foothills, Loch Modan, Redridge Mountains, Searing Gorge, Silverpine Forest, Stonetalon Mountains, Stranglethorn Vale, Swamp of Sorrows, Tanaris, The Barrens, The Hinterlands, Thousand Needles, Westfall, and Wetlands
 
 **Routes for Tin Ore:**
 
-**[The Barrens](https://wowclassicdb.com/zone/17)** 
+**[The Barrens](https://wowclassicdb.com/zone/17)**
 
 ![the barrens wow classic 1](https://www.warcrafttavern.com/wp-content/uploads/2022/03/The-barrens-wow-classic-1.jpg)
 
@@ -953,7 +941,7 @@ Once you reach 100 Smelting Silver Bars will turn to yellow, at 115 Bronze Bars 
 5. Iron Ore (4 nodes)
 6. Iron Ore (2 nodes)
 
-**[Hillsbrad Foothills](https://wowclassicdb.com/zone/267)** 
+**[Hillsbrad Foothills](https://wowclassicdb.com/zone/267)**
 
 ![hillsbrad foothills wow classic 1](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Hillsbrad-Foothills-Wow-Classic-1.jpg)
 
@@ -1029,7 +1017,6 @@ Wetlands has four main spots for Iron Ore:
 
 We have shown you some of the optimal routes for Iron Ore, you can also find Iron ore in Desolace, Thousand Needles, Alterac Mountains, Badlands, Swamp of Sorrows, Dustwallow Marsh, Tanaris, Feralas, Uldaman, Razorfen Kraul, the Hinterlands, Searing Gorge.
 
-
 **Expert (150-225)**
 
 **150-225**  
@@ -1059,7 +1046,7 @@ In Tanaris, Mithril Ore has multiple possible spawn nodes, we will mention them 
 11. High cluster next to the entrance of Un’Goro Crater
 12. High cluster next to the entrance of Un’Goro Crater
 
-**[The Hinterlands](https://wowclassicdb.com/zone/47)** 
+**[The Hinterlands](https://wowclassicdb.com/zone/47)**
 
 ![the hinterlands wow classic 1](https://www.warcrafttavern.com/wp-content/uploads/2022/03/The-hinterlands-wow-classic-1.jpg)
 
@@ -1101,7 +1088,7 @@ A large number of nodes all around Dreadmaul Rock and inside its caves
 6. Mithril Ore
 7. Mithril Ore
 
-[**Swamp of Sorrows**](https://wowclassicdb.com/zone/8) 
+[**Swamp of Sorrows**](https://wowclassicdb.com/zone/8)
 
 ![swamp of sorrows wow classic 1](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Swamp-of-sorrows-Wow-classic-1.jpg)
 
@@ -1161,7 +1148,7 @@ There are multiple spawn points for Mithril in the area, a rough estimate would 
 3. Mithril Ore /Thorium Ore
 4. Mithril Ore
 
-**[Feralas](https://wowclassicdb.com/zone/357)** 
+**[Feralas](https://wowclassicdb.com/zone/357)**
 
 ![feralas wow classic 1](https://www.warcrafttavern.com/wp-content/uploads/2022/03/Feralas-wow-classic-1.jpg)
 
@@ -1174,7 +1161,6 @@ You can find several isolated spawn nodes throughout Feralas. But you will have 
 Besides those main spots, you can also find Mithril in Desolace, Azshara, Badlands, Searing Gorge, Alterac Mountains, Silithus, Dustwallow marsh, Blasted Lands, Un’Goro Crater, Stonetalon Mountains, Thousand Needles, Hillsbrad Foothills, Maraudon, Uldaman.
 
 Sadly, you can not gain skill points by Smelting Mithril, you will have to level up Mining from 175 up until 230. Once you reach 225 you will have to train Artisan Mining at the nearest Mining Trainer.
-
 
 **Artisan (225-300)**
 
@@ -1295,9 +1281,6 @@ Unlike Rich Thorium Veins, Small Thorium Veins in Eastern Plaguelands have a ver
 
 Blasted Lands has two main zones with concentrated spawn locations of Small Thorium Ore Veins, both of those zones are caves. You can also find three nodes that spawn in the vicinity of The Dark Portal and some possible spawn locations near Dreadmaul Hold.
 
-
-
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/sylvanas.jpg)
@@ -1305,6 +1288,3 @@ Blasted Lands has two main zones with concentrated spawn locations of Small Thor
 #### Nevermore
 
 Hey there folks, I am Nevermore and have been deeply passionate about WoW for more than a decade. Whether we talk about the hidden mysteries of Azeroth or the otherworldly Outland, my journey brought me here to share the things that I have experienced with you all.
-
-
-

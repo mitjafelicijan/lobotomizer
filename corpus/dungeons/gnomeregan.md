@@ -1,12 +1,9 @@
 # WoW Classic Gnomeregan Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 25, 2024
 * Updated: November 25, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -98,6 +95,7 @@ Gnomeregan has quite a large number of quests available.
 Alliance characters will have quite a number of quests they can complete in the dungeon. Horde have a few as well. [The Sparklematic 5200!](https://warcraftdb.com/classic/quest/80153) is a repeatable quest that can be completed for every [Grime-Encrusted Object](https://warcraftdb.com/classic/item/9308) you find inside the instance.
 
 [![classic gnomeregan quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Gnomeregan-Quests-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Gnomeregan-Quests.png)[![classic gnomeregan quests 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Gnomeregan-Quests-2-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Gnomeregan-Quests-2.png)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [Save Techbot’s Brain!](https://warcraftdb.com/classic/quest/80137)
@@ -117,6 +115,7 @@ The optional breadcrumb quest [Tinkmaster Overspark](https://warcraftdb.com/clas
 [Techbot’s Memory Core](https://warcraftdb.com/classic/item/9277) drops from [Techbot](https://wowclassicdb.com/npc/6231), who can be found in the Gnomeregan exterior area outside the dungeon entrance. He has his own room which is marked in the map below.
 
 [![techbot location map wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Techbot-Location-Map-WoW-Classic.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Techbot-Location-Map-WoW-Classic.jpg)
+
 #### [Gnogaine](https://warcraftdb.com/classic/quest/80139)
 
 * **Shareable:** No
@@ -182,6 +181,7 @@ The other three machines you need to use are **inside the dungeon**:
 
 [![matrix punchograph 3005 a location map](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Matrix-Punchograph-3005-A-Location-Map.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Matrix-Punchograph-3005-A-Location-Map.jpg)
 [![matrix punchograph 3005 b c d location map](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Matrix-Punchograph-3005-B-C-D-Location-Map.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Matrix-Punchograph-3005-B-C-D-Location-Map.jpg)
+
 #### [Essential Artificials](https://warcraftdb.com/classic/quest/80136)
 
 * **Shareable:** Yes
@@ -251,6 +251,7 @@ The [Robo-mechanical Guts](https://warcraftdb.com/classic/item/9309) you need ca
 The [Rig Blueprints](https://warcraftdb.com/classic/item/9153) can be obtained by looting [Thermaplugg’s Safe](https://wowclassicdb.com/object/142477), a small lockbox behind the last boss of the dungeon, [Mekgineer Thermaplugg](https://warcraftdb.com/classic/gnomeregan/mekgineer-thermaplugg/map#default). To open it, you will need to loot [Thermaplugg’s Safe Combination](https://warcraftdb.com/classic/item/9299) from [Mekgineer Thermaplugg](https://warcraftdb.com/classic/gnomeregan/mekgineer-thermaplugg/map#default).
 
 [![thermapluggs safe wow classic location map](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Thermapluggs-Safe-WoW-Classic-Location-Map.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Thermapluggs-Safe-WoW-Classic-Location-Map.jpg)
+
 #### [Chief Engineer Scooty](https://warcraftdb.com/classic/quest/80133)
 
 * **Shareable:** Yes
@@ -300,6 +301,7 @@ You don’t need to keep the [Goblin Transponder](https://warcraftdb.com/classic
 [Kernobee](https://wowclassicdb.com/npc/7850) can be found on the ground in The Dormitory, south of the Clean Room where you fight [Viscous Fallout](https://warcraftdb.com/classic/gnomeregan/viscous-fallout/map#default) (see map below). He will follow whoever starts the quest first. You must escort him safely out of the dungeon before he blows up. Note that he does not aggro or fight mobs, so you can do this by stealth. Get him to the dungeon entrance and you will be able to turn in the quest in Booty Bay. If he dies and the quest fails, he will not respawn – you will have to run the dungeon again.
 
 [![kernobee wow classic location map](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kernobee-WoW-Classic-Location-Map.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kernobee-WoW-Classic-Location-Map.jpg)
+
 #### [Grime-Encrusted Ring](https://warcraftdb.com/classic/quest/79986)
 
 * **Shareable:** No
@@ -313,6 +315,7 @@ You don’t need to keep the [Goblin Transponder](https://warcraftdb.com/classic
 Kill [Dark Iron Agent](https://wowclassicdb.com/npc/6212)s in Gnomeregan to get [Grime-Encrusted Ring](https://warcraftdb.com/classic/item/9326), which will start this quest. Turn it in at [The Sparklematic 5200](https://wowclassicdb.com/object/142487), which is in the Clean Room near where you fight [Viscous Fallout](https://warcraftdb.com/classic/gnomeregan/viscous-fallout/map#default). After completing this quest, you’ll be able to do the repeatable quest below.
 
 [![the sparklematic 5200 location map wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Sparklematic-5200-Location-Map-WoW-Classic.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Sparklematic-5200-Location-Map-WoW-Classic.jpg)
+
 #### [The Sparklematic 5200!](https://warcraftdb.com/classic/quest/80153) (Repeatable)
 
 * **Shareable:**
@@ -343,6 +346,7 @@ There are six bosses in Gnomeregan, including one rare boss who does not always 
 Grubbis is the first boss encounter in Gnomeregan. Blastmaster Emi Shortfuse is located near the entrance at the end of the first offshoot to the left. Grubbis appears at the end of the scripted encounter at the end of the event started by Emi.
 
 [![grubbis](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Grubbis.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Grubbis.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Grubbis is accompanied by his pet, Chomper. Make sure to keep aggro on it as well. Grubbis and his pet can be stunned or feared.
@@ -358,6 +362,7 @@ Grubbis is the first boss encounter in Gnomeregan. Blastmaster Emi Shortfuse is 
 Viscous Fallout is the second boss encounter in Gnomeregan.
 
 [![viscous fallout](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Viscous-Fallout.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Viscous-Fallout.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out.
@@ -375,6 +380,7 @@ Viscous Fallout is the second boss encounter in Gnomeregan.
 Electrocutioner 6000 is the third boss encountered from the main entrance of Gnomeregan, on the platform centered in the top of the Launch Bay. This boss drops the Workshop Key, giving access to the secondary entrance of the instance.
 
 ![electrocutioner 6000](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Electrocutioner-6000.png)
+
 #### Strategy
 
 * **Tank:** Electrocutioner 6000 casts Megavolt and Chain Bolt which cannot be interrupted. Stay at max melee range to avoid chaining Chain Bolt to the melee DPS.
@@ -393,6 +399,7 @@ Electrocutioner 6000 is the third boss encountered from the main entrance of Gno
 Crowd Pummeler 9-60 is another boss in Gnomeregan, located in the Engineering labs. This boss is commonly farmed by Feral Druids for the Manual Crowd Pummeler.
 
 ![crowd pummeler 9 60](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Crowd-Pummeler-9-60.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from your healer, with your back to a wall.
@@ -409,6 +416,7 @@ Crowd Pummeler 9-60 is another boss in Gnomeregan, located in the Engineering la
 Dark Iron Ambassador is a rare mob that spawns near the Tinker’s Court.
 
 [![dark iron ambassador](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Dark-Iron-Ambassador.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Dark-Iron-Ambassador.png)
+
 #### Strategy
 
 * **Tank:** Tank the rare mob away from your group, and pick up the adds as they are summoned.
@@ -426,6 +434,7 @@ Dark Iron Ambassador is a rare mob that spawns near the Tinker’s Court.
 Mekgineer Thermaplugg is the final boss of Gnomeregan, and summons Walking Bomb adds during the encounter.
 
 [![mekgineer thermaplugg](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mekgineer-Thermaplugg.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mekgineer-Thermaplugg.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss in the middle of the room, so the Walking Bombs take a long time to reach the group. If you are Knocked Away by Knock Away, reposition in the center of the room. Be ready to immediately Taunt and build threat after each knockback, as his threat table resets.
@@ -507,6 +516,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

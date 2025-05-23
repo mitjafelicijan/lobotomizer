@@ -1,12 +1,9 @@
 # WoW Classic Love Is in the Air Guide
 
-
-
 * Author: [OrinDac](https://www.warcrafttavern.com/author/orindac/)
 * Date: February 11, 2020
 * Updated: October 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -113,14 +110,8 @@ The next part, like the lead-in quests, is pretty similar across faction lines, 
 
 Well, that’s pretty much all there is to do in the Classic Love is in the Air event.  May you find true love someday and may it not immediately try to suck your soul out of your nose.  Have a wonderful day!
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1738114914)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/b6a629e319dcf7809f810cee6643840a.jpg?ver=1747858165)
 
 #### OrinDac
-
-
-
-
-

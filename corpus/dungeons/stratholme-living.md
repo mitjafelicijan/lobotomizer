@@ -1,12 +1,9 @@
 # WoW Classic Stratholme Living Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 21, 2025
 * Updated: January 22, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -98,7 +95,6 @@ Clicking on a Postbox when you have the appropriate key in your inventory will o
 
 A Postbox with a Postbox Parcel
 
-
 Quests
 ------
 
@@ -113,8 +109,8 @@ There are five quests that can be completed in the Living wing of Stratholme, al
 | [The Medallion of Faith](https://wowclassicdb.com/quest/5122) | [Aurius](https://wowclassicdb.com/npc/10917) (Stratholme) | Yes |
 | [The Restless Souls](https://wowclassicdb.com/quest/5282) | [Egan](https://wowclassicdb.com/npc/11140) (Eastern Plaguelands) | No |
 
-
 [![stratholme quests map](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Map-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Map.jpg)
+
 ### Neutral Quests
 
 #### [Of Love and Family](https://wowclassicdb.com/quest/5848)
@@ -144,26 +140,21 @@ Head into the Living wing of the Stratholme dungeon and make your way to Crusade
 
 Tirion Fordring at Thondoril River
 
-
 [![stratholme quests tiron fordrings grave](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Tiron-Fordrings-Grave-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Tiron-Fordrings-Grave.jpg)
 
 Tiron Fordring’s Grave at The Undercroft
-
 
 [![stratholme quests symbol of lost honor](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Symbol-of-Lost-Honor-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Symbol-of-Lost-Honor.jpg)
 
 Symbol of Lost Hope at Northdale
 
-
 [![stratholme quests artist renfray](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Artist-Renfray-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Artist-Renfray.jpg)
 
 Artist Renfray at Caer Darrow
 
-
 [![stratholme quests unfinished painting](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Unfinished-Painting-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Unfinished-Painting.jpg)
 
 Of Love and Family in Stratholme
-
 
 #### [The Great Ezra Grimm](https://warcraftdb.com/classic/quest/5214) (Formerly [The Great Fras Siabi](https://wowclassicdb.com/quest/5214))
 
@@ -183,7 +174,6 @@ To obtain [Grimm’s Premium Tobacco](https://warcraftdb.com/classic/item/13172)
 [![stratholme quests smokey larue](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Smokey-LaRue-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Smokey-LaRue.jpg)
 
 Smokey LaRue at Light’s Hope Chapel
-
 
 #### [The Archivist](https://wowclassicdb.com/quest/5251)
 
@@ -206,7 +196,6 @@ Head into the Living wing of the Stratholme dungeon and make your way to Crusade
 [![stratholme quests scarlet archive](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Scarlet-Archive-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Scarlet-Archive.jpg)
 
 The Scarlet Archive inside Stratholme
-
 
 #### [The Truth Comes Crashing Down](https://wowclassicdb.com/quest/5262)
 
@@ -237,11 +226,9 @@ To start this quest, enter The Scarlet Bastion in Crusader Square and look for t
 
 Malor’s Strongbox in Stratholme
 
-
 [![stratholme quests aurius](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Aurius-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Aurius.jpg)
 
 Aurius in Stratholme
-
 
 #### [The Restless Souls](https://wowclassicdb.com/quest/5282)
 
@@ -264,11 +251,9 @@ Inside the Stratholme dungeon, you’ll see Ghostly Citizens and Spectral Citize
 
 Caretaker Alen at Light’s Hope Chapel
 
-
 [![stratholme quests egan](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Egan-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Stratholme-Quests-Egan.jpg)
 
 Egan at Terrordale
-
 
 Bosses
 ------
@@ -291,6 +276,7 @@ There are 11 bosses in Stratholme (Living), including 2 Rare bosses that do not 
 Skul is a rare mob who spawns near the main entrance (the gates) of Stratholme. Many groups approach the instance from the side entrance, and will not pass by Skul on the way. Warlocks will hope to encounter Skul to obtain their Pre-BiS wand, Skul’s Ghastly Touch.
 
 [![skul](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Skul.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Skul.png)
+
 #### Strategy
 
 * **Tank:** This fight is essentially a tank and spank. Interrupt Skul’s abilities as much as possible.
@@ -308,6 +294,7 @@ Skul is a rare mob who spawns near the main entrance (the gates) of Stratholme. 
 The Unforgiven is an undead spirit who will spawn some non-elite adds when engaged.
 
 [![the unforgiven](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Unforgiven.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Unforgiven.png)
+
 #### Strategy
 
 * **Tank:** Allow your DPS to burn down the adds while you establish threat on The Unforgiven. Once the adds are down, this is a tank and spank.
@@ -327,6 +314,7 @@ The Unforgiven is an undead spirit who will spawn some non-elite adds when engag
 Hearthsinger Forresten is a rare mob who spawns either down the street from Fras Siabi or patrolling along part of Market Row.
 
 [![heartsinger forresten](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Heartsinger-Forresten.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Heartsinger-Forresten.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss where he stands, away from other patrolling mobs. You may be put to sleep by [Enchanting Lullaby](https://warcraftdb.com/classic/spell/16798), and will need to get threat back on the boss as soon as you awake.
@@ -346,6 +334,7 @@ Hearthsinger Forresten is a rare mob who spawns either down the street from Fras
 Postmaster Malown spawns after you open the third mailbox in Stratholme, using Market Row Postbox Key which drop off of the Stratholme Courier throughout the instance. Malown spawns with three Undead Postman which apply stacks of Wailing Dead. The only CC you can use on them are Turn Undead or Shackle Undead.
 
 [![postmaster malown](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Postmaster-Malown.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Postmaster-Malown.png)
+
 #### Strategy
 
 * **Tank:** When the boss and his adds spawn, try to pull the boss away from whichever adds are being CC’d. Maintain threat on all of the engaged mobs, and allow your DPS to burn down the adds first and then focus the Postmaster.
@@ -366,6 +355,7 @@ Postmaster Malown spawns after you open the third mailbox in Stratholme, using M
 Timmy the Cruel will run out from the left hand side of the courtyard once you have defeated all of the mobs who are posted outside of the Scarlet domain of the instance.
 
 [![timmy the cruel](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Timmy-the-Cruel.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Timmy-the-Cruel.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank.
@@ -385,6 +375,7 @@ Timmy the Cruel will run out from the left hand side of the courtyard once you h
 The Crimson Hammersmith will spawn if someone clicks on the pattern on the ground. This will easily happen if a party member doesn’t realize what will happen, so this boss usually comes as an unexpected add while the party is pulling regular mob packs.
 
 [![crimson hammersmith](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Crimson-Hammersmith.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Crimson-Hammersmith.png)
+
 #### Strategy
 
 * **Tank:** This mob is more of an unexpected add than a boss. Be prepared to grab threat on it if someone summons him.
@@ -400,6 +391,7 @@ The Crimson Hammersmith will spawn if someone clicks on the pattern on the groun
 Cannon Master Willey is engaged within the small Armory section of this Crimson Domain. The boss spawns adds which will need to be either CC’d or burnt down. You can also pick up a cannonball in the room and fire it from one of the cannons in the room to deal significant damage to the adds.
 
 [![cannon master willey](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Cannon-Master-Willey.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Cannon-Master-Willey.png)
+
 #### Strategy
 
 * **Tank:** Be ready to pickup adds when they spawn.
@@ -425,6 +417,7 @@ Cannon Master Willey is engaged within the small Armory section of this Crimson 
 Archivist Galford is located in his own library across from the final chamber of the Crimson Domain. Engage Archivist in his room and have the group spread out while bringing the boss down.
 
 [![archivist galford](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Archivist-Galford.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Archivist-Galford.png)
+
 #### Strategy
 
 * **Tank:** Focus Galford. It is possible that you will be targeted by [Burning Winds](https://warcraftdb.com/classic/spell/17293). Make sure to get threat back as quickly as possible when it wears off.
@@ -446,6 +439,7 @@ Archivist Galford is located in his own library across from the final chamber of
 The final encounter of Strat Live begins with an all-too-easy tank and spank with Grand Crusader Dathrophan. Just when the fight seems to be over, he will transform into the powerful demon Balnazzar.
 
 [![balnazzar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Balnazzar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Balnazzar.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss in the middle of the room so that the group can spread out.
@@ -473,6 +467,7 @@ The final encounter of Strat Live begins with an all-too-easy tank and spank wit
 Jarien and Sothos are summoned in Balnazzar’s room using the Brazier of Beckoning for the Tier 0.5 questline.
 
 [![jarien and sothos](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jarien-and-Sothos.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jarien-and-Sothos.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank.
@@ -578,6 +573,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

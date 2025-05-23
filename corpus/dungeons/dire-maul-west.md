@@ -1,12 +1,9 @@
 # WoW Classic Dire Maul West Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 6, 2025
 * Updated: January 23, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -102,11 +99,9 @@ Completing this quest will unlock the quests [Libram of Focus](https://wowclassi
 
 Scholar Runethorn in Feralas
 
-
 [![dire maul west skeletal remains of kariel winthalus](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Skeletal-Remains-of-Kariel-Winthalus-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Skeletal-Remains-of-Kariel-Winthalus.jpg)
 
 Skeletal Remains of Kariel Winthalus in Dire Maul
-
 
 ### Horde Quests
 
@@ -129,11 +124,9 @@ Completing this quest will unlock the quests [Libram of Focus](https://wowclassi
 
 Sage Korolusk in Feralas
 
-
 [![dire maul west skeletal remains of kariel winthalus](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Skeletal-Remains-of-Kariel-Winthalus-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Skeletal-Remains-of-Kariel-Winthalus.jpg)
 
 Skeletal Remains of Kariel Winthalus in Dire Maul
-
 
 ### Neutral Quests
 
@@ -153,16 +146,13 @@ This quest can be picked up from [Shen’dralar Ancient](https://wowclassicdb.co
 
 Shen’ralar Ancient in Dire Maul West
 
-
 [![dire maul west quests immolthar](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Quests-Immolthar-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Quests-Immolthar.jpg)
 
 Immol’thar in Dire Maul West
 
-
 [![dire maul west quests prince tortheldrin](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Quests-Prince-Tortheldrin-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Dire-Maul-West-Quests-Prince-Tortheldrin.jpg)
 
 Prince Tortheldrin in Dire Maul West
-
 
 #### [The Treasure of the Shen’dralar](https://wowclassicdb.com/quest/7877)
 
@@ -186,7 +176,6 @@ This quest follows the one above. All you need to do is return to The Athenaeum 
 
 Treasure of the Shen’dralar inside Dire Maul
 
-
 Bosses
 ------
 
@@ -206,6 +195,7 @@ There are eight bosses in Dire Maul West, including one Rare boss that does not 
 Tendris Warpwood is the first boss you encounter in Dire Maul West. Be sure that you have defeated all of the wandering Ancients who patrol the main courtyard before engaging Tendris, as he will summon them all to his aid upon engagement.
 
 [![tendris warpwood](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tendris-Warpwood.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tendris-Warpwood.png)
+
 #### Strategy
 
 * **Tank:** Initiate the encounter and establish threat. Keep the boss away from your ranged DPS and healer.
@@ -224,6 +214,7 @@ Tendris Warpwood is the first boss you encounter in Dire Maul West. Be sure that
 Magister Kalendris is a ghostly Shadow Priest. Utilize Prayer of Shadow Protection and interrupt his Mind Blast and Mind Flay. Dominate Mind will affect one player at a time.
 
 [![magister kalendris](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Magister-Kalendris.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Magister-Kalendris.png)
+
 #### Strategy
 
 * **Tank:** Engage Kalendris and pull him away from the group. Interrupt [Mind Blast](https://warcraftdb.com/classic/spell/17287) and [Mind Flay](https://warcraftdb.com/classic/spell/22919) as much as possible. Maintain the primary threat position throughout the fight. If you are effected by Dominate Mind, quickly taunt the boss back to your attention when you get control back.
@@ -244,6 +235,7 @@ Magister Kalendris is a ghostly Shadow Priest. Utilize Prayer of Shadow Protecti
 Tsu’zee is a rare boss who spawns near Magister Kalendris’ area at the bottom of the ramps.
 
 [![tsu'zee](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tsuzee.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Tsuzee.png)
+
 #### Strategy
 
 * **Tank:** Establish threat on the boss and keep her in front of you to avoid being hit by [Backstab](https://warcraftdb.com/classic/spell/7159). You will likely be affected by [Gouge](https://warcraftdb.com/classic/spell/12540). When the incapacitation effect wears off, taunt the boss back into position.
@@ -261,6 +253,7 @@ Tsu’zee is a rare boss who spawns near Magister Kalendris’ area at the botto
 Illyanna Ravenoak is located above Tendris Warpwood’s area and accessed from the ramps in the Court of the Highborne. The boss is accompanied by her pet bear, Ferra. The bosses ranged abilities can be nullified simply by standing in melee range. Watch out for Immolation Trap.
 
 [![illyanna ravenoak](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Illyanna-Ravenoak.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Illyanna-Ravenoak.png)
+
 #### Strategy
 
 * **Tank:** Pull Ferra onto the top of Illyanna and fight them stacked up. Maintain threat on Illyanna primarily as this is DPS’ main target. Once she is dead, switch to Ferra.
@@ -279,6 +272,7 @@ Illyanna Ravenoak is located above Tendris Warpwood’s area and accessed from t
 Immol’thar is a beast trapped beneath the West wing of Dire Maul. The boss has a few abilities, but the most important to be aware of are the adds that will be summoned around the room which need to be handled. The boss will also teleport players to the middle of the room, causing a threat drop on that player. If this is the tank, stop all DPS until threat is reestablished. Immol’thar has an early enrage at 50%, so prepare cooldowns for the second half of the fight.
 
 [![immol'thar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Immolthar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Immolthar.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss just off the middle of the room where he stands. If you are teleported to the middle of the room, the boss will engage with whoever is the second threat position. Regain Immol’thar’s attention and continue the fight. Save defensive cooldowns for when you are affected by [Infected Bite](https://warcraftdb.com/classic/spell/16128) and when the boss is [Enrage](https://warcraftdb.com/classic/spell/8269) – this is when you will be taking the most damage.
@@ -303,6 +297,7 @@ Immol’thar is a beast trapped beneath the West wing of Dire Maul. The boss has
 Prince Tortheldrin is the final boss of Dire Maul West and is located in the Athenaeum, through a small tunnel from Immol’thar’s prison. Note that if you enter from Dire Maul North and do not depose the crystal pylons throughout West, Prince Tortheldrin will not be present in the Southwest corner of the Athenaeum.
 
 [![prince tortheldrin](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Prince-Tortheldrin.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Prince-Tortheldrin.png)
+
 #### Strategy
 
 * **Tank:** Position the boss in a corner so that you are not knocked around by [Arcane Blast](https://warcraftdb.com/classic/spell/22920) too much. When Prince Tortheldrin uses [Arcane Blast](https://warcraftdb.com/classic/spell/22920), all threat will be reset. Reestablish yourself atop the threat meter so that your DPS can safely burn the boss down.
@@ -327,6 +322,7 @@ Prince Tortheldrin is the final boss of Dire Maul West and is located in the Ath
 Lord Hel’nurath is a Summoned boss in Dire Maul West which is the final part of the Warlock Epic Mount questline. The ritual leading up to Hel’nurath’s spawning takes place where Immol’thar is fought. The beginning of the ritual mandates the raid kill waves of demon adds which spawn while the Warlock in the group uses their J’eevee’s Jar, Black Lodestone, and Xorothian Glyphs at the correct times. Lord Hel’nurath himself is not complex, but the event itself can be slightly overwhelming.
 
 [![lord hel'nurath](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Helnurath.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Helnurath.png)
+
 #### Strategy
 
 * **Tank:** Pick up adds as they spawn using AoE threat generating effects. When Hel’nurath spawns, hold threat off of the DPS who are damaging him. Move to the Xorothian Dreadsteed afterwards.
@@ -345,6 +341,7 @@ Lord Hel’nurath is a Summoned boss in Dire Maul West which is the final part o
 Revanchion is a limited time boss that only shows up during the Scourge Invasion. Make sure to get any loot off of him before the event ends.
 
 [![revanchion](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Revanchion.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Revanchion.png)
+
 #### Strategy
 
 * **Tank:** Maximize threat so that the DPS can do as much damage as possible.
@@ -429,6 +426,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

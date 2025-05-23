@@ -1,12 +1,9 @@
 # WoW Classic Warlock Leveling Guide
 
-
-
 * Author: [Zephan](https://www.warcrafttavern.com/author/zephan/)
 * Date: August 1, 2024
 * Updated: August 1, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -400,6 +397,7 @@ Recommended professions by goal:
 #showtooltip Drain Life
 /cast [nochanneling:Drain Life] Drain Life
 ```
+
 #### Drain Soul Macros
 
 * **Simple Drain Macro (Use Pre lvl 20)**:
@@ -435,6 +433,7 @@ In order for [Drain Soul](https://warcraftdb.com/classic/spell/1120) effect to
 /use [nochanneling:drain soul]Drain Soul(Rank 1)
 /run for i=1,4 do n=GetBagName(i)if n then if n:find('[Sl][oca][ulk]') then if GetContainerNumFreeSlots(i)==0 then PickupContainerItem(i,GetContainerNumSlots(i))DeleteCursorItem()break end end end end
 ```
+
 #### Pet Ability Macros
 
 * **Torment (Taunt):**
@@ -463,13 +462,10 @@ In order for [Drain Soul](https://warcraftdb.com/classic/spell/1120) effect to
 
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/5c27af44c19a958a97eb06425923ae7f.jpg?ver=1738124273)
+![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/5c27af44c19a958a97eb06425923ae7f.jpg?ver=1747818806)
 
 #### Zephan
 
 I am a Classic Warlock enthusiast and in general like theorycrafting.
 I am the owner and admin of the best community in the whole wide world, being the Classic Warlock Discord. This is the home of some of the best Warlocks in this game and the basis for theorycrafting and figuring out the optimal plays for us warlocks.
 My aim is to make sure this up-to-date information is out there everywhere to be found and to give back to the community.
-
-
-

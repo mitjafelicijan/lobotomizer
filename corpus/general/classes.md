@@ -1,12 +1,9 @@
 # WoW Classic Classes Overview
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 17, 2019
 * Updated: October 10, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -185,7 +182,6 @@ Warriors are the definitive tank class, capable of wearing a shield and heavy ar
 
 Browse our list of [WoW Classic Warrior Guides](https://www.warcrafttavern.com/guides/type/classes/warrior/)!
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -193,6 +189,3 @@ Browse our list of [WoW Classic Warrior Guides](https://www.warcrafttavern.com/g
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

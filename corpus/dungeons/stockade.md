@@ -1,12 +1,9 @@
 # WoW Classic The Stockade Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 24, 2024
 * Updated: November 24, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -189,6 +186,7 @@ There are six bosses inside The Stockade, including one rare boss who does not a
 Targorr the Dread is the first boss you will encounter in the Stockade. He is a level 24 elite Blackrock orc. He is not officially accompanied by any other monsters, but nearby elite Defias will often join the fight.
 
 [![targorr the dread](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Targorr-the-Dread.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Targorr-the-Dread.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out.
@@ -204,6 +202,7 @@ Targorr the Dread is the first boss you will encounter in the Stockade. He is a 
 Kam Deepfury is the second boss you will encounter in the Stockade. He is a level 27 elite Dark Iron dwarf. He is not officially accompanied by any other monsters, but nearby elite Defias will often join the fight.
 
 [![kam deepfury](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kam-Deepfury.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kam-Deepfury.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Kam Deepfury does a high amount of damage while also frequently stunning his target with Shield Slam. Tanks should be aware that an early stun can make holding aggro tricky.
@@ -219,6 +218,7 @@ Kam Deepfury is the second boss you will encounter in the Stockade. He is a leve
 Hamhock is the third boss you will encounter in the Stockade. He is a level 28 elite ogre magi. He is accompanied by 2 Defias.
 
 [![hamhock](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hamhock.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hamhock.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Tanks should keep in mind that they can interrupt his Chain Lightning if they possess any interrupt abilities.
@@ -234,6 +234,7 @@ Hamhock is the third boss you will encounter in the Stockade. He is a level 28 e
 Bazil Thredd is a boss of the Stormwind Stockade, and is accompanied by adds. Clear the room before you engage Thredd.
 
 [![bazil thredd](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bazil-Thredd.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bazil-Thredd.png)
+
 #### Strategy
 
 * **Tank:** The last boss encounter of the dungeon, Bazil Thredd, deals high amounts of damage while also being accompanied by adds. Tanks should focus on maintaining aggro on the adds while damage dealers kill them.
@@ -249,6 +250,7 @@ Bazil Thredd is a boss of the Stormwind Stockade, and is accompanied by adds. Cl
 Bruegal Ironknuckle is a rare mob who spawns in The Stormwind Stockade. The fight is a tank and spank.
 
 [![bruegal ironknuckle](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bruegal-Ironknuckle.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bruegal-Ironknuckle.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out.
@@ -266,6 +268,7 @@ Bruegal Ironknuckle is a rare mob who spawns in The Stormwind Stockade. The figh
 Dextren Ward is the last boss you will encounter in the Stockade. He is a level 26 elite human. He is not officially accompanied by any other monsters, but nearby elite Defias will often join the fight.
 
 [![dextren ward](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Dextren-Ward.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Dextren-Ward.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. Dextren Ward deals significant damage. Tanks should be careful not to lose aggro, and use their defensive cooldowns properly.
@@ -294,6 +297,7 @@ Quest Rewards & Loot
   + [Seal of Wrynn](https://warcraftdb.com/classic/item/2933) (end of quest chain)
 
 [![classic stockades quest rewards](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Stockades-Quest-Rewards-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Stockades-Quest-Rewards.png)
+
 ### Boss Drops
 
 * [Kam Deepfury](https://warcraftdb.com/classic/the-stockade/kam-deepfury)
@@ -312,6 +316,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

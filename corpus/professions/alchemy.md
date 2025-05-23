@@ -1,12 +1,9 @@
 # WoW Classic Alchemy Guide 1 to 300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 10, 2019
 * Updated: November 30, 2023
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -67,12 +64,13 @@ Things to Know
 
 In WoW Classic, advancing to the next proficiency of a profession requires you to reach a certain level on your character. For non-gathering professions like Alchemy, you’ll need to be level 10 to learn Journeyman Alchemy, level 20 to learn Expert, and level 35 to learn Artisan Alchemy techniques.
 
-| **Proficiency Level** | **Level Requirement** | **Min. Required Skill Points** | **Max Allowed Skill Points** | **Cost** |
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Apprentice | 1 | None | 75 | Primary – 10 WoW Classic CopperSecondary – 1WoW Classic Silver |
+| **Proficiency Level** | **Level Requirement** | **Min. Required Skill Points** | **Max Allowed Skill Points** | **Cost** |
+| Apprentice | 1 | None | 75 | Primary – 10 WoW Classic Copper Secondary – 1WoW Classic Silver |
 | Journeyman | 10 | 50 | 150 | 5WoW Classic Silver |
-| Expert | 20 | 125 | 225 | Primary – 50WoW Classic SilverSecondary – 10WoW Classic Silver |
-| Artisan | 35 | 200 | 300 | Primary – 5WoW Classic GoldSecondary – 2WoW Classic Gold 50WoW Classic Silver |
+| Expert | 20 | 125 | 225 | Primary – 50WoW Classic Silver Secondary – 10WoW Classic Silver |
+| Artisan | 35 | 200 | 300 | Primary – 5WoW Classic Gold Secondary – 2WoW Classic Gold 50WoW Classic Silver |
 
 On top of requiring herbs to create potions, you’ll occasionally need materials from other gathering professions to create potions. Those aren’t required to reach 300 in Alchemy, so we’ll avoid any recipes that require items other than herbs. All potions do require the use of a vial, but those can be found at a vendor directly next to any Alchemy trainer.
 
@@ -257,7 +255,6 @@ There are only two alchemy labs in the game. There is one in Scholomance, but th
 
 If you are going on a trip to Scholomance or Blackwing Lair, make sure you bring all the materials necessary for crafting your flasks with you! If you don’t have them in your inventory, you’ll just have wasted a trip as you can’t craft them!
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -265,6 +262,3 @@ If you are going on a trip to Scholomance or Blackwing Lair, make sure you bring
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

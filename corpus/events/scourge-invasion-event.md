@@ -1,12 +1,11 @@
 # Scourge Invasion Event Guide for WoW Classic & Season of Discovery (SoD)
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 23, 2025
-* Updated: January 30, 2025
+* Updated: February 10, 2025
 * Expansion: [WoW Classic](/wow-classic/)
 
+LnRiLWNvbnRhaW5lciAudGItY29udGFpbmVyLWlubmVye3dpZHRoOjEwMCU7bWFyZ2luOjAgYXV0b31AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc4MXB4KSB7IC50Yi1jb250YWluZXIgLnRiLWNvbnRhaW5lci1pbm5lcnt3aWR0aDoxMDAlO21hcmdpbjowIGF1dG99IH0gQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA1OTlweCkgeyAudGItY29udGFpbmVyIC50Yi1jb250YWluZXItaW5uZXJ7d2lkdGg6MTAwJTttYXJnaW46MCBhdXRvfSB9IA==
 
 ### Contents
 
@@ -50,6 +49,42 @@
 
 The Scourge Invasion is an event so memorable that Blizzard has replicated it twice for other expansions, with the Zombie Infestation pre-patch event for Wrath of the Lich King and the Death Rising pre-patch event for Shadowlands. The original Scourge Invasion event makes way for the opening of the [Naxxramas](https://www.warcrafttavern.com/wow-classic/guides/naxxramas/) raid, the final raid of vanilla World of Warcraft. During the event, the Scourge will periodically attack cities, invade six different high-level zones, and add bosses to six different dungeons.
 
+[![tbc classic raid guide](https://www.warcrafttavern.com/wp-content/uploads/2021/07/TBC-Classic-Karazhan-Raid-Guide.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/naxxramas/)
+
+[Naxxramas Raid Guide](https://www.warcrafttavern.com/wow-classic/guides/naxxramas/)
+
+[![tbc classic raid guide](https://www.warcrafttavern.com/wp-content/uploads/2021/07/TBC-Classic-Karazhan-Raid-Guide.jpg.webp)](https://warcraftdb.com/classic/naxxramas)
+
+[Naxxramas Dungeon Journal](https://warcraftdb.com/classic/naxxramas)
+
+[![atiesh icon](https://www.warcrafttavern.com/wp-content/uploads/2024/07/Atiesh-icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/atiesh/)
+
+[Atiesh, Greatstaff of the Guardian](https://www.warcrafttavern.com/wow-classic/guides/atiesh/)
+
+[![Gear & Best In Slot (bis)](https://www.warcrafttavern.com/wp-content/uploads/2021/02/Gear-Best-in-Slot-BiS.png.webp)](https://www.warcrafttavern.com/wow-classic/tools/loot/zone/naxxramas/)
+
+[Naxxramas Loot](https://www.warcrafttavern.com/wow-classic/tools/loot/zone/naxxramas/)
+
+[![argent dawn icon](https://www.warcrafttavern.com/wp-content/uploads/2025/02/Argent-Dawn-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/argent-dawn-reputation-guide/)
+
+[Argent Dawn Reputation](https://www.warcrafttavern.com/wow-classic/guides/argent-dawn-reputation-guide/)
+
+[![scourge undead icon](https://www.warcrafttavern.com/wp-content/uploads/2025/02/Scourge-Undead-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/scourge-invasion-event/)
+
+[Scourge Invasion Event](https://www.warcrafttavern.com/wow-classic/guides/scourge-invasion-event/)
+
+[![Gear & Best In Slot (bis)](https://www.warcrafttavern.com/wp-content/uploads/2021/02/Gear-Best-in-Slot-BiS.png.webp)](https://www.warcrafttavern.com/wow-classic/guides/naxxramas-loot-sod/)
+
+[Naxxramas SoD Loot](https://www.warcrafttavern.com/wow-classic/guides/naxxramas-loot-sod/)
+
+[![seal of the dawn icon](https://www.warcrafttavern.com/wp-content/uploads/2025/02/Seal-of-the-Dawn-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/seal-of-the-dawn-sanctified-gear-guide-sod/)
+
+[Seal of the Dawn SoD](https://www.warcrafttavern.com/wow-classic/guides/seal-of-the-dawn-sanctified-gear-guide-sod/)
+
+[![argent dawn shoulder enchant icon](https://www.warcrafttavern.com/wp-content/uploads/2025/02/Argent-Dawn-Shoulder-Enchant-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/argent-dawn-shoulder-enchantment-sod/)
+
+[Shoulder Enchants SoD](https://www.warcrafttavern.com/wow-classic/guides/argent-dawn-shoulder-enchantment-sod/)
+
 Season of Discovery
 -------------------
 
@@ -76,11 +111,9 @@ The Scourge have set up camp outside each of your faction’s major cities, and 
 
 Argent Dawn tent in Stormwind City
 
-
 [![scourge invasion argent dawn orgrimmar](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Argent-Dawn-Orgrimmar-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Argent-Dawn-Orgrimmar.jpg)
 
 Argent Dawn tent in Orgrimmar
-
 
 ### Scourge at City Gates
 
@@ -104,11 +137,9 @@ Once you have the quest, head out the front gate and you’ll find some runic ci
 
 Scourge in Teldrassil
 
-
 [![scourge invasion tirisfal glades](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Tirisfal-Glades-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Tirisfal-Glades.jpg)
 
 Scourge in Tirisfal Glades
-
 
 ### Scourge Attacks in Cities
 
@@ -120,11 +151,9 @@ The Scourge that spawn inside cities are [Flameshocker](https://wowclassicdb.com
 
 Patchwork Terror
 
-
 [![scourge pallid horror stormwind city](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Pallid-Horror-Stormwind-City-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Pallid-Horror-Stormwind-City.jpg)
 
 Pallid Horror
-
 
 Defeating these mobs will award [Necrotic Rune](https://warcraftdb.com/classic/item/22484)s as well as [Invader’s Scourgestone](https://warcraftdb.com/classic/item/12841)s if you have your [Argent Dawn Commission](https://warcraftdb.com/classic/item/12846) equipped. Killing the Pallid Horror or Patchwork Terror will make the city safe again for about an hour, and will spawn a crystal nearby that offers a quest. For Stormwind City, this quest is [Cracked Necrotic Crystal](https://wowclassicdb.com/quest/9292), while in Undercity, the quest is [Faint Necrotic Crystal](https://wowclassicdb.com/quest/9310).
 
@@ -134,11 +163,9 @@ The quest is available to any level 60 character who interacts with the crystal,
 
 Cracked Necrotic Crystal in Stormwind City
 
-
 [![scourge invasion faint necrotic crystal undercity](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Faint-Necrotic-Crystal-Undercity-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Faint-Necrotic-Crystal-Undercity.jpg)
 
 Faint Necrotic Crystal in Undercity
-
 
 Zones
 -----
@@ -155,6 +182,7 @@ The core of the event revolves around Scourge invasions in six different high-le
 You’ll be able to see which zones are under attack at any given time because they will have **purple skulls** marking them on the world map and continent map. You’ll also be able to speak with an [Argent Emissary](https://wowclassicdb.com/npc/16285) (Alliance) or [Argent Messenger](https://wowclassicdb.com/npc/16359) (Horde) in a major city to find out which zones are being attacked and how many necropolises remain in each one.
 
 ![scourge invasion world map](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-World-Map-1024x576.jpg)
+
 ### Light’s Hope Chapel Quests
 
 There are a couple of event quests at Light’s Hope Chapel in Eastern Plaguelands that are worth picking up before you head out to hunt the Scourge.
@@ -168,7 +196,6 @@ Once you arrive at Light’s Hope Chapel, you’ll see [Commander Thomas Hellera
 [![scourge invasion lights hope npcs](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Lights-Hope-NPCs-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Lights-Hope-NPCs.jpg)
 
 Event NPCs at Light’s Hope Chapel
-
 
 #### Letters from the Front
 
@@ -195,16 +222,13 @@ Each Necrotic Shard is surrounded by high level undead mobs: [Ghoul Berserker](h
 
 Bone Witch
 
-
 [![scourge invasion rare lumbering horror](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Rare-Lumbering-Horror-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Rare-Lumbering-Horror.jpg)
 
 Lumbering Horror
 
-
 [![scourge invasion rare spirit of the damned](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Rare-Spirit-of-the-Damned-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Rare-Spirit-of-the-Damned.jpg)
 
 Spirit of the Damned
-
 
 The undead around the Necrotic Shard will consistently respawn, and you’ll have to kill *a lot* of them to bring the shard’s health down to zero. When this happens, the shard will respawn as a [Damaged Necrotic Shard](https://wowclassicdb.com/npc/16172), and four [Cultist Engineer](https://wowclassicdb.com/npc/16230)s will spawn in a circle around it. You can interact with these cultists to use 8 [Necrotic Rune](https://warcraftdb.com/classic/item/22484)s to disrupt their trance. When you do so, the cultist will transform into a hostile level 60 elite, [Shadow of Doom](https://wowclassicdb.com/npc/16143).
 
@@ -213,7 +237,6 @@ Defeat the Shadow of Doom to gain 50 reputation with the [Argent Dawn](https://w
 [![scourge invasion cultist engineers](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Cultist-Engineers-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Cultist-Engineers.jpg)
 
 Cultist Engineers
-
 
 ### Winning Battles
 
@@ -232,9 +255,9 @@ These rewards become available to everyone on the server for free as soon as the
 
 | Battles Won | Reward | NPC |
 | --- | --- | --- |
-| 50 | [Lesser Mark of the Dawn](https://warcraftdb.com/classic/item/23194) | Wow Alliance Crest [Argent Dawn Paladin](https://wowclassicdb.com/npc/16395) [Argent Dawn Initiate](https://wowclassicdb.com/npc/16384) |
-| 100 | [Mark of the Dawn](https://warcraftdb.com/classic/item/23195) | Wow Alliance Crest [Argent Dawn Crusader](https://wowclassicdb.com/npc/16433) [Argent Dawn Cleric](https://wowclassicdb.com/npc/16435) |
-| 150 | [Greater Mark of the Dawn](https://warcraftdb.com/classic/item/23196) | Wow Alliance Crest [Argent Dawn Champion](https://wowclassicdb.com/npc/16434) [Argent Dawn Priest](https://wowclassicdb.com/npc/16436) |
+| 50 | [Lesser Mark of the Dawn](https://warcraftdb.com/classic/item/23194) | Wow Alliance Crest [Argent Dawn Paladin](https://wowclassicdb.com/npc/16395)  [Argent Dawn Initiate](https://wowclassicdb.com/npc/16384) |
+| 100 | [Mark of the Dawn](https://warcraftdb.com/classic/item/23195) | Wow Alliance Crest [Argent Dawn Crusader](https://wowclassicdb.com/npc/16433)  [Argent Dawn Cleric](https://wowclassicdb.com/npc/16435) |
+| 150 | [Greater Mark of the Dawn](https://warcraftdb.com/classic/item/23196) | Wow Alliance Crest [Argent Dawn Champion](https://wowclassicdb.com/npc/16434)  [Argent Dawn Priest](https://wowclassicdb.com/npc/16436) |
 
 ### Necrotic Rune Rewards
 
@@ -285,7 +308,6 @@ Chest pieces can drop from [Shadow of Doom](https://wowclassicdb.com/npc/16143) 
 [![scourge invasion argent dawn quartermaster](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Argent-Dawn-Quartermaster-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Scourge-Invasion-Argent-Dawn-Quartermaster.jpg)
 
 The Argent Quartermaster at Light’s Hope Chapel
-
 
 Dungeons
 --------
@@ -386,8 +408,6 @@ There are no unusual mechanics here. Just deal damage to the boss until it’s d
 
 [![revanchion](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Revanchion.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Revanchion.png)
 
-
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/Lucy-1.jpg)
@@ -395,6 +415,3 @@ There are no unusual mechanics here. Just deal damage to the boss until it’s d
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

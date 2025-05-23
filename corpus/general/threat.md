@@ -1,12 +1,9 @@
 # WoW Classic Threat Guide & Reference Table
 
-
-
 * Author: [Taladril](https://www.warcrafttavern.com/author/taladril/)
 * Date: March 22, 2019
 * Updated: January 7, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -693,14 +690,10 @@ Items
 
 A Warrior in [defensive-stance](https://warcraftdb.com/classic/spell/71) with the [defiance](https://warcraftdb.com/classic/spell/12792) talent uses [thunderfury-blessed-blade-of-the-windseeker](https://warcraftdb.com/classic/item/19019) and gets a proc that hits the mob. The proc’s threat can be calculated as ((300  *0.9) + 92 + 149)*  1.3 \* 1.15 to get a total proc threat value of 763.945.
 
-
 #### About the Author
 
-![](https://www.warcrafttavern.com/wp-content/litespeed/avatar/9add950ac55fc4ec1a6060b35d35de21.jpg?ver=1738089656)
+![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/TaladrilProfilePictureWCT.jpg)
 
 #### Taladril
 
 Long time Classic WoW fan, I've had more fun building tools for the game than actually playing it.
-
-
-

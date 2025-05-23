@@ -1,12 +1,9 @@
 # Dungeon Leveling Guide – WoW Classic
 
-
-
 * Author: [Nevermore](https://www.warcrafttavern.com/author/nevermore/)
 * Date: November 22, 2024
 * Updated: November 22, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -113,11 +110,11 @@ Horde Players have a far easier time leveling through spamming dungeons at the 1
 
 [Ragefire Chasm](https://warcraftdb.com/classic/ragefire-chasm) also has a handful of worthwhile quests that grant a lot of experience and nifty rewards:
 
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Slaying the Beast](https://wowclassicdb.com/quest/5761)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Searching for the Lost Satchel](https://wowclassicdb.com/quest/5722)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Testing an Enemy’s Strength](https://wowclassicdb.com/quest/5723)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Hidden Enemies](https://wowclassicdb.com/quest/5730) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[The Power to Destroy…](https://wowclassicdb.com/quest/5725) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Slaying the Beast](https://wowclassicdb.com/quest/5761)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Searching for the Lost Satchel](https://wowclassicdb.com/quest/5722)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Testing an Enemy’s Strength](https://wowclassicdb.com/quest/5723)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Hidden Enemies](https://wowclassicdb.com/quest/5730) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[The Power to Destroy…](https://wowclassicdb.com/quest/5725) (Important Quest!)
 
 It’s worth noting that [Hidden Enemies](https://wowclassicdb.com/quest/5730) is part of a chain quest offered by Thrall, so start completing his questline after picking up the rest of the quests.
 
@@ -156,14 +153,14 @@ In terms of difficulty, [Shadowfang Keep](https://warcraftdb.com/classic/shadowf
 * [Deviate Eradication](https://wowclassicdb.com/quest/1487)
 * [Smart Drinks](https://wowclassicdb.com/quest/1491)
 * [The Glowing Shard](https://wowclassicdb.com/quest/6981)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Serpentbloom](https://wowclassicdb.com/quest/962)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Leaders of the Fang](https://wowclassicdb.com/quest/914) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Serpentbloom](https://wowclassicdb.com/quest/962)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Leaders of the Fang](https://wowclassicdb.com/quest/914) (Important Quest!)
 
 [Shadowfang Keep](https://warcraftdb.com/classic/shadowfang-keep) Quests:
 
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Deathstalkers in Shadowfang](https://wowclassicdb.com/quest/1098)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[The Book of Ur](https://wowclassicdb.com/quest/1013)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Arugal Must Die](https://wowclassicdb.com/quest/1014) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Deathstalkers in Shadowfang](https://wowclassicdb.com/quest/1098)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[The Book of Ur](https://wowclassicdb.com/quest/1013)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Arugal Must Die](https://wowclassicdb.com/quest/1014) (Important Quest!)
 
 Horde players may also choose to spam [The Deadmines](https://warcraftdb.com/classic/the-deadmines) for a while due to its valuable loot, however, they won’t be able to get any quests for the dungeon. In addition, the time required to get there makes it quite inefficient as a leveling method.
 
@@ -180,19 +177,19 @@ Lastly, if players don’t deem it necessary to spam [Gnomeregan](https://warcra
 
 [The Stockade](https://warcraftdb.com/classic/the-stockade) Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Quell The Uprising](https://wowclassicdb.com/quest/387)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[What Comes Around…](https://wowclassicdb.com/quest/386)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Fury Runs Deep](https://wowclassicdb.com/quest/378)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Color of Blood](https://wowclassicdb.com/quest/388)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Crime and Punishment](https://wowclassicdb.com/quest/377)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Stockade Riots](https://wowclassicdb.com/quest/391) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Quell The Uprising](https://wowclassicdb.com/quest/387)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[What Comes Around…](https://wowclassicdb.com/quest/386)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Fury Runs Deep](https://wowclassicdb.com/quest/378)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Color of Blood](https://wowclassicdb.com/quest/388)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Crime and Punishment](https://wowclassicdb.com/quest/377)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Stockade Riots](https://wowclassicdb.com/quest/391) (Important Quest)
 
 [Gnomeregan](https://warcraftdb.com/classic/gnomeregan) Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Grime-Encrusted Ring](https://wowclassicdb.com/quest/2945) (Important Quest)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Grand Betrayal](https://wowclassicdb.com/quest/2929) (Important Quest)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Data Rescue](https://wowclassicdb.com/quest/2930) (Important Quest)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Gyrodrillmatic Excavationators](https://wowclassicdb.com/quest/2928) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Grime-Encrusted Ring](https://wowclassicdb.com/quest/2945) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Grand Betrayal](https://wowclassicdb.com/quest/2929) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Data Rescue](https://wowclassicdb.com/quest/2930) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Gyrodrillmatic Excavationators](https://wowclassicdb.com/quest/2928) (Important Quest)
 
 ### Horde – Blackfathom Deeps/Razorfen Kraul/Scarlet Monastery Graveyard
 
@@ -205,18 +202,18 @@ As an alternative for levels 28-30, Horde Players can go to [The Scarlet Monaste
 [Razorfen Kraul](https://warcraftdb.com/classic/razorfen-kraul) Quests:
 
 * [Blueleaf Tubers](https://wowclassicdb.com/quest/1221)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[A Vengeful Fate](https://wowclassicdb.com/quest/1102) (Important)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Going, Going, Guano!](https://wowclassicdb.com/quest/1109)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[An Unholy Alliance](https://wowclassicdb.com/quest/6522)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[A Vengeful Fate](https://wowclassicdb.com/quest/1102) (Important)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Going, Going, Guano!](https://wowclassicdb.com/quest/1109)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[An Unholy Alliance](https://wowclassicdb.com/quest/6522)
 * [Willix the Importer](https://wowclassicdb.com/quest/1144) (Important)
 
 [Blackfathom Deeps](https://warcraftdb.com/classic/blackfathom-deeps) Quests:
 
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[The Essence of Aku’Mai](https://wowclassicdb.com/quest/6563)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Allegiance to the Old Gods](https://wowclassicdb.com/quest/6564)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Amongst the Ruins](https://wowclassicdb.com/quest/6921)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Baron Aquanis](https://wowclassicdb.com/quest/6922)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Blackfathom Villainy](https://wowclassicdb.com/quest/6561)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[The Essence of Aku’Mai](https://wowclassicdb.com/quest/6563)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Allegiance to the Old Gods](https://wowclassicdb.com/quest/6564)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Amongst the Ruins](https://wowclassicdb.com/quest/6921)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Baron Aquanis](https://wowclassicdb.com/quest/6922)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Blackfathom Villainy](https://wowclassicdb.com/quest/6561)
 
 Level 30 – 38
 -------------
@@ -231,13 +228,13 @@ For solo players, [The Scarlet Monastery – Graveyard](https://warcraftdb.com/c
 
 Scarlet Monastery Quests:
 
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Vorrel’s Revenge](https://wowclassicdb.com/quest/1051)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Compendium of the Fallen](https://wowclassicdb.com/quest/1049)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Test of Lore](https://wowclassicdb.com/quest/1160)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Mythology of the Titans](https://wowclassicdb.com/quest/1050) (Important Quest!)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[In the Name of the Light](https://wowclassicdb.com/quest/1053) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Into The Scarlet Monastery](https://wowclassicdb.com/quest/1048) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Hearts of Zeal](https://wowclassicdb.com/quest/1113)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Vorrel’s Revenge](https://wowclassicdb.com/quest/1051)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Compendium of the Fallen](https://wowclassicdb.com/quest/1049)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Test of Lore](https://wowclassicdb.com/quest/1160)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Mythology of the Titans](https://wowclassicdb.com/quest/1050) (Important Quest!)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[In the Name of the Light](https://wowclassicdb.com/quest/1053) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Into The Scarlet Monastery](https://wowclassicdb.com/quest/1048) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Hearts of Zeal](https://wowclassicdb.com/quest/1113)
 
 Level 38 – 45
 -------------
@@ -252,30 +249,30 @@ As mentioned above, [The Scarlet Monastery – Cathedral](https://warcraftdb.com
 
 Scarlet Monastery Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[In the Name of the Light](https://wowclassicdb.com/quest/1053) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Into The Scarlet Monastery](https://wowclassicdb.com/quest/1048) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Hearts of Zeal](https://wowclassicdb.com/quest/1113)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[In the Name of the Light](https://wowclassicdb.com/quest/1053) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Into The Scarlet Monastery](https://wowclassicdb.com/quest/1048) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Hearts of Zeal](https://wowclassicdb.com/quest/1113)
 
 [Uldaman](https://warcraftdb.com/classic/uldaman) Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Platinum Discs](https://wowclassicdb.com/quest/2279) (Important Quest)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[The Platinum Discs](https://wowclassicdb.com/quest/2280) (Important Quest)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Reclaimed Treasures](https://wowclassicdb.com/quest/1360)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Reclaimed Treasures](https://wowclassicdb.com/quest/2342)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Necklace Recovery, Take 3](https://wowclassicdb.com/quest/2341) (Important Quest)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Agmond’s Fate](https://wowclassicdb.com/quest/704)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Amulet of Secrets](https://wowclassicdb.com/quest/722)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Lost Tablets of Will](https://wowclassicdb.com/quest/1139)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Hidden Chamber](https://wowclassicdb.com/quest/2240) (Important Quest)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Restoring the Necklace](https://wowclassicdb.com/quest/2204) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Platinum Discs](https://wowclassicdb.com/quest/2279) (Important Quest)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[The Platinum Discs](https://wowclassicdb.com/quest/2280) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Reclaimed Treasures](https://wowclassicdb.com/quest/1360)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Reclaimed Treasures](https://wowclassicdb.com/quest/2342)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Necklace Recovery, Take 3](https://wowclassicdb.com/quest/2341) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Agmond’s Fate](https://wowclassicdb.com/quest/704)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Amulet of Secrets](https://wowclassicdb.com/quest/722)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Lost Tablets of Will](https://wowclassicdb.com/quest/1139)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Hidden Chamber](https://wowclassicdb.com/quest/2240) (Important Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Restoring the Necklace](https://wowclassicdb.com/quest/2204) (Important Quest)
 * [Power Stones](https://wowclassicdb.com/quest/2418)
 * [Solution to Doom](https://wowclassicdb.com/quest/709)
 
 [Razorfen Downs](https://warcraftdb.com/classic/razorfen-downs) Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Bring the Light](https://wowclassicdb.com/quest/3636) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Bring the End](https://wowclassicdb.com/quest/3341) (Important Quest!)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[An Unholy Alliance](https://wowclassicdb.com/quest/6521)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Bring the Light](https://wowclassicdb.com/quest/3636) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Bring the End](https://wowclassicdb.com/quest/3341) (Important Quest!)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[An Unholy Alliance](https://wowclassicdb.com/quest/6521)
 * [A Host of Evil](https://wowclassicdb.com/quest/6626)
 * [Extinguishing the Idol](https://wowclassicdb.com/quest/3525) (Important Quest!)
 * [Scourge of the Downs](https://wowclassicdb.com/quest/3523)
@@ -299,19 +296,19 @@ For solo levelers, [Zul’Farrak](https://warcraftdb.com/classic/zulfarrak) has 
 * [Troll Temper](https://wowclassicdb.com/quest/3042)
 * [Scarab Shells](https://wowclassicdb.com/quest/2865)
 * [The Prophecy of Mosh’aru](https://wowclassicdb.com/quest/3527)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Nekrum’s Medallion](https://wowclassicdb.com/quest/2991)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[The Spider God](https://wowclassicdb.com/quest/2936)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Nekrum’s Medallion](https://wowclassicdb.com/quest/2991)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[The Spider God](https://wowclassicdb.com/quest/2936)
 
 [Temple of Atal’Hakkar](https://warcraftdb.com/classic/the-temple-of-atalhakkar) Quests:
 
 * [The God Hakkar](https://wowclassicdb.com/quest/3528) (Important)
 * [Jammal’an the Prophet](https://wowclassicdb.com/quest/1446) (Important)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Into The Temple of Atal’Hakkar](https://wowclassicdb.com/quest/1475) (Important)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Into The Temple of Atal’Hakkar](https://wowclassicdb.com/quest/1475) (Important)
 
 [Maraudon](https://warcraftdb.com/classic/maraudon#default) Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Corruption of Earth and Seed](https://wowclassicdb.com/quest/7065) (Important)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Corruption of Earth and Seed](https://wowclassicdb.com/quest/7064) (Important)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Corruption of Earth and Seed](https://wowclassicdb.com/quest/7065) (Important)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Corruption of Earth and Seed](https://wowclassicdb.com/quest/7064) (Important)
 * [The Scepter of Celebras](https://wowclassicdb.com/quest/7046) (Important)
 * [The Pariah’s Instructions](https://wowclassicdb.com/quest/7067) (Very Important)
 
@@ -330,10 +327,10 @@ For solo farmers, [Blackrock Depths](https://warcraftdb.com/classic/blackrock-de
 
 * [Dark Iron Legacy](https://wowclassicdb.com/quest/3802) (Very Important)
 * [A Taste of Flame](https://wowclassicdb.com/quest/4024) (Important)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[Incendius!](https://wowclassicdb.com/quest/4263) (Important)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Disharmony of Fire](https://wowclassicdb.com/quest/3907)
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)[The Princess’s Surprise](https://wowclassicdb.com/quest/4363) (Very Important- Chain Quest)
-* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[The Princess Saved?](https://wowclassicdb.com/quest/4004) (Very Important-Chain Quest)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[Incendius!](https://wowclassicdb.com/quest/4263) (Important)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Disharmony of Fire](https://wowclassicdb.com/quest/3907)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)[The Princess’s Surprise](https://wowclassicdb.com/quest/4363) (Very Important- Chain Quest)
+* ![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[The Princess Saved?](https://wowclassicdb.com/quest/4004) (Very Important-Chain Quest)
 
 Level 55-60
 -----------
@@ -348,7 +345,7 @@ Lastly, [Scholomance](https://warcraftdb.com/classic/scholomance#default) is als
 
 [Scholomance](https://warcraftdb.com/classic/scholomance#default) Quests:
 
-* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png)![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png)[Barov Family Fortune](https://wowclassicdb.com/quest/5341)
+* ![World Of Warcraft Alliance Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Alliance-Icon.png.webp)![World Of Warcraft Horde Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/World-of-Warcraft-Horde-Icon.png.webp)[Barov Family Fortune](https://wowclassicdb.com/quest/5341)
 * [Plagued Hatchlings](https://wowclassicdb.com/quest/5529)
 * [Doctor Theolen Krastinov, the Butcher](https://wowclassicdb.com/quest/5382)
 * [Krastinov’s Bag of Horrors](https://wowclassicdb.com/quest/5515)
@@ -362,6 +359,3 @@ Lastly, [Scholomance](https://warcraftdb.com/classic/scholomance#default) is als
 #### Nevermore
 
 Hey there folks, I am Nevermore and have been deeply passionate about WoW for more than a decade. Whether we talk about the hidden mysteries of Azeroth or the otherworldly Outland, my journey brought me here to share the things that I have experienced with you all.
-
-
-

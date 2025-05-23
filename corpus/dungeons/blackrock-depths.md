@@ -1,12 +1,9 @@
 # WoW Classic Blackrock Depths Location, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: January 3, 2025
 * Updated: January 3, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -144,6 +141,7 @@ The two maps below are from the modern version of Blackrock Depths in retail Wor
 
 [![blackrock depths map 1](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Blackrock-Depths-Map-1.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Blackrock-Depths-Map-1.jpg)
 [![blackrock depths map 2](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Blackrock-Depths-Map-2.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2025/01/Blackrock-Depths-Map-2.jpg)
+
 ### Detention Block
 
 When you enter the dungeon, you will be inside the Detention Block. The Shadowforge Gate will be to your left. Go straight through the open archway to continue into the Detention Block.
@@ -333,6 +331,7 @@ There are 30 bosses in the Blackrock Depths, including one that is Rare.
 High Interrogator Gerstahn is a level 52 elite Priest. She drops the Prison Cell Key, a key used by the Alliance to talk with Marshall Windsor for the Onyxia’s Lair attunement. Be sure to clear the hallway of surrounding adds and patrolling mobs. It can be easy to pull her out of her room and into the hallway for the fight.
 
 [![high interrogator gerstahn](https://www.warcrafttavern.com/wp-content/uploads/2024/11/High-Interrogator-Gerstahn.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/High-Interrogator-Gerstahn.png)
+
 #### Strategy
 
 * **Tank:** Use a ranged pull with line of sight in the doorway. Get High Interrogator Gerstahn to come out to the hallway that was cleared for the encounter. Help maintain interrupts for [Mana Burn](https://warcraftdb.com/classic/spell/14033) while keeping a good threat lead.
@@ -352,6 +351,7 @@ High Interrogator Gerstahn is a level 52 elite Priest. She drops the Prison Cell
 Lord Roccor is a level 51 elite elemental type. the boss patrols the northeastern ring which wraps around the Ring of Law.
 
 [![lord roccor](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-roccor.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-roccor.png)
+
 #### Strategy
 
 * **Tank:** Lord Roccor is a level 51 elite elemental type. the boss patrols the northeastern ring which wraps around the Ring of Law.
@@ -371,6 +371,7 @@ Lord Roccor is a level 51 elite elemental type. the boss patrols the northeaster
 Houndmaster Grebmar is a level 52 elite. He patrols between two groups of dogs, which should be handled before engaging the boss.
 
 [![houndmaster grebmar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Houndmaster-Grebmar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Houndmaster-Grebmar.png)
+
 #### Strategy
 
 * **Tank:** This boss is essentially a tank and spank.
@@ -389,6 +390,7 @@ Houndmaster Grebmar is a level 52 elite. He patrols between two groups of dogs, 
 Hedrum the Creeper is a Spider boss that is one of the potential encounters for the Ring of Law or “Arena” event in Blackrock Depths.
 
 [![hedrum the creeper](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hedrum-the-Creeper.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hedrum-the-Creeper.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss as it skitters out to the arena floor, and maintain threat on the boss throughout the encounter.
@@ -407,6 +409,7 @@ Hedrum the Creeper is a Spider boss that is one of the potential encounters for 
 Gorosh the Dervish is the probably the most sought after boss in the Ring of Law or “Arena” event in Blackrock Depth. The reason being that he drops the Savage Gladiator Chain, often referred to as SGC, which is a mail chestpiece desired by DPS Warriors, Hunters, Shamans, Ret Paladins, and some Prot Warriors.
 
 [![gorosh the dervish](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gorosh-the-Dervish.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gorosh-the-Dervish.png)
+
 #### Strategy
 
 * **Tank:** Tanking this fight is hardly more than maintaining threat and allowing DPS to burn the boss down. Use defensive cooldowns when you are affected by [Mortal Strike](https://warcraftdb.com/classic/spell/15708) to help reduce the damage you take and the need for healing spells. Be especially aware of when the boss uses [Bloodlust](https://warcraftdb.com/classic/spell/6742), as a combination of this and [Mortal Strike](https://warcraftdb.com/classic/spell/15708) will result in you taking significantly more damage.
@@ -425,6 +428,7 @@ Gorosh the Dervish is the probably the most sought after boss in the Ring of Law
 Anub’Shiah is one of the potential bosses for the Ring of Law or “Arena” event. This boss is a level 54 elite, who has a few familiar Warlock abilities and a spidery enveloping web.
 
 [![anub'shiah](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Anubshiah.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Anubshiah.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss in the center of the room. Tank and spank.
@@ -443,6 +447,7 @@ Anub’Shiah is one of the potential bosses for the Ring of Law or “Arena” e
 Ok’thor is an Arcane specialized Mage, and is one of the options for the boss summoned in the Ring of Law or “Arena” event in Blackrock Depths. The boss is desired by many casters in hopes of claiming his Ban’thok Sash, a belt with valuable 1% hit for many pre-raid BiS set lists.
 
 [![ok'thor the breaker](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Okthor-the-Breaker.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Okthor-the-Breaker.png)
+
 #### Strategy
 
 * **Tank:** Tanking this boss does not require any unfamiliar techniques or positioning. Establish and maintain threat while your DPS burn him down.
@@ -461,6 +466,7 @@ Ok’thor is an Arcane specialized Mage, and is one of the options for the boss 
 Grizzle is another potential boss in the Ring of Law or “Arena” event, similar to a Berserker found in troll communities like Sunken Temple and Zul’gurub.
 
 [![grizzle](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Grizzle.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Grizzle.png)
+
 #### Strategy
 
 * **Tank:** This is essentially a tank and spank.
@@ -480,6 +486,7 @@ Grizzle is another potential boss in the Ring of Law or “Arena” event, simil
 Eviscerator is a level 54 elite Worgen who is among the potential options for the Ring of Law or “Arena” event.
 
 [![eviscerator](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Eviscerator.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Eviscerator.png)
+
 #### Strategy
 
 * **Tank:** This fight is essentially a tank and spank. Focus on maintaining threat.
@@ -498,6 +505,7 @@ Eviscerator is a level 54 elite Worgen who is among the potential options for th
 Theldren and his gladiator group will be summoned instead of the other Ring of Law bosses if the player places the Banner of Provocation. He along with four other random gladiators will appear, among them: Lefty, Rotfang, Malgen Longspear, Va’jashni, Volida, Snokh Blackspine, Korv, or Rezznik. Defeating them will leave behind the Arena Spoils.
 
 [![theldren](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Theldren.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Theldren.png)
+
 #### Strategy
 
 * **Tank:** Theldren and his four group members can be a challenge. If you are leading the party, make sure to quickly mark a kill order and get threat on those mobs so that the DPS can focus and quickly kill adds. Make sure that all mobs are tagged and engaging you so the healer doesn’t pull aggro. If you get hit with [Mortal Strike](https://warcraftdb.com/classic/spell/27580) especially early in the fight, use defensive cooldowns to help the healer react to the situation.
@@ -516,6 +524,7 @@ Theldren and his gladiator group will be summoned instead of the other Ring of L
 Pyromancer Loregrain spawns next to the Shrine of Thaurissan, which can be approached from either the opposite side of the Ring of Law, from Argelmach, or by walking down the hallway beyond the coffer room. The boss drops the enchanting recipe for Enchanting: Fiery Weapon alongside the Pyric Caduceus. This is pre-raid BiS for Fire Mages. His other loot is all Fire Resistance gear.
 
 [![pyromancer loregrain](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Pyromancer-Loregrain.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Pyromancer-Loregrain.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss where he stands, facing away from the group. Maintain threat and allow for your DPS to burn him down. If you are a Paladin, use your [Fire Resistance Aura](https://warcraftdb.com/classic/spell/19899) here.
@@ -535,6 +544,7 @@ Pyromancer Loregrain spawns next to the Shrine of Thaurissan, which can be appro
 Warder Stilgiss spawns with Verek, the hound. Focus on dealing with Stilgiss first, then move on the Verek.
 
 [![warder stilgiss](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Warder-Stilgiss.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Warder-Stilgiss.png)
+
 #### Strategy
 
 * **Tank:** Maintain threat on both Verek and Stilgiss during this encounter. Warder Stigiss will be priority threat at the start. Interrupt Frostbolt as possible.
@@ -555,6 +565,7 @@ Warder Stilgiss spawns with Verek, the hound. Focus on dealing with Stilgiss fir
 Watchman Doomgrip spawns in The Vault of Blackrock Depths after opening all of the coffers in the room. First, the three stone adds in the room will come to life. Once defeated, Doomgrip will enter.
 
 [![watchman doomgrip](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Watchman-Doomgrip.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Watchman-Doomgrip.png)
+
 #### Strategy
 
 * **Tank:** Establish threat on all three of the adds when they engage, and protect your healer/DPS. When Doomgrip spawns, the encounter is essentially a tank and spank.
@@ -573,6 +584,7 @@ Watchman Doomgrip spawns in The Vault of Blackrock Depths after opening all of t
 Fineous Darkvire can be found patrolling the Halls of Crafting. Many groups will seek him out to try and obtain his Senior Designer’s Pantaloons, which are pre-raid BiS for healing classes. Be sure to clear all of the adds in the area before engaging him to avoid bringing additional mobs into the boss encounter.
 
 [![fineous darkvire](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Fineous-Darkvire.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Fineous-Darkvire.png)
+
 #### Strategy
 
 * **Tank:** Pull the boss down the ramps to an area you have cleared of additional mobs. Use any interrupt abilities to prevent him from healing with [Holy Light](https://warcraftdb.com/classic/spell/15493). Make good use of defensive CDs to help your healer.
@@ -592,6 +604,7 @@ Fineous Darkvire can be found patrolling the Halls of Crafting. Many groups will
 Lord Incendius is a level 55 elite fire elemental located at the Black Anvil on a platform surrounded by Lava. Incendius can be approached from the Hall of Crafting, or from across the bridge from Bael’gar’s region of the instance. Be extremely careful not to get knocked off the platform by Mighty Blow as there is not another way back up.
 
 [![lord incendius](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Incendius.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Incendius.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss in the middle of the platform, keeping distance from the edges. Beyond that, this fight does not require more from you than to hold threat.
@@ -612,6 +625,7 @@ Lord Incendius is a level 55 elite fire elemental located at the Black Anvil on 
 Bael’gar is a giant boss off to the left from the entrance. The groups of trash before him are known to be pesky, as they come in packs of 4 or 5, some of which are patrolling the area.
 
 [![bael'gar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/BaelGar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/BaelGar.png)
+
 #### Strategy
 
 * **Tank:** The boss needs to be tanked facing away from the group. It is recommended to run in and tank the boss where he stands, but turn him to face the wall he stands in front of. Bael’gar will summon some spawns throughout the fight, which need to be defeated. Try to [Taunt](https://warcraftdb.com/classic/spell/355) them off your DPS, who should be prioiritizing them over the boss.
@@ -630,6 +644,7 @@ Bael’gar is a giant boss off to the left from the entrance. The groups of tras
 General Angerforge hits moderately hard and summons many low health adds to assist him during the fight. The boss used to be popular to farm when he dropped Hand of Justice (HoJ), a highly sought after melee DPS trinket. However, that piece of gear now drops off of Emperor Thaurissan, the final boss of the instance. His abilities are limited, but he does use a stacking Sunder Armor. The adds he summons are low health, and can be easily AoE’d by your casters, or cleaved down by physical DPS. The most challenging part of the encounter is actually the pull; most groups will choose to use a ranged pull to get him to come into the higher level platform you entered from. The reason for this technique is to give some time between the spawning of adds and when they actually meet up with the group.
 
 [![general angerforge](https://www.warcrafttavern.com/wp-content/uploads/2024/11/General-Angerforge-1.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/General-Angerforge-1.png)
+
 #### Strategy
 
 * **Tank:** Use a ranged ability from the top of the ramp to pull General Angerforge. The boss should run up to meet you on the platform (alone). Walk him back to the corner of the room you entered from, so as to not risk any probability of engaging the mobs in the next room. Actually tanking of the boss does not require anything beyond maintaining threat. At low health, the boss will summon adds. Try your best to keep threat on everyone while your group members burn them down. The adds have low health, so it may not be necessary, but implementing an AoE taunt like [Challenging Shout](https://warcraftdb.com/classic/spell/1161) can ensure that your DPS and Healer stay alive throughout this part of the encounter.
@@ -649,6 +664,7 @@ General Angerforge hits moderately hard and summons many low health adds to assi
 Golem Lord Argelmach is located in the Machine Workshop of Blackrock Depths. The boss is accompanied by two constructs who are to be defeated before moving on to Argelmach. In the room that the boss is found in, there can also be found some valuable Engineering Schematics on the ground.
 
 [![golem lord angelmach](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Golem-Lord-Angelmach.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Golem-Lord-Angelmach.png)
+
 #### Strategy
 
 * **Tank:** Hold threat on the adds while DPS finish them off and then focus on Arcelmach.
@@ -667,6 +683,7 @@ Golem Lord Argelmach is located in the Machine Workshop of Blackrock Depths. The
 Ribbly is an optional boss located in the Grim Guzzler in Blackrock Depths. He is encountered with three cronies.
 
 [![ribbly screwspigot](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ribbly-Screwspigot.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ribbly-Screwspigot.png)
+
 #### Strategy
 
 * **Tank:** Maintain threat on Ribbly and his Cronies using AoE effects. Your DPS should focus down Ribbly, then move on to the adds.
@@ -685,6 +702,7 @@ Ribbly is an optional boss located in the Grim Guzzler in Blackrock Depths. He i
 Hurley Blackbreath is an optional boss located in the Grim Guzzler, and is the objective of unique Alliance and Horde quests which request you to kill him in order to obtain the lost Thunderbrew Recipe, returning it to either Kharanos or Kargath accordingly. To summon the boss, begin breaking kegs of Thunderbrew in the storage room of the bar (on the lower level). The boss is not challenging, but might give your group some trouble if you do not utilize any crowd control effects on the adds he comes out with. The majority of the mobs in the Grim Guzzler are Neutral – and you do NOT want to engage them. Keep this in mind with the use of AoE abilities or Multi-Shot.
 
 [![hurley blackbreath](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hurley-Blackbreath.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hurley-Blackbreath.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss in a corner of the room away from the door in attempts to not engage any of the neutral mobs in the other room by accident. As the adds come in the room, your DPS classes should implement CC on them. For those adds who run free, establish threat and keep their attention while your DPS focus down the boss. Your priority is truly to keep any unmanaged adds off of your healer.
@@ -703,6 +721,7 @@ Hurley Blackbreath is an optional boss located in the Grim Guzzler, and is the o
 Plugger Spazzring is an optional encounter located in the Grim Guzzler. The boss uses Warlock type abilities which can not be interrupted or slowed, and he is immune to stun. Engaging him will cause the entire bar to switch from neutral to hostile, so engage him at your own risk or clear bar patrons around him first.
 
 [![plugger spazzring](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Plugger-Spazzring.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Plugger-Spazzring.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from any other mobs in the Grim Guzzler who could be hit with any AoE effects the group is using.
@@ -720,6 +739,7 @@ Plugger Spazzring is an optional encounter located in the Grim Guzzler. The boss
 Phalanx guards the exit to the Grim Guzzler, opposite the Bar on the top level. To engage him, buy some Dark Iron Ale Mugs from the vendor Plugger Spazzring, and turn them in to Private Rocknot. Once you have completed three turn ins (requiring six Dark Iron Ale), Rocknot will enrage and our construct bouncer Phalanx will attempt to quell Rocknot’s rage. The door is broken open, and our fight with Phalanx begins. The majority of the mobs in the Grim Guzzler are Neutral – and you do NOT want to engage them. Keep this in mind with the use of AoE abilities or Multi-Shot.
 
 [![phalanx](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Phalanx.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Phalanx.png)
+
 #### Strategy
 
 * **Tank:** Tanking the boss involves positioning him near the door, mostly to avoid the off chance that any patrons will become involved. From the tanking perspective, you should only need to focus on maintaining threat, and prepare any damage mitigation cooldowns for [Mighty Blow](https://warcraftdb.com/classic/spell/14099).
@@ -738,6 +758,7 @@ Phalanx guards the exit to the Grim Guzzler, opposite the Bar on the top level. 
 Ambassador Flamelash is a level 57 elite, and the next mandatory boss in the instance. As the only Flame Salamander-esque Naga in the instance, he is a preview to the more powerful enemies we encounter below, in the Molten Core. The encounter is essentially a DPS race – Flamelash summons adds throughout the fight who spawn at the corners of the room. They slowly make their way towards their master and when they reach him, they will give him a damage increasing buff. The boss drops some Fire Resistance gear, and a powerful trinket for caster DPS, Burst of Knowledge.
 
 [![ambassador flamelash](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ambassador-Flamelash.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Ambassador-Flamelash.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss where he stands, and get a strong lead on threat. Beyond this, tanking the fight does not require you do to anything more than maintaining your position on threat table. The boss will deal more damage as the fight goes on, as he becomes more powerful when adds reach him. Save your damage mitigation cooldowns for the end of the fight, when he is dealing the most damage.
@@ -757,6 +778,7 @@ Ambassador Flamelash is a level 57 elite, and the next mandatory boss in the ins
 Panzor the Invincible is a rare spawn that can show up in the Mold Foundry. This is a straightforward fight that can only be complicated by pulling the boss and the other adds in this room as some can do heavy damage rapidly, and could easily down team members.
 
 [![panzor the invincible](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Panzor-the-Invincible.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Panzor-the-Invincible.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss after being sure to clear any adds that may patrol nearby.
@@ -775,6 +797,7 @@ Panzor the Invincible is a rare spawn that can show up in the Mold Foundry. This
 Within the Summoner’s Tomb you engage with 7 dwarven spirits. Each of the NPC’s reflects a different class and has abilities unique to that class. The Seven in order of appearance are named: Anger’rel Seeth’rel Dope’rel Gloome’rel Vile’rel Hate’rel Doom’rel During the encounter you will fight each of the spirits one at a time. They are not particularly challenging but the encounter can last a long time. If your group’s DPS is low, you may have one dwarf spawn before the previous is already down. If you kill the spirits quickly, you may have enough time to exit combat to use food and water. The Chest of the Seven is unlocked after all Seven Dwarves are defeated, and holds some valuable loot. In particular, the Hammer of Grace is a commonly sought after Pre-raid BiS healing mace.
 
 [![the seven](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Seven.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/The-Seven.png)
+
 #### Strategy
 
 * **Tank:** Pull each dwarf as they spawn from different parts of the room and bring them in to the middle. Utilize interrupts and stuns when possible.
@@ -797,6 +820,7 @@ Within the Summoner’s Tomb you engage with 7 dwarven spirits. Each of the NPC�
 Magmus is a Fire Giant who stands at the end of a flame-blasting hallway after the Lyceum. Avoid the fires that fill the room, looking to the sides to see where they are coming from. The trick during the encounter is all in the positioning. If the group can avoid the flames in a nice stack behind the boss while the tank sits in the corner you should find success.
 
 [![magmus](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Magmus.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Magmus.png)
+
 #### Strategy
 
 * **Tank:** This fight is all about positioning. Run up to Magmus and pull him to to the right. Tuck yourself into a corner to avoid the flames, leaving room for your party members to find a safe place on the other side of the boss.
@@ -816,6 +840,7 @@ Magmus is a Fire Giant who stands at the end of a flame-blasting hallway after t
 Emperor Dagran Thaurissan is the final boss in Blackrock Depths. He holds captive at his side the Princess Moira Bronzebeard. You can approach the fight in two ways, by killing them both or by saving the princess. Saving the princess is more difficult due to the healing that she will cast during the fight. You also receive no loot from her by saving her so usually the only time people save her is for quest completion. Physical DPS and Warrior Tanks will become very familiar with this fight while farming for Hand of Justice and Ironfoe.
 
 [![emperor dagran thaurissan](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Emperor-Dagran-Thaurissan.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Emperor-Dagran-Thaurissan.png)
+
 #### Strategy
 
 * **Tank:** Allow a physical DPS to off tank to pick up Princess Moira Bronzebeard if you intend to save her. A Rogue or DPS Warrior are a good choice, and can use their interrupts to keep her from healing too much or using her other abilities. These two classes also have some defensive abilities they can employ. If you are off tanking the Princess, you can kite her up the ramp to the throne and back off the ledge a few times to try and keep her running around and not using her abilities. This can give you a little reprieve from taking as much damage too. Tanking the Emperor is not too challenging. Just pull him away from the rest of the group (and the princess). Let DPS burn him down after the princess is dead if you are killing her, otherwise DPS should already be focusing the Emperor. Tanking both the Emperor and the princess at the same time is challenging, but assigning someone to interrupt her casts will make it significantly easier.
@@ -1066,6 +1091,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

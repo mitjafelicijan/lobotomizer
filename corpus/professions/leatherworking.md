@@ -1,12 +1,9 @@
 # WoW Classic Leatherworking Guide 1-300
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: December 1, 2018
 * Updated: January 9, 2025
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -222,7 +219,7 @@ The Fine Leather Belt does go to green at about 125. This can make getting your 
 
 ### 135-150
 
-**[Dark Leather Belt](https://wowclassicdb.com/item/4249) x15 (1x Fine Leather Belt + 1x Cured Medium Hide +2x Fine Thread + 1x Gray Dye)** 
+**[Dark Leather Belt](https://wowclassicdb.com/item/4249) x15 (1x Fine Leather Belt + 1x Cured Medium Hide +2x Fine Thread + 1x Gray Dye)**
 
 Are you ready for some leatherworking magic? Turn your fine leather belts into *dark leather belts*! All you need to do is add a cured medium hide, some gray dye, and some more fine thread! After you’ve made 15 wonderful belts, pick up expert leatherworking from your trainer. For Alliance players, this is with [Telonis](https://wowclassicdb.com/npc/4212) in Darnassus, while Horde players train with [Una](https://wowclassicdb.com/npc/3007) in Thunder Bluff.
 
@@ -330,7 +327,6 @@ After making gauntlets, it is now time to make bracers! Another 10 of these shou
 
 For the last leg of your leveling, you’ll want to make wicked leather headbands! These take 12 whole rugged leather, so it may take you a while to collect it all. 20 should be enough to reach the max. Congratulations on your freshly leveled 300 leatherworking skill!
 
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
@@ -338,6 +334,3 @@ For the last leg of your leveling, you’ll want to make wicked leather headband
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic Druid Leveling Guide
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: July 27, 2024
 * Updated: July 28, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -134,7 +131,6 @@ You will primarily use [Healing Touch](https://warcraftdb.com/classic/spell/5185
 
 To survive and kill multiple mobs focus all Mana usage on burst healing, then auto attacking for a while to regen letting [Thorns](https://warcraftdb.com/classic/spell/467) slowly bring the mobs down. Rinse and repeat.
 
-
 10-19
 
 Big power spike in leveling speed at level 10 when [Bear Form](https://warcraftdb.com/classic/spell/5487) comes online. [Maul](https://warcraftdb.com/classic/spell/6807) does pretty high damage and should be used over [Swipe](https://warcraftdb.com/classic/spell/779) even when fighting 2+ mobs. You can use [Swipe](https://warcraftdb.com/classic/spell/779) if you have excess Rage and you are fighting 3+.
@@ -142,7 +138,6 @@ Big power spike in leveling speed at level 10 when [Bear Form](https://warcraftd
 Against single targets use [Enrage](https://warcraftdb.com/classic/spell/25503) on cooldown as the downside of 27% Base Armor Reduction is negligible. Consider pooling Rage and interrupting with [Bash](https://warcraftdb.com/classic/spell/5211) when against caster mobs.
 
 Against multiple targets forego using Enrage as your added damage vs damage taken is likely no longer efficient. Instead use [Demoralizing Roar](https://warcraftdb.com/classic/spell/99) against 2+ mobs to decrease enemy Attack Power.
-
 
 20-31
 
@@ -152,7 +147,6 @@ At 24 you get [Rake](https://warcraftdb.com/classic/spell/1822). At this point y
 
 26+ use [Dash](https://warcraftdb.com/classic/spell/1850) on cooldown for 50% speed increase when you know you will be running for 15 seconds straight. You also get [Travel Form](https://warcraftdb.com/classic/spell/783) at 30 and this should be used whenever out of combat moving to and from objectives.
 
-
 32-60
 
 You get [Faerie Fire](https://warcraftdb.com/classic/spell/770) (Feral) at 31 and [Ferocious Bite](https://warcraftdb.com/classic/spell/22568) at 32 which is your first efficient finisher to use with your combo points. [Claw](https://warcraftdb.com/classic/spell/3010) / [Shred](https://warcraftdb.com/classic/spell/5221) to 4 Combo Points then [Ferocious Bite](https://warcraftdb.com/classic/spell/22568).
@@ -160,7 +154,6 @@ You get [Faerie Fire](https://warcraftdb.com/classic/spell/770) (Feral) at 31 an
 Cat Form really starts to shine once Feral Faerie Fire and [Ferocious Bite](https://warcraftdb.com/classic/spell/22568) come online and should be prioritized more.
 
 You get [Pounce](https://warcraftdb.com/classic/spell/9005) at 36 offering you a 2 second stunlock opener if need be.
-
 
 ### Talent Path
 
@@ -228,7 +221,6 @@ Return to Balance tree:
 
 Respec at 60
 
-
 Feral Balance Build #2
 
 **Noteworthy Aspects:** 5/5 Feral Instincts > Aggression, 1/1 Nature’s Grasp before 5/5 Furor, 3/3 Imp. Thorns, 0/2 Imp Shred. Getting 2/2 Blood Fury right as you hit 32 for Ferocious Bite.
@@ -268,7 +260,6 @@ Return to Balance tree:
 * 3/3 Improved Thorns
 
 Respec at 60
-
 
 Feral Balance Build #3
 
@@ -310,7 +301,6 @@ Proceed back into Balance tree:
 * 3/3 Natural Shapeshifter
 
 Respec at 60
-
 
 Feral into NS Resto
 
@@ -549,6 +539,3 @@ Powershifting – Powershifting is referring to going from a shift form to your 
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

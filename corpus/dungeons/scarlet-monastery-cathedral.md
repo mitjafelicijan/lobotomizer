@@ -1,12 +1,9 @@
 # WoW Classic Scarlet Monastery Cathedral Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 26, 2024
 * Updated: November 26, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -58,8 +55,8 @@ There is one quest for each faction that requires defeating a pair of bosses in 
 | [Into The Scarlet Monastery](https://warcraftdb.com/classic/quest/1048) | [Varimathras](https://wowclassicdb.com/npc/2425) (Undercity) | Yes |
 | [Hearts of Zeal](https://warcraftdb.com/classic/quest/1113) | [Master Apothecary Faranell](https://wowclassicdb.com/npc/2055) (Undercity) | No |
 
+[![classic scarlet monastery quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Quests-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Quests.jpg)
 
-[![classic scarlet monastery quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Quests-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Scarlet-Monastery-Quests.jpg)
 ### Wow Alliance Crest Alliance Quests
 
 #### [In the Name of the Light](https://warcraftdb.com/classic/quest/1053)
@@ -139,6 +136,7 @@ There are only two boss encounters in the Cathedral wing of Scarlet Monastery, w
 High Inquisitor Fairbanks is the first boss encounter of Scarlet Monastery Cathedral. He is a level 40 elite Undead that can be found in a hidden room on the right side of the cathedral. He is not accompanied by any other adds, but in order to reach him the party must clear all the adds found inside the cathedral.
 
 [![high inquisitor fairbanks](https://www.warcrafttavern.com/wp-content/uploads/2024/11/High-Inquisitor-Fairbanks.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/High-Inquisitor-Fairbanks.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out. High Inquisitor Fairbanks will attempt to heal himself when he is low on health. You can interrupt his Heal spell. High Inquisitor Fairbanks will cast a variety of spells which can all be interrupted. He will Dispel Magic frequently on the tank.
@@ -156,6 +154,7 @@ High Inquisitor Fairbanks is the first boss encounter of Scarlet Monastery Cathe
 Mograine is encountered alongside Whitemane as the last fight of Scarlet Monastery Cathedral. He is always resurrected after being defeated the first time, and fights alongside Whitemane for the second half of the encounter.
 
 [![scarlet commander mograine](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Scarlet-Commander-Mograine.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Scarlet-Commander-Mograine.png)
+
 #### Strategy
 
 * **Tank:** In the second phase of the encounter, High Inquisitor Whitemane will join Scarlet Commander Mograine in battle. Be ready to quickly generate threat as you enter the second phase of the encounter.
@@ -177,12 +176,12 @@ Quest Rewards & Loot
 
 ### Quest Rewards
 
-* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png) [In the Name of the Light](https://warcraftdb.com/classic/quest/1053)
+* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png.webp) [In the Name of the Light](https://warcraftdb.com/classic/quest/1053)
   + [Black Menace](https://warcraftdb.com/classic/item/6831)
   + [Bonebiter](https://warcraftdb.com/classic/item/6830)
   + [Orb of Lorica](https://warcraftdb.com/classic/item/11262)
   + [Sword of Serenity](https://warcraftdb.com/classic/item/6829)
-* ![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png) [Into The Scarlet Monastery](https://warcraftdb.com/classic/quest/1048)
+* ![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png.webp) [Into The Scarlet Monastery](https://warcraftdb.com/classic/quest/1048)
   + [Dragon’s Blood Necklace](https://warcraftdb.com/classic/item/10711)
   + [Prophetic Cane](https://warcraftdb.com/classic/item/6803)
   + [Sword of Omen](https://warcraftdb.com/classic/item/6802)
@@ -209,6 +208,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

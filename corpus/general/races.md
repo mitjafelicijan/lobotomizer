@@ -1,12 +1,9 @@
 # WoW Classic Races: Playable Races & Racial Abilities
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 27, 2019
 * Updated: December 27, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -182,6 +179,3 @@ Of the races who fell victim to the plague of the Lich King, those human undead 
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

@@ -1,12 +1,9 @@
 # WoW Classic The Deadmines Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 22, 2024
 * Updated: November 22, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -81,7 +78,8 @@ The Deadmines has 6 quests available:
 
 The Deadmines dungeon features a handful of quests, with all of them being Alliance-only quests. Almost all of the quests can be instantly picked up except two which require you to complete a rather long chain to acquire them.
 
-[![classic deadmines quests 1](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quests-1-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quests-1.jpg)
+[![classic deadmines quests 1](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quests-1-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quests-1.jpg)
+
 ### Wow Alliance Crest Alliance Quests
 
 #### [Collecting Memories](https://warcraftdb.com/classic/quest/168)
@@ -100,19 +98,18 @@ The Deadmines dungeon features a handful of quests, with all of them being Allia
 
 This quest can be completed outside the Deadmines dungeon, in the undead-infested part of the mine. To complete this quest you need to collect 4 Miners’ Union Cards that can be collected from the undead. Beware that each undead is an Elite, meaning that you will most likely need a group to complete this quest. The Miner’s Union Cards can drop from any mob, including Undead Excavator, Skeletal Miner, and Undead Dynamiter. The cards won’t drop from [Foreman Thistlenettle](https://wowclassicdb.com/npc/626).
 
-[![wilder thistlenettle](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle.jpg)
+[![wilder thistlenettle](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle.jpg)
 
 Quest Starting Point
 
-
-[![deadmines undead infested area](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deadmines-Undead-Infested-Area-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deadmines-Undead-Infested-Area.jpg)
+[![deadmines undead infested area](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deadmines-Undead-Infested-Area-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deadmines-Undead-Infested-Area.jpg)
 
 Deadmines Undead-Infested Area
 
-
 Once you pick up the items you can return them to [Wilder Thistlenettle](https://wowclassicdb.com/npc/656) to complete the quest.
 
-[![classic collecting memories](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Collecting-Memories-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Collecting-Memories.jpg)
+[![classic collecting memories](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Collecting-Memories-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Collecting-Memories.jpg)
+
 #### [Oh Brother…](https://warcraftdb.com/classic/quest/167)
 
 * **Shareable:** Yes
@@ -127,19 +124,18 @@ Once you pick up the items you can return them to [Wilder Thistlenettle](https:/
 
 This quest can be completed outside the Deadmines dungeon, in the undead-infested part of the mine. To complete this quest you need to collect Thistlenettle’s Badge from [Foreman Thistlenettle](https://wowclassicdb.com/npc/626). You can find him at the end of the undead-infested area of the mine, surrounded by other unfortunate trapped souls. Beware that [Foreman Thislenettle](https://wowclassicdb.com/npc/626) is a level 20 Elite that is surrounded by other elites, meaning that you will most likely need a group to finish this quest.
 
-[![wilder thistlenettle 1](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle-1-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle-1.jpg)
+[![wilder thistlenettle 1](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle-1-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Wilder-Thistlenettle-1.jpg)
 
 Wilder Thistlenettle
 
-
-[![foreman thistlenettle](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Foreman-Thistlenettle-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Foreman-Thistlenettle.jpg)
+[![foreman thistlenettle](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Foreman-Thistlenettle-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Foreman-Thistlenettle.jpg)
 
 Foreman Thistlenettle
 
-
 Once you pick up the item you can return it to [Wilder Thistlenettle](https://wowclassicdb.com/npc/656) to complete the quest.
 
-[![classic oh brother](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Oh-Brother-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Oh-Brother.jpg)
+[![classic oh brother](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Oh-Brother-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Oh-Brother.jpg)
+
 #### [Underground Assault](https://warcraftdb.com/classic/quest/2040)
 
 * **Shareable:** Yes
@@ -158,17 +154,16 @@ Once you pick up the item you can return it to [Wilder Thistlenettle](https://wo
 
 This quest can be completed inside the Deadmines dungeon by looting the Gnoam Sprecklesprocket. You can find this item by killing [Sneed’s Shredder](https://warcraftdb.com/classic/the-deadmines/sneeds-shredder#default) inside the lumber camp section of the dungeon. Once you pick up the item you can return to Shoni the Shilent to complete the quest.
 
-[![shoni the shilent](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Shoni-the-Shilent-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Shoni-the-Shilent.jpg)
+[![shoni the shilent](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Shoni-the-Shilent-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Shoni-the-Shilent.jpg)
 
 Quest Starting Point
 
-
-[![sneeds shredder](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Sneeds-Shredder-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Sneeds-Shredder.jpg)
+[![sneeds shredder](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Sneeds-Shredder-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Sneeds-Shredder.jpg)
 
 Sneed’s Shredder Inside the Lumberjack Camp
 
+[![classic underground assault](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Underground-Assault-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Underground-Assault.jpg)
 
-[![classic underground assault](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Underground-Assault-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Underground-Assault.jpg)
 #### [Red Silk Bandanas](https://warcraftdb.com/classic/quest/214)
 
 * **Shareable:** No
@@ -187,19 +182,18 @@ Sneed’s Shredder Inside the Lumberjack Camp
 
 To complete this quest you will need to head into the Deadmines and collect the Red Silk Bandanas from any mobs that have the “Defias” tag. This includes [Defias Miner](https://wowclassicdb.com/npc/598)s, however, the Bandanas have a nigh-guaranteed drop chance from the elite mobs. The patrols formed of [Defias Evoker](https://wowclassicdb.com/npc/1729)s, [Defias Henchmen](https://wowclassicdb.com/npc/594), [Defias Overseer](https://wowclassicdb.com/npc/634)s, and all the pirates such as Defias Pirates and Defias Squalshappers that can be found in the deeper parts of the dungeon are great sources of Red Silk Bandanas.
 
-[![defias patrols](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Patrols-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Patrols.jpg)
+[![defias patrols](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Patrols-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Patrols.jpg)
 
 Defias Patrols
 
-
-[![defias pirates](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Pirates-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Pirates.jpg)
+[![defias pirates](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Pirates-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Defias-Pirates.jpg)
 
 Defias Pirates
 
-
 This quest can be completed both inside and outside the dungeon, as you will find plenty of elites outside that drop the item as well. Once you pick up the items you can return them to [Scout Riel](https://wowclassicdb.com/npc/820) to complete the quest.
 
-[![classic the defias brotherhood](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood.jpg)
+[![classic the defias brotherhood](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood.jpg)
+
 #### [The Defias Brotherhood](https://warcraftdb.com/classic/quest/166)
 
 * **Shareable:** No
@@ -227,17 +221,16 @@ This quest can only be picked up after completing a long chain comprised of 6 qu
 
 Once you finish the chain and pick up the quest from [Gryan Stoutmantle](https://wowclassicdb.com/npc/234), you will need to head inside the Deadmines dungeon and kill [Edwin VanCleef](https://warcraftdb.com/classic/the-deadmines/edwin-vancleef#default) to collect his head.Once you decapitate him, you will need to return his head to [Gryan Stoutmantle](https://wowclassicdb.com/npc/234) to complete this quest.
 
-[![gryan stoutmantle](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Gryan-Stoutmantle-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Gryan-Stoutmantle.jpg)
+[![gryan stoutmantle](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Gryan-Stoutmantle-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Gryan-Stoutmantle.jpg)
 
 Quest Starting Point
 
-
-[![edwin vancleef](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Edwin-Vancleef-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Edwin-Vancleef.jpg)
+[![edwin vancleef](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Edwin-Vancleef-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Edwin-Vancleef.jpg)
 
 Edwin Vancleef ~ The Final Boss of the Deadmines Dungeon
 
+[![classic the defias brotherhood 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood-2-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood-2.jpg)
 
-[![classic the defias brotherhood 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood-2-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-The-Defias-Brotherhood-2.jpg)
 #### [The Unsent Letter](https://warcraftdb.com/classic/quest/373)
 
 * **Shareable:** No
@@ -254,15 +247,13 @@ This quest can be picked up from [Edwin VanCleef](https://warcraftdb.com/classic
 
 To complete this quest you will need to deliver the letter to [Baros Alexston](https://wowclassicdb.com/npc/1646) in Stormwind City. He can be found inside Cathedral Square, in the City Hall building. There is not much more to add about this quest since it’s a simple delivery mission. The only worthwhile point to be mentioned is that this quest is the first in a long chain quest that ends in a very powerful reward.
 
-[![an unsent letter](https://www.warcrafttavern.com/wp-content/uploads/2023/12/An-Unsent-Letter-1024x567.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/An-Unsent-Letter.jpg)
+[![an unsent letter](https://www.warcrafttavern.com/wp-content/uploads/2023/12/An-Unsent-Letter-1024x567.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/An-Unsent-Letter.jpg)
 
 Quest Starting Point
 
-
-[![baros alexston](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Baros-Alexston-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Baros-Alexston.jpg)
+[![baros alexston](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Baros-Alexston-1024x542.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Baros-Alexston.jpg)
 
 Baros Alexston ~ Quest Destination
-
 
 Bosses
 ------
@@ -283,6 +274,7 @@ There are eight bosses in The Deadmines, including one rare boss who does not al
 Rhak’zor is the first boss you will encounter in the Deadmines. He is a level 19 elite ogre. He is accompanied by 2 level 17 elite Defias Watchmen who will attack from range.
 
 [![rhahkzor](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rhahkzor.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Rhahkzor.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Maintain high threat and beware of Rhahk’Zor Slam. Mark Defias Watchmen with Skull and X so you don’t have to threat everything at once.
@@ -299,6 +291,7 @@ Rhak’zor is the first boss you will encounter in the Deadmines. He is a level 
 Miner Johnson is an optional rare boss that players can fight after defeating Rhahk’zor. He is located past the door that Rhahk’zor was guarding and on the left-hand side of the junction. He is a level 19 elite humanoid. Being a rare mob, however, he will not always spawn, so if you don’t see him there, you got unlucky.
 
 [![miner johnson](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Miner-Johnson.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Miner-Johnson.png)
+
 #### Strategy
 
 * **Tank:** This fight is a tank and spank so you should focus on doing as much threat as possible on the boss, so the DPS can go all-out.
@@ -315,6 +308,7 @@ Miner Johnson is an optional rare boss that players can fight after defeating Rh
 Sneed’s Shredder is the second boss you will encounter in the Deadmines. It is a level 20 mechanical shredder, piloted by Sneed, a level 20 elite goblin who is ejected from his shredder after it is defeated. His room is filled with Goblin Woodcarver mobs, which should be cleared before you pull Sneed’s Shredder.
 
 [![sneeds shredder](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sneeds-Shredder.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Sneeds-Shredder.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Maintain threat to avoid Distracting Pain debuff from being applied to other party members. Note that after Sneed’s Shredder crumbles, Sneed will appear and have a new threat table. Taunt Sneed and get as much threat as you can on him. Sneed casts Disarm, so be ready to use abilities that don’t require a weapon in order to maintain threat.
@@ -333,6 +327,7 @@ Sneed’s Shredder is the second boss you will encounter in the Deadmines. It is
 Gilnid is the third boss you will encounter in the Deadmines. He is a level 20 elite goblin. He is accompanied by a level 19 elite Goblin Craftsman and a level 19 elite Goblin Engineer. His room is filled with Goblin Craftsmen and Engineers. You should clear out at least one side so you have enough room to fight the boss.
 
 [![gilnid](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gilnid.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Gilnid.png)
+
 #### Strategy
 
 * **Tank:** Beware of the Molten Metal debuff, while afflicted by it you will generate significantly less threat. Players should clear the room of adds first, before engaging Gilnid.
@@ -349,6 +344,7 @@ Gilnid is the third boss you will encounter in the Deadmines. He is a level 20 e
 Mr. Smite is the fourth boss you will encounter in the Deadmines, and one of the most iconic bosses in the dungeon. He is a level 20 elite Tauren pirate. He is accompanied by 2 level 19 elite Defias Blackguards, who are stealthed by his side.
 
 [![mr smite](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mr-Smite.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mr-Smite.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Mark Mr. Smite’s bodyguards with Skull and X, so you aren’t forced to threat all three. The encounter has three phases, each of them having Smite Stomp as a transition window. Keep your defensive cooldowns for the second phase, as Mr. Smite deals significantly increased damage while dual-wielding.
@@ -366,6 +362,7 @@ Mr. Smite is the fourth boss you will encounter in the Deadmines, and one of the
 Captain Greenskin is the fifth boss you will encounter in the Deadmines. He is a level 20 elite goblin pirate and is accompanied by a level 20 elite Defias Squallshaper, a level 20 elite Defias Pirate, and a level 15 non-elite Defias Companion. You should be careful when approaching Captain Greenskin’s location, as it is very easy to pull him accidentally, likely resulting in a wipe.
 
 [![captain greenskin](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Captain-Greenskin.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Captain-Greenskin.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible, so the DPS can go all-out. Mark the two adds Skull and X, so you don’t need to threat all three mobs at the same time.
@@ -383,6 +380,7 @@ Captain Greenskin is the fifth boss you will encounter in the Deadmines. He is a
 Edwin VanCleef is the sixth and final boss you will encounter in the Deadmines and one of the most iconic bosses of any dungeon. He is a level 21 elite human pirate. He is accompanied by two level 20 elite Defias Blackguards, who are stealthed by his side, similar to Mr. Smite. During the fight, two more Blackguards will appear adding to the difficulty. Make sure that Captain Greenskin has been defeated before engaging VanCleef as pulling both by accident will likely be fatal.
 
 [![edwin vancleef](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Edwin-VanCleef.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Edwin-VanCleef.png)
+
 #### Strategy
 
 * **Tank:** The last boss encounter of the dungeon, tanks should beware of his high damage. The fight lasts longer than your typical encounter and VanCleef spawns four total adds during the duration of the fight. Taunt the first set of two adds and maintain aggro while damage dealers kill them. The second set of adds should be crowd controlled or ignored, while the group focuses on burning VanCleef.
@@ -401,6 +399,7 @@ Edwin VanCleef is the sixth and final boss you will encounter in the Deadmines a
 Cookie is an optional boss that players can fight after defeating Mr. Smite but usually after players defeat VanCleef on the way out of the dungeon. To find him, after Mr. Smite, turn left when aboard the ship. After VanCleef, drop down to the lower deck toward the gangplank. His Cookie’s Stirring Rod wand drop makes him a very desired boss to kill for casters.
 
 [![cookie](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Cookie.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Cookie.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Look out for the cast Cookie’s Cooking and try to interrupt it.
@@ -435,7 +434,8 @@ Quest Rewards & Loot
   + [Staff of Westfall](https://warcraftdb.com/classic/item/2042)
   + [Tunic of Westfall](https://warcraftdb.com/classic/item/2041)
 
-[![classic deadmines quest rewards](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quest-Rewards-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quest-Rewards.jpg)
+[![classic deadmines quest rewards](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quest-Rewards-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Quest-Rewards.jpg)
+
 ### Boss Drops
 
 * [Rhahk’zor](https://warcraftdb.com/classic/the-deadmines/rhahkzor#default)
@@ -470,7 +470,7 @@ Quest Rewards & Loot
   + [Cookie’s Stirring Rod](https://warcraftdb.com/classic/item/5198)
   + [Cookie’s Tenderizer](https://warcraftdb.com/classic/item/5197)
 
-[![classic deadmines boss loot](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot.jpg)[![classic deadmines boss loot 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot-2-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot-2.jpg)
+[![classic deadmines boss loot](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot.jpg)[![classic deadmines boss loot 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot-2-1024x576.jpg.webp)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deadmines-Boss-Loot-2.jpg)
 
 #### About the Author
 
@@ -479,6 +479,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

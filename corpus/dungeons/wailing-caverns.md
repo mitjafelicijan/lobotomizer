@@ -1,12 +1,9 @@
 # WoW Classic Wailing Caverns Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 22, 2024
 * Updated: November 22, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -89,6 +86,7 @@ Wailing Caverns has 7 quests available:
 The Wailing Caverns feature multiple quests, with 5 of them being neutral quests while the other 2 are Horde-only. While most of the quests can be directly picked up, 2 of them require you to complete a quest chain first. A few of these quests require collecting numerous items inside the dungeon and can be completed over multiple runs.
 
 [![classic wailing caverns quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Wailing-Caverns-Quests-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Wailing-Caverns-Quests.jpeg)
+
 ### Horde Quests
 
 #### [Serpentbloom](https://warcraftdb.com/classic/quest/962)
@@ -110,13 +108,12 @@ To complete this quest you will need to gather 10 Serpentbloom that can be found
 
 Quest Starting Point
 
-
 [![serpentbloom](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Serpentbloom-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Serpentbloom.jpg)
 
 Serpentbloom
 
-
 [![classic serpentbloom](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Serpentbloom-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Serpentbloom.jpeg)
+
 #### [Leaders of the Fang](https://warcraftdb.com/classic/quest/914)
 
 * **Shareable:** No
@@ -153,23 +150,20 @@ Once you finish the prerequisite quests and pick up the quest from [Nara Wildman
 
 Lady Anacondra
 
-
 [![lord pythas](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Lord-Pythas-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Lord-Pythas.jpg)
 
 Lord Pythas
-
 
 [![lord serpentis](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Lord-Serpentis-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Lord-Serpentis.jpg)
 
 Lord Serpentis
 
-
 [![lord cobrahn](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Lord-Cobrahn-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Lord-Cobrahn.jpg)
 
 Lord Cobrahan
 
-
 [![classic leaders of the fang](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Leaders-of-the-Fang-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Leaders-of-the-Fang.jpeg)
+
 ### Neutral Quests
 
 #### [Deviate Eradication](https://warcraftdb.com/classic/quest/1487)
@@ -200,13 +194,12 @@ Once you kill the mobs, return to [Ebru](https://wowclassicdb.com/npc/5768) insi
 
 Hidden Cave
 
-
 [![deviate eradication quest giver](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deviate-Eradication-Quest-Giver-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deviate-Eradication-Quest-Giver.jpg)
 
 Quest Starting Point
 
-
 [![classic deviate eradication](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deviate-Eradication-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deviate-Eradication.jpeg)
+
 #### [Deviate Hides](https://warcraftdb.com/classic/quest/1486)
 
 * **Shareable:** Yes
@@ -227,13 +220,12 @@ To complete this quest you need to collect 20 Deviate Hides from the mobs inside
 
 Hidden Cave
 
-
 [![deviate hides quest giver](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deviate-Hides-Quest-Giver-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Deviate-Hides-Quest-Giver.jpg)
 
 Quest Starting Point
 
-
 [![classic deviate hides](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deviate-Hides-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Deviate-Hides.jpeg)
+
 #### [Trouble at the Docks](https://warcraftdb.com/classic/quest/959)
 
 * **Shareable:** Yes
@@ -252,13 +244,12 @@ To complete this quest you need to head inside the Wailing Caverns (the cave out
 
 Quest Starting Point
 
-
 [![trouble at the docks quest target](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Trouble-at-the-docks-quest-target-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Trouble-at-the-docks-quest-target.jpg)
 
 Mad Magglish
 
-
 [![classic trouble at the docks](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Trouble-At-The-Docks-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Trouble-At-The-Docks.jpeg)
+
 #### [Smart Drinks](https://warcraftdb.com/classic/quest/1491)
 
 * **Shareable:** No
@@ -281,13 +272,12 @@ To complete this quest you need to kill Evolving Ectoplasm mobs in the Wailing C
 
 Quest Starting Point
 
-
 [![evolving ectoplasm](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Evolving-Ectoplasm-1024x542.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2023/12/Evolving-Ectoplasm.jpg)
 
 Evolving Ectoplasm
 
-
 [![classic smart drinks](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Smart-Drinks-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Smart-Drinks.jpeg)
+
 #### [Glowing Shard](https://warcraftdb.com/classic/quest/6981)
 
 * **Shareable:** No
@@ -330,6 +320,7 @@ There are nine bosses inside Wailing Caverns, including one rare boss who does n
 Kresh is a turtle boss found wandering the stream in the Wailing Caverns. The boss infrequently drops a good defensive shield for leveling tanks.
 
 [![kresh](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kresh.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Kresh.jpg)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing away from the group. He has high armor and deals significant physical damage, so use defensive abilities.
@@ -346,6 +337,7 @@ Kresh is a turtle boss found wandering the stream in the Wailing Caverns. The bo
 Lady Anacondra is another boss in Wailing Caverns, and has the ability to put party members to Sleep if her cast is not interrupted.
 
 [![lady anacondra](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Anacondra.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lady-Anacondra.jpg)
+
 #### Strategy
 
 * **Tank:** Establish and maintain threat on the boss while DPS maximize their damage output.
@@ -363,6 +355,7 @@ Lady Anacondra is another boss in Wailing Caverns, and has the ability to put pa
 Lord Cobrahn is a boss in Wailing Caverns located in the Pit of Fangs. The boss is accompanied by three Deviate Pythons which are to be AoE damaged to death before focusing on the boss.
 
 [![lord cobrahn](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Cobrahn.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Cobrahn.jpg)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Lord Cobrahn’s Lightning Bolt and Healing Touch can be fully interrupted. If your healer is targeted by Druid’s Slumber, use any cooldowns you have to live while your healer is slept.
@@ -380,6 +373,7 @@ Lord Cobrahn is a boss in Wailing Caverns located in the Pit of Fangs. The boss 
 Deviate Faerie Dragon is a rare spawn found infrequently along the caves.
 
 [![deviate faerie dragon](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Deviate-Faerie-Dragon.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Deviate-Faerie-Dragon.jpg)
+
 #### Strategy
 
 * **Tank:** Maintain threat on the Deviate Faerie Dragon so the DPS can kill the boss.
@@ -396,6 +390,7 @@ Deviate Faerie Dragon is a rare spawn found infrequently along the caves.
 Lord Pythas is another druidic boss located in Wailing Caverns with the same Healing Touch, Lightning Bolt, and Sleep abilities.
 
 [![lord pythas](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Pythas.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Pythas.jpg)
+
 #### Strategy
 
 * **Tank:** Establish threat on the boss and the adds, so that DPS can damage them down one at a time.
@@ -412,6 +407,7 @@ Lord Pythas is another druidic boss located in Wailing Caverns with the same Hea
 Skum is a Thunder Lizard located in the Winding Chasm of Wailing Caverns.
 
 [![skum](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Skum.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Skum.jpg)
+
 #### Strategy
 
 * **Tank:** Tank the boss facing away from the group.
@@ -428,6 +424,7 @@ Skum is a Thunder Lizard located in the Winding Chasm of Wailing Caverns.
 Lord Serpentis is another Druid of the Fang boss located in Wailing Caverns.
 
 [![lord serpentis](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Serpentis.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Lord-Serpentis.jpg)
+
 #### Strategy
 
 * **Tank:** Establish threat, and be prepared to interrupt Healing Touch or Sleep if possible.
@@ -446,6 +443,7 @@ Lord Serpentis is another Druid of the Fang boss located in Wailing Caverns.
 Verdan the Everliving is an elemental boss found near the waterfall after Lord Serpentis. The boss’s Grasping Vines ability roots all targets within 10 yards for 10 seconds and stuns them for two seconds.
 
 [![verdan the everliving](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Verdan-the-Everliving.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Verdan-the-Everliving.jpg)
+
 #### Strategy
 
 * **Tank:** This fight is a Tank and Spank except for Grasping Vines, which you cannot do much about as the tank.
@@ -463,6 +461,7 @@ Verdan the Everliving is an elemental boss found near the waterfall after Lord S
 Mutanus the Devourer is the final boss in Wailing Caverns, and is summoned from the pool after escorting the Disciple of Naralex to the ritual stone. Protect the Disciple from Mutanus to be successful in this encounter.
 
 [![mutanus the devourer](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mutanus-the-Devourer.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Mutanus-the-Devourer.jpg)
+
 #### Strategy
 
 * **Tank:** Tank the boss away from the Disciple of Naralex to avoid him taking damage. Use defensive cooldowns to help your healers recover from Thundercrack.
@@ -500,6 +499,7 @@ Quest Rewards & Loot
   + [Quagmire Galoshes](https://warcraftdb.com/classic/item/10658)
 
 [![wailing caverns quest rewards](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Quest-Rewards-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Quest-Rewards.jpeg)
+
 ### Boss Drops
 
 * [Kresh](https://warcraftdb.com/classic/wailing-caverns/kresh#default)
@@ -537,6 +537,7 @@ Quest Rewards & Loot
   + [Slime-encrusted Pads](https://warcraftdb.com/classic/item/6461)
 
 [![wailing caverns boss loot](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Boss-Loot-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Boss-Loot.jpeg)[![wailing caverns boss loot 2](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Boss-Loot-2-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Boss-Loot-2.jpeg)[![wailing caverns rare loot](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Rare-Loot-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Rare-Loot.jpeg)[![wailing caverns of the fang set](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Of-The-Fang-Set-1024x576.jpeg)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Wailing-Caverns-Of-The-Fang-Set.jpeg)
+
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/Lucy-1.jpg)
@@ -544,6 +545,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

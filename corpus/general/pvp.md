@@ -1,12 +1,9 @@
 # WoW Classic PvP Overview
 
-
-
 * Author: [Furious](https://www.warcrafttavern.com/author/furious/)
 * Date: April 27, 2019
 * Updated: November 20, 2020
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -54,8 +51,9 @@ The Contribution Points you earn each week are added to your total week over wee
 
 Each faction has 14 Ranks. Ranks are calculated weekly and reflect your status relative to members of your faction on your server.
 
-| **Rank** | **Alliance Title** | **Horde Title** | **Rewards** |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| **Rank** | **Alliance Title** | **Horde Title** | **Rewards** |
 | 1 | Private | Scout | Tabard |
 | 2 | Corporal | Grunt | Team insignia trinket |
 | 3 | Sergeant | Sergeant | Superior-quality cloak, 10% discount on all goods and repairs from your faction’s NPCs |
@@ -176,6 +174,3 @@ Tips and Tricks
 #### Furious
 
 If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
-
-
-

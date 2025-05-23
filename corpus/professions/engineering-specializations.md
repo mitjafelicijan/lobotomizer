@@ -1,12 +1,9 @@
 # Engineering Specializations Guide for WoW Classic & Season of Discovery (SoD)
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: April 14, 2024
 * Updated: December 8, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -57,12 +54,12 @@ There are a couple of schematics that sound like they should require a specializ
 
 | Type | Gnome Exclusives | Goblin Exclusives |
 | --- | --- | --- |
-| Head | [Gnomish Mind Control Cap](https://warcraftdb.com/classic/item/10726)[Gnomish Goggles](https://warcraftdb.com/classic/item/10545) (BoP) | [Goblin Rocket Helmet](https://warcraftdb.com/classic/item/10588)[Goblin Construction Helmet](https://warcraftdb.com/classic/item/10543) (BoP)[Goblin Mining Helmet](https://warcraftdb.com/classic/item/10542) (BoP) |
+| Head | [Gnomish Mind Control Cap](https://warcraftdb.com/classic/item/10726) [Gnomish Goggles](https://warcraftdb.com/classic/item/10545) (BoP) | [Goblin Rocket Helmet](https://warcraftdb.com/classic/item/10588) [Goblin Construction Helmet](https://warcraftdb.com/classic/item/10543) (BoP) [Goblin Mining Helmet](https://warcraftdb.com/classic/item/10542) (BoP) |
 | Feet | [Gnomish Rocket Boots](https://warcraftdb.com/classic/item/10724) | [Goblin Rocket Boots](https://warcraftdb.com/classic/item/7189) |
 | Waist | [Gnomish Harm Prevention Belt](https://warcraftdb.com/classic/item/10721) | – |
 | Trinket | [Ultrasafe Transporter: Gadgetzan](https://warcraftdb.com/classic/item/18986) | [Dimensional Ripper – Everlook](https://warcraftdb.com/classic/item/18984) |
-| Gadget | [World Enlarger](https://warcraftdb.com/classic/item/18660)[Gnomish Death Ray](https://warcraftdb.com/classic/item/10645) (BoP)[Gnomish Battle Chicken](https://warcraftdb.com/classic/item/10725) (BoP)[Gnomish Net-o-Matic Projector](https://warcraftdb.com/classic/item/10720)[Gnomish Shrink Ray](https://warcraftdb.com/classic/item/10716) | [Goblin Dragon Gun](https://warcraftdb.com/classic/item/10727) (BoP)[Goblin Bomb Dispenser](https://warcraftdb.com/classic/item/10587) (BoP)[Goblin Mortar](https://warcraftdb.com/classic/item/10577) |
-| Explosive | – | [The Big One](https://warcraftdb.com/classic/item/10586)[Goblin Sapper Charge](https://warcraftdb.com/classic/item/10646)[The Mortar: Reloaded](https://warcraftdb.com/classic/spell/13240) |
+| Gadget | [World Enlarger](https://warcraftdb.com/classic/item/18660) [Gnomish Death Ray](https://warcraftdb.com/classic/item/10645) (BoP) [Gnomish Battle Chicken](https://warcraftdb.com/classic/item/10725) (BoP) [Gnomish Net-o-Matic Projector](https://warcraftdb.com/classic/item/10720) [Gnomish Shrink Ray](https://warcraftdb.com/classic/item/10716) | [Goblin Dragon Gun](https://warcraftdb.com/classic/item/10727) (BoP) [Goblin Bomb Dispenser](https://warcraftdb.com/classic/item/10587) (BoP) [Goblin Mortar](https://warcraftdb.com/classic/item/10577) |
+| Explosive | – | [The Big One](https://warcraftdb.com/classic/item/10586) [Goblin Sapper Charge](https://warcraftdb.com/classic/item/10646) [The Mortar: Reloaded](https://warcraftdb.com/classic/spell/13240) |
 | Pet | [Lil’ Smoky](https://warcraftdb.com/classic/item/11826) (BoP) | [Pet Bombling](https://warcraftdb.com/classic/item/11825) (BoP) |
 | Recipe | [Plans: Inlaid Mithril Cylinder](https://warcraftdb.com/classic/item/10713) | [Recipe: Goblin Rocket Fuel](https://warcraftdb.com/classic/item/10644) |
 
@@ -226,8 +223,6 @@ Now you’ll have to level [Engineering](https://www.warcrafttavern.com/wow-clas
 
 The Soothsaying for Dummies book is on the table
 
-
-
 #### About the Author
 
 ![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/Lucy-1.jpg)
@@ -235,6 +230,3 @@ The Soothsaying for Dummies book is on the table
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

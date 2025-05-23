@@ -1,12 +1,9 @@
 # Weapon Skill Trainers & Locations in WoW Classic
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 15, 2024
 * Updated: December 16, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -44,7 +41,7 @@ Here is a quick overview of which skills can be learned in each Alliance city.
 | [One-Handed Axes](https://warcraftdb.com/classic/spell/196) |  | **✓** |  |
 | [One-Handed Maces](https://warcraftdb.com/classic/spell/198) |  | **✓** |  |
 | [One-Handed Swords](https://warcraftdb.com/classic/spell/201) |  |  | **✓** |
-| [Polearms](https://warcraftdb.com/classic/spell/200)(Requires level 20) |  |  | **✓** |
+| [Polearms](https://warcraftdb.com/classic/spell/200) (Requires level 20) |  |  | **✓** |
 | [Staves](https://warcraftdb.com/classic/spell/227) | **✓** |  | **✓** |
 | [Thrown](https://warcraftdb.com/classic/spell/2567) | **✓** | **✓** |  |
 | [Two-Handed Axes](https://warcraftdb.com/classic/spell/197) |  | **✓** |  |
@@ -64,12 +61,13 @@ Here is a quick overview of which skills can be learned in each Alliance city.
 ```
 /way Darnassus 57.6, 46.7 Darnassus Weapon Master
 ```
+
 [![weapon skill trainer darnassus location in wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainer_Darnassus_Location_in_WoW_Classic-1024x683.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainer_Darnassus_Location_in_WoW_Classic.jpg)
 
 Location of Ilyenia Moonfire in Darnassus (57.6, 46.7)
 
-
 [![weapon master ilyenia moonfire](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Ilyenia-Moonfire-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Ilyenia-Moonfire.jpg)
+
 ### Ironforge Weapon Masters
 
 [Buliwyf Stonehand](https://wowclassicdb.com/npc/11865) and [Bixi Wobblebonk](https://wowclassicdb.com/npc/13084) are both on the upper floor of Timberline Arms in the Military Ward of Ironforge (62.2, 89.6).
@@ -92,13 +90,14 @@ Location of Ilyenia Moonfire in Darnassus (57.6, 46.7)
 ```
 /way Ironforge 62.2, 89.6 Ironforge Weapon Masters
 ```
+
 [![weapon skill trainers ironforge location in wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainers_Ironforge_Location_in_WoW_Classic.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainers_Ironforge_Location_in_WoW_Classic.jpg)
 
 Location of Buliwyf Stonehand and Bixi Wobblebonk in Ironforge (62.2, 89.6)
 
-
 [![weapon master buliwyf stonehand](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Buliwyf-Stonehand-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Buliwyf-Stonehand.jpg)
 [![weapon master bixi wobblebonk](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Bixi-Wobblebonk-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Bixi-Wobblebonk.jpg)
+
 ### Stormwind Weapon Master
 
 [Woo Ping](https://wowclassicdb.com/npc/11867) is inside Weller’s Arsenal in the Trade District of Stormwind (57.1, 57.7). He teaches the following weapon skills:
@@ -113,10 +112,10 @@ Location of Buliwyf Stonehand and Bixi Wobblebonk in Ironforge (62.2, 89.6)
 ```
 /way Stormwind 57.1, 57.7 Stormwind Weapon Master
 ```
+
 [![weapon skill trainers stormwind location in wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainers_Stormwind_Location_in_WoW_Classic-1024x683.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainers_Stormwind_Location_in_WoW_Classic.jpg)
 
 Location of Woo Ping in Stormwind (57.1, 57.7)
-
 
 [![weapon master woo ping](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Woo-Ping-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Woo-Ping.jpg)
 
@@ -137,7 +136,7 @@ Here is a quick overview of which skills can be learned in each Horde city.
 | [One-Handed Axes](https://warcraftdb.com/classic/spell/196) | **✓** |  |  |
 | [One-Handed Maces](https://warcraftdb.com/classic/spell/198) |  | **✓** |  |
 | [One-Handed Swords](https://warcraftdb.com/classic/spell/201) |  |  | **✓** |
-| [Polearms](https://warcraftdb.com/classic/spell/200)(Requires level 20) |  |  | **✓** |
+| [Polearms](https://warcraftdb.com/classic/spell/200) (Requires level 20) |  |  | **✓** |
 | [Staves](https://warcraftdb.com/classic/spell/227) | **✓** | **✓** |  |
 | [Thrown](https://warcraftdb.com/classic/spell/2567) | **✓** |  |  |
 | [Two-Handed Axes](https://warcraftdb.com/classic/spell/197) | **✓** |  |  |
@@ -169,13 +168,14 @@ Here is a quick overview of which skills can be learned in each Horde city.
 ```
 /way Orgrimmar 81.5, 19.6 Orgrimmar Weapon Masters
 ```
+
 [![weapon skill trainers orgrimmar location in wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainers_Orgrimmar_Location_in_WoW_Classic-1024x683.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainers_Orgrimmar_Location_in_WoW_Classic.jpg)
 
 Location of Sayoc and Hanashi in Orgrimmar (81.5, 19.6)
 
-
 [![weapon master sayoc](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Sayoc-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Sayoc.jpg)
 [![weapon master hanashi](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Hanashi-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Hanashi.jpg)
+
 ### Thunder Bluff Weapon Master
 
 [Ansekhwa](https://wowclassicdb.com/npc/11869) is at the Thunder Bluff Weapons tent on the Lower Rise of Thunder Bluff (40.9, 62.7). He teaches the following weapon skills:
@@ -188,12 +188,13 @@ Location of Sayoc and Hanashi in Orgrimmar (81.5, 19.6)
 ```
 /way Thunder Bluff 40.9, 62.7 Thunder Bluff Weapon Master
 ```
+
 [![weapon skill trainer thunder bluff location in wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainer_Thunder_Bluff_Location_in_WoW_Classic-1024x683.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainer_Thunder_Bluff_Location_in_WoW_Classic.jpg)
 
 Location of Ansekhwa in Thunder Bluff (40.9, 62.7)
 
-
 [![weapon master ansekhwa](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Ansekhwa-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Ansekhwa.jpg)
+
 ### Undercity Weapon Master
 
 [Archibald](https://wowclassicdb.com/npc/11870) is standing next to the Weapon Merchants alcove in the War Quarter of Undercity (57.3, 32.8). He teaches the following weapon skills:
@@ -207,13 +208,12 @@ Location of Ansekhwa in Thunder Bluff (40.9, 62.7)
 ```
 /way Undercity 57.3, 32.8 Undercity Weapon Master
 ```
+
 [![weapon skill trainer undercity location in wow classic](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainer_Undercity_Location_in_WoW_Classic-1024x683.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon_Skill_Trainer_Undercity_Location_in_WoW_Classic.jpg)
 
 Location of Archibald in Undercity (57.3, 32.8)
 
-
 [![weapon master archibald](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Archibald-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weapon-Master-Archibald.jpg)
-
 
 #### About the Author
 
@@ -222,6 +222,3 @@ Location of Archibald in Undercity (57.3, 32.8)
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

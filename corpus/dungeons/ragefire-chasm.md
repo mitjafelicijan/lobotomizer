@@ -1,12 +1,9 @@
 # WoW Classic Ragefire Chasm Location, Quests, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: November 22, 2024
 * Updated: November 22, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -68,6 +65,7 @@ Ragefire Chasm has 5 quests available:
 Ragefire Chasm quests are surprisingly plentiful but are exclusive to Horde players. Completing these quests will require players to either visit all three Horde capitals, or to bring a solid mix of Undead, Tauren, Orc, and Troll players. While most of the quests do not require a chain, the one chain quest also happens to provide the best reward from the quests available here, making it very worth doing.
 
 [![classic ragefire quests](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Ragefire-Quest-Guide-1024x576.png)](https://www.warcrafttavern.com/wp-content/uploads/2023/05/Classic-Ragefire-Quest-Guide.png)
+
 ### Horde Quests
 
 #### [Testing an Enemy’s Strength](https://warcraftdb.com/classic/quest/5723)
@@ -100,6 +98,7 @@ This followup asks you to return the [Grimtotem Satchel](https://warcraftdb.com/
 [![wow classic ragefire chasm oggleflint path](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Ragefire-Chasm-Oggleflint-Path-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Ragefire-Chasm-Oggleflint-Path.jpg)
 [![wow classic oggleflint](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Oggleflint-2-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Oggleflint-2.jpg)
 [![wow classic rahauro](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Rahauro-1-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Rahauro-1.jpg)
+
 #### [Returning the Lost Satchel](https://warcraftdb.com/classic/quest/5724)
 
 * **Shareable:** No
@@ -131,6 +130,7 @@ The quest tasks you to collect [Taragaman the Hungerer’s Heart](https://warcra
 
 [![wow classic neeru fireblade](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Neeru-Fireblade-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Neeru-Fireblade.jpg)
 [![wow classic taragaman the hungerer](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Taragaman-The-Hungerer-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Taragaman-The-Hungerer.jpg)
+
 #### [The Power to Destroy…](https://warcraftdb.com/classic/quest/5725)
 
 * **Shareable:** Yes
@@ -171,11 +171,9 @@ This notoriously frustrating chain quest starts with the quest [Hidden Enemies](
 
 Skull Rock Location
 
-
 [![wow classic skull rock entrance](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Skull-Rock-Entrance-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Skull-Rock-Entrance.jpg)
 
 Skull Rock Entrance
-
 
 While you can start this quest as low as level 9, the enemies range from levels 9 to 11, and rarely fight alone. This can make the cave very dangerous. Combine that with the oddly low drop rate of [Lieutenant’s Insignia](https://warcraftdb.com/classic/item/14544) and you have a recipe for many corpse runs. Something that isn’t uncommon is for [Ragefire Chasm](https://warcraftdb.com/classic/ragefire-chasm) groups to complete this chain together, giving them the advantage of a full 5 man group, instead of trying to push through the cave solo.
 
@@ -187,11 +185,9 @@ After running back to [Thrall](https://wowclassicdb.com/npc/4949) fourth time, y
 
 Bazzalan
 
-
 [![wow classic rfc jergosh the invoker](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Jergosh-the-Invoker-1024x576.jpg)](https://www.warcrafttavern.com/wp-content/uploads/2024/01/Season-of-Discovery-Jergosh-the-Invoker.jpg)
 
 Jergosh the Invoker
-
 
 Bosses
 ------
@@ -208,6 +204,7 @@ There are four bosses inside Ragefire Chasm.
 Oggleflint is the first boss of Ragefire Chasm. He is a level 16 elite Trogg that is accompanied by two adds.
 
 [![oggleflint](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Oggleflint.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Oggleflint.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Tanks should prioritize keeping the aggro on the two adds that accompany Oggleflint until damage dealers manage to kill them. Mark the adds with Skull and X so you don’t need to threat everything at once.
@@ -223,6 +220,7 @@ Oggleflint is the first boss of Ragefire Chasm. He is a level 16 elite Trogg tha
 Taragaman the Hungerer is the second boss encounter within Ragefire Chasm. He is a level 16 elite Humanoid that can be found on the middle plateau. He is not accompanied by any adds but patrols can join the encounter.
 
 [![taragaman the hungerer](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Taragaman-the-Hungerer.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Taragaman-the-Hungerer.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Taragaman the Hungerer knocks up his target with Uppercut, so beware not to be thrown into the lava.
@@ -240,6 +238,7 @@ Taragaman the Hungerer is the second boss encounter within Ragefire Chasm. He is
 Jergosh the Invoker is the third boss you can encounter in Ragefire Chasm. He is a level 16 elite Searing Blade Orc that is accompanied by two adds. In order to reach Jergosh the Invoker, players must first clear the guards standing in the way.
 
 [![jergosh the invoker](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jergosh-the-Invoker.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jergosh-the-Invoker.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Tanks should attempt to interrupt his Immolate ability in order to mitigate damage.
@@ -257,6 +256,7 @@ Jergosh the Invoker is the third boss you can encounter in Ragefire Chasm. He is
 Bazzalan is the fourth and last boss encounter of Ragefire Chasm. He is a level 16 elite humanoid Satyr that is accompanied by two adds. He can be found at the very end of Ragefire Chasm on the upper part of the dungeon.
 
 [![bazzalan](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bazzalan.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Bazzalan.png)
+
 #### Strategy
 
 * **Tank:** Focus on doing as much threat as possible on the boss, so the DPS can go all-out. Bazzalan can deal high amounts of damage so tanks should approach him cautiously.
@@ -303,6 +303,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-

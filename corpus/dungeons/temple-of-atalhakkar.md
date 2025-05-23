@@ -1,12 +1,9 @@
 # WoW Classic The Temple of Atal’hakkar Location, Bosses, & Rewards
 
-
-
 * Author: [Luxrah](https://www.warcrafttavern.com/author/luxrah/)
 * Date: December 29, 2024
 * Updated: December 29, 2024
 * Expansion: [WoW Classic](/wow-classic/)
-
 
 ### Contents
 
@@ -87,6 +84,7 @@ Atal’alarion is the Guardian of the Idol in the lower level of the instance, t
 Atal’alarion will spawn in the center of the room. This boss should be approached first within the Sunken Temple of Atal’hakkar. Not only is entering the Pit of Refuse on the same level of the entrance (and approached by heading to the right from the portal), but if you attempt to jump down into the pit from the hole in top, you will almost certainly die to fall damage.
 
 [![atal'alarion](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Atalalarion.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Atalalarion.png)
+
 #### Strategy
 
 * **Tank:** Engage Atal’alarion in the center of the Pit of Refuse, and then move him to face a wall. The boss’ [Sweeping Slam](https://warcraftdb.com/classic/spell/12887) is a frontal cone ability, and you do not want to subject your other party members to its effects. Pay attention to who in your group is being knocked into the air at what time. If your Healer is being sent airborne, kite the boss around the room to try and avoid taking significant damage before your healer is available again.
@@ -104,6 +102,7 @@ Atal’alarion will spawn in the center of the room. This boss should be approac
 Spawn of Hakkar is a boss located in the Sunken Temple. This mob is sought after by Hunters as a powerful pet.
 
 [![spawn of hakkar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Spawn-of-Hakkar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Spawn-of-Hakkar.png)
+
 #### Strategy
 
 * **Tank:** Maintain threat on the boss while DPS maximize their damage output.
@@ -129,6 +128,7 @@ Located on six different platforms around the top ring of the instance are six d
 None of these bosses are particularly challenging in that they do not have much health, can be stunned, and range from level 50-52 elite.
 
 [![troll mini bosses](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Troll-Mini-Bosses.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Troll-Mini-Bosses.png)
+
 #### Strategy
 
 * **Tank:** Each of the Troll Mini Bosses can be considered a Tank and Spank fight, so establish yourself on the threat table and let your DPS burn them down.
@@ -149,6 +149,7 @@ None of these bosses are particularly challenging in that they do not have much 
 Jammal’an is accessible after the 6 Troll Mini Bosses have been defeated. To make your way down to his chamber, the Lair of the Chosen, either go back to the entrance and instead take the path to the left, or jump off of whichever Troll Mini Boss’ platform you finished on. If you choose to jump, your group should pick one pack of Dragonkin to land on and prepare to engage immediately, with some big heals. Once you clear the Pit of Sacrifice enough to enter the eastern passageway, clear all of the troll and Atal’ai Deathwalker mobs from the area before engaging Jammal’an. The boss is a level 54 Elite, and is accompanied by level 53 elite Ogom the Wretched.
 
 [![jammal'an the prophet](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jammalan-the-Prophet.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Jammalan-the-Prophet.png)
+
 #### Strategy
 
 * **Tank:** If your group has a strong DPS class who can off tank, assign them to Ogom and allow for DPS to burn him down quickly. The main tank should separate Jammal’an from the group and establish threat. Be careful not to stack up to avoid having to reposition for [Flamestrike](https://warcraftdb.com/classic/spell/12468). It is also helpful to have distance between players for when [Hex of Jammal’an](https://warcraftdb.com/classic/spell/12480) goes out, so that there is not an easy target for the player transformed into a Berserker to crush.
@@ -169,6 +170,7 @@ Jammal’an is accessible after the 6 Troll Mini Bosses have been defeated. To m
 Weaver will spawn at the same time as Dreamscythe in the Pit of Sacrifice, upon the defeat of Jammal’an the Prophet. The two drakes will patrol the area on a similar path, so be careful to only pull one of them at a time.
 
 [![weaver and dreamscythe](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weaver-and-Dreamscythe.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Weaver-and-Dreamscythe.png)
+
 #### Strategy
 
 * **Tank:** Use a ranged pull if available to engage only one of the drakes at a time. Pull the boss into the hallway, and tank the boss up against a wall facing away from the group to minimize the effects of the boss’ knockback ability and keep your other party members out of harms way.
@@ -191,6 +193,7 @@ Weaver will spawn at the same time as Dreamscythe in the Pit of Sacrifice, upon 
 Hazzas and Morphaz are the final two drake bosses in Sunken Temple, and they have the same abilities and strategy as the previous two bosses. They spawn at the same time, upon the defeat of Dreamscythe and Weaver. The two drakes will patrol the area on a similar path and it is not possible to pull them individually so plan to fight both together.
 
 [![hazzas and morphaz](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hazzas-and-Morphaz.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Hazzas-and-Morphaz.png)
+
 #### Strategy
 
 * **Tank:** Pull the bosses into the hallway, and Tank the bosses up against a wall facing away from the group to minimize the effects of the boss’ knockback ability and keep your other party members out of harms way.
@@ -213,6 +216,7 @@ Hazzas and Morphaz are the final two drake bosses in Sunken Temple, and they hav
 The Shade of Eranikus is a level 55 elite and does not require a special summoning ritual or quest. Be 100% sure that you have cleared all of the dragonkin mobs in the rest of the instance before you engage the Shade of Eranikus, or they will all run to aid him in combat (and likely wipe your group). The boss is challenging, especially compared to other final bosses in previous 5 man content.
 
 [![shade of eranikus](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Shade-of-Eranikus.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Shade-of-Eranikus.png)
+
 #### Strategy
 
 * **Tank:** Engage the boss where he stands, and face him away from the rest of the group to avoid anyone but yourself being hit by [Corrosive Acid Breath](https://warcraftdb.com/classic/spell/16359). The boss will target the player with the highest threat for [Deep Slumber](https://warcraftdb.com/classic/spell/12890). If available, allow for a pet to tank the boss until his first cast of [Deep Slumber](https://warcraftdb.com/classic/spell/12890), then trade in your primary tank. You can also use a second tank if your group has one. A druid in Bear Form, Warrior, or a Paladin using [Righteous Fury](https://warcraftdb.com/classic/spell/25780) can take the second threat position and hold the boss while your primary tank sleeps off their [Deep Slumber](https://warcraftdb.com/classic/spell/12890).
@@ -234,6 +238,7 @@ The Shade of Eranikus is a level 55 elite and does not require a special summoni
 Avatar of Hakkar is a challenging encounter that requires you to have completed the prerequisite Ancient Egg questline which is started in Tanaris. The boss’ summoning location is located in a smaller room at the western side of the Pit of Sacrifice. Enter the room and begin killing adds. Defeat four Hakkari Bloodkeepers as they spawn, and use their Hakkari Blood to extinguish the four braziers arranged in a rectangle around the room. Before extinguishing the final brazier, if all group members stack up against the wall you will not trigger proximity aggro on the boss and can drop combat for long enough to eat, drink, resurrect your friends, or rebuff. After a quick recovery, engage the Avatar of Hakkar.
 
 [![avatar of hakkar](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Avatar-of-Hakkar.png)](https://www.warcrafttavern.com/wp-content/uploads/2024/11/Avatar-of-Hakkar.png)
+
 #### Strategy
 
 * **Tank:** Tank the boss in the middle of the room, and maintain threat for the entirety of the encounter. Utilize stun or other CC effects on the player affected by [Cause Insanity](https://warcraftdb.com/classic/spell/12888).
@@ -255,9 +260,9 @@ Quest Rewards & Loot
 
 ### Quest Rewards
 
-* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png) [Into The Temple of Atal’Hakkar](https://wowclassicdb.com/quest/1475)
+* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png.webp) [Into The Temple of Atal’Hakkar](https://wowclassicdb.com/quest/1475)
   + [Guardian Talisman](https://warcraftdb.com/classic/item/1490)
-* ![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png) [The Temple of Atal’Hakkar](https://wowclassicdb.com/quest/1445)
+* ![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png.webp) [The Temple of Atal’Hakkar](https://wowclassicdb.com/quest/1445)
   + [Guardian Talisman](https://warcraftdb.com/classic/item/1490)
 * [Secret of the Circle](https://wowclassicdb.com/quest/3447)
   + [Mark of Hakkar](https://warcraftdb.com/classic/item/10780)
@@ -272,39 +277,39 @@ Quest Rewards & Loot
   + [Lifeforce Dirk](https://warcraftdb.com/classic/item/10750)
 * [The Essence of Eranikus](https://wowclassicdb.com/quest/3373)
   + [Chained Essence of Eranikus](https://warcraftdb.com/classic/item/10455)
-* ![WoW Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Druid-Icon.jpg) [A Better Ingredient](https://wowclassicdb.com/quest/9053)
+* ![WoW Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Druid-Icon.jpg.webp) [A Better Ingredient](https://wowclassicdb.com/quest/9053)
   + [Forest’s Embrace](https://warcraftdb.com/classic/item/22272)
   + [Grizzled Pelt](https://warcraftdb.com/classic/item/22274)
   + [Moonshadow Stave](https://warcraftdb.com/classic/item/22458)
-* ![Hunter Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Hunter-Icon.png) [The Green Drake](https://wowclassicdb.com/quest/8232)
+* ![Hunter Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Hunter-Icon.png.webp) [The Green Drake](https://wowclassicdb.com/quest/8232)
   + [Devilsaur Eye](https://warcraftdb.com/classic/item/19991)
   + [Devilsaur Tooth](https://warcraftdb.com/classic/item/19992)
   + [Hunting Spear](https://warcraftdb.com/classic/item/20083)
-* ![Mage Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Mage-Icon.png) [Destroy Morphaz](https://wowclassicdb.com/quest/8253)
+* ![Mage Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Mage-Icon.png.webp) [Destroy Morphaz](https://wowclassicdb.com/quest/8253)
   + [Arcane Crystal Pendant](https://warcraftdb.com/classic/item/20037)
   + [Fire Ruby](https://warcraftdb.com/classic/item/20036)
   + [Glacial Spike](https://warcraftdb.com/classic/item/20035)
-* ![Paladin Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Paladin-Icon.png) [Forging the Mightstone](https://wowclassicdb.com/quest/8418)
+* ![Paladin Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Paladin-Icon.png.webp) [Forging the Mightstone](https://wowclassicdb.com/quest/8418)
   + [Chivalrous Signet](https://warcraftdb.com/classic/item/20505)
   + [Lightforged Blade](https://warcraftdb.com/classic/item/20504)
   + [Sanctified Orb](https://warcraftdb.com/classic/item/20512)
-* ![Priest Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Priest-Icon.png) [Blood of Morphaz](https://wowclassicdb.com/quest/8257)
+* ![Priest Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Priest-Icon.png.webp) [Blood of Morphaz](https://wowclassicdb.com/quest/8257)
   + [Blessed Prayer Beads](https://warcraftdb.com/classic/item/19990)
   + [Circle of Hope](https://warcraftdb.com/classic/item/20006)
   + [Woestave](https://warcraftdb.com/classic/item/20082)
-* ![Rogue Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Rogue-Icon.png) [The Azure Key](https://wowclassicdb.com/quest/8236)
+* ![Rogue Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Rogue-Icon.png.webp) [The Azure Key](https://wowclassicdb.com/quest/8236)
   + [Duskbat Drape](https://warcraftdb.com/classic/item/19982)
   + [Ebon Mask](https://warcraftdb.com/classic/item/19984)
   + [Whisperwalk Boots](https://warcraftdb.com/classic/item/20255)
-* ![Shaman Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Shaman-Icon.png) [Da Voodoo](https://wowclassicdb.com/quest/8413)
+* ![Shaman Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Shaman-Icon.png.webp) [Da Voodoo](https://wowclassicdb.com/quest/8413)
   + [Azurite Fists](https://warcraftdb.com/classic/item/20369)
   + [Enamored Water Spirit](https://warcraftdb.com/classic/item/20503)
   + [Wildstaff](https://warcraftdb.com/classic/item/20556)
-* ![Warlock Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Warlock-Icon.png) [Trolls of a Feather](https://wowclassicdb.com/quest/8422)
+* ![Warlock Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Warlock-Icon.png.webp) [Trolls of a Feather](https://wowclassicdb.com/quest/8422)
   + [Abyss Shard](https://warcraftdb.com/classic/item/20534)
   + [Robes of Servitude](https://warcraftdb.com/classic/item/20530)
   + [Soul Harvester](https://warcraftdb.com/classic/item/20536)
-* ![Wow Classic Warrior Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Warrior-Icon.png) [Voodoo Feathers](https://wowclassicdb.com/quest/8425)
+* ![Wow Classic Warrior Icon](https://www.warcrafttavern.com/wp-content/uploads/2020/12/WoW-Classic-Warrior-Icon.png.webp) [Voodoo Feathers](https://wowclassicdb.com/quest/8425)
   + [Diamond Flask](https://warcraftdb.com/classic/item/20130)
   + [Fury Visor](https://warcraftdb.com/classic/item/20521)
   + [Razorsteel Shoulders](https://warcraftdb.com/classic/item/20517)
@@ -374,6 +379,3 @@ Quest Rewards & Loot
 #### Luxrah
 
 I've been playing World of Warcraft on and off since vanilla, usually as a healer or caster and often as a guild leader. I play both retail and classic. I also love RPGs, sandboxes, and sims.
-
-
-
