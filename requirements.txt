@@ -1,11 +1,12 @@
 # Development dependencies.
 pylint
 
-# General dependencies.
+# Tooling and general dependencies.
 BeautifulSoup4
 pandas
 requests
 markdownify
+sentence-transformers
 
 # Llama index stuff.
 llama-index
