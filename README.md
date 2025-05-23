@@ -1,7 +1,7 @@
 # RAG Chatbot for World of Warcraft
 
 > [!IMPORTANT]
-> This readme still needs work and incomplete.
+> This readme still needs work and is incomplete.
 
 This is a easy to use RAG chatbot named after [The
 Lobotomizer](https://www.wowhead.com/classic/item=19324/the-lobotomizer) dagger
@@ -44,9 +44,11 @@ pip install -r requirements.txt
 
 # Very important!
 cp config.example.py config.py
+# Edit config.py now to set up everything you need.
+vim config.py
 
-make http-api-dev       # If you want to run HTTP API version of it.
-make discord-bot-dev    # If you want to run Discord bot version.
+make http-api-dev       # If you want to run HTTP API.
+make discord-bot-dev    # If you want to run Discord bot.
 ```
 
 After that is done I suggest checking make targets.
