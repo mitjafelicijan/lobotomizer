@@ -57,14 +57,17 @@ After that is done I suggest checking make targets.
 $ make
 
 Targets:
-  http-api-dev          Starts development server with reload
-  http-api              Starts production server with max workers
-  discord-bot-dev       Starts development version of Discord bot
-  discord-bot           Starts production version of Discord bot
-  storage               Creates vertor database storage from corpus
-  lights-hope-db        Starts MySQL database and imports Vanilla WoW data into it
-  extract-quests        Extracts quest information from pfQuest and that to corpus
-  fetch-wct-pages       Fetches specific pages from WCT and adds them to corpus
+  http-api-dev                     Starts development server with reload
+  http-api                         Starts production server with max workers
+  discord-bot-dev                  Starts development version of Discord bot
+  discord-bot                      Starts production version of Discord bot
+  index                            Creates vector index database/storage from corpus
+  provision                        Provisions the machine and installs dependencies
+  lights-hope-db                   Starts MySQL database and imports Vanilla WoW data into it
+  extract-quests                   Extracts quest information from pfQuest and add that to corpus
+  extract-comments                 Extracts comments from wowhead scrapes and add that to corpus
+  fetch-warcrafttavern-pages       Fetches specific pages from WarcraftTavern and adds them to corpus
+  fetch-wowhead-pages              Fetches specific pages from Wowhead and adds them to corpus
 ```
 
 ## Running HTTP API
@@ -106,12 +109,8 @@ Type command `make` from the root of the repository to see all the options.
 
 All scripts that generate corpus data are located in `tools` directory.
 
-- `wct-pages.py` - fetches data from Warcraft Tavern and generates
-  markdown files from list of links defined `warcrafttavern.csv`.
-- `extract-quests.lua` - takes pfQuest data and generates markdown files of quests.
-- `quests-comments.py` - takes `wowhead-quest-comments` and appends all valid
-  comments to quest data. Comment data is provided by web scraper written by
-  [kakexd](https://github.com/kakexd/webscrape).
+Comment data is provided by web scraper written by
+[kakexd](https://github.com/kakexd/webscrape).
 
 > [!NOTE]
 > Do not execute this scripts unnecessarily. These should only be ran after new
@@ -131,7 +130,7 @@ Information about embeddings:
 
 ```sh
 source .venv/bin/activate
-python gen_storage.py
+python generate_index.py
 ```
 
 ## Deploying to server

@@ -16,9 +16,17 @@ discord-bot-dev: # Starts development version of Discord bot
 discord-bot: # Starts production version of Discord bot
 	python discord_bot.py
 
-storage: # Creates vertor database storage from corpus
+index: # Creates vector index database/storage from corpus
 	-rm -rf storage/
-	python gen_storage.py
+	python generate_index.py
+
+# General things
+
+provision: # Provisions the machine and installs dependencies
+	git lfs install \
+		python3 -m venv .venv \
+		source .venv/bin/activate \
+		pip install -r requirements.txt
 
 # Data importers
 
@@ -34,5 +42,8 @@ extract-quests: # Extracts quest information from pfQuest and add that to corpus
 extract-comments: # Extracts comments from wowhead scrapes and add that to corpus
 	cd tools/ && python wowhead_quest_comments.py
 
-fetch-wct-pages: # Fetches specific pages from WCT and adds them to corpus
-	cd tools/ && python wct_pages.py
+fetch-warcrafttavern-pages: # Fetches specific pages from WarcraftTavern and adds them to corpus
+	cd tools/ && python warcrafttavern.py
+
+fetch-wowhead-pages: # Fetches specific pages from Wowhead and adds them to corpus
+	cd tools/ && python wowhead.py

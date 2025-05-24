@@ -33,23 +33,23 @@ The Druid is a versatile hybrid class, capable of filling any role in the game t
 
 Druids are best known for their unique group utility in the form of [Innervate](https://warcraftdb.com/classic/spell/29166) and [Rebirth](https://warcraftdb.com/classic/spell/20748). In PvP, they are the kings of mobility, able to escape roots and slows with their shapeshifting and race ahead of the pack with [Dash](https://warcraftdb.com/classic/spell/23099) and [Travel Form](https://warcraftdb.com/classic/spell/783). Whether you’re looking to powershift your way up the damage meters, keep your party alive with powerful heal-over-time spells, or lift everyone’s spirits as a dancing Boomkin, the nature-loving Druid class has something for everyone.
 
-[![icon - restoration (druid)](https://www.warcrafttavern.com/wp-content/uploads/2022/09/spell_nature_healingtouch.jpg)](https://www.warcrafttavern.com/wow-classic/guides/pve-druid-restoration/)
+[![icon - restoration (druid)](https://www.warcrafttavern.com/wp-content/uploads/2022/09/spell_nature_healingtouch.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/pve-druid-restoration/)
 
 [Resto Druid Healing](https://www.warcrafttavern.com/wow-classic/guides/pve-druid-restoration/)
 
-[![Icon - Feral (Cat)](https://www.warcrafttavern.com/wp-content/uploads/2022/09/ability_druid_catform.jpg)](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-pve-dps/)
+[![Icon - Feral (Cat)](https://www.warcrafttavern.com/wp-content/uploads/2022/09/ability_druid_catform.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-pve-dps/)
 
 [Feral Druid DPS](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-pve-dps/)
 
-[![Icons - Balance](https://www.warcrafttavern.com/wp-content/uploads/2022/06/spell_nature_starfall.jpg)](https://www.warcrafttavern.com/wow-classic/guides/balance-druid-pve-dps/)
+[![Icons - Balance](https://www.warcrafttavern.com/wp-content/uploads/2022/06/spell_nature_starfall.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/balance-druid-pve-dps/)
 
 [Balance Druid DPS](https://www.warcrafttavern.com/wow-classic/guides/balance-druid-pve-dps/)
 
-[![icon - bear form](https://www.warcrafttavern.com/wp-content/uploads/2022/06/ability_racial_bearform.jpg)](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-tank/)
+[![icon - bear form](https://www.warcrafttavern.com/wp-content/uploads/2022/06/ability_racial_bearform.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-tank/)
 
 [Feral Druid Tank](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-tank/)
 
-[![icon - marksmanship](https://www.warcrafttavern.com/wp-content/uploads/2022/06/ability_marksmanship.jpg)](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/druid/)
+[![icon - marksmanship](https://www.warcrafttavern.com/wp-content/uploads/2022/06/ability_marksmanship.jpg.webp)](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/druid/)
 
 [Druid Talent Calculator](https://www.warcrafttavern.com/wow-classic/tools/talent-calculator/druid/)
 
@@ -57,7 +57,7 @@ Druids are best known for their unique group utility in the form of [Innervate](
 
 [Druid Leveling Guide](https://www.warcrafttavern.com/wow-classic/guides/druid-leveling-guide/)
 
-[![world of warcraft addons & macros](https://www.warcrafttavern.com/wp-content/uploads/2021/04/World-of-Warcraft-Addons-Macros.jpg)](https://www.warcrafttavern.com/wow-classic/guides/druid-macros/)
+[![world of warcraft addons & macros](https://www.warcrafttavern.com/wp-content/uploads/2021/04/World-of-Warcraft-Addons-Macros.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/druid-macros/)
 
 [Druid Macros](https://www.warcrafttavern.com/wow-classic/guides/druid-macros/)
 
@@ -65,19 +65,19 @@ Druids are best known for their unique group utility in the form of [Innervate](
 
 [Powershifting Rotation](https://www.warcrafttavern.com/wow-classic/guides/feral-druid-dps-powershifting-rotation/)
 
-[![Gear & Best In Slot (bis)](https://www.warcrafttavern.com/wp-content/uploads/2021/07/Gear-Best-in-Slot-BiS.png)](https://www.wowclassicbis.com/?class=druid)
+[![Gear & Best In Slot (bis)](https://www.warcrafttavern.com/wp-content/uploads/2021/07/Gear-Best-in-Slot-BiS.png.webp)](https://www.wowclassicbis.com/?class=druid)
 
 [Druid Pre-Raid & Best in Slot (BiS)](https://www.wowclassicbis.com/?class=druid)
 
-[![Wow Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/WoW-Druid-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/19-druid-twink/)
+[![Wow Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/WoW-Druid-Icon.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/19-druid-twink/)
 
 [19 Druid Twink](https://www.warcrafttavern.com/wow-classic/guides/19-druid-twink/)
 
-[![Wow Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/WoW-Druid-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/29-twink-druid/)
+[![Wow Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/WoW-Druid-Icon.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/29-twink-druid/)
 
 [29 Druid Twink](https://www.warcrafttavern.com/wow-classic/guides/29-twink-druid/)
 
-[![Wow Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/WoW-Druid-Icon.jpg)](https://www.warcrafttavern.com/wow-classic/guides/39-druid-twink/)
+[![Wow Druid Icon](https://www.warcrafttavern.com/wp-content/uploads/2021/01/WoW-Druid-Icon.jpg.webp)](https://www.warcrafttavern.com/wow-classic/guides/39-druid-twink/)
 
 [39 Druid Twink](https://www.warcrafttavern.com/wow-classic/guides/39-druid-twink/)
 
@@ -263,10 +263,10 @@ Here are all of the equipment sets for Druids in Classic WoW, including dungeon 
 * [Symbols of Unending Life](https://warcraftdb.com/classic/item-set/494) ([Ruins of Ahn’Qiraj](https://www.warcrafttavern.com/wow-classic/guides/ruins-of-ahnqiraj-aq20/))
 * [Genesis Raiment](https://warcraftdb.com/classic/item-set/493) (Tier 2.5 – [Temple of Ahn’Qiraj](https://www.warcrafttavern.com/wow-classic/guides/temple-of-ahnqiraj-aq40/))
 * [Dreamwalker Raiment](https://warcraftdb.com/classic/item-set/521) (Tier 3 – [Naxxramas](https://www.warcrafttavern.com/wow-classic/guides/naxxramas/))
-* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png) [The Highlander’s Purpose](https://warcraftdb.com/classic/item-set/471)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png) [The Defiler’s Purpose](https://warcraftdb.com/classic/item-set/486) (Arathi Basin)
-* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png) [The Highlander’s Will](https://warcraftdb.com/classic/item-set/472)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png) [The Defiler’s Will](https://warcraftdb.com/classic/item-set/488) (Arathi Basin)
-* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png) [Lieutenant Commander’s Sanctuary](https://warcraftdb.com/classic/item-set/381)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png) [Champion’s Sanctuary](https://warcraftdb.com/classic/item-set/382) (Rare PvP)
-* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png) [Field Marshal’s Sanctuary](https://warcraftdb.com/classic/item-set/397)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png) [Warlord’s Sanctuary](https://warcraftdb.com/classic/item-set/398) (Epic PvP)
+* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png.webp) [The Highlander’s Purpose](https://warcraftdb.com/classic/item-set/471)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png.webp) [The Defiler’s Purpose](https://warcraftdb.com/classic/item-set/486) (Arathi Basin)
+* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png.webp) [The Highlander’s Will](https://warcraftdb.com/classic/item-set/472)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png.webp) [The Defiler’s Will](https://warcraftdb.com/classic/item-set/488) (Arathi Basin)
+* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png.webp) [Lieutenant Commander’s Sanctuary](https://warcraftdb.com/classic/item-set/381)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png.webp) [Champion’s Sanctuary](https://warcraftdb.com/classic/item-set/382) (Rare PvP)
+* ![Wow Alliance Crest](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Alliance-Crest.png.webp) [Field Marshal’s Sanctuary](https://warcraftdb.com/classic/item-set/397)/![](https://www.warcrafttavern.com/wp-content/uploads/2021/07/WoW-Horde-Crest.png.webp) [Warlord’s Sanctuary](https://warcraftdb.com/classic/item-set/398) (Epic PvP)
 
 Notable Items
 -------------

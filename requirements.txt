@@ -5,6 +5,7 @@ pylint
 BeautifulSoup4
 pandas
 requests
+playwright
 markdownify
 sentence-transformers
 

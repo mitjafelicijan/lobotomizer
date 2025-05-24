@@ -1,0 +1,253 @@
+# Priest Healing Guide – WoW Classic
+
+  
+Welcome to Wowhead's Healing Priest Class Guide, updated for WoW Classic! This guide will help you to improve as a Healing Priest in all aspects of the game, improving your knowledge to face the hardest Dungeons and Raids from WoW Classic.  
+  
+Throughout this guide, we will cover many different aspects to increase your Priest expertise, including concepts like Priest talents and talents builds, Priest BiS gear choices, Priest stat priorities, Priest consumables and enchants, among many other aspects of your class and specialization. Make sure to navigate to other pages of the guide to find more in-depth information, as each works as a knowledge hub for their subject.  
+  
+Our Priest guides are always updated with the latest information from in-game experience, theorycrafting, and logs; make sure to check our changelog to this page, by clicking on **View Changelog** at the top of the page. If you are interested in more in-depth Priest guides for WoW Classic, make sure to browse the *Navigation Bar* below, and our list of **Related Guides** just beneath the *Table of Contents*.
+
+[Overview](https://www.wowhead.com/classic/guides/priest-healing-classic-wow)[Leveling (1-60)](https://www.wowhead.com/classic/guides/priest-leveling-classic-wow)[Beginners](https://www.wowhead.com/classic/priest-healing-beginners-guide-classic-wow)[Talents & Builds](https://www.wowhead.com/classic/guides/priest-healing-talents-builds-classic-wow)[P2 BiS Gear](https://www.wowhead.com/classic/guide/wow-classic-priest-healing-molten-core-phase-2-best-in-slot-gear)[P3 BiS Gear](https://www.wowhead.com/classic/guide/wow-classic-priest-healing-blackwing-lair-best-in-slot-gear)[Rotation & Abilities](https://www.wowhead.com/classic/guides/priest-healing-rotation-abilities-classic-wow)[Stats](https://www.wowhead.com/classic/guides/priest-healing-stat-priority-classic-wow)[Enchants](https://www.wowhead.com/classic/guides/priest-healing-enchants-classic-wow)[Consumables](https://www.wowhead.com/classic/guides/priest-healing-consumables-classic-wow)
+
+|  |  |
+| --- | --- |
+|  | The Priest is an iconic class in World of Warcraft, as either a robust healer harnessing the Light to grant them immense holy power, or acting as a conduit of shadow magic to inflict pain and twist the minds of their enemies. As a healer, the Priest has a robust set of abilities which allow them to support their allies, but at a cost. Unlike more durable Druids, Shamans and Paladins, Priests wear cloth armor, offering them little protection from physical attacks. |
+
+While avoiding as much direct damage as possible is paramount to surviving as a Priest, they do have spells that make them capable of mitigating damage, like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_powerwordshield.gif) Power Word: Shield](https://www.wowhead.com/classic/spell=10901/power-word-shield), or buffing their damage and healing, like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_powerinfusion.gif) Power Infusion](https://www.wowhead.com/classic/spell=10060/power-infusion). Ultimately, a Priest's healing ability and utility make them one of the most popular and desirable healing classes in SoM.
+
+---
+
+Viability of Priest Healers in Classic Fresh
+--------------------------------------------
+
+The [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) is the quintessential healing class of WoW Classic — flexible in a wide array of situations with their ability to provide strong healing and an awful lot of utility. What's more, Priests offer two different flavors of healing, whether they stick with the more traditional Holy build for PvE encounters or choose to run a Discipline-heavy build for PvP situations. [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) healers are the backbone of many raid groups, with most guilds I've seen stacking them more heavily than other classes like Druids, Paladins, and Shamans. Other classes can provide better healing coverage in certain situations, but what makes the [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) so desirable is that they can offer strong support in nearly *every* situation.
+
+---
+
+Strengths of Healing Priests
+----------------------------
+
+#### * Flexible healing kit
+
+The [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) is a good all-around choice for both PvE and PvP healing situations. Their main strength lies in their wide range of abilities that cater to the task at hand. If you're a tank healer, you have several direct healing spells like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_flashheal.gif) Flash Heal](https://www.wowhead.com/classic/spell=10917/flash-heal), [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_heal02.gif) Heal](https://www.wowhead.com/classic/spell=6064/heal) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_greaterheal.gif) Greater Heal](https://www.wowhead.com/classic/spell=25314/greater-heal) to use. Priests also have the ability to mitigate some damage on tanks or group members with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_powerwordshield.gif) Power Word: Shield](https://www.wowhead.com/classic/spell=10901/power-word-shield), while [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_renew.gif) Renew](https://www.wowhead.com/classic/spell=25315/renew) offers a way to top up raid members through periodic healing ticks. Spells like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_prayerofhealing02.gif) Prayer of Healing](https://www.wowhead.com/classic/spell=25316/prayer-of-healing) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_holynova.gif) Holy Nova](https://www.wowhead.com/classic/spell=15237/holy-nova) (if talented) give the Priest the ability to heal multiple group members at once. They even have abilities like [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_enchant_essenceeternallarge.gif) Spirit of Redemption](https://www.wowhead.com/classic/spell=20711/spirit-of-redemption) that allow them to heal *after* they die for a short time. In short, there are few healing scenarios a Priest is ill-equipped to handle.
+
+#### * Strong buffs
+
+Regardless of what role a player fulfills, they always have one critical goal — don't die. The [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) can help there, by way of [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_wordfortitude.gif) Power Word: Fortitude](https://www.wowhead.com/classic/spell=1245/power-word-fortitude), a powerful Stamina buff. Having more health is always a good thing, and having a Fortitude buff can make the difference in a raid group, no matter the encounter. They can also help their fellow healers out with their talented [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_divinespirit.gif) Divine Spirit](https://www.wowhead.com/classic/spell=14752/divine-spirit) buff. Discipline Priests have [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_powerinfusion.gif) Power Infusion](https://www.wowhead.com/classic/spell=10060/power-infusion) to increase their healing power or help out one of their group members by increasing their healing or spell damage. While the Priest is relatively weak to physical attacks because of their low health and armor, they do have an [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_innerfire.gif) Inner Fire](https://www.wowhead.com/classic/spell=602/inner-fire) ability to bolster their armor temporarily.
+
+#### * Ability to counter other casters
+
+Because healing Priests are fairly robust in any given situation, they are high-value targets in PvP scenarios. Thankfully, the [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) does have some abilities to counter other casters. Priests can remove beneficial magic effects (like castable buffs) from enemy players or cure harmful magic effects cast on them or their allies using [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_dispelmagic.gif) Dispel Magic](https://www.wowhead.com/classic/spell=527/dispel-magic). They're also well-equipped to handle disease effects using [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_nullifydisease.gif) Cure Disease](https://www.wowhead.com/classic/spell=528/cure-disease) or [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_nullifydisease.gif) Abolish Disease](https://www.wowhead.com/classic/spell=552/abolish-disease). If that fails, Priests can hamper a caster's ability to fight by using [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_manaburn.gif) Mana Burn](https://www.wowhead.com/classic/spell=8131/mana-burn) to drain their mana, provided the Priest isn't interrupted in the process.
+
+---
+
+Weaknesses of Healing Priests
+-----------------------------
+
+#### * Vulnerable to physical damage
+
+Healing Priests, like other cloth-wearing casters, are especially fragile when it comes to physical damage. They have relatively low health pools and low armor, making them prime targets for high-damage melee classes. Priests are especially weak against classes like the [![Rogue](https://wow.zamimg.com/images/wow/icons/tiny/class_rogue.gif) Rogue](https://www.wowhead.com/classic/class=4/rogue), [![Druid](https://wow.zamimg.com/images/wow/icons/tiny/class_druid.gif) Druid](https://www.wowhead.com/classic/class=11/druid) and [![Hunter](https://wow.zamimg.com/images/wow/icons/tiny/class_hunter.gif) Hunter](https://www.wowhead.com/classic/class=3/hunter) with their inability to handle stuns, bleeds and poison effects (short of the [![Dwarf](https://wow.zamimg.com/images/wow/icons/tiny/race_dwarf_male.gif) Dwarf](https://www.wowhead.com/classic/race=3/dwarf)'s [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_unholystrength.gif) Stoneform](https://www.wowhead.com/classic/spell=20594/stoneform) ability).
+
+#### * Lack of mobility
+
+With a few exceptions like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_renew.gif) Renew](https://www.wowhead.com/classic/spell=25315/renew) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_powerwordshield.gif) Power Word: Shield](https://www.wowhead.com/classic/spell=10901/power-word-shield), Priests *must* remain still to successfully cast their healing spells. That's a notable problem in PvP situations where maneuverability is key. As such, they're typically better off sticking with a group or a partner who can help the [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) escape a tough situation. Even some PvE encounters that require a fair amount of movement, like [Onyxia](https://www.wowhead.com/classic/npc=10184/onyxia) or [Ossirian the Unscarred](https://www.wowhead.com/classic/npc=15339/ossirian-the-unscarred), can hamper the Priests ability to heal effectively.
+
+Best Races for PvE Holy Priests
+-------------------------------
+
+In total, there are *five* playable Priest races in WoW Classic — three Alliance and two Horde. Each race has two innate racial abilities which, depending on how you plan to play your character, can be an important part of character creation. Some races have more beneficial abilities in PvE encounters like dungeons and raids, while others are better suited to PvP environments.
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Race** | [Druid Druid](https://www.wowhead.com/classic/class=11/druid) | [Hunter Hunter](https://www.wowhead.com/classic/class=3/hunter) | [Mage Mage](https://www.wowhead.com/classic/class=8/mage) | [Paladin Paladin](https://www.wowhead.com/classic/class=2/paladin) | [Priest Priest](https://www.wowhead.com/classic/class=5/priest) | [Rogue Rogue](https://www.wowhead.com/classic/class=4/rogue) | [Shaman Shaman](https://www.wowhead.com/classic/class=7/shaman) | [Warlock Warlock](https://www.wowhead.com/classic/class=9/warlock) | [Warrior Warrior](https://www.wowhead.com/classic/class=1/warrior) |
+| [Dwarf Dwarf](https://www.wowhead.com/classic/race=3/dwarf) |  |  |  |  |  |  |  |  |  |
+| [Gnome Gnome](https://www.wowhead.com/classic/race=7/gnome) |  |  |  |  |  |  |  |  |  |
+| [Human Human](https://www.wowhead.com/classic/race=1/human) |  |  |  |  |  |  |  |  |  |
+| [Night Elf Night Elf](https://www.wowhead.com/classic/race=4/night-elf) |  |  |  |  |  |  |  |  |  |
+| [Orc Orc](https://www.wowhead.com/classic/race=2/orc) |  |  |  |  |  |  |  |  |  |
+| [Tauren Tauren](https://www.wowhead.com/classic/race=6/tauren) |  |  |  |  |  |  |  |  |  |
+| [Troll Troll](https://www.wowhead.com/classic/race=8/troll) |  |  |  |  |  |  |  |  |  |
+| [Undead Undead](https://www.wowhead.com/classic/race=5/undead) |  |  |  |  |  |  |  |  |  |
+
+### Priest Exclusive Racials
+
+In addition to their other utility, Priests have access to two extra spells depending on their race, which can greatly impact the decision as to which race to play. Both priest racials are learned from your race's capital city, one at level 10, and another at level 20, in addition to the regular racial abilities.
+
+|  |  |  |
+| --- | --- | --- |
+|  | **Level 10** | **Level 20** |
+| Dwarf | [Desperate Prayer](https://www.wowhead.com/classic/spell=19243/desperate-prayer) | [Fear Ward](https://www.wowhead.com/classic/spell=6346/fear-ward) |
+| Human | [Desperate Prayer](https://www.wowhead.com/classic/spell=19243/desperate-prayer) | [Feedback](https://www.wowhead.com/classic/spell=19275/feedback) |
+| Night Elf | [Starshards](https://www.wowhead.com/classic/spell=19305/starshards) | [Elune's Grace](https://www.wowhead.com/classic/spell=19293/elunes-grace) |
+| Troll | [Hex of Weakness](https://www.wowhead.com/classic/spell=25816/hex-of-weakness) | [Shadowguard](https://www.wowhead.com/classic/spell=19312/shadowguard) |
+| Undead | [Touch of Weakness](https://www.wowhead.com/classic/spell=19266/touch-of-weakness) | [Devouring Plague](https://www.wowhead.com/classic/spell=19280/devouring-plague) |
+
+### Best Race for Alliance Holy Priests
+
+Alliance players have *three* available races to choose from when creating a Priest: Humans, Dwarves, and Night Elves. Alliance Priests synergize well with Paladins, which offer useful buffs like the [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_magic_magearmor.gif) Blessing of Kings](https://www.wowhead.com/classic/spell=20217/blessing-of-kings). Paladins also help offset the Priest's natural weakness to physical abilities with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_devotionaura.gif) Devotion Aura](https://www.wowhead.com/classic/spell=10293/devotion-aura), bolster their fire resistance with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_sealoffire.gif) Fire Resistance Aura](https://www.wowhead.com/classic/spell=19900/fire-resistance-aura) or prevent an enemy from interrupting the Priest's spells with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_mindsooth.gif) Concentration Aura](https://www.wowhead.com/classic/spell=19746/concentration-aura).  
+  
+The [![Dwarf](https://wow.zamimg.com/images/wow/icons/tiny/race_dwarf_male.gif) Dwarf](https://www.wowhead.com/classic/race=3/dwarf) offers the most impactful choices when it comes to healing as a Priest on the Alliance side. Although [![Human](https://wow.zamimg.com/images/wow/icons/tiny/race_human_male.gif) Human](https://www.wowhead.com/classic/race=1/human)s may offer unique benefits in PvE situations, choosing a [![Dwarf](https://wow.zamimg.com/images/wow/icons/tiny/race_dwarf_male.gif) Dwarf](https://www.wowhead.com/classic/race=3/dwarf) crucially adds to the Priest's survival kit. Dwarves are the *only* race in SoM that gets [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_excorcism.gif) Fear Ward](https://www.wowhead.com/classic/spell=6346/fear-ward), an exceptionally useful spell in both PvP and PvE situations. Especially with the new SoM encounter changes, Dwarf is by far the safest alliance pick. Apart from that, they also get [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_restoration.gif) Desperate Prayer](https://www.wowhead.com/classic/spell=19243/desperate-prayer) and their [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_unholystrength.gif) Stoneform](https://www.wowhead.com/classic/spell=20594/stoneform) abilities.
+
+#### [Human Human](https://www.wowhead.com/classic/race=1/human) Priest
+
+Humans are usually one of the most robust races in any RPG, and that is the case in WoW Classic as well. They have the most rounded stats of any race in the game, making them a good all-around choice for any class, let alone a Priest. If you aim to play as a healer, however, you do get some benefits by way of your racial abilities. [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_enchant_shardbrilliantsmall.gif) The Human Spirit](https://www.wowhead.com/classic/spell=20598/the-human-spirit) passively increases your Spirit stat by 5%, which increases your mana regeneration — a critical component to a healer's longevity in a PvE fight. However, Spirit is *less useful* in PvP situations, in which the Priest will likely have to cast often, mitigating much of this racial ability's usefulness.  
+  
+In PvP, Humans are a decent choice, if perhaps not the best. Like Dwarves, [![Human](https://wow.zamimg.com/images/wow/icons/tiny/race_human_male.gif) Human](https://www.wowhead.com/classic/race=1/human)s do have the [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_restoration.gif) Desperate Prayer](https://www.wowhead.com/classic/spell=19243/desperate-prayer) ability, which offers a quick and powerful self-heal on a long cooldown. Their [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_sleep.gif) Perception](https://www.wowhead.com/classic/spell=20600/perception) racial ability offers an on-demand boost to the Priest's stealth detection. This can be a useful tool in certain situations where attacks from stealth characters like Rogues and Druids are frequent, such as flag capture points in Warsong Gulch or Arathi Basin.  
+  
+Humans also get [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_note_02.gif) Diplomacy](https://www.wowhead.com/classic/spell=20599/diplomacy), which offers a faster way to tackle reputation-based goals and acquire gear from in-game factions. [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_hammer_05.gif) Mace Specialization](https://www.wowhead.com/classic/spell=20864/mace-specialization) and [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_meleedamage.gif) Sword Specialization](https://www.wowhead.com/classic/spell=20597/sword-specialization) are aimed more at melee-focused DPS classes and have no effect on a Priest's ability to function in most conditions.
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_note_02.gif) Diplomacy](https://www.wowhead.com/classic/spell=20599/diplomacy): Reputation gains increased by 10%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_hammer_05.gif) Mace Specialization](https://www.wowhead.com/classic/spell=20864/mace-specialization): Skill with Maces and Two-Handed Maces increased by 5.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_sleep.gif) Perception](https://www.wowhead.com/classic/spell=20600/perception): Dramatically increases stealth detection for 20 sec.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_meleedamage.gif) Sword Specialization](https://www.wowhead.com/classic/spell=20597/sword-specialization): Skill with Swords and Two-Handed Swords increased by 5.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_enchant_shardbrilliantsmall.gif) The Human Spirit](https://www.wowhead.com/classic/spell=20598/the-human-spirit): Spirit increased by 5%.
+
+#### [Dwarf Dwarf](https://www.wowhead.com/classic/race=3/dwarf) Priest
+
+Dwarven Priests are excellent PvP healers, as they are heartier than all other races by way of their high initial Stamina. Dwarves also have the [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_unholystrength.gif) Stoneform](https://www.wowhead.com/classic/spell=20594/stoneform) ability, which offers a substantial 10% armor buff. Apart from mitigating more physical damage, Stoneform also grants immunity to Bleed, Poison and Disease effects, mitigating effects from most physical DPS classes like Rogues, Druids, and Hunters. The ability also lets you break out of a [![Rogue](https://wow.zamimg.com/images/wow/icons/tiny/class_rogue.gif) Rogue](https://www.wowhead.com/classic/class=4/rogue)'s [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_mindsteal.gif) Blind](https://www.wowhead.com/classic/spell=2094/blind), which allows the Priest a chance to escape or snap off a quick, potentially life-saving heal like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_restoration.gif) Desperate Prayer](https://www.wowhead.com/classic/spell=19243/desperate-prayer). Dwarf is by far the best priest race for PvE content.  
+  
+Due to Dwarves having access to [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_excorcism.gif) Fear Ward](https://www.wowhead.com/classic/spell=6346/fear-ward), they are by far the best alliance priest race as the spell is useful for plenty of PvE encounters, as well as PvP battles, and might even become more relevant with the new encounter changes.  
+  
+[![](https://wow.zamimg.com/images/wow/icons/tiny/spell_frost_wizardmark.gif) Frost Resistance](https://www.wowhead.com/classic/spell=20596/frost-resistance) is situationally useful in PvP against the likes of Frost Mages, but is typically of little use in PvE situations until Phase 6. Other racial abilities include [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_dwarf_findtreasure.gif) Find Treasure](https://www.wowhead.com/classic/spell=2481/find-treasure), which offers no healing benefit, and [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_musket_03.gif) Gun Specialization](https://www.wowhead.com/classic/spell=20595/gun-specialization), which is only useful to Hunters.
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_dwarf_findtreasure.gif) Find Treasure](https://www.wowhead.com/classic/spell=2481/find-treasure): Allows the dwarf to sense nearby treasure, making it appear on the minimap
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_frost_wizardmark.gif) Frost Resistance](https://www.wowhead.com/classic/spell=20596/frost-resistance): Increases Frost Resistance by 10.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_musket_03.gif) Gun Specialization](https://www.wowhead.com/classic/spell=20595/gun-specialization): Guns skill increased by 5.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_unholystrength.gif) Stoneform](https://www.wowhead.com/classic/spell=20594/stoneform): While active, grants immunity to Bleed, Poison, and Disease effects. In addition, Armor increased by 10%. Lasts 8 sec.
+
+#### [Night Elf Night Elf](https://www.wowhead.com/classic/race=4/night-elf) Priest
+
+While Humans and Dwarves offer racial abilities that are widely useful, Night Elves racial abilities are situationally useful, at best. [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_ambush.gif) Shadowmeld](https://www.wowhead.com/classic/spell=20580/shadowmeld), for example, only allows the Priest to remain 'stealthed' as long as they don't move or cast any spells. It can be a good ability for supporting an ambush in PvP situations but offers little benefit in PvE. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_spiritarmor.gif) Nature Resistance](https://www.wowhead.com/classic/spell=20583/nature-resistance) can help a little bit against Rogues poisons and Hunter stings in PvP, as well as certain dungeon or raid encounters.   
+  
+Night Elf Priests get one offensive ability, [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_arcane_starfire.gif) Starshards](https://www.wowhead.com/classic/spell=19305/starshards), and one defensive ability, [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_elunesgrace.gif) Elune's Grace](https://www.wowhead.com/classic/spell=19293/elunes-grace). Starshards costs mana and requires channeling, taking away from the time the Priest should likely spend healing. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_holy_elunesgrace.gif) Elune's Grace](https://www.wowhead.com/classic/spell=19293/elunes-grace) is only useful in certain PvP situations, as they should rarely be targeted at all by ranged abilities in dungeons or raids. The Night Elfs other racials, [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_racial_shadowmeld.gif) Quickness](https://www.wowhead.com/classic/spell=20582/quickness) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_wispsplode.gif) Wisp Spirit](https://www.wowhead.com/classic/spell=20585/wisp-spirit), don't offer much benefit to the Priests mechanics. Quickness only helps if you risk taking physical damage — which hopefully won't happen. Failing that, Wisp Spirit only helps after you're dead (again, hopefully, that won't happen). Night Elves do have a neat flipping jump animation, so they are a good choice from a cosmetic perspective!
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_spiritarmor.gif) Nature Resistance](https://www.wowhead.com/classic/spell=20583/nature-resistance): Nature Resistance increased by 10.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_wispsplode.gif) Wisp Spirit](https://www.wowhead.com/classic/spell=20585/wisp-spirit): Transform into a wisp upon death, increasing movement speed by 50%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_racial_shadowmeld.gif) Quickness](https://www.wowhead.com/classic/spell=20582/quickness): Dodge chance increased by 1%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_ambush.gif) Shadowmeld](https://www.wowhead.com/classic/spell=20580/shadowmeld): Activate to slip into the shadows, reducing the chance for enemies to detect your presence. Lasts until cancelled or upon moving. Night Elf Rogues and Druids with Shadowmeld are more difficult to detect while stealthed or prowling.
+
+---
+
+### Best Race for Horde Holy Priests
+
+Horde players only have *two* race options for Priests: Undead or Troll. Unlike some Alliance races, neither of these two offer direct healing racial abilities. However, Trolls do have a [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking) ability, which allows faster casting (with a twist). Undead [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest)s, on the other hand, offer better racial abilities if you plan on going Shadow and filling a DPS role with spells like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_blackplague.gif) Devouring Plague](https://www.wowhead.com/classic/spell=19280/devouring-plague), rather than healing.  
+  
+The [![Troll](https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif) Troll](https://www.wowhead.com/classic/race=8/troll) offers a healing [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) more effective utility, although neither available Horde race has [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest)-specific abilities that offer a massive advantage over the other in all situations. Since Trolls can use [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking) to their advantage for short periods and have more passive survivability by way of [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_regenerate.gif) Regeneration](https://www.wowhead.com/classic/spell=20555/regeneration), they are a slightly better option for healing.
+
+#### [Undead Undead](https://www.wowhead.com/classic/race=5/undead) Priest
+
+The Undead, otherwise known as 'the Forsaken' have a more unique flavor than some of the other races in the game, given their creation myth. They also have the highest initial Spirit in the game, which marginally helps their longevity as healers in PvP encounters. However, the rest of their racial abilities do little to stand out from that of their [![Troll](https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif) Troll](https://www.wowhead.com/classic/race=8/troll) counterparts. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_raisedead.gif) Will of the Forsaken](https://www.wowhead.com/classic/spell=7744/will-of-the-forsaken) is a situationally useful ability in both PvE and PvP situations, offering a counter to Charm, Fear and Sleep on a relatively short 2-minute cooldown.  
+  
+However, every other [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) racial ability carries little use as a healer. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_detectinvisibility.gif) Shadow Resistance](https://www.wowhead.com/classic/spell=20579/shadow-resistance) gives a passive benefit in certain situations, such as countering Warlocks in PvP. [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_racial_cannibalize.gif) Cannibalize](https://www.wowhead.com/classic/spell=20577/cannibalize) is useful if you need to conserve mana, but most situations in which you can actually use it regularly also allow you the opportunity to recover health and mana through consumables. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_deadofnight.gif) Touch of Weakness](https://www.wowhead.com/classic/spell=19266/touch-of-weakness) is only useful in PvP situations, and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_blackplague.gif) Devouring Plague](https://www.wowhead.com/classic/spell=19280/devouring-plague) offers a slight DPS increase in raiding situations, but at a substantial mana cost, and as such is only useful for Shadow [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest)s.
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_racial_cannibalize.gif) Cannibalize](https://www.wowhead.com/classic/spell=20577/cannibalize): When activated, regenerates 7% of total health every 2 sec for 10 sec. Only works on Humanoid or Undead corpses within 5 yds. Any movement, action, or damage taken while Cannibalizing will cancel the effect.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_detectinvisibility.gif) Shadow Resistance](https://www.wowhead.com/classic/spell=20579/shadow-resistance): Shadow Resistance increased by 10.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_demonbreath.gif) Underwater Breathing](https://www.wowhead.com/classic/spell=5227/underwater-breathing): Underwater breath lasts 300% longer than normal.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_raisedead.gif) Will of the Forsaken](https://www.wowhead.com/classic/spell=7744/will-of-the-forsaken): Provides immunity to Charm, Fear and Sleep while active. May also be used while already afflicted by Charm, Fear or Sleep. Lasts 5 sec.
+
+#### [Troll Troll](https://www.wowhead.com/classic/race=8/troll) Priest
+
+Trolls offer two robust racial abilities for [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest)s over the Undead. First, there is [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking), which adds a 10 to 30% casting speed buff. The twist here is that the faster speed is tied to *how hurt you are* when you cast the spell. If you have lower health, you gain more speed and vice versa. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_regenerate.gif) Regeneration](https://www.wowhead.com/classic/spell=20555/regeneration) also increases a [![Troll](https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif) Troll](https://www.wowhead.com/classic/race=8/troll) [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest)'s survivability in both PvE and PvP encounters, as it's one of the few ways players can passively regenerate health in combat.   
+  
+[![Troll](https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif) Troll](https://www.wowhead.com/classic/race=8/troll)s unique [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) abilities also add to their utility in certain situations. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_fingerofdeath.gif) Hex of Weakness](https://www.wowhead.com/classic/spell=25816/hex-of-weakness) lets the Priest weaken the target, which is useful against dungeon and raid enemies as well as other players. [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_lightningshield.gif) Shadowguard](https://www.wowhead.com/classic/spell=19312/shadowguard) offers no damage mitigation, but it does allow the Priest to score a bit of damage should they be hit by an ability.
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_pelt_bear_ruin_02.gif) Beast Slaying](https://www.wowhead.com/classic/spell=20557/beast-slaying): Damage dealt versus Beasts increased by 5%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking): Increases your casting and attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 10 sec.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_bow_12.gif) Bow Specialization](https://www.wowhead.com/classic/spell=26290/bow-specialization): Skill with Bow Weapons increased by 5.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_regenerate.gif) Regeneration](https://www.wowhead.com/classic/spell=20555/regeneration): Health regeneration rate increased by 10%. 10% of total Health regeneration may continue during combat.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_throwingaxe_03.gif) Throwing Specialization](https://www.wowhead.com/classic/spell=20558/throwing-specialization): Skill with Throwing Weapons increased by 5.
+
+---
+
+Priest Healer Specializations
+-----------------------------
+
+Priests are one of the most versatile and sought after casters, widely regarded as the premier healer, and one of the most formidable PvP classes.   
+  
+There are three specialization talent trees for SoM Priests: Discipline and Holy are healing-focused, while Shadow is DPS-focused.  
+  
+ **Discipline:** Uses magic to buff their allies as well as heal their wounds.
+
+* [The Power Infusion build](https://www.wowhead.com/classic/guide/classes/priest/healer-talent-builds-pve#power-infusion-31-20-0-priest-talent-build) focuses more on boosting raid performance at the expense of some of the Priest's own healing power, placing Power Infusion on their highest DPS ally. This is the most common PVE healing build.
+
+ **Holy:** A versatile healer who can reverse damage on individuals or groups and even heal from beyond the grave.
+
+* [Deep Holy builds](https://www.wowhead.com/classic/guide/classes/priest/healer-talent-builds-pve#deep-holy-21-30-0-priest-talent-build) are less common healing specializations, which have a few additional talents for both extra throughput and mana efficiency.
+
+ **Shadow:** Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.
+
+* [Shadow DPS builds](https://www.wowhead.com/classic/guide/classes/priest/shadow/dps-talent-builds-pve#shadow-pve-raiding) enable the Priests DPS playstyle, which can be very strong, but is also extremely mana and threat intensive, which can be severely limiting in PvE encounters. Despite this, Shadow Priest are the only dps spec capable of debuffing enemies with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_blackplague.gif) Shadow Weaving](https://www.wowhead.com/classic/spell=15334/shadow-weaving), which can be useful if you are raiding with enough [![Warlock](https://wow.zamimg.com/images/wow/icons/tiny/class_warlock.gif) Warlock](https://www.wowhead.com/classic/class=9/warlock)s, unless you have a healer willing to opt for the [Tri-spec Weaving build](https://www.wowhead.com/classic/guide/classes/priest/healer-talent-builds-pve#tri-spec-weaving-14-17-20-priest-talent-build). In PvP, Shadow Priests are extremely formidable, largely due to the wide array of offensive and defensive utility.
+
+### Best Spec for Classic Priest Healers
+
+Both regular healing specializations are perfectly viable, even during progression. You can choose between the additional throughput and sustain of Deep Holy and the slight DPS boost of Power Infusion, depending on what you think provides more value to your raid. Other than the standard builds, the [Tri-spec Weaving build](https://www.wowhead.com/classic/guide/classes/priest/healer-talent-builds-pve#tri-spec-weaving-14-17-20-priest-talent-build) can also be very useful in raids with many warlocks.  
+  
+Viable end-game PvE builds are covered in our [Classic Priest Healer Talents & Builds Guide](https://www.wowhead.com/classic/guide/classes/priest/healer-talent-builds-pve).
+
+---
+
+Best Professions for Holy Priests
+---------------------------------
+
+Professions are an essential part of WoW Classic, as they allow the player to benefit from craftable gear and consumable items to enhance their capability and gameplay experience. Depending on whether you plan to partake in a PvP environment or join your close friends in a PvE encounter like a dungeon or raid, some professions will cater to your needs better than others. Priests, in particular, can make use of the [![Tailoring](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Tailoring](https://www.wowhead.com/classic/skill=197/tailoring) profession, while [![Enchanting](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Enchanting](https://www.wowhead.com/classic/skill=333/enchanting) and [![Alchemy](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Alchemy](https://www.wowhead.com/classic/skill=171/alchemy) also offer their perks. [![Engineering](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Engineering](https://www.wowhead.com/classic/skill=202/engineering) is one profession every [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) may want to consider for some added utility in both PvP and PvE. Check out more about all the crafting professions in our   
+[Classic WoW Professions Overview](https://www.wowhead.com/classic/guide/professions-overview-wow-classic)!
+
+### [Tailoring](https://www.wowhead.com/classic/guide/tailoring-leveling-1-300-wow-classic)
+
+Priests healing in PvE content should strongly consider taking up [![Tailoring](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Tailoring](https://www.wowhead.com/classic/skill=197/tailoring) as their first primary profession. The skill allows players to use cloth materials like [![Runecloth](https://wow.zamimg.com/images/wow/icons/tiny/inv_fabric_purplefire_01.gif) Runecloth](https://www.wowhead.com/classic/item=14047/runecloth) along with other gatherable materials to create early progression gear like [![Truefaith Vestments](https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_cloth_31.gif) Truefaith Vestments](https://www.wowhead.com/classic/item=14154/truefaith-vestments). Tailors can also craft hugely useful resistance gear like [![Flarecore Gloves](https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_26.gif) Flarecore Gloves](https://www.wowhead.com/classic/item=16979/flarecore-gloves), which offers much greater survivability in raid encounters where bosses deal certain kinds of elemental damage, like [Molten Core](https://www.wowhead.com/classic/zone=2717/molten-core).  
+  
+Bag space is at a premium in Classic, and everyone could use more of it. Helpfully, [![Tailoring](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Tailoring](https://www.wowhead.com/classic/skill=197/tailoring) comes in handy there as well, as it allows players to craft a variety of bags from the common [![Runecloth Bag](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bag_19.gif) Runecloth Bag](https://www.wowhead.com/classic/item=14046/runecloth-bag) to the rarer and larger [![Bottomless Bag](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bag_13.gif) Bottomless Bag](https://www.wowhead.com/classic/item=14156/bottomless-bag). Tailors can even craft profession-specific bags like the [![Big Bag of Enchantment](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bag_bigbagofenchantments.gif) Big Bag of Enchantment](https://www.wowhead.com/classic/item=22249/big-bag-of-enchantment) that offer much more storage space for crafting materials.
+
+### [Engineering](https://www.wowhead.com/classic/guide/engineering-leveling-1-300-wow-classic)
+
+Being an engineer may not be the most obvious choice as a healing [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest), but it's the only profession other than tailoring which is directly beneficial for raiding. [![Engineering](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Engineering](https://www.wowhead.com/classic/skill=202/engineering) allows Priests to craft explosive items like [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_selfdestruct.gif) Goblin Sapper Charge](https://www.wowhead.com/classic/spell=12760/goblin-sapper-charge) and [![Dense Dynamite](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bomb_06.gif) Dense Dynamite](https://www.wowhead.com/classic/item=18641/dense-dynamite) which are incredible for dealing some damage in raids. In PvE situations like endgame raids, players will be able to craft items like the [![Field Repair Bot 74A](https://wow.zamimg.com/images/wow/icons/tiny/inv_egg_05.gif) Field Repair Bot 74A](https://www.wowhead.com/classic/item=18232/field-repair-bot-74a) to help their guildmates out by allowing them to repair without returning to town, which saves precious time in progression content. Apart from that, engineering also grants you access to other useful gadgets like the [![Dimensional Ripper - Everlook](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_enggizmos_07.gif) Dimensional Ripper - Everlook](https://www.wowhead.com/classic/item=18984/dimensional-ripper-everlook), the [![Ultrasafe Transporter: Gadgetzan](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_enggizmos_12.gif) Ultrasafe Transporter: Gadgetzan](https://www.wowhead.com/classic/item=18986/ultrasafe-transporter-gadgetzan) or the [![Goblin Rocket Helmet](https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_49.gif) Goblin Rocket Helmet](https://www.wowhead.com/classic/item=10588/goblin-rocket-helmet).  
+  
+Just like with [![Alchemy](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Alchemy](https://www.wowhead.com/classic/skill=171/alchemy), [![Engineering](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Engineering](https://www.wowhead.com/classic/skill=202/engineering) typically makes more sense if you pair it with a gathering profession — in this case [![Mining](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Mining](https://www.wowhead.com/classic/skill=186/mining). That way, you can gather the materials players need to craft their various gadgets, explosives, and trinkets. If you are solely engaged in PvE content, the other viable professions may make more sense to further your career as a healing [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest). If you're looking for something a bit different, though, [![Engineering](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Engineering](https://www.wowhead.com/classic/skill=202/engineering) has some unique tools that help you go the extra mile in *either* PvE or PvP scenarios.
+
+### [Enchanting](https://www.wowhead.com/classic/guide/enchanting-leveling-1-300-wow-classic)
+
+Most [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) players take [![Enchanting](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Enchanting](https://www.wowhead.com/classic/skill=333/enchanting) hand in hand with [![Tailoring](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Tailoring](https://www.wowhead.com/classic/skill=197/tailoring). Whether you decide to heal primarily in PvE or PvP content, enchanters are able to enhance several gear slots in WoW Classic, giving this profession an edge over the others. This profession is hugely useful while leveling, as you can use inexpensive, commonly available materials like dusts ([![Illusion Dust](https://wow.zamimg.com/images/wow/icons/tiny/inv_enchant_dustillusion.gif) Illusion Dust](https://www.wowhead.com/classic/item=16204/illusion-dust), for example) and essences (like [![Greater Eternal Essence](https://wow.zamimg.com/images/wow/icons/tiny/inv_enchant_essenceeternallarge.gif) Greater Eternal Essence](https://www.wowhead.com/classic/item=16203/greater-eternal-essence)) to augment your gear. Even better, taking [![Tailoring](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Tailoring](https://www.wowhead.com/classic/skill=197/tailoring) and [![Enchanting](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Enchanting](https://www.wowhead.com/classic/skill=333/enchanting) together makes the [![Priest](https://wow.zamimg.com/images/wow/icons/tiny/class_priest.gif) Priest](https://www.wowhead.com/classic/class=5/priest) self-sufficient when it comes to crafting and enhancing their gear, which can be expensive if you decide to go through the auction house instead.
+
+### [Alchemy](https://www.wowhead.com/classic/guide/alchemy-leveling-1-300-wow-classic)
+
+Consumables are a massive part of the WoW experience, especially as it comes to raiding. From simple mana potions that restore vital mana points at crucial moments to elixirs and flasks that enhance your characters stats, [![Alchemy](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Alchemy](https://www.wowhead.com/classic/skill=171/alchemy) may be a worthwhile profession to consider. If you do plan on raiding, your guild may also require you to bring all the necessary consumables, and it's always helpful if you can source them yourself. However, be advised that this profession goes best with [![Herbalism](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Herbalism](https://www.wowhead.com/classic/skill=182/herbalism), so you can pick all the herbs you need to craft your potions, elixirs, and flasks.
+
+---
+
+Priest Class Resource - Mana
+----------------------------
+
+As with other healing classes, Priests rely on mana to power almost every ability in their arsenal. Unlike rage or energy, mana does increase with level, giving the Priest a larger pool from which they can cast their spells. Intellect also increases the Priests available mana pool, while Spirit increases the Priests mana regeneration rate, faster replenishing their total mana.  
+  
+In Classic, all mana-based characters passively regenerate points in 2-second periods, called "ticks." The amount of mana gained per tick will vary depending on the amount of Spirit derived from racial stats, gear, and buffs. However, casting any spell which costs mana will temporarily *suspend* Spirit-based mana regeneration for five seconds, during a time which the character's regeneration is "interrupted." This is referred to as the "five-second rule."   
+  
+Some abilities, talents and set bonuses bypass the five-second rule, allowing mana regeneration to continue and increase the rate at which it recovers, for example [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_sleep.gif) Meditation](https://www.wowhead.com/classic/spell=14777/meditation), [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_lightning.gif) Innervate](https://www.wowhead.com/classic/spell=29166/innervate) and the [Vestments of Transcendence](https://www.wowhead.com/classic/item-set=211/vestments-of-transcendence) 3p bonus. The mp5 stat as well as certain items also allow direct mana regeneration, like mana potions or the [![Second Wind](https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_talisman_06.gif) Second Wind](https://www.wowhead.com/classic/item=11819/second-wind) trinket, meaning the amount of mana you gain is not affected by the five-second rule.
+
+
+
+
+---
+
+[Next Page:  
+Beginner's Guide](https://www.wowhead.com/classic/priest-healing-beginners-guide-classic-wow)
+
+  
+  
+  
+
+---
+
+Feedback
+--------
+
+Thanks for reading our class guides! If you have any feedback about the guides, feel free to leave a comment in the section below and we will reply as quickly as possible. If you'd like to talk with any of our writers directly you can do so by joining our [Discord Server](http://discord.gg/wowhead) and finding them there!  

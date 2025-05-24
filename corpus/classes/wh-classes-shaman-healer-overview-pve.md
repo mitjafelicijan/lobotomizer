@@ -1,0 +1,175 @@
+# Shaman Healing Guide – WoW Classic
+
+  
+Welcome to Wowhead's Healing Shaman Class Guide, updated for WoW Classic! This guide will help you to improve as a Healing Shaman in all aspects of the game, improving your knowledge to face the hardest Dungeons and Raids from WoW Classic.  
+  
+Throughout this guide, we will cover many different aspects to increase your Shaman expertise, including concepts like Shaman talents and talents builds, Shaman BiS gear choices, Shaman stat priorities, Shaman consumables and enchants, among many other aspects of your class and specialization. Make sure to navigate to other pages of the guide to find more in-depth information, as each works as a knowledge hub for their subject.  
+  
+Our Shaman guides are always updated with the latest information from in-game experience, theorycrafting, and logs; make sure to check our changelog to this page, by clicking on **View Changelog** at the top of the page. If you are interested in more in-depth Shaman guides for WoW Classic, make sure to browse the *Navigation Bar* below, and our list of **Related Guides** just beneath the *Table of Contents*.
+
+[Overview](https://www.wowhead.com/classic/guides/shaman-healing-classic-wow)[Leveling (1-60)](https://www.wowhead.com/classic/guides/shaman-leveling-classic-wow)[Beginners](https://www.wowhead.com/classic/shaman-healing-beginners-guide-classic-wow)[Talents & Builds](https://www.wowhead.com/classic/guides/shaman-healing-talents-builds-classic-wow)[P2 BiS Gear](https://www.wowhead.com/classic/guide/wow-classic-shaman-healer-molten-core-phase-2-best-in-slot-gear)[P3 BiS Gear](https://www.wowhead.com/classic/guide/wow-classic-shaman-healing-blackwing-lair-best-in-slot-gear)[Rotation & Abilities](https://www.wowhead.com/classic/guides/shaman-healing-rotation-abilities-classic-wow)[Stats](https://www.wowhead.com/classic/guides/shaman-healing-stat-priority-classic-wow)[Enchants](https://www.wowhead.com/classic/guides/shaman-healing-enchants-classic-wow)[Consumables](https://www.wowhead.com/classic/guides/shaman-healing-consumables-classic-wow)
+
+*Shamans are the spiritual advisors of the Horde. The shaman is a versatile and flexible class that fulfills many roles in an adventuring party. While other classes are pure fighters or spellcasters, the shaman enjoys a happy medium in-between. The shaman is an effective spellcaster, but can also fight extremely well with mace and staff.* - World of Warcraft Game Manual, 2004
+
+|  |  |
+| --- | --- |
+|  | Shamans in WoW Classic are all about Totems. A Totem is a stationary, generally one-shottable due to very low health, independent object in the game world, which is placed by the shaman in exchange for Mana and a global cooldown. There are many Totems available to Shamans, and each has a unique, often niche, ability. You can have one Totem of each element placed at once - Water (such as  [Healing Stream Totem](https://www.wowhead.com/classic/spell=10463/healing-stream-totem)), Earth (such as  [Strength of Earth Totem](https://www.wowhead.com/classic/spell=25361/strength-of-earth-totem)), Air (such as  [Windfury Totem](https://www.wowhead.com/classic/spell=10614/windfury-totem)) and Fire (such as  [Searing Totem](https://www.wowhead.com/classic/spell=10438/searing-totem)). Besides Totems, Shamans also have the best area of effect heal in the game,  [Chain Heal](https://www.wowhead.com/classic/spell=10623/chain-heal), and can also single target heal when needed with  [Healing Wave](https://www.wowhead.com/classic/spell=25357/healing-wave) and  [Lesser Healing Wave](https://www.wowhead.com/classic/spell=10468/lesser-healing-wave). |
+
+---
+
+Viability of Restoration Shaman Healers in WoW Classic PvE Content
+------------------------------------------------------------------
+
+[![Shaman](https://wow.zamimg.com/images/wow/icons/tiny/class_shaman.gif) Shaman](https://www.wowhead.com/classic/class=7/shaman) is Horde's best support buddy in PvE, bringing everything from healing to massive damage increases. This makes it extremely desired in groups, and especially so in raids, where area of effect healing is very valuable, and one Shaman per group is recommended, as totems only benefit the Shaman's group in Wow Classic. In PvP, Shamans are a jack of all trades, bringing crowd control, healing, increased damage, disruption, and even suitable flag carrying capabilities whenever the need for them arises.
+
+---
+
+Strengths of Classic Restoration Shaman Healers
+-----------------------------------------------
+
+#### * Unrivaled support class for Horde
+
+Shamans are one of the most desired party members in WoW Classic, as they bring healing ([![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavegreater.gif) Chain Heal](https://www.wowhead.com/classic/spell=10623/chain-heal), [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_spear_04.gif) Healing Stream Totem](https://www.wowhead.com/classic/spell=10463/healing-stream-totem) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_magicimmunity.gif) Healing Wave](https://www.wowhead.com/classic/spell=25357/healing-wave)), vastly increased damage for all kinds of groups ([![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_brilliance.gif) Tranquil Air Totem](https://www.wowhead.com/classic/spell=25908/tranquil-air-totem), [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_windfury.gif) Windfury Totem](https://www.wowhead.com/classic/spell=10614/windfury-totem) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_earthbindtotem.gif) Strength of Earth Totem](https://www.wowhead.com/classic/spell=25361/strength-of-earth-totem)) and unrivaled utility for the group ([![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_tremortotem.gif) Tremor Totem](https://www.wowhead.com/classic/spell=8143/tremor-totem), [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_poisoncleansingtotem.gif) Poison Cleansing Totem](https://www.wowhead.com/classic/spell=8166/poison-cleansing-totem) and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fireresistancetotem_01.gif) Fire Resistance Totem](https://www.wowhead.com/classic/spell=10538/fire-resistance-totem)). Also, when you screw up, [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_reincarnation.gif) Reincarnation](https://www.wowhead.com/classic/spell=20608/reincarnation) is there to give you a second chance.
+
+#### * Top notch (area of effect) healing
+
+Shamans are one of the strongest healers in the Horde, beating Priests and Druids in area of effect healing with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavegreater.gif) Chain Heal](https://www.wowhead.com/classic/spell=10623/chain-heal), but losing to Priests in sustained single target healing. A Shaman can still easily save a tank instantly through the use of [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_ravenform.gif) Nature's Swiftness](https://www.wowhead.com/classic/spell=16188/natures-swiftness) combined with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_magicimmunity.gif) Healing Wave](https://www.wowhead.com/classic/spell=25357/healing-wave), which should come in handy often.
+
+#### * Best utility in PvP
+
+With quick heals such as [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavelesser.gif) Lesser Healing Wave](https://www.wowhead.com/classic/spell=10468/lesser-healing-wave), the shortest cooldown ranged interrupt in game, [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_earthshock.gif) Earth Shock](https://www.wowhead.com/classic/spell=10414/earth-shock), which also deals significant damage, an offensive dispel in [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_purge.gif) Purge](https://www.wowhead.com/classic/spell=8012/purge), the in-combat speed increase of [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_spiritwolf.gif) Ghost Wolf](https://www.wowhead.com/classic/spell=2645/ghost-wolf) and plenty of PvP-oriented totemic utility in [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_strengthofearthtotem02.gif) Earthbind Totem](https://www.wowhead.com/classic/spell=2484/earthbind-totem), [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_groundingtotem.gif) Grounding Totem](https://www.wowhead.com/classic/spell=8177/grounding-totem) and the ubiquitous [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_windfury.gif) Windfury Totem](https://www.wowhead.com/classic/spell=10614/windfury-totem), a melee player's best friend.
+
+---
+
+Weaknesses of Classic Restoration Shaman Healers
+------------------------------------------------
+
+#### * Mana Problems
+
+Mana is the bane of a Shaman in Wow Classic. While powerful, most of your abilities cost quite a bit of Mana, and your regeneration abilities as a Shaman are pathetic since they do not possess talents that allow Mana regeneration to continue during combat. While you can somewhat offset this weakness with Mana consumables, [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_frost_summonwaterelemental.gif) Mana Tide Totem](https://www.wowhead.com/classic/spell=17359/mana-tide-totem), Mana per 5-second gear and rank 1 [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavegreater.gif) Chain Heal](https://www.wowhead.com/classic/spell=1064/chain-heal), it will never stop being a problem whenever fights are long.
+
+#### * Low Sustained Damage
+
+Much due to the point above, Shaman's Mana issues lead them to have low sustained damage over a long period, especially when compared with classes such as Rogues and Warriors whose resources regenerate constantly. This forces frequent drinking while leveling/soloing, and heavy Mana consumable usage in raids. It also leads most Shamans to live a healer's life when grouped up.
+
+#### * Pigeonholed into Healing
+
+Since healers are few and far between in WoW Classic, and Shaman's great capabilities for healing, you will be asked to heal in almost every single group you join. This might not be for everyone, and if you wish to lead a different role, we would advise you to create your own groups and/or bring something unique to the group, such as [![Nightfall](https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_12.gif) Nightfall](https://www.wowhead.com/classic/item=19169/nightfall) and its unique debuff, justifying your spot.
+
+Best Races for PvE WoW Classic Restoration Shaman Healers
+---------------------------------------------------------
+
+Only Horde players can be Shaman in Classic WoW: [![Orc](https://wow.zamimg.com/images/wow/icons/tiny/race_orc_male.gif) Orc](https://www.wowhead.com/classic/race=2/orc), [![Troll](https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif) Troll](https://www.wowhead.com/classic/race=8/troll), [![Tauren](https://wow.zamimg.com/images/wow/icons/tiny/race_tauren_male.gif) Tauren](https://www.wowhead.com/classic/race=6/tauren).
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Race** | [Druid Druid](https://www.wowhead.com/classic/class=11/druid) | [Hunter Hunter](https://www.wowhead.com/classic/class=3/hunter) | [Mage Mage](https://www.wowhead.com/classic/class=8/mage) | [Paladin Paladin](https://www.wowhead.com/classic/class=2/paladin) | [Priest Priest](https://www.wowhead.com/classic/class=5/priest) | [Rogue Rogue](https://www.wowhead.com/classic/class=4/rogue) | [Shaman Shaman](https://www.wowhead.com/classic/class=7/shaman) | [Warlock Warlock](https://www.wowhead.com/classic/class=9/warlock) | [Warrior Warrior](https://www.wowhead.com/classic/class=1/warrior) |
+| [Dwarf Dwarf](https://www.wowhead.com/classic/race=3/dwarf) |  |  |  |  |  |  |  |  |  |
+| [Gnome Gnome](https://www.wowhead.com/classic/race=7/gnome) |  |  |  |  |  |  |  |  |  |
+| [Human Human](https://www.wowhead.com/classic/race=1/human) |  |  |  |  |  |  |  |  |  |
+| [Night Elf Night Elf](https://www.wowhead.com/classic/race=4/night-elf) |  |  |  |  |  |  |  |  |  |
+| [Orc Orc](https://www.wowhead.com/classic/race=2/orc) |  |  |  |  |  |  |  |  |  |
+| [Tauren Tauren](https://www.wowhead.com/classic/race=6/tauren) |  |  |  |  |  |  |  |  |  |
+| [Troll Troll](https://www.wowhead.com/classic/race=8/troll) |  |  |  |  |  |  |  |  |  |
+| [Undead Undead](https://www.wowhead.com/classic/race=5/undead) |  |  |  |  |  |  |  |  |  |
+
+  
+  
+Shaman are WoW Classic's **Horde** only class, which are the only source of [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_windfury.gif) Windfury Totem](https://www.wowhead.com/classic/spell=27621/windfury-totem), an insanely powerful boost to a Shaman's group damage output. They also possess several other useful Totems and the best area of effect heal in the game, [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavegreater.gif) Chain Heal](https://www.wowhead.com/classic/spell=10623/chain-heal),  
+  
+The best race for WoW Classic Horde Restoration Shaman is [![Troll](https://wow.zamimg.com/images/wow/icons/tiny/race_troll_male.gif) Troll](https://www.wowhead.com/classic/race=8/troll) for PvE and [![Orc](https://wow.zamimg.com/images/wow/icons/tiny/race_orc_male.gif) Orc](https://www.wowhead.com/classic/race=2/orc) for PvP. [![Tauren](https://wow.zamimg.com/images/wow/icons/tiny/race_tauren_male.gif) Tauren](https://www.wowhead.com/classic/race=6/tauren) is a jack of all trades.
+
+#### [Orc Orc](https://www.wowhead.com/classic/race=2/orc) Shaman
+
+Orcs are one of the best PvP Races in the game due to [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_23.gif) Hardiness](https://www.wowhead.com/classic/spell=20573/hardiness), which will cause you to resist enemy crowd control 25% more often for a total of 30% when accounting for the baseline 5% chance to resist stuns. Stun effects include [![Iron Grenade](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bomb_08.gif) Iron Grenade](https://www.wowhead.com/classic/item=4390/iron-grenade), [![Tidal Charm](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_rune_01.gif) Tidal Charm](https://www.wowhead.com/classic/item=1404/tidal-charm), or the dreaded [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_rogue_kidneyshot.gif) Kidney Shot](https://www.wowhead.com/classic/spell=8643/kidney-shot). [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_orc_berserkerstrength.gif) Blood Fury](https://www.wowhead.com/classic/spell=20572/blood-fury) and [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_02.gif) Axe Specialization](https://www.wowhead.com/classic/spell=20574/axe-specialization) are of little use for healing, as they only benefit melee attacks, but both can be useful while leveling and when soloing.
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_02.gif) Axe Specialization](https://www.wowhead.com/classic/spell=20574/axe-specialization) - Skill with Axes and Two-Handed Axes increased by 5.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_orc_berserkerstrength.gif) Blood Fury](https://www.wowhead.com/classic/spell=20572/blood-fury) - Increases base melee attack power by 25% for 15 sec and reduces healing effects on you by 50% for 25 sec.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_warrior_warcry.gif) Command](https://www.wowhead.com/classic/spell=20575/command) - Damage dealt by Hunter and Warlock pets increased by 5%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_23.gif) Hardiness](https://www.wowhead.com/classic/spell=20573/hardiness) - Chance to resist Stun effects increased by an additional 25%.
+
+#### [Troll Troll](https://www.wowhead.com/classic/race=8/troll) Shaman
+
+Trolls are the best race in PvE. [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking), especially if used right after a big area of effect ability from the boss that lowered your health significantly, grants up to 30% cast speed increase, which is huge for getting the raid back on its feet quick. None of the other racials will have much impact on your performance, but [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking) more than makes up for it.
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_pelt_bear_ruin_02.gif) Beast Slaying](https://www.wowhead.com/classic/spell=20557/beast-slaying): Damage dealt versus Beasts increased by 5%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/racial_troll_berserk.gif) Berserking](https://www.wowhead.com/classic/spell=20554/berserking): Increases your casting and attack speed by 10% to 30%. At full health the speed increase is 10% with a greater effect up to 30% if you are badly hurt when you activate Berserking. Lasts 10 sec.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_bow_12.gif) Bow Specialization](https://www.wowhead.com/classic/spell=26290/bow-specialization): Skill with Bow Weapons increased by 5.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_regenerate.gif) Regeneration](https://www.wowhead.com/classic/spell=20555/regeneration): Health regeneration rate increased by 10%. 10% of total Health regeneration may continue during combat.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_throwingaxe_03.gif) Throwing Specialization](https://www.wowhead.com/classic/spell=20558/throwing-specialization): Skill with Throwing Weapons increased by 5.
+
+#### [Tauren Tauren](https://www.wowhead.com/classic/race=6/tauren) Shaman
+
+Taurens are not the best in either PvP or PvE. But they are a decent option for both, having a little bit of extra health due to [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_unyeildingstamina.gif) Endurance](https://www.wowhead.com/classic/spell=20550/endurance). [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_warstomp.gif) War Stomp](https://www.wowhead.com/classic/spell=20549/war-stomp) is fantastic in PvP, as it allows you the time to cast [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavelesser.gif) Lesser Healing Wave](https://www.wowhead.com/classic/spell=10468/lesser-healing-wave) uninterrupted, and can also be used to gain time while running away with [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_spiritwolf.gif) Ghost Wolf](https://www.wowhead.com/classic/spell=2645/ghost-wolf), or for letting allies run away. Finally, [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_flower_01.gif) Cultivation](https://www.wowhead.com/classic/spell=20552/cultivation) allows you to level [![Herbalism](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Herbalism](https://www.wowhead.com/classic/skill=182/herbalism) much quicker, which is excellent while leveling!
+
+#### Racial Bonuses
+
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_flower_01.gif) Cultivation](https://www.wowhead.com/classic/spell=20552/cultivation): Herbalism skill increased by 15.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_unyeildingstamina.gif) Endurance](https://www.wowhead.com/classic/spell=20550/endurance): Total Health increased by 5%.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_spiritarmor.gif) Nature Resistance](https://www.wowhead.com/classic/spell=20551/nature-resistance): Nature Resistance increased by 10.
+* [![](https://wow.zamimg.com/images/wow/icons/tiny/ability_warstomp.gif) War Stomp](https://www.wowhead.com/classic/spell=20549/war-stomp): Stuns up to 5 enemies within 8 yds for 2 sec.
+
+---
+
+WoW Classic Restoration Shaman Healer Specializations
+-----------------------------------------------------
+
+There are three specialization talent trees for Classic Shaman: Enhancement (melee DPS), Elemental (Ranged DPS), and Restoration (Healing).   
+  
+Classes in Classic WoW will earn a total of 51 talent points, allowing them to take talents from multiple trees, though most builds typically invest the majority of their points in one tree, while taking only select bonuses in the others.   
+  
+ **Restoration:** By calling on their spiritual power, shamans can restore health to injured allies.
+
+* [Mana Tide builds](https://www.wowhead.com/classic/guide/classes/shaman/healer-talent-builds-pve#deep-restoration-caster-maximum-healing) specialize not only in great mana efficiency, but also flexibility with both strong single target and AoE healing. There are a lot of strong talent choices in the Restoration tree, making it quite common to spend the vast majority of talent points there, rather than spreading them across multiple trees.
+
+ **Enhancement:** Shamans enhance their weapons with elemental effects, empowering their blows with the power of fire, wind, or ice.
+
+* [Stormstrike builds](https://www.wowhead.com/classic/guide/classes/shaman/enhancement/dps-talent-builds-pve#stormstrike-pve) can be incredibly bursty due to chain windfury procs, but are extremely passive, with only two primary abilities in the rotation, both on moderate cooldowns. Because of this, the Shaman is free to focus on maximizing totem buffs with a strategy called [Totem Twisting](https://www.wowhead.com/classic/guide/shaman-totems-classic-wow#advanced-tactics-totem-twisting). Because of their lower personal damage contribution, Enhancement Shaman are typically the go-to specialization for maintaining important raid debuffs such as [![Annihilator](https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_12.gif) Annihilator](https://www.wowhead.com/classic/item=12798/annihilator) and [![Nightfall](https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_12.gif) Nightfall](https://www.wowhead.com/classic/item=19169/nightfall).
+
+ **Elemental:** The elemental force of the shamans can be used to damage enemies from afar with lightning strikes, earthquakes, and lava bursts.
+
+* [Elemental Mastery builds](https://www.wowhead.com/classic/guide/classes/shaman/elemental/dps-talent-builds-pve#elemental-mastery-pve) are designed to deal sustained damage, with several defensive talents to help PvE and PvP viability. For pure PvP gameplay, [Nature's Swiftness](https://www.wowhead.com/classic/guide/classes/shaman/elemental/dps-talent-builds-pve#natures-swiftness-pvp) enables one of the best hybrid damage and healing Shaman builds.
+
+### Best Restoration Shaman Healer Builds
+
+As an Restoration Shaman Healer, you will put the majority of your points into the Restoration tree, with some support in Elemental or Enhancement depending on the situation.  
+  
+Viable end-game PvE builds are covered in our [Classic Restoration Shaman Healer Talents & Builds Guide](https://www.wowhead.com/classic/guide/classes/shaman/healer-talent-builds-pve).
+
+---
+
+Best Professions for Classic Restoration Shaman
+-----------------------------------------------
+
+### [Herbalism](https://www.wowhead.com/classic/guide/herbalism-leveling-1-300-wow-classic)
+
+Shamans don't have any notable profession-specific gear. As such, it is usually great to go [![Herbalism](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Herbalism](https://www.wowhead.com/classic/skill=182/herbalism) for gold making and independence in your consumable farming (especially on where [![Black Lotus](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_herb_blacklotus.gif) Black Lotus](https://www.wowhead.com/classic/item=13468/black-lotus) are concerned!), or [![Alchemy](https://wow.zamimg.com/images/wow/icons/tiny/classic_temp.gif) Alchemy](https://www.wowhead.com/classic/skill=171/alchemy) to gather valuable recipes and create your own consumables.
+
+### [Engineering](https://www.wowhead.com/classic/guide/engineering-leveling-1-300-wow-classic)
+
+Engineering is an absolute must-have if you are trying to go the extra mile in PvE or PvP. In PvE, you should go [![](https://wow.zamimg.com/images/wow/icons/tiny/trade_engineering.gif) Gnomish Engineering](https://www.wowhead.com/classic/spell=20220/gnomish-engineering), allowing you to craft [![Gnomish Battle Chicken](https://wow.zamimg.com/images/wow/icons/tiny/spell_magic_polymorphchicken.gif) Gnomish Battle Chicken](https://www.wowhead.com/classic/item=10725/gnomish-battle-chicken) and [![Arcanite Dragonling](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_head_dragon_01.gif) Arcanite Dragonling](https://www.wowhead.com/classic/item=16022/arcanite-dragonling), bind on pickup trinkets that summon pets that can help your group immensely. The Battle Chicken attacks the nearest target and has a chance on hit to trigger [![](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_birdbeck_01.gif) Battle Squawk](https://www.wowhead.com/classic/spell=23060/battle-squawk), which increases the melee attack speed of all party members by 5%, making it great in a melee group. Meanwhile, the Dragonling also attacks the nearest target, stacking [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_fireball.gif) Flame Buffet](https://www.wowhead.com/classic/spell=9658/flame-buffet) for increased fire damage taken, which is excellent against any enemy vulnerable to fire. Also in PvE, you will be able to use [![Dense Dynamite](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bomb_06.gif) Dense Dynamite](https://www.wowhead.com/classic/item=18641/dense-dynamite), a bomb that deals ~400 damage, which only has a cooldown of 60 seconds, which can be a significant boost in damage when a whole group is using it.  
+  
+In PvP, Engineering allows you to do things that you wouldn't normally be allowed to. With [![Iron Grenade](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bomb_08.gif) Iron Grenade](https://www.wowhead.com/classic/item=4390/iron-grenade) or similar items, a Shaman can gain time to cast [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_nature_healingwavelesser.gif) Lesser Healing Wave](https://www.wowhead.com/classic/spell=10468/lesser-healing-wave) uninterrupted. As another example, [![Goblin Rocket Helmet](https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_49.gif) Goblin Rocket Helmet](https://www.wowhead.com/classic/item=10588/goblin-rocket-helmet) can allow you to take an enemy out of the fight for over 10 seconds. Also notable, are the reflector trinkets: [![Hyper-Radiant Flame Reflector](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_enggizmos_04.gif) Hyper-Radiant Flame Reflector](https://www.wowhead.com/classic/item=18638/hyper-radiant-flame-reflector), [![Gyrofreeze Ice Reflector](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_enggizmos_02.gif) Gyrofreeze Ice Reflector](https://www.wowhead.com/classic/item=18634/gyrofreeze-ice-reflector), and [![Ultra-Flash Shadow Reflector](https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_enggizmos_16.gif) Ultra-Flash Shadow Reflector](https://www.wowhead.com/classic/item=18639/ultra-flash-shadow-reflector). These items allow the Shaman to reflect various spells back at the caster, such as [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_fireball02.gif) Pyroblast](https://www.wowhead.com/classic/spell=18809/pyroblast), [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_frost_frostbolt02.gif) Frostbolt](https://www.wowhead.com/classic/spell=25304/frostbolt), and [![](https://wow.zamimg.com/images/wow/icons/tiny/spell_shadow_deathcoil.gif) Death Coil](https://www.wowhead.com/classic/spell=17926/death-coil), gaining more time to do valuable healing. Take note that you will only reflect spells for 5 seconds, and get an obvious effect on you when the trinkets are used. Finally, [![Goblin Sapper Charge](https://wow.zamimg.com/images/wow/icons/tiny/spell_fire_selfdestruct.gif) Goblin Sapper Charge](https://www.wowhead.com/classic/item=10646/goblin-sapper-charge) can be bought from players who went [![](https://wow.zamimg.com/images/wow/icons/tiny/trade_engineering.gif) Goblin Engineering](https://www.wowhead.com/classic/spell=20221/goblin-engineering) and deals a massive burst of damage, which can be used to finish players off in PvP, to increase raid DPS in PvE, or in mass area of effect PvP situations where all players use it to wipe an enemy group instantly.
+
+
+
+
+---
+
+[Next Page:  
+Beginner's Guide](https://www.wowhead.com/classic/shaman-healing-beginners-guide-classic-wow)
+
+  
+  
+  
+
+---
+
+Feedback
+--------
+
+Thanks for reading our class guides! If you have any feedback about the guides, feel free to leave a comment in the section below and we will reply as quickly as possible. If you'd like to talk with any of our writers directly you can do so by joining our [Discord Server](http://discord.gg/wowhead) and finding them there!  
